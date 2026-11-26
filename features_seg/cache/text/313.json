@@ -1,0 +1,568 @@
+{
+ "n_words": 2683,
+ "n_chunks": 45,
+ "ner": [
+  {
+   "text": "Lucas",
+   "label": "PER",
+   "count": 5
+  },
+  {
+   "text": "George Lucas",
+   "label": "PER",
+   "count": 5
+  },
+  {
+   "text": "Darth Vader",
+   "label": "PER",
+   "count": 5
+  },
+  {
+   "text": "Star Wars",
+   "label": "PER",
+   "count": 4
+  },
+  {
+   "text": "Kner",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "Luke Skywalker",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "Ok",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Bracket",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Hollywood",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "vũ trụ Star Wars",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Hans Solo",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Fair Empire",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Laya",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Luke",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Vader",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "năm 2001",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "sau phần một",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 1978",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "The Empire Strikes Back",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Dis",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "sau Lucas",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nhà chuột",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phần hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đạo diễn Evin Kner",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cảm giác bóng tối của Phan Empire",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phần phim một",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 1980",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phần 5",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đầu The Empire Strike Spike",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "giống The New Hope",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "The New Hope",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "nhiệm vụ riêng lẻ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phe Empire giữa thiên hà",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "F Empire",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Superstar Destroyer",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "lần Star Destroyer",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Grandm Tin",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "D Vader",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "hạng ngũ Impire",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bất tài vô dụng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Thuyết",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "phần bốn",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Dader",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Dark Side",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Force",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "rạp chiếu phim",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phân cảnh Dart",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trước The Emperor",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Dh Vader",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "George Lucas",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Laya",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "này C3PO",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Thành",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "đầm lầy của Yoda",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phần phim The Empire Strikes Back",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "mối quan hệ giữa Han",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thế giới Star Wars",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nhân vật Yoda",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Yoda",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "lúc Skywalker",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bản thân là một Jai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "dạy dỗ Obi One Kenobi",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "các Jedi Master",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bên trong Luke",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Dark",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Side Cave",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Luke Thắng",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Jedi",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Yoda",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tầm nhờ Yoda Team",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "John Williams",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "phim The Empire Strikes Back",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "lúc Millennial Falcon",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Chạ",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "việc Han Solo",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Cloud City",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tuổi Luke Skywalker",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "ác nhân quỷ quyệt Dader",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Dart Vader",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Dart Vader Vlook",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Impire Strikes Back",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "không gian để Look",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Dart",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "đỉnh điểm khi công bố D Vader",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "L Ui",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "lời Dart Vader",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Han Solo",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Jack Butter Huts",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "end game",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "việc Lando",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Chuba",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Star Wars",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "franchise Star Wars",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "franchise": 2,
+  "lịch sử": 2,
+  "điện ảnh": 6,
+  "phim": 33,
+  "star wars": 10,
+  "george lucas": 7,
+  "lucas": 6,
+  "một mạch": 2,
+  "bracket": 3,
+  "ngôn ngữ": 3,
+  "kịch bản": 4,
+  "the empire strikes": 4,
+  "the empire strikes back": 3,
+  "back": 3,
+  "tiền": 3,
+  "vũ trụ": 6,
+  "đạo diễn": 5,
+  "phim đen tối": 2,
+  "cảm giác": 9,
+  "bóng tối": 2,
+  "thần lực": 4,
+  "đội ngũ": 2,
+  "hình ảnh": 3,
+  "cạnh": 2,
+  "thông tin": 2,
+  "nhân vật": 16,
+  "star": 3,
+  "wars": 3,
+  "đồ chơi": 2,
+  "khán giả": 13,
+  "hollywood": 2,
+  "đầu": 6,
+  "the new hope": 2,
+  "ngôn ngữ điện ảnh": 2,
+  "phân cảnh": 5,
+  "phe empire": 3,
+  "mặt": 3,
+  "phe rebels": 3,
+  "tuyến": 3,
+  "tuyến nhân vật": 2,
+  "thế giới": 2,
+  "vũ trụ star": 2,
+  "vũ trụ star wars": 2,
+  "millennial falcon": 2,
+  "d vader": 2,
+  "impire": 2,
+  "darth vader": 5,
+  "chê đai": 2,
+  "chê đai trẻ": 2,
+  "dader": 2,
+  "phi thuyền": 3,
+  "thuyền": 2,
+  "dark": 2,
+  "rạp": 2,
+  "biên kịch": 2,
+  "dart": 3,
+  "empire": 2,
+  "kner": 3,
+  "ý tưởng": 2,
+  "chemistry": 2,
+  "laya": 3,
+  "hans solo": 2,
+  "cảnh": 5,
+  "mẹ": 2,
+  "yoda": 4,
+  "iconic": 3,
+  "fair empire": 2,
+  "phim the empire strikes": 2,
+  "phim the empire strikes back": 2,
+  "han": 2,
+  "phân đoạn": 2,
+  "kỹ thuật": 2,
+  "bối cảnh": 2,
+  "công nghệ": 2,
+  "skywalker": 2,
+  "thầy": 2,
+  "tâm trí": 2,
+  "luke": 4,
+  "hiệu ứng": 2,
+  "khói": 2,
+  "không gian": 2,
+  "cuộc chiến": 2,
+  "bố": 2,
+  "luke skywalker": 4,
+  "xe tăng": 2,
+  "cao trào": 2,
+  "han solo": 2,
+  "dart vader": 2,
+  "game": 3,
+  "đoạn": 2,
+  "vader": 2,
+  "đỉnh điểm": 2,
+  "thời": 2,
+  "hy vọng": 2,
+  "solo": 2
+ }
+}

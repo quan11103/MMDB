@@ -1,0 +1,43 @@
+{
+ "n_words": 341,
+ "n_chunks": 6,
+ "ner": [
+  {
+   "text": "Jane Auston",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Hi",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Parision",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "sách hay Shakespeare",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bạn tự vấn",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "vòng lặp khổ đau",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "hôn nhân": 6,
+  "đời": 3,
+  "hạnh phúc": 6,
+  "jane auston": 2,
+  "câu chuyện": 2
+ }
+}

@@ -1,0 +1,46 @@
+{
+ "n_words": 396,
+ "n_chunks": 7,
+ "ner": [
+  {
+   "text": "độ phân giải ABCD",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "99 % SAGB",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đock A RGB",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "% DCAB3",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chóp tầm khoảng 2 3",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "hình": 2,
+  "màu": 3,
+  "màn hình": 2,
+  "lịch": 2,
+  "tầm": 2,
+  "thông số": 2,
+  "khả năng": 2,
+  "chiếu": 2
+ }
+}

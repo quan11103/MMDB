@@ -1,0 +1,141 @@
+{
+ "n_words": 804,
+ "n_chunks": 14,
+ "ner": [
+  {
+   "text": "Odysseius",
+   "label": "PER",
+   "count": 6
+  },
+  {
+   "text": "Odysseus",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "Search",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Troy",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Sech",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Odysseius",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đảo Aa",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phù thủy Search",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "ma thuật tàn nhẫn",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chiến binh Hy Lạp",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Iseus",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Gigantos",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "thần đánh bại",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Quả nhiên Se",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thân thể Odysseius",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Se",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Odysse",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "vua sứ Isaka Isaka",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Sus",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Chàng",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "S",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "quê hương Isaka",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Se",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "đảo": 3,
+  "odysseius": 8,
+  "phù thủy": 2,
+  "search": 3,
+  "cung điện": 3,
+  "thủy thủ": 4,
+  "phép thuật": 5,
+  "rượu": 2,
+  "lợn": 2,
+  "thần hermes": 2,
+  "thần": 2,
+  "chàng": 4,
+  "se": 3,
+  "nữ thần": 3,
+  "isaka": 2,
+  "odysseus": 3,
+  "đồng đội": 2,
+  "biển": 2
+ }
+}

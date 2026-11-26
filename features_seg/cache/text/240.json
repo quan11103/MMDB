@@ -1,0 +1,56 @@
+{
+ "n_words": 354,
+ "n_chunks": 6,
+ "ner": [
+  {
+   "text": "LG",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "màn hình LG",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ibs",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Isus",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "MSI",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "nền IPS",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "IS",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "độ phân giải ABCD",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thứ hai",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "màn hình": 3,
+  "lg": 3,
+  "chất lượng": 4
+ }
+}

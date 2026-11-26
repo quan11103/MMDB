@@ -1,0 +1,27 @@
+{
+ "n_words": 361,
+ "n_chunks": 6,
+ "ner": [
+  {
+   "text": "Red",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "cụm từ thể chế hóa",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "tinh thần": 3,
+  "phim": 5,
+  "cụm từ": 3,
+  "cụm từ thể chế": 2,
+  "thể chế": 3,
+  "tâm tưởng": 2,
+  "xung quanh": 2,
+  "tường": 2,
+  "tự do": 2
+ }
+}

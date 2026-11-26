@@ -1,0 +1,44 @@
+{
+ "n_words": 296,
+ "n_chunks": 5,
+ "ner": [
+  {
+   "text": "YouTube",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "PH",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "máy 6,3 inch",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "2,95 inch",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trên Jivo",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "3,46 inch",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "màn hình": 4,
+  "5,5 inch": 2,
+  "màn": 2,
+  "youtube": 2,
+  "máy": 4,
+  "inch": 3
+ }
+}

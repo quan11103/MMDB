@@ -1,0 +1,47 @@
+{
+ "n_words": 455,
+ "n_chunks": 8,
+ "ner": [
+  {
+   "text": "phần trước , Electron",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "quanh hạt nhân",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phần lớn khối lượng nguyên tử",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "không gian rộng lớn quanh hạt nhân",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "lớp vỏ ngoài",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "nhân vật": 2,
+  "electron": 10,
+  "mây": 3,
+  "lớp": 6,
+  "quanh": 2,
+  "hình dạng": 2,
+  "nguyên tử": 4,
+  "hạt nhân": 3,
+  "proton": 4,
+  "phản ứng": 2,
+  "phản ứng hóa": 2,
+  "hóa": 2,
+  "lớp vỏ": 2,
+  "vỏ": 2
+ }
+}

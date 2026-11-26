@@ -1,0 +1,911 @@
+{
+ "n_words": 3107,
+ "n_chunks": 52,
+ "ner": [
+  {
+   "text": "Mỹ",
+   "label": "LOC",
+   "count": 13
+  },
+  {
+   "text": "Nhật",
+   "label": "LOC",
+   "count": 8
+  },
+  {
+   "text": "Hannibal",
+   "label": "PER",
+   "count": 4
+  },
+  {
+   "text": "Đông Tấn",
+   "label": "PER",
+   "count": 4
+  },
+  {
+   "text": "kỵ binh Mông Cổ",
+   "label": "LOC",
+   "count": 4
+  },
+  {
+   "text": "La Mã",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "quân Mông Cổ",
+   "label": "LOC",
+   "count": 3
+  },
+  {
+   "text": "Constantinople",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "Byzantin",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "Trận Midway",
+   "label": "LOC",
+   "count": 3
+  },
+  {
+   "text": "Trận Salamis",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "thành bang Hy Lạp",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "hải quân Hy Lạp",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Rome",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "dân tộc Hán",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Constantinople",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Italy",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Trận Saratoga",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "quân Mỹ",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "mặt trận Thái Bình Dương",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "thứ hai",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Nhật Bản",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "hải quân Mỹ",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Mansion",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "văn minh phương Tây",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đề chế Akamenit",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Athens",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "eo biển Salamis",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Vosis",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "cõi Hy Lạp",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "quân đội Hy Lạp",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trận Thmopiler",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "quân đội 34",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "hải quân 34",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đế quốc 34",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Akamenit",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm sau người Hy Lạp",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trận Plate",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nền văn minh Hy Lạp",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Đông Trận Kenny",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "trước công nguyên",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "quân đội Cath",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "danh tướng Hannibal",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "quân đội La Mã",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Đông băng Kny",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Katch",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "quân La Mã",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Trebia",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Trasimere",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ky",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bình áp đảo quân đội Khoch",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "người Vậy",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Kỵ",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "đất La Mã",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Hannbal",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "tượng đài quân sự vĩnh cửu",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nền văn minh Charge",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 383",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đội quân nhà Đông Tấn",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tiền tần",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Trung Quốc",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm rực rỡ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "miền Bắc loạn ngũ Hồ Thập Lục Quốc",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "dân tộc người Hồ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "miền Nam",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đất đai phía Bắc",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Hồ đưa 90",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phía Nam",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nhà Đông Tấn",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cõi Trung Hoa",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bên bờ sông Phì",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Tiền",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "quân Đông Tấn",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "quân tiền Tần",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phía sau nao núng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Quân Tấn",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Quân",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Phù Kiên",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Đông Quân",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Quân Đông Tấn",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "dân tộc Hồ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phía Bắc",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Trung Hoa",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "ngựa Mông Cổ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "B",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "vùng Palestine",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tay quân Mông Cổ Sunan",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "vương triều Mamluk",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": ", Ai Cập",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Quân Mông Cổ",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "chủ tướng Hulagu",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bộ phận nhỏ quân Mông Cổ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Kid Buga",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nhóm quân tiên phong của Ai Cập",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Bình Nguyên Angelus",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chủ tướng Khibutga",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "kẻ thù Mông Cổ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Trung Đông",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "hàng trăm năm sau , kỵ binh Mamlú của Ai Cập",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Trận Constantinople",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Thiên Chúa giáo trước Hồi giáo",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Đế chế Byantin",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Công giáo Tây Âu",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Thành Constantinople",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "đất xung quanh thành Constantinople",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Sultan Mehed",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "kinh đô Constantinople",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nhà HSW",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Pháp",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Ottoman",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "đề chế Hồi giáo Otoman",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Constantinop",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "thế kỷ 19",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Leant",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "đề chế Ottoman",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nửa đông Địa Trung Hải",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Địa Trung Hải",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đế quốc Hbwurg , Tây Ban Nha Venis",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "báng Italy",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "hải quân Hồi giáo",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "lực lượng cung thủ thiện chiến",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tàu Sutana",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "quân otoman Alipasha",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "hải quân Ottoman",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chiến thắng vang dội",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "quốc gia Thiên Chúa",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "treèo Gal",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đại bác Gunbot",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "người dân Mỹ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đế quốc Anh",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thuộc địa Mỹ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 1775",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đề chế tham chiến",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "vùng Saratoga",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "New York",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chia cắt quân đội thuộc địa",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "người Anh",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nước Mỹ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trận Stalingrad",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phần hạm đội Thái Bình Dương",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "vành đai Thái Bình Dương",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "toàn bộ Thái Bình Dương",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Midway",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Quân Nhật",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 1942",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "căn cứ Midway",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Midway",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "bom bổ nhào",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phòng không Nhật",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "mức không tưởng ba",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Thái Bình Dương",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "lịch sử loài người",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Vanh",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "trận": 31,
+  "lịch sử": 6,
+  "trận salamis": 2,
+  "salamis": 3,
+  "văn minh": 5,
+  "văn minh phương": 2,
+  "tây": 2,
+  "trận thủy chiến": 2,
+  "thủy chiến": 2,
+  "quân đội": 19,
+  "quân đội 34": 3,
+  "đề chế": 4,
+  "akamenit": 2,
+  "thành bang": 2,
+  "thành bang hy lạp": 2,
+  "hy lạp": 10,
+  "đầu": 4,
+  "hải quân": 18,
+  "hải quân 34": 2,
+  "số lượng": 4,
+  "hải quân hy lạp": 2,
+  "eo biển": 2,
+  "cõi": 2,
+  "địa thế": 2,
+  "quân": 32,
+  "quân 34": 2,
+  "trận chiến": 5,
+  "thất bại": 3,
+  "đội": 14,
+  "đội quân": 10,
+  "đối phương": 5,
+  "ý nghĩa": 9,
+  "tinh hoa": 3,
+  "nghệ thuật": 2,
+  "nghệ thuật quân sự": 2,
+  "quân sự": 5,
+  "địch": 2,
+  "đế quốc": 3,
+  "chiến thắng": 10,
+  "chiến thuật": 3,
+  "hannibal": 5,
+  "quân đội la mã": 2,
+  "la mã": 6,
+  "bắc": 3,
+  "rome": 2,
+  "lực lượng": 14,
+  "khoch": 2,
+  "cuộc chiến": 2,
+  "kỵ binh": 7,
+  "vũ hồi": 2,
+  "đối thủ": 2,
+  "đất": 3,
+  "trận phí": 2,
+  "phí": 2,
+  "đông tấn": 8,
+  "tiền": 4,
+  "hán": 5,
+  "thảm họa": 2,
+  "miền": 2,
+  "đất đai": 2,
+  "hồ": 3,
+  "nam": 2,
+  "trung hoa": 2,
+  "bờ": 2,
+  "sông": 2,
+  "quân tiên phong": 2,
+  "tiên phong": 2,
+  "quân đông tấn": 3,
+  "dân tộc": 3,
+  "dân tộc hán": 2,
+  "kỵ binh mông cổ": 4,
+  "mông cổ": 11,
+  "thế kỷ": 3,
+  "thời đại": 3,
+  "châu âu": 6,
+  "khắp nơi": 2,
+  "tôn giáo": 2,
+  "quân mông cổ": 4,
+  "ai cập": 3,
+  "chủ tướng": 2,
+  "vượt trội": 2,
+  "hồi giáo": 2,
+  "đội kỵ binh": 2,
+  "kẻ thù": 2,
+  "trăm năm": 2,
+  "tinh thần": 2,
+  "constantinople": 8,
+  "thiên chúa giáo": 3,
+  "đế chế": 4,
+  "hồi giáo otoman": 2,
+  "quốc gia": 5,
+  "quốc gia công giáo": 2,
+  "công giáo": 2,
+  "chiến tranh": 3,
+  "xưa": 3,
+  "quyết định": 2,
+  "giáo hoàng": 3,
+  "pháp": 2,
+  "italy": 3,
+  "ottoman": 3,
+  "otoman": 3,
+  "byzantin": 3,
+  "nửa": 3,
+  "địa trung hải": 2,
+  "hạm đội": 3,
+  "lợi thế": 2,
+  "thuyền": 3,
+  "tàu": 10,
+  "quân otoman": 2,
+  "lực lượng hải quân": 2,
+  "trận saratoga": 2,
+  "saratoga": 3,
+  "mỹ": 21,
+  "thế giới": 4,
+  "thuộc địa": 2,
+  "ban đầu": 2,
+  "quân mỹ": 4,
+  "quân anh": 3,
+  "bước ngoặt": 4,
+  "trận midway": 3,
+  "midway": 6,
+  "mặt trận": 3,
+  "mặt trận thái bình dương": 2,
+  "thái bình dương": 6,
+  "thế chiến": 2,
+  "hải quân nhật bản": 2,
+  "nhật bản": 2,
+  "hải quân nhật": 2,
+  "nhật": 11,
+  "vùng biển": 2,
+  "hải quân mỹ": 4,
+  "quân nhật": 3,
+  "bẫy": 3,
+  "tàu sân bay": 7,
+  "sân bay": 7,
+  "máy bay": 3,
+  "mồi": 2,
+  "bom": 2
+ }
+}

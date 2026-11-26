@@ -1,0 +1,254 @@
+{
+ "n_words": 596,
+ "n_chunks": 10,
+ "ner": [
+  {
+   "text": "Nolen",
+   "label": "PER",
+   "count": 4
+  },
+  {
+   "text": "The Prestige",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "Pris",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Trung Linh Xu",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "năm 2006",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Batman",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "nhà văn Christopher Pris",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tiểu thuyết The Prestige",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "San Mendes",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "American Beauty",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "đề cử Oscar",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Following",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Mendz",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Christopher Nolan",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Aon Rider",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Memento",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "bản quyền truyển thể The Prestige",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 2002",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Insomnia",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Batman Bins",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Jonathan Vai",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Hill Jackman",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "X-Men",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "phim hài",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Nathan Crawley",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thứ ba",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Noland",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "phòng khách sạn u ám trong Insomnia",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Crowny",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Crowy",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "dự án West World",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tinh thần ảo thuật cổ điển",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cuối thế kỷ 19",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Cenny Polock",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Linsu",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tiếng Anh",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Oh",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Trung Linh",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Mỹ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "William Elsworth Robinson",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "sự nghiệp Robinson",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "vai người Tàu",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Robinson",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "biên tập viên Lee Smith",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Following",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đồng hồ The Prestige",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "nhân vật": 2,
+  "bản quyền": 2,
+  "the prestige": 6,
+  "pris": 2,
+  "following": 2,
+  "insomnia": 2,
+  "nolen": 4,
+  "phim": 6,
+  "tinh thần": 2,
+  "ảo thuật": 4,
+  "trung linh": 3,
+  "trung linh xu": 2,
+  "xu": 2,
+  "oh": 2,
+  "god": 2,
+  "robinson": 3
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "n_words": 446,
+ "n_chunks": 8,
+ "ner": [
+  {
+   "text": "đường nhiễm hoi",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ramsay",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "quy mô": 2,
+  "thế giới": 2,
+  "số lượng": 3,
+  "phép": 2,
+  "đường": 3,
+  "trật tự": 3,
+  "hỗn loạn": 2,
+  "nhiệt độ": 2,
+  "phân tử": 2,
+  "vật chất": 2
+ }
+}

@@ -1,0 +1,77 @@
+{
+ "n_words": 339,
+ "n_chunks": 6,
+ "ner": [
+  {
+   "text": "Touchpad",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "Deo",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Do",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "MacBook Pro",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Macbook Pro",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "trải nghiệm sử dụng Touchpad",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Doell",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "giải phím Phần cảm ứng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phím vật lý",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tính công thái học",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phím Escape",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Doe",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "máy": 2,
+  "touchpad": 5,
+  "đường": 2,
+  "giới hạn": 2,
+  "macbook pro": 2,
+  "inch": 2,
+  "trải nghiệm": 2,
+  "phím": 3,
+  "vật lý": 2
+ }
+}

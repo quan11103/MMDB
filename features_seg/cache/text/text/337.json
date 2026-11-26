@@ -1,0 +1,76 @@
+{
+ "n_words": 383,
+ "n_chunks": 7,
+ "ner": [
+  {
+   "text": "Bát Chánh Đạo",
+   "label": "PER",
+   "count": 4
+  },
+  {
+   "text": "Hi",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Better Version",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Better Version Bát Chánh Đạo",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Đừng",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "gốc rễ Bạn",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "hóa hoàn toàn Bài",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "sách Nghệ Thuật",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Sống Thiền Vipassana",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "thiền sư Goenka Đây",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phương pháp thiền Vipassana",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Đức Phật",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "better version": 2,
+  "kiến thức": 2,
+  "sách": 2,
+  "bát chánh đạo": 5,
+  "cuộc đời": 2,
+  "khổ đau": 2,
+  "thiền vipassana": 2,
+  "nội dung": 2
+ }
+}

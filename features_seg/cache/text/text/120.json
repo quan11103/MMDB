@@ -1,0 +1,25 @@
+{
+ "n_words": 286,
+ "n_chunks": 5,
+ "ner": [
+  {
+   "text": "RTX",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "hành vi như thế nào",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Acer",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "máy": 10,
+  "test": 2
+ }
+}

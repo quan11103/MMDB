@@ -1,0 +1,58 @@
+{
+ "n_words": 506,
+ "n_chunks": 9,
+ "ner": [
+  {
+   "text": "Flow",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "biểu hiện đặc trưng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "mặt hình thái bên ngoài",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thuật ngữ tiếng Đức Rost",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Federic Ner",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "William James",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "Mihali Sen Mihai",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "hệ thống hóa thuật ngữ Flow",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "trạng thái": 5,
+  "flow": 7,
+  "khái niệm": 2,
+  "cảm giác": 2,
+  "công việc": 2,
+  "tâm trí": 2,
+  "hiện tượng": 2,
+  "khoảnh khắc": 2,
+  "thuật ngữ": 2,
+  "đỉnh cao": 2
+ }
+}

@@ -1,0 +1,82 @@
+{
+ "n_words": 663,
+ "n_chunks": 11,
+ "ner": [
+  {
+   "text": "Gvn",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "build bộ PC",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "châu cầy ABCD",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cây PC",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Vega",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "CPU",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "độ LED RGB",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "PC",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "RAM",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "đời số 11",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tút tút",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Yeah",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "anh em": 5,
+  "mặt": 2,
+  "cấu hình": 3,
+  "sếp": 4,
+  "pc": 4,
+  "văn phòng": 2,
+  "game á": 2,
+  "màn hình": 2,
+  "nhu cầu": 3,
+  "giá": 2,
+  "linh kiện": 2,
+  "main": 5,
+  "chip": 2,
+  "gvn": 2
+ }
+}

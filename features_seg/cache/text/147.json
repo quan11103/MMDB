@@ -1,0 +1,73 @@
+{
+ "n_words": 762,
+ "n_chunks": 13,
+ "ner": [
+  {
+   "text": "Ok",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Gemini",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Google",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "nhau như thế nào",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phần Gemini",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "như thế nào , thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "sản phẩm VS3",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nhá Nào",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phần khung hình ảnh anh em",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Bên Gini",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Thứ hai",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "chữ": 5,
+  "gemini": 3,
+  "generate": 2,
+  "kết quả": 3,
+  "test": 3,
+  "ảnh": 3,
+  "hình ảnh": 15,
+  "sản phẩm": 3,
+  "anh em": 6,
+  "zoom": 3
+ }
+}

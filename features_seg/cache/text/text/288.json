@@ -1,0 +1,55 @@
+{
+ "n_words": 498,
+ "n_chunks": 8,
+ "ner": [
+  {
+   "text": "áp lực KPI",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trạng thái cân bằng Mùi",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tiến sĩ Basel Van Der",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "hiệp hội cựu chiến binh",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "PTSD",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "tai nạn thảm khốc",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Săng",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Mỹ",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "chấn": 4,
+  "sự kiện": 2,
+  "hàng": 2,
+  "cơ thể": 2,
+  "chiến tranh": 2,
+  "trẻ em": 2,
+  "cha mẹ": 2
+ }
+}

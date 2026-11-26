@@ -1,0 +1,67 @@
+{
+ "n_words": 853,
+ "n_chunks": 14,
+ "ner": [
+  {
+   "text": "Chris",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Cris",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "mức lương 10",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "What",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "How can I",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "ấ How",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "YouTube",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "bạn Bạn",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Thà",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "sách": 2,
+  "chris": 2,
+  "thủ thuật": 2,
+  "lương": 6,
+  "this": 3,
+  "how can": 2,
+  "nguyên tắc": 2,
+  "ph": 3,
+  "ph thông tin": 2,
+  "thông tin": 4,
+  "nội dung": 3,
+  "tông": 2,
+  "tông giọng": 2,
+  "giọng": 3
+ }
+}

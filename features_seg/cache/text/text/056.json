@@ -1,0 +1,37 @@
+{
+ "n_words": 374,
+ "n_chunks": 6,
+ "ner": [
+  {
+   "text": "con người 2",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Việt Nam",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thứ ba",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cái Đói",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thạp khốc Năm",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "con số": 2,
+  "dân tộc": 2,
+  "con người": 3,
+  "bữa": 2
+ }
+}

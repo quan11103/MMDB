@@ -1,0 +1,126 @@
+{
+ "n_words": 1291,
+ "n_chunks": 22,
+ "ner": [
+  {
+   "text": "The Lost Man",
+   "label": "PER",
+   "count": 4
+  },
+  {
+   "text": "The Walking Man",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "đạo diễn Genki Kawamura",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tàu điện ngầm Tokyo",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "The Lost Man",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chữ T",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "điểm dị thường",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trên trần",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "số tám",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "điểm dễ thương",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đạo diễn Gen Kigawamura",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đàn ông gọi là The Walking Man",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ngã",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "tỉnh ngộ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cách The Lost Man",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bên bãi biển",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "con trai kháu khỉnh",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "diễn viên Tim Jimothy Shalame",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "lối thoát": 2,
+  "vòng lặp": 7,
+  "cá thể": 2,
+  "trò chơi": 3,
+  "nhân vật": 5,
+  "đạo diễn": 2,
+  "tàu": 5,
+  "điện thoại": 2,
+  "cảm giác": 2,
+  "bé": 6,
+  "dị thường": 3,
+  "hành trình": 2,
+  "đường": 4,
+  "the lost man": 6,
+  "lũ": 2,
+  "cuộc sống": 6,
+  "hành động": 2,
+  "phim": 2,
+  "đàn ông": 2,
+  "the walking man": 4,
+  "khả năng": 2,
+  "vòng": 5,
+  "lối": 2,
+  "địa ngục": 3,
+  "trẻ": 3,
+  "phụ nữ": 2,
+  "gái": 2,
+  "xã hội": 2
+ }
+}

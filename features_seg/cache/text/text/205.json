@@ -1,0 +1,204 @@
+{
+ "n_words": 1237,
+ "n_chunks": 21,
+ "ner": [
+  {
+   "text": "Kid",
+   "label": "PER",
+   "count": 5
+  },
+  {
+   "text": "Kids",
+   "label": "PER",
+   "count": 4
+  },
+  {
+   "text": "Tes",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "Test",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "Norman B",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Barbarian",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Psycho",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "khu phố Bright More Detroit",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bên trong hộp",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Double Book",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Psycho",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "The Hitcher",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Jack Gregger",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Bill Scotg",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Penny Wise",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Ánh",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "ẩn dấu mưu đồ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Kid",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "T",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "bậc gỗ mục",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "motíp tầng hầm ma ám",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "The Conjuring",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "bóng tối thình lình",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đầu Kid",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cặp đôi",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Alfred Hitchcock",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Marion Cran",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "nhà trọ B",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cú Tris",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Barbarian",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đầu Berbarian",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "phim": 5,
+  "câu chuyện": 2,
+  "xe": 2,
+  "nhân vật": 3,
+  "khu phố": 2,
+  "đêm": 4,
+  "âm thanh": 3,
+  "phòng": 5,
+  "ánh": 3,
+  "mặt": 2,
+  "đàn ông": 8,
+  "đàn ông lạ": 3,
+  "tes": 3,
+  "kids": 4,
+  "test": 5,
+  "đầu": 5,
+  "motive": 2,
+  "đàn ông xa lạ": 2,
+  "điện ảnh": 2,
+  "norman b": 2,
+  "psycho": 3,
+  "khán giả": 8,
+  "kid": 10,
+  "phụ nữ": 2,
+  "ly": 2,
+  "ly rượu": 2,
+  "rượu": 2,
+  "giấc": 2,
+  "ban đêm": 2,
+  "cửa": 2,
+  "siêu nhiên": 2,
+  "tường": 3,
+  "tầng": 3,
+  "tầng hầm": 3,
+  "hầm": 3,
+  "hành lang": 2,
+  "barbarian": 3,
+  "tội ác": 2,
+  "số phận": 2,
+  "chân": 2,
+  "sốc": 2
+ }
+}

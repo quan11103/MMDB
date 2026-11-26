@@ -1,0 +1,63 @@
+{
+ "n_words": 364,
+ "n_chunks": 6,
+ "ner": [
+  {
+   "text": "FPS",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "con 10",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "GTX",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "RTX",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "SH Tom Raider",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "205 FPS",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Cyberpunk",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "tầm 37",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "FPS",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bạn 5",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "ti": 2,
+  "game": 3,
+  "fps": 5,
+  "công nghệ": 2,
+  "hiệu năng": 2
+ }
+}

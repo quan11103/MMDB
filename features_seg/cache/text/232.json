@@ -1,0 +1,26 @@
+{
+ "n_words": 52,
+ "n_chunks": 1,
+ "ner": [
+  {
+   "text": "kênh Ghiền Mì Gõ Để",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "tên GVNArmin",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "10050 Ti",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "ghiền mì": 2,
+  "ghiền mì gõ để": 2,
+  "gõ để": 2
+ }
+}

@@ -1,0 +1,101 @@
+{
+ "n_words": 1110,
+ "n_chunks": 19,
+ "ner": [
+  {
+   "text": "Fé",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "trên hành tinh",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 2008",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "mức 0",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Nới",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Fé",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "xã hội gánh chịu",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Bẫy",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "thị trường tài chính là chu kỳ Fed",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "giai đoạn suy thoái",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Giai đoạn 4",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Covid-19",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Mỹ",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "lợi nhuận": 3,
+  "chu kỳ": 3,
+  "kinh tế": 16,
+  "tài sản": 6,
+  "thị trường": 6,
+  "ngân hàng": 5,
+  "ngân hàng trung ương": 5,
+  "trung ương": 5,
+  "công cụ": 4,
+  "lãi suất": 9,
+  "tiền": 5,
+  "lạm phát": 4,
+  "việc làm": 3,
+  "doanh nghiệp": 4,
+  "thị trường chứng khoán": 4,
+  "trái phiếu": 3,
+  "truyền thống": 2,
+  "nới": 2,
+  "fé": 3,
+  "chính phủ": 4,
+  "tỷ đô": 2,
+  "chính sách": 4,
+  "lương": 2,
+  "giai đoạn": 6,
+  "ban đầu": 2,
+  "nhu cầu": 2,
+  "cắt giảm": 2,
+  "thuế": 2
+ }
+}

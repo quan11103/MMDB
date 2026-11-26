@@ -1,0 +1,129 @@
+{
+ "n_words": 416,
+ "n_chunks": 7,
+ "ner": [
+  {
+   "text": "CPU",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "RAM",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Ok",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "bạn cách lắp CPU Mèn",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "RAM Mặt",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "CPU Intel",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "CPU",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trên CPU",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "gốc trái bên dưới và 2",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tảng nhiệt stop của CPU Intel",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Intel",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Đặt",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "xung quanh CPU",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Lắt",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "CPU fan Outman",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": ", RAM",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "RAM RID R4 RAM",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "RAM",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Đặt RAM",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "cả 2 đầu Või",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Open P Aladdin",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "hộp": 2,
+  "chân": 6,
+  "nắp": 4,
+  "nắp chê": 3,
+  "chê": 3,
+  "mèn": 3,
+  "cpu intel": 2,
+  "mặt": 2,
+  "cpu": 5,
+  "kim loại": 2,
+  "nắp chê socket": 2,
+  "chê socket": 2,
+  "dấu hiệu": 3,
+  "tảng": 4,
+  "chân tảng": 2,
+  "ram": 5
+ }
+}

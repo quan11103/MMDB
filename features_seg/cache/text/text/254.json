@@ -1,0 +1,57 @@
+{
+ "n_words": 360,
+ "n_chunks": 6,
+ "ner": [
+  {
+   "text": "% SRGB",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "% RGB",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "% DJ B3",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chế độ hiển thị",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Mode",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "cái DC3",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 2018",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Apple",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "chất lượng": 2,
+  "chất lượng hiển thị": 2,
+  "hiển thị": 2,
+  "màu sắc": 2,
+  "chuẩn": 2,
+  "màu": 3,
+  "màn hình": 3,
+  "chế độ": 3,
+  "menu": 2
+ }
+}

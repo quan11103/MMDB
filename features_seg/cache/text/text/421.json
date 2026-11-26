@@ -1,0 +1,140 @@
+{
+ "n_words": 1248,
+ "n_chunks": 21,
+ "ner": [
+  {
+   "text": "Homelander",
+   "label": "PER",
+   "count": 8
+  },
+  {
+   "text": "Butcher",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Hiwi",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "mùa phim The Boys",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "con chóa",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bố ơi Ghê Ghê",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "vộ hiệu French Kimiko",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "F Cracker",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "cả Ashley",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Mem",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "The Deep",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "hành vi The Deep",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "mùa Homelander",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phân cảnh Homelander",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Soldier Boy",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": ", Ryan",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Mave Butcher",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cắn tem V",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "V1",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "diệt chủng sub",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tập 2",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cơn bão ý",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "mùa": 18,
+  "phim": 7,
+  "mùa phim": 5,
+  "hành trình": 6,
+  "mặt": 3,
+  "nhân vật": 7,
+  "câu chuyện": 3,
+  "quanh": 3,
+  "bố": 8,
+  "setup": 3,
+  "butcher": 2,
+  "virus": 5,
+  "hiwi": 2,
+  "the deep": 2,
+  "kịch bản": 3,
+  "homelander": 10,
+  "yếu tố": 2,
+  "tâm lý": 2,
+  "tầm": 2,
+  "chúa": 2,
+  "tập": 4,
+  "phe": 2
+ }
+}

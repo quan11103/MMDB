@@ -1,0 +1,104 @@
+{
+ "n_words": 327,
+ "n_chunks": 6,
+ "ner": [
+  {
+   "text": "Ultra",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "CPU",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Cine Pench",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "là 28 W",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "điểm đa nhân",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thế hệ thứ ba",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chip thế thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "dòng Ultra X",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ultra X7358H",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "cái mức điện năng 28 W",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "dòng X",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "AI9H HX470",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Apple M5",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Intel",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Apple",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "dòng chip X86",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "dòng Banton Lexh",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cái tiến trình 18A của Intel",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "ultra": 2,
+  "dòng": 6,
+  "đa nhân": 2,
+  "dòng chip": 2,
+  "chip": 2,
+  "intel": 2
+ }
+}

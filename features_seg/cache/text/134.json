@@ -1,0 +1,48 @@
+{
+ "n_words": 321,
+ "n_chunks": 6,
+ "ner": [
+  {
+   "text": "Google",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Samsung",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "Quancom",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "con chip Snapdragon",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "for Galaxy",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Delta Force",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "khoảng 46",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "hiệu năng": 2,
+  "máy": 4,
+  "game": 2,
+  "nhiệt độ": 4,
+  "camera": 2
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "n_words": 249,
+ "n_chunks": 4,
+ "ner": [
+  {
+   "text": "V1",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Starlight",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Oh",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Father",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Homelander",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Boer",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Power",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Aten",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "mũi Homelander",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tập 1",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "tình tiết": 2,
+  "virus": 4,
+  "homelander": 2,
+  "phim": 2,
+  "power": 3,
+  "power scale": 2,
+  "scale": 2
+ }
+}

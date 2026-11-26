@@ -1,0 +1,112 @@
+{
+ "n_words": 923,
+ "n_chunks": 16,
+ "ner": [
+  {
+   "text": "Red",
+   "label": "PER",
+   "count": 8
+  },
+  {
+   "text": "Red",
+   "label": "LOC",
+   "count": 4
+  },
+  {
+   "text": "red 1",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Red SHR",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Senology",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "giải pháp Red",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "R",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "NAS",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Vâng",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "rate SHR",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "R",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Synology",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "SHR",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Thing Viw",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Nas Technology DS1522 Plus",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Red SHR",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "SSD",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "red": 17,
+  "backup": 2,
+  "red 0": 4,
+  "nas technology": 2,
+  "tốc độ": 7,
+  "nas": 2,
+  "dung lượng": 14,
+  "dung lượng tổng": 2,
+  "tổng": 2,
+  "nhược điểm": 3,
+  "dữ liệu": 5,
+  "giải pháp": 2,
+  "red 1": 3,
+  "red 5": 4,
+  "ổ cứng": 2,
+  "rate": 3,
+  "shr": 2,
+  "red shr": 3,
+  "ổ hd": 3
+ }
+}

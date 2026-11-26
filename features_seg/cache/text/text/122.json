@@ -1,0 +1,63 @@
+{
+ "n_words": 290,
+ "n_chunks": 5,
+ "ner": [
+  {
+   "text": "HD",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "bài Cepench",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bản I5",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Blender",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "F",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bài test Spender",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "CPU",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "GPU",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "trên Davinci Resolve",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phần mềm Blender",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "test": 5,
+  "máy": 4,
+  "i5": 2,
+  "blender": 2,
+  "phần mềm": 2
+ }
+}

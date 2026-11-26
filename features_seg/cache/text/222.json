@@ -1,0 +1,26 @@
+{
+ "n_words": 35,
+ "n_chunks": 1,
+ "ner": [
+  {
+   "text": "calling me The rainbow",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "control I",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "the rainbow",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "calling": 2,
+  "me": 2,
+  "the rainbow": 4
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "n_words": 774,
+ "n_chunks": 13,
+ "ner": [
+  {
+   "text": "Tên",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Herbert Simon",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Google",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "mã hóa",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "nền tảng": 6,
+  "kinh tế": 2,
+  "thông tin": 3,
+  "vàng": 2,
+  "não": 2,
+  "sản phẩm": 7,
+  "hàng": 2,
+  "hành vi": 3,
+  "quảng cáo": 2
+ }
+}

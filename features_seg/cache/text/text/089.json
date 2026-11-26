@@ -1,0 +1,55 @@
+{
+ "n_words": 375,
+ "n_chunks": 6,
+ "ner": [
+  {
+   "text": "Yang",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "Trung Quốc",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Thuyết",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "CIA",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "năm 2002",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "kênh YouTube",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phương Tây",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "ý định của Yang",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "thông tin": 2,
+  "câu chuyện": 3,
+  "yang": 4,
+  "thuyết âm mưu": 3,
+  "trung quốc": 2,
+  "nhận thức": 2,
+  "lý thuyết": 2
+ }
+}

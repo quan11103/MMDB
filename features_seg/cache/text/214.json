@@ -1,0 +1,244 @@
+{
+ "n_words": 1295,
+ "n_chunks": 22,
+ "ner": [
+  {
+   "text": "cây PC",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "FPS",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "B",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "CPU",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "VGA",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "256 GB",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Vega",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": ", CPU",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bạn Thì",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "game CS2",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "setting là 2 Full HD",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "lực FPS",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tự lượng game thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "là 2 nè Full HD",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "công nghệ DLSS",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Super Resolution",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "cái CB GBKin",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "° C",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "RAM",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "CS2",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "full loán 7",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "30 FPS",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "SB",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "game 3",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Setting",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Full HD",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "DLSS",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "số lực FPS",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cái FPS",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Excel",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": ", Bby",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Word",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thứ á",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phần mềm Remir",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "1/8 Thì",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "GPU",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "H",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "thiếu RAM",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "full 7 GB RAM",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "CBU",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "KBC",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "đồ": 2,
+  "anh em": 2,
+  "test": 9,
+  "tác vụ": 3,
+  "kết quả": 2,
+  "trạng thái": 2,
+  "linh kiện": 4,
+  "pc": 2,
+  "gb ram": 3,
+  "gb": 3,
+  "cpu": 3,
+  "game": 11,
+  "game cs2": 2,
+  "cs2": 2,
+  "setting": 4,
+  "full hd": 3,
+  "fps": 7,
+  "tầm": 6,
+  "dlss": 2,
+  "quanh": 3,
+  "khả năng": 2,
+  "gpu": 2,
+  "ram": 2,
+  "full": 3,
+  "nhu cầu": 3,
+  "hiệu quả": 4,
+  "project": 3,
+  "hiệu ứng": 2,
+  "thờ lượng": 2,
+  "vga": 2,
+  "hiệu năng": 2
+ }
+}

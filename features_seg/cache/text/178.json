@@ -1,0 +1,42 @@
+{
+ "n_words": 248,
+ "n_chunks": 4,
+ "ner": [
+  {
+   "text": "Nhật Bản",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tên Akira Được",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Akira",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "khung hình mãn nhãn của Akira",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đạo diễn Katchiro",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Akira",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "lịch sử": 2,
+  "anime": 2,
+  "thế giới": 2,
+  "akira": 3
+ }
+}

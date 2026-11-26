@@ -1,0 +1,65 @@
+{
+ "n_words": 718,
+ "n_chunks": 12,
+ "ner": [
+  {
+   "text": "Thất Hình Đại Tội",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "thám tử C",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đối tượng Khả Nghi",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "John D",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Ms",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "sét B",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "xung quanh ngày hôm sau John D",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Sở Cảnh sát",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "thành phố": 3,
+  "thám tử": 3,
+  "summerset": 2,
+  "vụ": 4,
+  "thủ phạm": 2,
+  "nạn nhân": 5,
+  "xác": 2,
+  "chữ": 2,
+  "vụ án": 2,
+  "án": 2,
+  "thất hình đại tội": 2,
+  "tội lỗi": 2,
+  "cảnh sát": 2,
+  "hiện trường": 2,
+  "lười biếng": 2,
+  "giường": 2,
+  "john d": 3
+ }
+}

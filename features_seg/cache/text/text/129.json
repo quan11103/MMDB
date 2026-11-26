@@ -1,0 +1,87 @@
+{
+ "n_words": 342,
+ "n_chunks": 6,
+ "ner": [
+  {
+   "text": "Intel",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "M5",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "chip Apple",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "AMD",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Apple M4",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "chiếc MacBook",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "CPU",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "FM4",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "chữ FM4",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "GPU",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "MacBook Pro M5",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "AMD",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "AMD Ryzen",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "M4",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "điện": 5,
+  "chip": 3,
+  "intel": 3,
+  "amd": 2,
+  "m5": 2,
+  "hiệu năng": 2,
+  "macbook": 2,
+  "nhiệt độ": 2,
+  "fm4": 2
+ }
+}

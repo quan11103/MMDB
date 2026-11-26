@@ -1,0 +1,29 @@
+{
+ "n_words": 351,
+ "n_chunks": 6,
+ "ner": [
+  {
+   "text": "Asus",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "tiêu chuẩn quân đội Mỹ",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "khả năng": 2,
+  "khung": 2,
+  "máy": 7,
+  "laptop": 3,
+  "lớp": 2,
+  "vỏ": 2,
+  "mặt": 3,
+  "đường nét": 2,
+  "cổng": 2,
+  "cổng kết nối": 2,
+  "kết nối": 2
+ }
+}

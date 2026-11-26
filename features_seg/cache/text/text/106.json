@@ -1,0 +1,114 @@
+{
+ "n_words": 306,
+ "n_chunks": 5,
+ "ner": [
+  {
+   "text": "MacBook M5",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "MacBook Air",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "giá 35",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Sveret",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "MacBook Pro",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Magic JackP",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "sạc Max",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cổng TypeC",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "GB",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "ed512 GB",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Macbook New",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "MacBook",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "giá dưới 25",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "MacBook Air M3",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "bàn phím Touchpad",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "RAM 16 GB",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "SD",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "GB",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "macbook air": 3,
+  "base": 2,
+  "giá": 3,
+  "máy": 3,
+  "thời lượng": 2,
+  "pin": 2,
+  "sạc": 2,
+  "bàn phím": 2,
+  "cổng": 2,
+  "ram": 2,
+  "ram 16": 2,
+  "ram 16 gb": 2,
+  "gb": 4,
+  "macbook": 4,
+  "macbook m5": 2,
+  "m5": 2
+ }
+}

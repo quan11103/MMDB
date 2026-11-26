@@ -1,0 +1,81 @@
+{
+ "n_words": 578,
+ "n_chunks": 10,
+ "ner": [
+  {
+   "text": "Clean Clip",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "Spotlight",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "thứ ba",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Win",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "command Shift X",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "MaOS",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "26 Apple",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Việt",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "comment 4",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "giữa màn hình",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "ảnh Q",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "comment shift X",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "tính năng": 2,
+  "phím": 2,
+  "shift": 2,
+  "copy": 2,
+  "spotlight": 3,
+  "bảng": 3,
+  "clean clip": 3,
+  "chuột": 2,
+  "trỏ": 2,
+  "tài khoản": 2,
+  "ảnh": 2,
+  "shortcut": 3,
+  "phần mềm": 3
+ }
+}

@@ -1,0 +1,144 @@
+{
+ "n_words": 564,
+ "n_chunks": 10,
+ "ner": [
+  {
+   "text": "Doom",
+   "label": "PER",
+   "count": 6
+  },
+  {
+   "text": "đà vũ trụ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Thanos",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "cuộc đời ăn cắp",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đội Avengers",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "gia đình Victor",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đá vô cực",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "sau cái búng tay của HC",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "khi Loki",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "X-Men",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Fox",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "phần Days",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Past Wolverine",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "dị nhân Steve Rogers",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "con trai kháu khỉnh",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Kambit",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "TVA",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "The Void",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Thor",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Saong",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "thực thể Eternity",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Loki",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Spider-Man",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "Deadpool",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "Doomsday",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "đà vũ trụ": 2,
+  "động cơ": 2,
+  "doom": 6,
+  "gương mặt": 2,
+  "anh hùng": 5,
+  "cuộc đời": 2,
+  "đội": 2,
+  "vũ trụ": 5,
+  "dòng": 5,
+  "loki": 2,
+  "trật tự": 3
+ }
+}

@@ -1,0 +1,166 @@
+{
+ "n_words": 925,
+ "n_chunks": 16,
+ "ner": [
+  {
+   "text": "Conan",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "Raita",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Jein",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "vị trí thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Diễn",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Mori",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Ran",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cặp đôi Camon Nachie",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Banba Raita",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Hune",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "ADN",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chồng Raita",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bãi đậu C",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Nie",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "nhóm máu Câu chuyện của Raita",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Nachie",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Nat",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "khoảnh khắc Nie",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Khoảnh khắc Conan",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Erica",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Nhật",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "ADN",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Can",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "ngày cưới",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "conan": 4,
+  "danh sách": 2,
+  "án": 9,
+  "câu chuyện": 6,
+  "bản son": 2,
+  "bản son ánh": 2,
+  "bản son ánh trăng": 2,
+  "ánh": 2,
+  "ánh trăng": 2,
+  "trăng": 2,
+  "hung thủ": 5,
+  "thám tử": 2,
+  "nạn nhân": 2,
+  "người thân": 2,
+  "năm xưa": 2,
+  "máu": 2,
+  "bi kịch": 3,
+  "trò đùa": 2,
+  "số phận": 2,
+  "vụ": 4,
+  "vụ án": 4,
+  "đêm": 3,
+  "tiệc": 2,
+  "chồng": 2,
+  "xe": 2,
+  "cảnh sát": 2,
+  "móng": 2,
+  "adn": 3,
+  "kết quả": 4,
+  "raita": 4,
+  "lửa": 4,
+  "nie": 2,
+  "anh em": 3,
+  "nam sinh": 2,
+  "song sinh": 2,
+  "khoảnh khắc": 2,
+  "trai": 3,
+  "sự thật": 2
+ }
+}

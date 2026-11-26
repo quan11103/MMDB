@@ -1,0 +1,299 @@
+{
+ "n_words": 985,
+ "n_chunks": 17,
+ "ner": [
+  {
+   "text": "Quenin",
+   "label": "PER",
+   "count": 13
+  },
+  {
+   "text": "Mỹ",
+   "label": "LOC",
+   "count": 3
+  },
+  {
+   "text": "Quentin",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Dawn",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Roger Avery",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Natural Bond Killers",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "That's",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "You",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "about it",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Hey",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "năm 1962",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Knoxville bang Tennessee",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thiếu nữ Connie Mill",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Tony Tarantino",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Thu",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Quenin Tarantino",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "nhạc sĩ Cis Zupo",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Khoen",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Los Angeles",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Quen",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "đồng hồ Kim",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Quenin Điều",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Năm",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Tarantino",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "James Best",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "diễn viên hạng B",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "CV",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "of the Dead",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "George Romiro",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "Palma",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Seon",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "loài Tarantino",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cuộc đời Quenin",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Craig Hamon",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Rossler",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tên My Best Friend's Birthday",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Haman",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đạo diễn Avari",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phong cách đặc trưng của Quenin",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Quenin",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "kịch bản Open Rose",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "vòng lao lý",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Quensin",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "thảo Open Road Quenin",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "kịch bản True Romance",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bạn Grand Bosler",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "True Romance",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Hollywood",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Robert Kzman",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Reservoir Dogs",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "tên From",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "kịch bản thứ ba",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "mỹ": 3,
+  "nàng": 3,
+  "diễn viên": 7,
+  "nhạc sĩ": 2,
+  "quenin": 16,
+  "mẹ": 5,
+  "phim": 10,
+  "cảnh": 2,
+  "vai": 2,
+  "đạo diễn": 2,
+  "khả năng": 2,
+  "điện ảnh": 3,
+  "kịch bản": 7,
+  "sự nghiệp": 3,
+  "sự nghiệp điện ảnh": 2,
+  "tarantino": 2,
+  "lương": 2,
+  "công việc": 3,
+  "tiền": 2,
+  "quentin": 3,
+  "dawn": 2,
+  "tiệm": 3,
+  "tiếng": 2,
+  "chủ": 2,
+  "chủ tiệm": 2,
+  "roger avery": 2,
+  "dự án": 2,
+  "true romance": 3,
+  "natural": 3,
+  "natural bond killers": 3,
+  "bond killers": 3
+ }
+}

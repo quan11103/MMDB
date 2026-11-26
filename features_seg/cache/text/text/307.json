@@ -1,0 +1,32 @@
+{
+ "n_words": 337,
+ "n_chunks": 6,
+ "ner": [
+  {
+   "text": "Beon Limit",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "tiến sĩ Ramani Duvasula",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nhân cách ái kỷ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Minion Limit",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "chủ đề": 2,
+  "danh giới": 2,
+  "thế giới": 2,
+  "nhân cách": 2
+ }
+}

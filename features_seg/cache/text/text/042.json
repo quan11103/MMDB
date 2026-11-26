@@ -1,0 +1,118 @@
+{
+ "n_words": 333,
+ "n_chunks": 6,
+ "ner": [
+  {
+   "text": "Calypso",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "Odysse the Troy",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đảo Ogijia",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nơi nữ thần Calypso",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Odysseus",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": ", Calypso",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Odysseius",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "It Isaka",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": ", nơi Penelope",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Calypso",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Odysseius",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "thân thể Odysseius",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trái tim chàng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Lại",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "đảo Ogichia",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Jus",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Hermes",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "nữ thần Calipso",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Odysseia",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Dẫu",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chỉ dẫn phương hướng",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "đảo": 4,
+  "calypso": 6,
+  "chàng": 7,
+  "nữ thần": 3,
+  "odysseius": 3
+ }
+}

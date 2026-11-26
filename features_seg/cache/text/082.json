@@ -1,0 +1,138 @@
+{
+ "n_words": 473,
+ "n_chunks": 8,
+ "ner": [
+  {
+   "text": "Iran",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Mỹ",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "năm 2024",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Bắc Kinh",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Trump",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Mỹ",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "thứ ba",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Joe Biden",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Hoa Kỳ",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "khả năng Donald Trump",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Nhà Trắng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "kênh YouTube",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "danh xưng Nostradamus",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Trung Quốc",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Pháp",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thế kỷ thứ 16",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cuộc chiến Mỹ Iran",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Hoa Kỳ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Breaking Point",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Yang Shekin",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "tác giả Sonic",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Spider Room",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Yang Jekin",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Spiderom",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "đàn ông": 2,
+  "dự đoán": 5,
+  "mỹ": 3,
+  "iran": 2,
+  "cuộc chiến": 2,
+  "hoa kỳ": 2,
+  "câu chuyện": 2,
+  "xã hội": 2,
+  "nội dung": 2,
+  "tác giả": 2
+ }
+}

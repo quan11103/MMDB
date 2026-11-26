@@ -1,0 +1,42 @@
+{
+ "n_words": 525,
+ "n_chunks": 9,
+ "ner": [
+  {
+   "text": "động lực motivation",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "động lực bên ngoài extric motivation",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "động lực tự thân intrinsic motivation",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thứ bình thích",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "động lực bên ngoài",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "sức khỏe",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "động lực": 9,
+  "motivation": 2,
+  "công việc": 2,
+  "sức": 3
+ }
+}

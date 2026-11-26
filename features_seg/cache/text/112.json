@@ -1,0 +1,153 @@
+{
+ "n_words": 620,
+ "n_chunks": 10,
+ "ner": [
+  {
+   "text": "cổng USBC",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "cổng USBA",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "khe RAM",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "32 GB",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "khe PCLI X16",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bài Tim Spy",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "mức 896",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "game GTA V",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "440 p Ultra",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "LOR",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chip Intel Cra",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Office",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Game",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "cổng USB",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Lenovo",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "cổng HDMI",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Idea",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "dân văn phòng hay là home officer",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Office Chrome",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "bản 16",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "GB",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "RAM nhá Thứ ba",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "PC",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Lenovo Idea Center Tower",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "kênh YouTube",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Thanênh View",
+   "label": "ORG",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "nhu cầu": 2,
+  "máy": 9,
+  "khe": 2,
+  "gb": 2,
+  "pc": 3,
+  "văn phòng": 4,
+  "game": 3,
+  "phụ huynh": 2,
+  "cổng": 8,
+  "cổng usbc": 2,
+  "usbc": 2,
+  "cổng usba": 2,
+  "usba": 2,
+  "kế toán": 2,
+  "dân": 2
+ }
+}

@@ -1,0 +1,101 @@
+{
+ "n_words": 542,
+ "n_chunks": 9,
+ "ner": [
+  {
+   "text": "Thế Giới Di Động",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Asus",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "dưới 26",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Entry Level",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "sức mạnh GBU",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trên một",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chiếc Ultra Box",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Tí",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Vivobook Go",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "chip Ryzen",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Core",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Core 5210H Vivobook",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chip Ryen",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Protxic",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ultrabook",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "màn hình bảng giá niêm yết",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "sinh viên": 4,
+  "laptop": 2,
+  "giá": 6,
+  "máy": 10,
+  "cấu hình": 2,
+  "hiệu năng": 2,
+  "ultrabook": 3,
+  "họa": 2,
+  "game": 2,
+  "chip": 2,
+  "vivobook": 2,
+  "bảng": 2,
+  "bảng giá": 2
+ }
+}

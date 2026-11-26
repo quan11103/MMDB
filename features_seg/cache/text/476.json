@@ -1,0 +1,110 @@
+{
+ "n_words": 1091,
+ "n_chunks": 18,
+ "ner": [
+  {
+   "text": "Rose",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "Raw",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "Mỹ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "John Rose",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "năm 1921",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 2002",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Kant",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "John Lock",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "màn vô thức",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "dịch bệnh Rose",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "or obligate",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "khế ước xã hội hiện hành",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "they produce",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "autonomy Thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tính tự trị",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Vale of Ignorance",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "đạo đức": 8,
+  "xã hội": 23,
+  "xã hội công bằng": 2,
+  "rose": 4,
+  "mô hình": 2,
+  "the": 2,
+  "veil of ignorance": 2,
+  "màn": 4,
+  "khế ước": 12,
+  "khế ước xã hội": 8,
+  "con người": 3,
+  "cộng đồng": 2,
+  "cá thể": 2,
+  "how": 2,
+  "they": 3,
+  "thầy giáo": 2,
+  "reciprocality": 2,
+  "chai": 2,
+  "giá": 2,
+  "mức độ": 2,
+  "raw": 3,
+  "luật chơi": 2
+ }
+}

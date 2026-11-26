@@ -1,0 +1,121 @@
+{
+ "n_words": 836,
+ "n_chunks": 14,
+ "ner": [
+  {
+   "text": "W2",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Z2",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "khả năng cao nha",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "% SRA RGB",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "% DC B3",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "% RGB",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "xe B3",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "99 %",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "OLED",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "dây HDMI",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "DB",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "bộ B",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "laptop Acer Predator",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "GVN",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "màn hình OLED Predator",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nhau thứ ba",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Chúng",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "dạng chữ V",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chữ X",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bên trong À",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "màn hình": 6,
+  "khả năng": 4,
+  "màu sắc": 2,
+  "tương đồng": 2,
+  "màu": 3,
+  "w2": 2,
+  "z2": 2,
+  "anh em": 3,
+  "đại đa số": 2,
+  "hdmi 2.1": 2,
+  "laptop": 3,
+  "chữ": 2,
+  "âm thanh": 3
+ }
+}

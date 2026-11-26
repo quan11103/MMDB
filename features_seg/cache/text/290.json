@@ -1,0 +1,40 @@
+{
+ "n_words": 397,
+ "n_chunks": 7,
+ "ner": [
+  {
+   "text": "B Limit",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "thang đo bập bênh",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "sự cưỡng ép",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tên sùng lực",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "dung lượng RAM",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "công việc": 5,
+  "game": 5,
+  "bập bênh": 3,
+  "trạng thái": 2,
+  "áp lực": 2,
+  "não": 2,
+  "dung lượng": 2
+ }
+}

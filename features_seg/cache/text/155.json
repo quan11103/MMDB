@@ -1,0 +1,25 @@
+{
+ "n_words": 363,
+ "n_chunks": 6,
+ "ner": [
+  {
+   "text": "khuôn mặt nha",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "việc Asus",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "máy": 2,
+  "laptop": 8,
+  "laptop doanh nhân": 3,
+  "laptop doanh nhân cao cấp": 3,
+  "doanh nhân": 3,
+  "doanh nhân cao cấp": 3,
+  "giá": 2
+ }
+}

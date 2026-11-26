@@ -1,0 +1,38 @@
+{
+ "n_words": 416,
+ "n_chunks": 7,
+ "ner": [
+  {
+   "text": "M",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Full HD",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "cổng X",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "MacBook",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Z Food",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "anh em": 6,
+  "nét": 5,
+  "màn hình": 2,
+  "inch": 2,
+  "4k": 3
+ }
+}

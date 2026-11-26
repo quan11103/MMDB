@@ -1,0 +1,189 @@
+{
+ "n_words": 655,
+ "n_chunks": 11,
+ "ner": [
+  {
+   "text": "ngày thứ năm",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "thế kỷ thứ năm",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bán đảo Ả Rập",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Syria",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "đế chế Byzantin",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "hoàng đế Heraclius",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Byzantin",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "truyền kiếp Byzantin",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Sasanit",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "quân Byzantin",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "hoang mặc Yamuk Nơi",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Quân đội Byzantin",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "khoảng 20.000",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "khoảng 100.000",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Vahan",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "đội quân Hồi giáo khoảng 15.000",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "khoảng 40.000",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tướng Khalid",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "ngày thứ sáu",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cánh trái quân đội Byzantin Quá",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "quân đội Byantin",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "kỵ binh Byzantin",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đối phương Quân Byzantin",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "người Hồi giáo",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "khi Byzantine",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Giêusaem",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Đạo Hồi",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Ai Cập",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nhà Sasanit",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Bắc Phi",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ấn Độ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "uy hiếp kinh thành Constantinople",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "trận": 3,
+  "hồi giáo": 4,
+  "vùng đất": 5,
+  "ngày nay": 2,
+  "byzantin": 7,
+  "quân đội": 4,
+  "sasanit": 2,
+  "quân": 7,
+  "quân byzantin": 4,
+  "kỵ binh": 3,
+  "quân đội byzantin": 2,
+  "văn thư": 2,
+  "văn thư cổ": 2,
+  "cổ": 2,
+  "đội": 3,
+  "đội quân": 2,
+  "đối phương": 2,
+  "kỵ binh byzantin": 2,
+  "cánh": 3,
+  "bộ binh": 2,
+  "đạo hồi": 4
+ }
+}

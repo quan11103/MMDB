@@ -1,0 +1,11 @@
+{
+ "n_words": 244,
+ "n_chunks": 4,
+ "ner": [],
+ "candidates": {
+  "công việc": 2,
+  "cuộc sống": 2,
+  "mục tiêu": 3,
+  "sự nghiệp": 2
+ }
+}

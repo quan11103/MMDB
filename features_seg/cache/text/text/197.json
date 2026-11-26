@@ -1,0 +1,159 @@
+{
+ "n_words": 1068,
+ "n_chunks": 18,
+ "ner": [
+  {
+   "text": "Gozo Hatamoto",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Ichiro",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Nachie",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "nhà Hatamoto",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "tác giả Ama Gosho",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Hồng Thủ",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Hori Hei",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "tập 400",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Stradivarius",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "tình tiết thú vị Langng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "gia tộc Hatamoto Chuyện",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "gái Nachie",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "lượt TIO Hatamoto",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "gia đình Hatamoto",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Gozo",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "rể Tachio",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "vấn đề nhà Hatamoto",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chiêu dương đông kích tây Ichiro Hatamoto",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Nachie Nachie",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Bong",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Tàu",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "vụ án gia tộc Hatamoto",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Natie Ichiro",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "vụ": 9,
+  "tác giả": 2,
+  "gia tộc": 4,
+  "phòng": 3,
+  "kỳ án": 2,
+  "lượt": 2,
+  "hung thủ": 3,
+  "gia đình": 5,
+  "tập": 2,
+  "cảm giác": 2,
+  "kế hoạch": 2,
+  "tình tiết": 2,
+  "hồi": 2,
+  "án": 10,
+  "tàu": 5,
+  "gái": 4,
+  "nachie": 5,
+  "gozo hatamoto": 2,
+  "bụng": 2,
+  "dao": 2,
+  "rể": 2,
+  "bong": 2,
+  "bong tàu": 2,
+  "ichiro": 3,
+  "nhát": 2,
+  "chân": 2,
+  "án gia tộc": 2,
+  "hatamoto": 6,
+  "phương thức": 2,
+  "vụ án": 3,
+  "hướng": 2,
+  "hiệu quả": 2,
+  "lão": 2,
+  "khán giả": 2,
+  "tình yêu": 4,
+  "con người": 2
+ }
+}

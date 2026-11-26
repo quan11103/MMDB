@@ -1,0 +1,58 @@
+{
+ "n_words": 432,
+ "n_chunks": 7,
+ "ner": [
+  {
+   "text": "Shift",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "drop over",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trên Mac",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Pixel Meter",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "được Thì",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trên màn hình",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trong Dropover",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Dropover",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "ứng dụng": 2,
+  "drop": 2,
+  "drop over": 2,
+  "space": 2,
+  "file": 9,
+  "ảnh": 5,
+  "shift": 3,
+  "khay": 4,
+  "dropover": 2,
+  "setting": 2
+ }
+}

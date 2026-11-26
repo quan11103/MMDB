@@ -1,0 +1,13 @@
+{
+ "n_items": 512,
+ "total_duration_sec": 88142.328,
+ "total_syllables": 353685,
+ "syllable_sec": 0.24921138301030576,
+ "syllables_per_sec_median": 4.07389729702926,
+ "syllables_per_sec_min": 2.310803004043905,
+ "syllables_per_sec_max": 5.897640943622551,
+ "segment_syllables": 40,
+ "segment_sec_exact": 9.96845532041223,
+ "segment_rounded": true,
+ "segment_sec": 10.0
+}

@@ -1,0 +1,61 @@
+{
+ "n_words": 227,
+ "n_chunks": 4,
+ "ner": [
+  {
+   "text": "Odysseius",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "bến đảo Thina",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thần mặt trời Helios Odysseius",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Teresus",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "lương thực cạn kiệt",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Helius",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Olympus",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Rus",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Jus",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "bò": 2,
+  "thần": 4,
+  "thần mặt trời": 2,
+  "mặt trời": 3,
+  "thuyền": 2,
+  "đảo": 2,
+  "odysseius": 2,
+  "tàu": 2
+ }
+}

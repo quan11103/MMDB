@@ -1,0 +1,106 @@
+{
+ "n_words": 746,
+ "n_chunks": 13,
+ "ner": [
+  {
+   "text": "Polyphemus",
+   "label": "PER",
+   "count": 4
+  },
+  {
+   "text": "Odysseius",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "Polypemus",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "Odysseus",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "mắt Polyphemus Polyphemus",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Polypimus",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Oddyseus",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "tối Polypemus",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Autis",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "chiến trường Troy",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Oddyse",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "tên Cyclopes",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "ngươi hôm nay là Odysseius",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Lates",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "thần biển Posidon",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Edisus",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "mắt": 4,
+  "thuyền": 2,
+  "đảo": 2,
+  "dê": 2,
+  "hang động": 2,
+  "odysseius": 4,
+  "chàng": 4,
+  "cyclopes": 3,
+  "sức mạnh": 2,
+  "đá": 2,
+  "đường": 2,
+  "cầu": 2,
+  "polyphemus": 4,
+  "polypemus": 4,
+  "trí tuệ": 2,
+  "odysseus": 3,
+  "mắt duy nhất": 2,
+  "trai": 2
+ }
+}

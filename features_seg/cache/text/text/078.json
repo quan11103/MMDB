@@ -1,0 +1,184 @@
+{
+ "n_words": 946,
+ "n_chunks": 16,
+ "ner": [
+  {
+   "text": "Atlantis",
+   "label": "PER",
+   "count": 15
+  },
+  {
+   "text": ", Atlantis",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Atlantis",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "quy luật hưng thịnh suy vong",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cánh cửa lịch sử của Atlantis",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đời sống văn hóa",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thế kỷ 19",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "gia Jules Verny",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "hóa Atlantis",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Nimo",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "đáy biển mang sác thái chiêm nghiệm",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nhà văn HP Lovecraft",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Lovecraft",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Tokien",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "câu chuyện Numen",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "giờ Silarilion",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "lạm quyền Bước",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thế kỷ 21",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Disney",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "phim hoạt hình Atlantis The Lost Empire",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Aquaman",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "gương phản chiếu thế giới địa chính trị đương đại",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đại chúng thế kỷ 21",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nội tại Một",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cách Plato",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "huyền thoại Atlantis",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nút subscribe và nút chuông bên cạnh",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Spider Room",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Ping Dot",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Sia",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "văn minh": 5,
+  "quy luật": 3,
+  "biểu tượng": 2,
+  "đại chúng": 2,
+  "lịch sử": 3,
+  "atlantis": 24,
+  "câu chuyện": 4,
+  "con người": 4,
+  "quyền lực": 4,
+  "thế kỷ": 3,
+  "đế quốc": 2,
+  "tàn tích": 2,
+  "biển": 2,
+  "sức mạnh": 2,
+  "thế giới": 3,
+  "tầng": 3,
+  "đạo đức": 3,
+  "huyền thoại": 4,
+  "thế kỷ 21": 2,
+  "công nghệ": 2,
+  "xã hội": 2,
+  "gương": 2,
+  "tầng sâu": 2,
+  "nhân loại": 2,
+  "khả năng": 2,
+  "nút": 2
+ }
+}

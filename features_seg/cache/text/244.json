@@ -1,0 +1,141 @@
+{
+ "n_words": 500,
+ "n_chunks": 8,
+ "ner": [
+  {
+   "text": "Vega",
+   "label": "PER",
+   "count": 5
+  },
+  {
+   "text": "Full HD",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Counter Strike",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "đám Vega",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "CPU",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "CPU 9800X3 D",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "GPU",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "game FPS",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Apex Legion",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "game nha",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "mẫu GPU",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "7006 400",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "VGA",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "RTX4060",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Design",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "game SH",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Tom Raider",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tựa game Triple A",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phần giải Full HD",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Epax Legend",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Cyberpunk",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Ultra Setting",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "game Triple",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trên Còn",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "hiệu năng": 4,
+  "test": 6,
+  "tựa": 3,
+  "tựa game": 3,
+  "game": 15,
+  "setting": 2,
+  "full hd": 4,
+  "low": 2,
+  "vega": 6,
+  "gpu": 2,
+  "tầm": 2,
+  "triple a": 2,
+  "nhiệt độ": 2
+ }
+}

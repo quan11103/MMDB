@@ -1,0 +1,157 @@
+{
+ "n_words": 1985,
+ "n_chunks": 33,
+ "ner": [
+  {
+   "text": "năm 1870",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "năm 1796",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Pháp",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Emily the Clause",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Kẻ Xâm Nhập",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 1",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Tiêm",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "con người năm 1885",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "VAC",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "sẵn sàng Nắm Lấy",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "cô bé 9",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Paris",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Jackie",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "vắc xin chết suất T",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Master",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 19",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "03 Một",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 1915",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 1950",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "vắc xin": 16,
+  "nhân loại": 2,
+  "bệnh": 27,
+  "bệnh dại": 13,
+  "căn bệnh": 3,
+  "mùa": 2,
+  "thế giới": 2,
+  "hệ thống": 2,
+  "miễn dịch": 2,
+  "con người": 2,
+  "ý tưởng": 4,
+  "pastor": 8,
+  "nhà khoa học": 3,
+  "thành tựu": 2,
+  "vi sinh vật": 2,
+  "bệnh tả": 2,
+  "bệnh tả gà": 2,
+  "gà": 9,
+  "đối tượng": 3,
+  "hè": 2,
+  "trợ lý": 2,
+  "lứa": 4,
+  "lứa gà": 4,
+  "bé": 6,
+  "phòng thí nghiệm": 2,
+  "kết quả": 5,
+  "triệu chứng": 2,
+  "sự cố": 2,
+  "vi khuẩn": 4,
+  "hệ": 3,
+  "khả năng": 5,
+  "pter": 9,
+  "không khí": 2,
+  "độc lực": 4,
+  "virus": 16,
+  "cơ thể": 3,
+  "mục tiêu": 3,
+  "chó": 7,
+  "thỏ": 6,
+  "động vật": 2,
+  "não": 2,
+  "suy yếu": 3,
+  "suy yếu virus": 2,
+  "ban đầu": 2,
+  "virus dại": 2,
+  "hiệu quả": 2,
+  "chủng": 2,
+  "chủng virus": 2,
+  "joseph": 2,
+  "ma": 4,
+  "bác sĩ": 5,
+  "phép": 2,
+  "phòng": 2,
+  "y khoa": 2
+ }
+}

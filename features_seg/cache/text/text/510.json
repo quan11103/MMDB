@@ -1,0 +1,213 @@
+{
+ "n_words": 1990,
+ "n_chunks": 33,
+ "ner": [
+  {
+   "text": "nh 2",
+   "label": "LOC",
+   "count": 3
+  },
+  {
+   "text": "nh 1",
+   "label": "LOC",
+   "count": 3
+  },
+  {
+   "text": "bảo tàng Picasso",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Picasso",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "x 8",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "nhân 2",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "nh 5",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Ok",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "cái tranh thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cái tranh thứ ba",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Barcelona",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Tây Ban Nha",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ô",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "tầm khoảng 75",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "giá khoảng 1",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cái áo này 200",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nh B",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bộ máy thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "United Nations",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Liên Hợp Quốc",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "liên hệp Quốc",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phép tính 1",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nhóm 1",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nhóm thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "V",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "áo thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đàm phán Giá",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "ngày ấ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Chậm Lại Một Nhịp",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "nhịp": 2,
+  "anchoring effect": 2,
+  "effect": 3,
+  "não": 3,
+  "thông tin": 3,
+  "tranh": 11,
+  "giá": 10,
+  "con số": 3,
+  "bảo tàng": 2,
+  "bảo tàng picasso": 2,
+  "picasso": 4,
+  "tầm": 2,
+  "thiệp": 5,
+  "hiệu ứng": 5,
+  "chợ": 2,
+  "áo": 9,
+  "hàng": 5,
+  "giá mà": 2,
+  "nh": 29,
+  "tây": 2,
+  "hiệu ứng mỏ": 2,
+  "mỏ": 2,
+  "dữ kiện": 2,
+  "bộ máy": 2,
+  "quyết định": 2,
+  "sinh viên": 3,
+  "tỉ lệ": 3,
+  "quốc gia": 4,
+  "quốc gia châu phi": 3,
+  "châu phi": 3,
+  "thầy giáo": 4,
+  "liên hệp": 2,
+  "ph": 5,
+  "kết quả": 2,
+  "đáp án": 6,
+  "phép tính": 4,
+  "nh 2": 4,
+  "nh 2 nh": 4,
+  "nh 3": 4,
+  "nh 3 nh": 4,
+  "nh 4": 4,
+  "nh 4 nh": 2,
+  "nh 5": 6,
+  "nh 5 nh": 4,
+  "nh 6": 4,
+  "nh 6 nh": 4,
+  "nh 7": 2,
+  "phép tính 8": 2,
+  "nh 4 nhân": 2,
+  "nhân": 2,
+  "nhân 2": 2,
+  "nhân 2 nh": 2,
+  "nh 1": 3,
+  "nh 1 nh": 2,
+  "đồ": 2,
+  "cà phê": 4,
+  "cốc": 3,
+  "cốc cà phê": 2,
+  "tinh thần": 2,
+  "journal": 2
+ }
+}

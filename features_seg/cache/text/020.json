@@ -1,0 +1,114 @@
+{
+ "n_words": 1203,
+ "n_chunks": 20,
+ "ner": [
+  {
+   "text": "con người như thế nào",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ok",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Charles Darwin",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Orza Rycon",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "sông Dương Tử Trung Quốc",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Hà Mỗ Độ",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Thượng Sơn",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": ", Chiết Giang",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Trung Quốc",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đống phân bón",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Homo",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "ADN",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "vùng lưỡi liềm hòa mỡ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "vùng Trung Đông",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Homo Sapien",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "giống loài",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "lúa": 13,
+  "con người": 8,
+  "động vật": 5,
+  "sinh vật": 3,
+  "loài": 6,
+  "loài linh trưởng": 2,
+  "linh trưởng": 2,
+  "tiền": 2,
+  "tiến hóa": 3,
+  "khả năng": 4,
+  "cỏ": 4,
+  "cỏ dại": 2,
+  "giải": 2,
+  "yếu tố": 3,
+  "đất": 7,
+  "toàn cầu": 2,
+  "năng lượng": 2,
+  "hạt": 2,
+  "loài người": 2,
+  "tổ tiên": 3,
+  "đột biến": 3,
+  "ngày nay": 2,
+  "lúa mì": 5,
+  "mì": 2,
+  "lúa nước": 2,
+  "mùa": 2
+ }
+}

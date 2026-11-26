@@ -1,0 +1,34 @@
+{
+ "n_words": 995,
+ "n_chunks": 17,
+ "ner": [
+  {
+   "text": "phương pháp tư duy",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "phương pháp": 18,
+  "hệ thống": 4,
+  "tư duy": 2,
+  "chiến lược": 3,
+  "công cụ": 3,
+  "hiệu quả": 2,
+  "cổng": 2,
+  "mùa": 2,
+  "kết quả": 2,
+  "áp lực": 2,
+  "kỹ năng": 2,
+  "nhà trường": 2,
+  "học sinh": 5,
+  "học sinh sinh viên": 2,
+  "sinh viên": 5,
+  "đại học": 4,
+  "kiến thức": 2,
+  "trung học phổ thông": 2,
+  "tâm lý": 2,
+  "cộng đồng": 2,
+  "tiểu học": 2
+ }
+}

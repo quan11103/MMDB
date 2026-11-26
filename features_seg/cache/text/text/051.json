@@ -1,0 +1,305 @@
+{
+ "n_words": 1072,
+ "n_chunks": 18,
+ "ner": [
+  {
+   "text": "Pháp",
+   "label": "LOC",
+   "count": 5
+  },
+  {
+   "text": "Quân Đức",
+   "label": "PER",
+   "count": 4
+  },
+  {
+   "text": "sông M",
+   "label": "LOC",
+   "count": 3
+  },
+  {
+   "text": "nước Đức",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Mỹ",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "quân Mỹ",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Paris",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Paris",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "nước Nga",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cuộc chiến sau cuộc cách mạng tháng 10",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Romania",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "hòa ước Bucarest",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Nức Ý",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Pháp",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "năm giằng co",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Bộ Chỉ huy Đức",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "mặt trận phía tây",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nửa triệu",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "mùa xuân năm 1918",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chiến dịch Ludendorf",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đánh bại lực lượng liên quân Anh Pháp",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Đức",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Liên quân Anh",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tuyến Liên Quân",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Liên Quân",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Ferdinand Fox",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "phe hiệp ước Quân Đức",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "ý nghĩa chiến lược",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "sông Aer",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Lurandorf",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": ", Paris",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cực độ thống chế Ptin",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Feren For",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "quân hiệp ước",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "lúc Liên Quân",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phía Bắc",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tướng Charles Mon",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "biệt danh là Đao Phủ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thái tử nước Đức Wilhel",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "quân Pháp",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Mặt trận Flanders",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phòng tuyến Paris",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "sông Vestler",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trận Lipzic",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Napoleon",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Sông Mon",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "lần hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trận Leipzig",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Napoleon Napoleon",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "năm 1918",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trận Hoàng Đế Đức",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "đức": 4,
+  "tình hình": 3,
+  "phe": 4,
+  "đông": 2,
+  "cuộc chiến": 3,
+  "quân mỹ": 5,
+  "liên quân": 7,
+  "pháp": 9,
+  "quân đức": 16,
+  "mặt trận": 3,
+  "chiến dịch": 5,
+  "lực lượng": 6,
+  "lực lượng liên quân": 2,
+  "quân": 13,
+  "mỹ": 4,
+  "hiệp ước": 4,
+  "quân đội": 2,
+  "phòng": 6,
+  "phòng tuyến": 6,
+  "tuyến": 7,
+  "quân pháp": 3,
+  "phe hiệp ước": 3,
+  "đối phương": 2,
+  "ý nghĩa": 2,
+  "trận": 6,
+  "sông": 6,
+  "paris": 6,
+  "km": 2,
+  "chiến tranh": 2,
+  "đợt": 2,
+  "thể lực": 2,
+  "binh lính": 2,
+  "bắc": 3,
+  "lối": 2,
+  "napoleon": 3,
+  "đế chế đức": 2,
+  "thế giới": 2
+ }
+}

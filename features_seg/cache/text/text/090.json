@@ -1,0 +1,68 @@
+{
+ "n_words": 619,
+ "n_chunks": 10,
+ "ner": [
+  {
+   "text": "Yang",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "tại sao Predictive History",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trang trí văn hóa",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tư duy dự báo",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phi kiểm chứng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Cách",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Predictive History",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Mỹ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Athens",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Yang Giang",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "predictive history": 2,
+  "tầm": 2,
+  "yang": 3,
+  "lịch sử": 2,
+  "văn học": 2,
+  "chính trị": 2,
+  "dự đoán": 2,
+  "phẩm chất": 2,
+  "tư duy": 2,
+  "ý tưởng": 2
+ }
+}

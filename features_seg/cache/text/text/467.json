@@ -1,0 +1,168 @@
+{
+ "n_words": 510,
+ "n_chunks": 9,
+ "ner": [
+  {
+   "text": "Entropy",
+   "label": "PER",
+   "count": 4
+  },
+  {
+   "text": "Tnet",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Nolen",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Tnet",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Tig Geia Model Toro",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "The Shap of Water",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đại dịch Covid-19",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "điện ảnh Christopher Nolan",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Với Nolen",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "What",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Anyway",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Batman",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Leonardo DiCaprio",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "John David Washington",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Robert Pattinson",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Tennet",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Estonia",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ấn Độ Italy",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Mỹ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "van Hoema",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cánh tay phải IMAX",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Protagonist",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thập kỷ Nolen",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Himer",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Dun",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Nolan",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "Oscar",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Black Panther",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "nghịch Tnet",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 2020",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "đại dịch": 2,
+  "thế giới": 2,
+  "điện ảnh": 2,
+  "phim": 5,
+  "nolen": 4,
+  "entropy": 4,
+  "tnet": 5,
+  "nhân vật": 2,
+  "diễn viên": 2,
+  "cảnh": 3
+ }
+}

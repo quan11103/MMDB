@@ -1,0 +1,39 @@
+{
+ "n_words": 229,
+ "n_chunks": 4,
+ "ner": [
+  {
+   "text": "cuốn World Religions",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nhà sách Zenbooks",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Trung Quốc",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "World Religions",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "GenBook",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "thông tin": 4,
+  "tôn giáo": 8,
+  "world religions": 2,
+  "thế giới": 3,
+  "tôn giáo abraham": 2,
+  "sách": 3
+ }
+}

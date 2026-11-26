@@ -1,0 +1,9 @@
+{
+ "n_words": 262,
+ "n_chunks": 5,
+ "ner": [],
+ "candidates": {
+  "cuộc sống": 2,
+  "công việc": 3
+ }
+}

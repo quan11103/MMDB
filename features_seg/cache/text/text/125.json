@@ -1,0 +1,54 @@
+{
+ "n_words": 369,
+ "n_chunks": 6,
+ "ner": [
+  {
+   "text": "hệ thống LED",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cái phần đèn LED",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Asus",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "hệ thống đèn LED",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cái phần viền LED",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "ROG",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "vị trí đèn LED",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "máy": 5,
+  "hệ thống": 2,
+  "led": 5,
+  "mắt": 2,
+  "đèn": 3,
+  "đèn led": 3,
+  "vật liệu": 2,
+  "ánh sáng": 2,
+  "đáy": 3,
+  "đáy máy": 3,
+  "cảm giác": 2
+ }
+}

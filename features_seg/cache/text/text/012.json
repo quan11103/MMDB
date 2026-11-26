@@ -1,0 +1,97 @@
+{
+ "n_words": 551,
+ "n_chunks": 9,
+ "ner": [
+  {
+   "text": "Trái Đất",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "Theia",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "CO2",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "địa chất Trái Đất",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "xung quanh Mặt Trời",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ban đầu Trái Đất",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "kích thước cỡ Sao Hỏa",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "% khối lượng Trái Đất",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Mặt Trăng",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "bề mặt Trái Đất",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "lớp vỏ Trái Đất",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Oxi",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Nitơ",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "lịch sử": 2,
+  "trái đất": 8,
+  "hành tinh": 2,
+  "lớp": 3,
+  "lớp vỏ": 2,
+  "vỏ": 2,
+  "mặt trăng": 2,
+  "kích thước": 2,
+  "theia": 2,
+  "thiên thạch": 2,
+  "bề mặt": 2,
+  "khí": 5,
+  "metan": 2,
+  "bầu": 3,
+  "đại dương": 3,
+  "sắt": 3,
+  "màu": 3,
+  "màu xanh": 3,
+  "lá": 2,
+  "khí quyển": 2,
+  "co2": 2,
+  "sinh vật": 5,
+  "khí độc": 2,
+  "oxy": 2
+ }
+}

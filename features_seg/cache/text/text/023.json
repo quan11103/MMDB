@@ -1,0 +1,33 @@
+{
+ "n_words": 488,
+ "n_chunks": 8,
+ "ner": [
+  {
+   "text": "cây lúa thuần hóa con người như thế nào",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Nế",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "loài người như thế nào",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Peace",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "lúa": 11,
+  "bánh mì": 3,
+  "loài người": 2,
+  "đầu": 2,
+  "member": 2
+ }
+}

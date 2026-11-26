@@ -1,0 +1,158 @@
+{
+ "n_words": 1635,
+ "n_chunks": 27,
+ "ner": [
+  {
+   "text": "giáo sư Liberman",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "hệ thần kinh Lâm tử thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "ngày Mốc",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Nhật Bản",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 1965",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thềm thế vận hội Tokyo",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tiếng Nhật",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "số 10.000",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "mức khoảng 7000",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "hay là tuổi thọ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "con số 10.000",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bạn Lâm tưởng thứ tư",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Xích Học",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "khoảng 170",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "khoảng 20",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "DNA",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bệnh Alzheimer",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tiến sĩ Rob Penberger",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "sinh viên đại học Harvard",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "độ tuổi từ 20",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "độ tuổi 60",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "cơ thể": 4,
+  "trạng thái": 2,
+  "lầm tưởng": 2,
+  "sức": 2,
+  "con người": 4,
+  "tiếng": 5,
+  "đêm": 4,
+  "con số": 4,
+  "tiêu chuẩn": 2,
+  "điện thoại": 2,
+  "nghiên cứu": 2,
+  "góc": 3,
+  "cộng đồng": 2,
+  "kết quả": 2,
+  "truyền thống": 2,
+  "thói quen": 2,
+  "tỉ lệ": 2,
+  "nguy cơ": 4,
+  "bệnh lý": 2,
+  "hệ": 2,
+  "thuốc lá": 2,
+  "dân": 2,
+  "dân văn phòng": 2,
+  "văn phòng": 2,
+  "lịch sử": 2,
+  "động vật": 2,
+  "môi trường": 2,
+  "cơ chế": 4,
+  "con số 10.000": 2,
+  "mục đích": 2,
+  "chân": 5,
+  "lợi ích": 2,
+  "áp lực": 3,
+  "lâm tưởng": 2,
+  "đầu gối": 2,
+  "khớp": 3,
+  "dinh dưỡng": 2,
+  "xương": 2,
+  "hóa": 2,
+  "đất": 4,
+  "tiến hóa": 2,
+  "hiện tượng": 2,
+  "khái niệm": 2,
+  "lao động": 2,
+  "thức ăn": 2
+ }
+}

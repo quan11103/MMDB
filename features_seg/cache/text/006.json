@@ -1,0 +1,92 @@
+{
+ "n_words": 2074,
+ "n_chunks": 35,
+ "ner": [
+  {
+   "text": "bộ não",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Susan Fishk",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Shelly Taylor",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "cognitive mixer Thì",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm tiến hóa",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ấ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cuộc sống hàng ngày nhá",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cái đèn đỏ và đèn xanh",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đèn xanh như thế nào",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "app màu cam",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "khái niệm": 4,
+  "não": 11,
+  "cơ thể": 8,
+  "năng lượng": 2,
+  "điện": 3,
+  "cơ chế": 2,
+  "đầu": 5,
+  "nhận thức": 4,
+  "tư duy": 5,
+  "lối": 4,
+  "shortcut": 2,
+  "đường": 7,
+  "xã hội": 2,
+  "bộ não": 3,
+  "xung quanh": 2,
+  "bản năng": 2,
+  "hàng": 2,
+  "thông tin": 10,
+  "điện thoại": 2,
+  "đống": 2,
+  "app": 3,
+  "mắt": 2,
+  "ngần": 2,
+  "trạng thái": 2,
+  "chữ": 3,
+  "đèn đỏ": 3,
+  "highlight": 5,
+  "xe": 3,
+  "màu": 2,
+  "đèn xanh": 3,
+  "ánh sáng": 2,
+  "dòng": 2,
+  "dòng chữ": 2,
+  "tự do": 3
+ }
+}

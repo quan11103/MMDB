@@ -1,0 +1,111 @@
+{
+ "n_words": 445,
+ "n_chunks": 8,
+ "ner": [
+  {
+   "text": "Wickham",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "bạc bầy nhiêu",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "gái nhà Benner",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "con gái thứ hai Elizabeth",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "quý tộc Daa Sì",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ping Lì",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "sĩ quan tên Wickham",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "không chỉ Elizabeth",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "em gái Ctherine",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "LAN",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Wickham",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ly Điền",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "người Na Uy",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đời người Sau khi Ly",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Tệ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Daa",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Quých Hầm",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Ly Điền",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Bnnert",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "tình yêu": 3,
+  "hôn nhân": 2,
+  "canh bạc": 2,
+  "gái": 4,
+  "elizabeth": 2,
+  "wickham": 6,
+  "em gái": 2,
+  "ly điền": 2
+ }
+}

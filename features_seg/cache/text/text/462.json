@@ -1,0 +1,89 @@
+{
+ "n_words": 788,
+ "n_chunks": 13,
+ "ner": [
+  {
+   "text": "Việt Nam",
+   "label": "LOC",
+   "count": 3
+  },
+  {
+   "text": "Cuba",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Michael Waler",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "tranh chấp nảy sinh",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "người dân Cuba",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Đảng",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "nhân dân Việt Nam",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Mỹ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Cuba",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Coba",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Coba",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "hôn nhân đồng giới",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "lòng trung thành",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "đảng": 2,
+  "mỹ": 2,
+  "công lý": 5,
+  "cộng đồng": 7,
+  "phổ quát": 5,
+  "con người": 2,
+  "nghĩa vụ": 5,
+  "thành viên": 3,
+  "phẩm chất": 2,
+  "việt nam": 4,
+  "nghĩa vụ thành viên": 2,
+  "quyền": 3,
+  "quyền phổ quát": 2,
+  "cuba": 4,
+  "nhân dân": 2,
+  "coba": 2
+ }
+}

@@ -1,0 +1,11 @@
+{
+ "n_words": 296,
+ "n_chunks": 5,
+ "ner": [],
+ "candidates": {
+  "chánh niệm": 4,
+  "phương pháp": 2,
+  "quá khứ": 2,
+  "tương lai": 2
+ }
+}

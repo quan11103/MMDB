@@ -1,0 +1,51 @@
+{
+ "n_words": 1087,
+ "n_chunks": 18,
+ "ner": [
+  {
+   "text": "Dũng",
+   "label": "PER",
+   "count": 6
+  },
+  {
+   "text": "Anthopic",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "Cross",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "thông tin sáng tạo",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "API",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "COD",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "thông tin": 14,
+  "ai": 19,
+  "deadline": 3,
+  "prom": 5,
+  "dũng": 6,
+  "biên bản": 4,
+  "anthopic": 3,
+  "kết quả": 2,
+  "sếp": 2,
+  "quyết định": 2,
+  "skill": 2,
+  "công việc": 3,
+  "tuần": 2
+ }
+}

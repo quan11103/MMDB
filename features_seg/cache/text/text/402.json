@@ -1,0 +1,38 @@
+{
+ "n_words": 628,
+ "n_chunks": 11,
+ "ner": [
+  {
+   "text": "bài Monty Hon",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Mỹ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Let's Make A",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "bài Monti Hon",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "cửa": 37,
+  "xe": 10,
+  "dê": 3,
+  "đáp án": 2,
+  "xác suất": 2,
+  "khả năng": 2,
+  "ban đầu": 3,
+  "con số": 2,
+  "trực giác": 3,
+  "chi tiết": 2
+ }
+}

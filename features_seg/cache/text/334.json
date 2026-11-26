@@ -1,0 +1,58 @@
+{
+ "n_words": 554,
+ "n_chunks": 9,
+ "ner": [
+  {
+   "text": "flow Dựa",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Nam bộ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Flow",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Alpha Teta",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "hệ thống động lực nội tại Flow",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trình tự sinh học",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "mức độ sâu sắc",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "mức tính xảo",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "flow": 6,
+  "mục tiêu": 2,
+  "nã bộ": 2,
+  "nhiệm vụ": 2,
+  "hành động": 2,
+  "kỹ năng": 6,
+  "trạng thái": 4,
+  "mức độ": 3,
+  "nghi thức": 3,
+  "động lực": 2
+ }
+}

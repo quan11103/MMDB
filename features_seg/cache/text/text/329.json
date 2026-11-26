@@ -1,0 +1,92 @@
+{
+ "n_words": 712,
+ "n_chunks": 12,
+ "ner": [
+  {
+   "text": "thầy tu",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bạn Tạo",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Freedom",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": ", Co Turkey",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Forest",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nhịp sinh học Tradian Tradian",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bộ nhớ RAM",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "attention residue",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Nạp",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "bộ não",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năng lượng toàn thân",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cafein chiến lược",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trang 45",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trước 5",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "môi trường": 3,
+  "thầy": 2,
+  "ý chí": 2,
+  "điện thoại": 2,
+  "não bộ": 3,
+  "nhịp": 2,
+  "tradian": 2,
+  "não": 7,
+  "tab": 3,
+  "tác vụ": 2,
+  "thần kinh": 2,
+  "cơ thể": 2,
+  "chiều": 2,
+  "mục tiêu": 3
+ }
+}

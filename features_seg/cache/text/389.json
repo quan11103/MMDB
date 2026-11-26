@@ -1,0 +1,15 @@
+{
+ "n_words": 198,
+ "n_chunks": 3,
+ "ner": [
+  {
+   "text": "giống hiệu ứng domino",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "kết quả": 2,
+  "định lý": 2
+ }
+}

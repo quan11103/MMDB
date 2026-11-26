@@ -1,0 +1,137 @@
+{
+ "n_words": 2296,
+ "n_chunks": 38,
+ "ner": [
+  {
+   "text": "cuộc sống nữa Mẹo thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "mẹo thứ ba",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chất xơ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bản thân một cách khoa học và đúng đắn",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Hậu",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "năm 1980",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "mức đồ ngọt",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "lúc 8",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cơ quan nội tạng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "mẹo số năm",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trái cây sấy",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tuýp 1",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tuýp 2",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "mức glucozơ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bộ nhẹ nhàng 10",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ah",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "mẹo": 9,
+  "năng lượng": 5,
+  "phẳng": 2,
+  "đường huyết": 9,
+  "trạng thái": 4,
+  "cơ thể": 11,
+  "da": 2,
+  "da rẻ": 2,
+  "thứ tự": 3,
+  "đường": 18,
+  "rau": 6,
+  "cơm": 5,
+  "cơm trắng": 2,
+  "thói quen": 5,
+  "bát": 2,
+  "bát cơm": 2,
+  "thức ăn": 2,
+  "lợi ích": 2,
+  "vị": 2,
+  "tinh bột": 4,
+  "bữa": 21,
+  "thực chất": 2,
+  "cuộc sống": 2,
+  "sức": 3,
+  "insulin": 2,
+  "vai trò": 2,
+  "ăn ít": 2,
+  "sức khỏe": 3,
+  "thực phẩm": 4,
+  "vặt": 2,
+  "hiệu quả": 2,
+  "chất": 2,
+  "trái cây": 4,
+  "glucozơ": 3,
+  "tiếng": 3,
+  "mộ": 2,
+  "đồ": 2,
+  "cớ": 2,
+  "hệ": 2,
+  "quảng cáo": 2,
+  "mật ong": 2,
+  "thành phần": 2,
+  "siro": 2,
+  "siro đường": 2,
+  "chất xơ": 2,
+  "giấm": 3,
+  "tuýp": 2,
+  "hành trình": 2,
+  "nút": 3
+ }
+}

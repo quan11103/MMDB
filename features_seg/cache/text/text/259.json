@@ -1,0 +1,185 @@
+{
+ "n_words": 1159,
+ "n_chunks": 19,
+ "ner": [
+  {
+   "text": "công nghệ DS",
+   "label": "LOC",
+   "count": 3
+  },
+  {
+   "text": "DS",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "full HD",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "thứ ba",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "SAB",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Vega",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "độ phân giải là 2",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Setting",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "dòng 50",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "multi Farm Generation",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Thì",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "UT",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "uây FS",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "1303 2",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ok",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Ok Để",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "FS",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "VGA",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "lượng FPS",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "DS",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "kh Vình",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thêm ba C Bình",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "130 14",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "r ch Sin",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "À",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "60 FPS Còn",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "con Vega",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "công nghệ DS Còn",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tổng khoảng medium 2",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "890 Thì",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ui",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "game": 6,
+  "vega": 2,
+  "phân giải": 5,
+  "chi tiết": 2,
+  "setting": 2,
+  "công nghệ": 8,
+  "công nghệ ds": 5,
+  "ds": 7,
+  "dòng": 2,
+  "ch": 6,
+  "sin": 2,
+  "hiệu năng": 5,
+  "tầm": 5,
+  "fs": 2,
+  "fps": 3,
+  "hiệu năng đơn thuần": 3,
+  "render": 2,
+  "hình ảnh": 3,
+  "2k": 2,
+  "full": 3,
+  "full hd": 2,
+  "hd": 2
+ }
+}

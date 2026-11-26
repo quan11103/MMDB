@@ -1,0 +1,63 @@
+{
+ "n_words": 398,
+ "n_chunks": 7,
+ "ner": [
+  {
+   "text": "Dũng",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Hostinger",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Hostinger Horizon",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "cái Horizon",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trên Horizon",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "sử dụng Tailwin CSS",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tiếng Việt",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "mã Viett QR",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "dũng": 2,
+  "hóa đơn": 3,
+  "hostinger": 2,
+  "công ty": 3,
+  "server": 2,
+  "horizon": 2,
+  "website": 2,
+  "tiền": 2,
+  "giao diện": 2,
+  "hóa": 2,
+  "đơn": 2,
+  "cột": 4,
+  "dữ liệu": 3,
+  "preview": 2,
+  "khách hàng": 2
+ }
+}

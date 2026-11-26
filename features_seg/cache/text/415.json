@@ -1,0 +1,31 @@
+{
+ "n_words": 284,
+ "n_chunks": 5,
+ "ner": [
+  {
+   "text": "Cos",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "số phức",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nhịp điệu ẩn sau chuyển động",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "chuyển động": 2,
+  "hình ảnh": 2,
+  "đường": 3,
+  "đường tròn": 2,
+  "cos": 3,
+  "sin": 2,
+  "lượng giác": 3,
+  "công thức": 2
+ }
+}

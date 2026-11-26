@@ -1,0 +1,139 @@
+{
+ "n_words": 691,
+ "n_chunks": 12,
+ "ner": [
+  {
+   "text": "Dũng",
+   "label": "PER",
+   "count": 8
+  },
+  {
+   "text": "chat GPT",
+   "label": "LOC",
+   "count": 3
+  },
+  {
+   "text": "phần chat GPT",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "hiện tại Dũng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trường đạp Xuyên Bờn",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Úc",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trường đại học Deon",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "ứng dụng AQU",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bên Úc",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "IT",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 2018",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bên Úc Và",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "AQ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "ngày xưa Dũng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "kiểu NLTK",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "kỹ thuật NLP",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Dialog Flow",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "sau năm 2022",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Open",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "đằng sau chat GPT",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Last Language Model LM",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Last Language Model",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "gpt": 5,
+  "dũng": 10,
+  "trường": 2,
+  "úc": 2,
+  "hệ thống": 2,
+  "ai": 4,
+  "công việc": 2,
+  "chương trình": 3,
+  "chatbot": 7,
+  "công nghệ": 2,
+  "hướng": 2,
+  "dialog flow": 2,
+  "chat gpt": 5,
+  "chat": 4,
+  "bản chất": 4,
+  "thông tin": 4,
+  "last language model": 2,
+  "tư duy": 2,
+  "lập luận": 2,
+  "quyết định": 4,
+  "công ty": 2
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "n_words": 864,
+ "n_chunks": 15,
+ "ner": [
+  {
+   "text": "chat GPT",
+   "label": "LOC",
+   "count": 5
+  },
+  {
+   "text": "CV",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "Dũng",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "bên HR",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "OK",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "người HR",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bên Úc",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "prom chaining",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "gpt": 6,
+  "thông tin": 4,
+  "chương trình": 2,
+  "chat": 5,
+  "chat gpt": 6,
+  "kết quả": 4,
+  "dũng": 2,
+  "công ty": 2,
+  "hr": 2,
+  "hồ sơ": 3,
+  "cv": 4,
+  "ai": 2,
+  "luồng": 7,
+  "máy": 3,
+  "mảng": 2,
+  "apply": 2,
+  "prom": 3
+ }
+}

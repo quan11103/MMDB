@@ -1,0 +1,350 @@
+{
+ "n_words": 1604,
+ "n_chunks": 27,
+ "ner": [
+  {
+   "text": "Marie",
+   "label": "PER",
+   "count": 13
+  },
+  {
+   "text": "Mimiko",
+   "label": "PER",
+   "count": 12
+  },
+  {
+   "text": "Yumi",
+   "label": "LOC",
+   "count": 3
+  },
+  {
+   "text": "Nhumi",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "Nhật Bản",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "bệnh viện Kagami",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Nanako",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "bé Nanako",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Mimiko",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "hợp tủ Vội bế Nanako",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Nhật",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "One Miss Call",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "đạo diễn Takashimike",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trường đại học hàng đầu Nhật Bản",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 2018",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Bộ",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "xã hội Nhật",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Nobody Knows",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "All About Lily Cho Confessions",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Shop Litters",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Monster",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phim việc Mimiko",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "ác quỷ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Yumi",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Hiroshi",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "giữa Yumi",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bệnh viện Lật",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Riko",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "em gái Hiroshi",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "vòng 1",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tháng ngắn ngủi",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chị em Mimiko",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "người xung quanh Vì",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Maria",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "trước , Yumi",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chướng Môn Chon",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "sau Yumi",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "lỗ tối om",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Át",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Su",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "rốt cuộc Mimiko",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "hồn ma Mimiko",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chỗ tại sao Mimiko",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "gia đình Mimiko Vốn",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trẻ , Mimiko",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "ấp vỗ về",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tổn thương Nanako",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "mẹ Yumi",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "kẹo ngọt ngào Mimiko",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "miệng Nanako",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cơ thể Yumi",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thám tử Hiroshi",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thành phố Tokyo",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "lý do tại sao One Miss Cole",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "One Miss Cole",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "bàn ăn theo thảm hại của Ringu",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Chuon",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Suy",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "baby baby Yeah",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "nạn nhân": 3,
+  "phim": 7,
+  "khán giả": 2,
+  "marie": 13,
+  "gái": 5,
+  "bệnh": 2,
+  "bệnh hen suyễn": 2,
+  "hen suyễn": 4,
+  "trang": 2,
+  "bé": 11,
+  "nanako": 7,
+  "mimiko": 22,
+  "em gái": 5,
+  "hành vi": 6,
+  "kẹo": 2,
+  "miệng": 4,
+  "trẻ em": 5,
+  "nhật": 2,
+  "xu hướng": 2,
+  "one": 3,
+  "xã hội": 7,
+  "hành vi sai trái": 4,
+  "gia đình": 3,
+  "nhật bản": 3,
+  "trung tâm": 2,
+  "trẻ": 6,
+  "vụ": 2,
+  "mặt": 3,
+  "tâm lý": 2,
+  "nhà trường": 2,
+  "lỗi": 2,
+  "ác": 3,
+  "yumi": 9,
+  "hiroshi": 3,
+  "bệnh viện": 7,
+  "bệnh viện kagami": 2,
+  "kagami": 2,
+  "xác": 2,
+  "hồn": 2,
+  "hồn ma": 2,
+  "ma": 2,
+  "mẹ": 12,
+  "nhumi": 3,
+  "lỗ": 2,
+  "one miss cole": 2,
+  "miss cole": 2,
+  "baby": 2
+ }
+}

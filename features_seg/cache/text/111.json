@@ -1,0 +1,45 @@
+{
+ "n_words": 299,
+ "n_chunks": 5,
+ "ner": [
+  {
+   "text": "phần tia down",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": ", ED",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phần RAM",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Cor Ultra",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "65 W",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bài test PC",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "tia": 2,
+  "tia down": 2,
+  "down": 2,
+  "máy": 5,
+  "pc": 2,
+  "test": 2,
+  "benchmark": 2
+ }
+}

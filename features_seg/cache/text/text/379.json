@@ -1,0 +1,49 @@
+{
+ "n_words": 414,
+ "n_chunks": 7,
+ "ner": [
+  {
+   "text": "mặt phẳng phức",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "+ 2",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "số phức",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phép nhân Mỗi",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Số - 1",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "độ Mọi",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "phép": 2,
+  "trục": 3,
+  "mặt phẳng": 3,
+  "con số": 2,
+  "bao": 2,
+  "phức": 6,
+  "mũi tên": 5,
+  "phép nhân": 3,
+  "góc": 6,
+  "thế giới": 2,
+  "giãn": 2
+ }
+}

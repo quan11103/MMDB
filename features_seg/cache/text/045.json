@@ -1,0 +1,109 @@
+{
+ "n_words": 356,
+ "n_chunks": 6,
+ "ner": [
+  {
+   "text": "Alexander Đại Đế",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Alexander",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Hy Lạp",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Trận Gogamela",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trước Công Nguyên",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Đế Quốc",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "vương quốc Macedonia",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Macedonia",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "200.000 quân 34",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "ngọn giáo Saris",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bên sườn",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trung quân 34",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "quân Macedonia",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "kỵ binh bất khả triển bại",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ấn Độ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nền văn minh Hy Lạp",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "quốc gia Trung",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "trận": 4,
+  "bậc": 2,
+  "thế giới": 2,
+  "vương quốc": 2,
+  "macedonia": 3,
+  "quốc gia": 2,
+  "cuộc chiến": 2,
+  "alexander đại đế": 2,
+  "đối phương": 2,
+  "quân": 5,
+  "quân 34": 3,
+  "alexander": 2,
+  "đội hình": 2,
+  "quân macedonia": 2,
+  "đề chế": 3,
+  "hy lạp": 3
+ }
+}

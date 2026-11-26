@@ -1,0 +1,61 @@
+{
+ "n_words": 380,
+ "n_chunks": 6,
+ "ner": [
+  {
+   "text": "Yoko",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "Hiroshi",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "Nakamura",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "em gái Hiroshi Yamashita",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "lực lượng cảnh sát Tokyo",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Yusaku Motomiya",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Kenji Kawaii",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Natsumi Konishi",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Kenji",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "yoko": 3,
+  "đồ thị": 2,
+  "điện thoại": 2,
+  "nạn nhân": 5,
+  "tiếng": 2,
+  "máy": 2,
+  "cảnh sát": 3,
+  "hiroshi": 3
+ }
+}

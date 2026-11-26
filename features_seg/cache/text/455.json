@@ -1,0 +1,58 @@
+{
+ "n_words": 371,
+ "n_chunks": 6,
+ "ner": [
+  {
+   "text": "cảm giác ẩn danh",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "sàn Bit",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Phenix",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "số Bitcoin",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "hàng tỷ đô",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thị trường Darknet",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Mỹ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "khoảng 94.000 Bitcoin",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "tội phạm": 2,
+  "tiền": 9,
+  "tiền điện tử": 3,
+  "điện tử": 3,
+  "blockchain": 3,
+  "sàn": 3,
+  "vụ": 3,
+  "120.000 bitcoin": 2,
+  "nghi phạm": 2,
+  "bitcoin": 2
+ }
+}

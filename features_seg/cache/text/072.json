@@ -1,0 +1,171 @@
+{
+ "n_words": 1046,
+ "n_chunks": 18,
+ "ner": [
+  {
+   "text": "Anthropic",
+   "label": "PER",
+   "count": 9
+  },
+  {
+   "text": "Mỹ",
+   "label": "LOC",
+   "count": 6
+  },
+  {
+   "text": "năm 2026",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "chính phủ Mỹ",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Fable F",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "giới cầm quyền",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Lầu Nam Góc",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "an ninh vĩ mô",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "CEO Dario",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Anthropic",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Lầu Năm Góc",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Open AI Anpopic",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Clot Fable F",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "lớp mô hình Mathos F",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "mức độ siêu việt",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "mô hình Mathus",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Mathus",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "phần mềm thương mại thuần túy",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Bộ",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "Thương mại Mỹ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Nhà Trắng",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Fable File",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "đối thủ nước ngoài chưng cất thành công Fable F",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thoái lưỡng nan",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "giao thức API",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phiên bản cũ Opus",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thông lũng Silicon",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "lầu": 3,
+  "đầu": 2,
+  "doanh nghiệp": 2,
+  "ai": 3,
+  "chính phủ": 5,
+  "đạo đức": 3,
+  "giới": 2,
+  "anthropic": 10,
+  "mô hình": 13,
+  "an ninh": 5,
+  "mỹ": 9,
+  "công nghệ": 4,
+  "hệ thống": 2,
+  "vũ khí": 2,
+  "chính phủ mỹ": 3,
+  "quốc gia": 3,
+  "cơ quan": 3,
+  "đối thủ": 3,
+  "thương mại": 4,
+  "phiên bản": 2,
+  "mathus": 2,
+  "kỹ thuật": 2,
+  "fable f": 3,
+  "quyền": 2,
+  "quốc tịch": 2,
+  "nước ngoài": 3,
+  "quyết định": 4,
+  "toàn cầu": 2
+ }
+}

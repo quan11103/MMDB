@@ -1,0 +1,55 @@
+{
+ "n_words": 580,
+ "n_chunks": 10,
+ "ner": [
+  {
+   "text": "Dũng",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "điều hòa",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trường Đại học Xuyên Bờn",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nước Úc",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Chat GPT",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Gemini API",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "ai": 5,
+  "device": 2,
+  "ứng dụng": 2,
+  "drone": 2,
+  "thiết bị": 3,
+  "dũng": 3,
+  "đoàn": 4,
+  "đoàn tàu": 4,
+  "tàu": 10,
+  "bang": 2,
+  "hệ thống": 2,
+  "tối": 2,
+  "xung quanh": 3,
+  "model": 2,
+  "sóng": 3,
+  "sóng âm thanh": 2,
+  "âm thanh": 2
+ }
+}

@@ -1,0 +1,94 @@
+{
+ "n_words": 360,
+ "n_chunks": 6,
+ "ner": [
+  {
+   "text": "Open Source",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "GTC",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Open Source",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Nvidia",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "GTC",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Aentic",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "AI Inference",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "CEO Jenson Hoang",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "sáng ngày 17",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tháng giờ Việt Nam",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Build Trust",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "through Open Source",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Research",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "GTC Virtual Pass",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Link",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "open source": 7,
+  "open source ai": 5,
+  "ai": 12,
+  "nvidia": 2,
+  "nvidia gtc": 2,
+  "gtc": 4,
+  "open": 2,
+  "source": 2,
+  "hội nghị": 3,
+  "cộng đồng": 2,
+  "section": 3
+ }
+}

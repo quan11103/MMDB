@@ -1,0 +1,55 @@
+{
+ "n_words": 778,
+ "n_chunks": 13,
+ "ner": [
+  {
+   "text": "C",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "điểm thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cái ích lợi thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "điểm Lợi thứ ba",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "VNZ",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "đầu tháng 11",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Quỹ Dragon Capital",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "quỹ": 15,
+  "chuyên gia": 2,
+  "thị trường": 4,
+  "ngành": 5,
+  "doanh nghiệp": 4,
+  "cổ phiếu": 5,
+  "giá": 2,
+  "thị trường chứng khoán": 3,
+  "lợi": 2,
+  "vốn": 2,
+  "chứng chỉ": 3,
+  "chứng chỉ quỹ": 3
+ }
+}

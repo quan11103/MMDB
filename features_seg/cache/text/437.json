@@ -1,0 +1,24 @@
+{
+ "n_words": 484,
+ "n_chunks": 8,
+ "ner": [
+  {
+   "text": "tính chất lây lan",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "đường": 3,
+  "voi": 2,
+  "môi trường": 12,
+  "lựa chọn": 2,
+  "ý chí": 3,
+  "thói quen": 2,
+  "xã hội": 3,
+  "tín hiệu": 2,
+  "hành vi": 2,
+  "xung quanh": 2,
+  "mục tiêu": 2
+ }
+}

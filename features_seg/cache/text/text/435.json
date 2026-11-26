@@ -1,0 +1,71 @@
+{
+ "n_words": 1298,
+ "n_chunks": 22,
+ "ner": [
+  {
+   "text": "bướng bỉnh",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Mỹ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trước 5",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phương pháp SMART",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tháng 4",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "sáng tháng 10",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "A B C",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "góc độ thứ hai",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "kỷ luật": 2,
+  "góc độ": 2,
+  "voi": 12,
+  "hướng": 3,
+  "kế hoạch": 4,
+  "phương pháp": 6,
+  "giải pháp": 2,
+  "sách": 2,
+  "học sinh": 2,
+  "cha mẹ": 3,
+  "giáo viên": 2,
+  "gia đình": 2,
+  "hành động": 6,
+  "hiệu quả": 4,
+  "kg": 2,
+  "bữa": 2,
+  "bữa tối": 2,
+  "tối": 3,
+  "sức mạnh": 2,
+  "hành động then chốt": 2,
+  "mục tiêu": 6,
+  "bưu thiếp": 2,
+  "con số": 2
+ }
+}

@@ -1,0 +1,44 @@
+{
+ "n_words": 303,
+ "n_chunks": 5,
+ "ner": [
+  {
+   "text": "Số 3",
+   "label": "LOC",
+   "count": 3
+  },
+  {
+   "text": "Số - 2",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "số 0",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "số 6",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "gốc tọa độ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "độ quanh điểm gốc Điểm",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "con số": 3,
+  "góc": 3,
+  "phép nhân": 3,
+  "trục": 3,
+  "gốc": 4,
+  "trái": 2
+ }
+}

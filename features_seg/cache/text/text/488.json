@@ -1,0 +1,107 @@
+{
+ "n_words": 1236,
+ "n_chunks": 21,
+ "ner": [
+  {
+   "text": "mớ rau cân thịt",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "giá 20",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trường cover khoảng 25",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cục điều tra liên bang Mỹ FBI",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trường Đại học lớn bên Mỹ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Harvard",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Cris VOS",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "series bốn",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "sách Tư Duy Nhanh",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Và Chậm",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Fast and Slow",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Daniel",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Bộc Phát",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "bạn Chậm",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Chắc",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "cuộc sống": 2,
+  "đàm phán": 2,
+  "giá": 3,
+  "cân": 2,
+  "cân thịt": 2,
+  "thịt": 2,
+  "phương án": 2,
+  "học bổng": 2,
+  "trường": 7,
+  "cover": 2,
+  "tiền": 2,
+  "tiền học phí": 2,
+  "học phí": 2,
+  "chris voss": 3,
+  "tác giả": 2,
+  "sách": 8,
+  "phương pháp": 3,
+  "bài học": 2,
+  "lập luận": 2,
+  "cảm xúc": 4,
+  "lý thuyết": 2,
+  "con người": 2,
+  "chậm": 2,
+  "nguyên tắc": 3
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "n_words": 648,
+ "n_chunks": 11,
+ "ner": [
+  {
+   "text": "trí khôn",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "mấy viên pin",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thị trường lao động nhở",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Chess",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Toy Story",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "cùng một Chúa Trời",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "phim": 5,
+  "máy tính": 3,
+  "máy tính bảng": 2,
+  "bảng": 2,
+  "trẻ": 3,
+  "đồ chơi": 16,
+  "đồ chơi truyền thống": 5,
+  "truyền thống": 6,
+  "công nghệ": 5,
+  "con người": 4,
+  "ipad": 2,
+  "đồ chơi công nghệ": 3,
+  "câu chuyện": 2,
+  "đồ": 2,
+  "cụ": 2
+ }
+}

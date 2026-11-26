@@ -1,0 +1,53 @@
+{
+ "n_words": 844,
+ "n_chunks": 14,
+ "ner": [
+  {
+   "text": "Inamuri K",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Hi",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "B",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "chân quý",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tâm biết ơn",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Tâm",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "ngày hôm nay",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "sách": 2,
+  "đời": 2,
+  "năng lực": 3,
+  "biết ơn": 2,
+  "tâm": 3,
+  "inamuri k": 2,
+  "sức mạnh": 4,
+  "cuộc sống": 2,
+  "cuộc đời": 3,
+  "thói quen": 3
+ }
+}

@@ -1,0 +1,212 @@
+{
+ "n_words": 540,
+ "n_chunks": 9,
+ "ner": [
+  {
+   "text": "Doomsday",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Doomsday",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Treller",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Magido",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "phim X-Men",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "sự kiện D23 Marvel",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nhân vật Night Crawler",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nam diễn viên Hug Jackman",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Deadpool Noob",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "chủ tịch Kevin Figy",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "San Diego",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Brian Reynolds",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trang phục Deadpool",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bài trung bất tử Deadpool và Wolverine",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "X-Men",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "lần cuối Wolverine",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Fox",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "sự kiện D23",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Zan Cast",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "phần X-Men Reboot",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nam diễn viên Kid Corner",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Cyclops Smara Wiving",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Emma Frost Christopher Abot",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "giáo sư X",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Rock",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Boy thủ vai Storm",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Jean Grey",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "sau phần Spider-Man Brand New Day",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phim năm 2028",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tài tử Adam Driver Face",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "MCU",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "cùng Secret World",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Marvel",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Franklin Richard Jin Cre",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "tên X-Men Và",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "MCU",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "phần phim Avengers",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Video",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "doomsday": 4,
+  "phim": 5,
+  "x-men": 2,
+  "sự kiện": 3,
+  "trang phục": 2,
+  "nhân vật": 2,
+  "nam": 2,
+  "nam diễn viên": 2,
+  "diễn viên": 2,
+  "cá": 2,
+  "wolverine": 2,
+  "khán giả": 2,
+  "phản diện": 2,
+  "mcu": 2
+ }
+}

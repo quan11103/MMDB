@@ -1,0 +1,33 @@
+{
+ "n_words": 329,
+ "n_chunks": 6,
+ "ner": [
+  {
+   "text": "Mendelef",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Nga",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Mendelef",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "electron": 7,
+  "electron lớp": 2,
+  "lớp": 5,
+  "bảng": 2,
+  "hàng": 2,
+  "cột": 6,
+  "mendelef": 2,
+  "nguyên tố": 4,
+  "tính chất": 3,
+  "nguyên tử": 2
+ }
+}

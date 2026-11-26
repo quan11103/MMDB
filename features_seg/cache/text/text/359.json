@@ -1,0 +1,23 @@
+{
+ "n_words": 477,
+ "n_chunks": 8,
+ "ner": [
+  {
+   "text": "ngày thứ 400",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "cuộc đời": 2,
+  "công cụ": 2,
+  "hóa": 2,
+  "thành viên": 2,
+  "hành trình": 2,
+  "trang": 2,
+  "trang nhật ký": 2,
+  "nhật ký": 2,
+  "góc": 2,
+  "nút": 3
+ }
+}

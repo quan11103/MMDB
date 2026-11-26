@@ -1,0 +1,42 @@
+{
+ "n_words": 522,
+ "n_chunks": 9,
+ "ner": [
+  {
+   "text": "Botstrom",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Doomsday Argument",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "khả năng phòng chánh thảm họa",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Dooms",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "khoảng 1",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "phản biện": 4,
+  "danh sách": 4,
+  "thứ hạng": 2,
+  "tập hợp": 2,
+  "con người": 2,
+  "lập luận": 3,
+  "giả định": 3,
+  "kết quả": 2,
+  "thông tin": 2
+ }
+}

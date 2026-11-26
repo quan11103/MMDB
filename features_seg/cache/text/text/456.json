@@ -1,0 +1,132 @@
+{
+ "n_words": 805,
+ "n_chunks": 14,
+ "ner": [
+  {
+   "text": "Lan",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "vụ án Vạn Thịnh Phát",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Trương Mỹ Lan",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "hệ thống như thế nào",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Vạn Thịnh Phát",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Vạn Tình Phát",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "bước thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phần thứ ba",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "hàng không miền Nam",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "SASCO",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "miền Bắc",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "hàng không SASO Phú Quốc",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "địa ốc Đông Á",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": ", TNH Hạ Long",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "khống Vạn Thịnh Phát",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Nguyễn Cao Chí",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "giai đoạn thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "giai đoạn hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nguồn tài sản tham mô của SCB",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "tài sản": 7,
+  "án": 2,
+  "vạn thịnh phát": 3,
+  "placement": 2,
+  "layering": 2,
+  "integration": 2,
+  "tiền": 16,
+  "hệ thống": 2,
+  "lan": 2,
+  "công ty": 13,
+  "ngân hàng": 2,
+  "hồ sơ": 2,
+  "hợp đồng": 2,
+  "đất": 2,
+  "dự án": 3,
+  "ban": 2,
+  "doanh nghiệp": 2,
+  "nước ngoài": 2,
+  "cơ quan": 2,
+  "ban đầu": 2,
+  "dòng": 2,
+  "dòng tiền": 2,
+  "cổ phần": 6,
+  "hàng không": 2,
+  "miền": 2,
+  "phát hành": 2,
+  "khống": 2,
+  "bị cáo": 2,
+  "giai đoạn": 4
+ }
+}

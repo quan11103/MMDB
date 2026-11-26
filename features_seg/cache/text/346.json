@@ -1,0 +1,18 @@
+{
+ "n_words": 472,
+ "n_chunks": 8,
+ "ner": [
+  {
+   "text": "Bát",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "lộ trình": 2,
+  "tâm": 2,
+  "tim": 2,
+  "trí tuệ": 2,
+  "đường": 2
+ }
+}

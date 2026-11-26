@@ -1,0 +1,105 @@
+{
+ "n_words": 826,
+ "n_chunks": 14,
+ "ner": [
+  {
+   "text": "Athens",
+   "label": "PER",
+   "count": 4
+  },
+  {
+   "text": "Iran",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Yang",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "lịch sử táo bạo",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Mỹ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Iran",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "chiến dịch quân sự tai tiếng của Athens",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đỉnh cao quyền lực",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Aades",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Siêu",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "giáo sư Yang",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Hoa Kỳ",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Hoa Kỳ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tính quyết định Athens",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Cherry Picking",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "luận điểm": 2,
+  "yang": 2,
+  "phép": 6,
+  "lịch sử": 7,
+  "iran": 3,
+  "chiến dịch": 4,
+  "quân sự": 4,
+  "athens": 7,
+  "câu chuyện": 3,
+  "công nguyên": 2,
+  "kết quả": 2,
+  "lực lượng": 2,
+  "hoa kỳ": 2,
+  "quyết định": 2,
+  "khác biệt": 2,
+  "toàn cầu": 2,
+  "hải quân": 2,
+  "chiến tranh": 3,
+  "kinh tế": 2,
+  "yếu tố": 2,
+  "ẩn dụ": 2,
+  "tiền lệ": 2
+ }
+}

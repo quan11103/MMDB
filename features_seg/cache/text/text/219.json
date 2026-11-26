@@ -1,0 +1,203 @@
+{
+ "n_words": 744,
+ "n_chunks": 13,
+ "ner": [
+  {
+   "text": "0.05 , M",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Acer",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "S",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "so MSI",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Acer",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "97 % SRGB",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "% A RGB",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "% DCB3",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "% SACB",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "% ACB",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "% DAC3",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "97 % SCB",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "% AGB",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "% DACB3",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Thì",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Asus",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "cái gà màu màu F",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "L",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "White Boy",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "394 ní",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "1230 chia 1",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "WB",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "cái ngưỡng là 600",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "254 N",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "1060 chia 1",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "con UFO",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "game FPS",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "con MSI",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "à độ sáng nè",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cái round 2",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "MSI",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Dĩ",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "con Spider Elite",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Đế",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "R",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "đối thủ": 2,
+  "round": 2,
+  "chất lượng": 2,
+  "hiển thị": 2,
+  "màn hình": 3,
+  "nét": 2,
+  "msi": 3,
+  "acer": 3,
+  "mặt": 2,
+  "msi á": 2,
+  "màu": 9,
+  "sa lịch": 2,
+  "thông số": 3,
+  "ngưỡng": 2,
+  "game": 2
+ }
+}

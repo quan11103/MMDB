@@ -1,0 +1,114 @@
+{
+ "n_words": 1003,
+ "n_chunks": 17,
+ "ner": [
+  {
+   "text": "Andy",
+   "label": "PER",
+   "count": 19
+  },
+  {
+   "text": "Do",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Fake",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "thuốc lá Hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Kinh Thánh",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "số trang",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Đức Mẹ Đồng Trinh",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "nghị lực gọi là vãi cứt",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "không chỉ Red",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cai tù quản giáo",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "việc vượt ngục",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Red",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "hầm thoát thân",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Hley",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "bạn tù tới quản giáo",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Toranaga",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "tim thứ ba",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Andy",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "tù": 6,
+  "andy": 21,
+  "cai ngục": 2,
+  "thương hiệu": 2,
+  "hình ảnh": 2,
+  "gọt": 2,
+  "thư viện": 3,
+  "red": 2,
+  "đầu": 3,
+  "cảm giác": 2,
+  "hầm": 3,
+  "bề ngoài": 3,
+  "quản giáo": 3,
+  "cỡ": 3,
+  "chính trị": 3,
+  "thằng cha": 2
+ }
+}

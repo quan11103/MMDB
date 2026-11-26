@@ -1,0 +1,110 @@
+{
+ "n_words": 688,
+ "n_chunks": 12,
+ "ner": [
+  {
+   "text": "mặt trận Việt Minh",
+   "label": "LOC",
+   "count": 3
+  },
+  {
+   "text": "Nhật",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Pháp",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Mỹ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "lính Việt Nam",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "vỏ cây chuối vỏ khoai l vỏ sắn",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cơn đói Cách thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Tha Hương",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "như là Thái Bình",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Hải Dương Nam Định Ninh Bình",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "thành phố Hà Nội",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 1945",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Việt Nam",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bản thân thành phố Hà Nội Vốn",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đói Cách thứ ba",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "địa phương mặt trận Việt Minh",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "nhật": 2,
+  "việt nam": 2,
+  "tinh thần": 2,
+  "đường": 3,
+  "nạn": 4,
+  "nhân dân": 4,
+  "thực phẩm": 4,
+  "vỏ": 5,
+  "bột": 2,
+  "đồ ăn": 2,
+  "dân": 2,
+  "đói cách": 2,
+  "gia đình": 2,
+  "lương thực": 4,
+  "thành phố": 3,
+  "thành phố hà nội": 2,
+  "hà nội": 2,
+  "mặt trận": 4,
+  "mặt trận việt minh": 4,
+  "việt minh": 4,
+  "thóc": 2,
+  "đội": 2
+ }
+}

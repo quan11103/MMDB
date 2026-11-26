@@ -1,0 +1,163 @@
+{
+ "n_words": 1463,
+ "n_chunks": 25,
+ "ner": [
+  {
+   "text": "RAWS",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "Rose",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "RAW",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "Ross",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "Harvard",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "difference principle",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bạn B",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Mỹ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phía bạn B",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bạn sinh viên A kia",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "LinkedIn",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "vế thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Vin",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "RMIT",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "bạn sinh viên A Ban",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Tiếng Anh",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Bill Gates",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "CEO",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tiếng Anh",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "lost out",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tự do Libertarian",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Việt Nam",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tháng chẳng hạn",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bạn Tiktoker",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "xã hội": 15,
+  "nguyên tắc": 3,
+  "difference": 2,
+  "difference principle": 2,
+  "principle": 2,
+  "thuế": 3,
+  "giáo dục": 2,
+  "y tế": 2,
+  "raws": 3,
+  "màn": 2,
+  "sinh viên": 4,
+  "rose": 3,
+  "harvard": 2,
+  "lớp": 2,
+  "mỹ": 2,
+  "raw": 3,
+  "hệ thống": 4,
+  "ross": 3,
+  "yếu tố": 2,
+  "công ty": 5,
+  "đơn": 3,
+  "năng lực": 2,
+  "trường": 3,
+  "tiếng": 2,
+  "xã hội công bằng": 2,
+  "bẩm sinh": 2,
+  "của cải": 3,
+  "lợi": 2,
+  "thành quả": 2,
+  "who": 2,
+  "who have": 2,
+  "have": 2,
+  "lương": 2,
+  "lương trung bình": 2,
+  "tiktoker": 2
+ }
+}

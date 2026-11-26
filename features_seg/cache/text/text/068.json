@@ -1,0 +1,400 @@
+{
+ "n_words": 1738,
+ "n_chunks": 29,
+ "ner": [
+  {
+   "text": "Dario",
+   "label": "PER",
+   "count": 11
+  },
+  {
+   "text": "Open",
+   "label": "LOC",
+   "count": 5
+  },
+  {
+   "text": "Dario Amode",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "Trung Quốc",
+   "label": "LOC",
+   "count": 3
+  },
+  {
+   "text": "Open",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "Anthropic",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "CEO",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "thung lũng Silicon",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": ", Dario",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": ", Anthropic",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": ", Dario Amode",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thung lũng Siligan",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Jeff",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": ", Bezos",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": ", Elomus",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tình cá nhân Sinh",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 1983",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "San Francisco",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": ", Tario",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "quãng thời gian tuổi thơ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thanh niên Dario",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 2006",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "sau ngày cha ông",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tháng không thể nào",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tuổi 16",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Mỹ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Đại học Ctech",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Stanford",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "bảng tiến sĩ ngành lý sinh",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Đại học Princeton",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Baidu",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Andrew NG",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Cera",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Deep Speed",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Baid",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "việc Terio Amode",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chính phủ Mỹ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Bau",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "định luật tỉ lệ scaling laws",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "riêng Dario",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Google Brain",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 2016",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nhà khoa học máy tính Ilia Saskever",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "GPT2",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "GPT3",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Derio",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "GPT3",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "thương mại hóa GPT3",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Jerry Om",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "năm 2025",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trung thực đáng lo ngại",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ấn Độ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": ", Jerry",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Samtan",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "chính thủ từng Mori",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Antropic",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Daniela Amode",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Jack Clark",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Chris Ola",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "chuyên gia số 1",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Tom Brown",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "mô hình GPT3",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Jerry Klin",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Sam MAIS",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "định luật tỉ lệ danh tiếng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "vấn đề đạo đức Ông",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "tập đoàn": 2,
+  "anthropic": 3,
+  "dario amode": 4,
+  "hành trình": 2,
+  "ai": 23,
+  "thung lũng": 3,
+  "ceo": 2,
+  "truyền thông": 2,
+  "dario": 16,
+  "nhà khoa học": 4,
+  "động lực": 2,
+  "gia đình": 3,
+  "công nghệ": 4,
+  "quãng": 2,
+  "thế giới": 4,
+  "triết lý": 3,
+  "dự án": 2,
+  "hệ thống": 5,
+  "khả năng": 3,
+  "thông tin": 3,
+  "hướng": 3,
+  "căn bệnh": 2,
+  "câu chuyện": 2,
+  "y khoa": 2,
+  "phương pháp": 2,
+  "đột phá": 2,
+  "tỉ lệ": 4,
+  "khoa học": 2,
+  "máy tính": 2,
+  "mỹ": 2,
+  "lĩnh vực": 2,
+  "đại học": 2,
+  "tiến sĩ": 2,
+  "ngành": 4,
+  "thung lũng silicon": 2,
+  "silicon": 2,
+  "chủ tịch": 3,
+  "ngành ai": 3,
+  "trung quốc": 3,
+  "tầm": 2,
+  "dữ liệu": 3,
+  "hóa": 3,
+  "định luật": 2,
+  "định luật tỉ lệ": 2,
+  "năng lực": 2,
+  "sức mạnh": 3,
+  "open": 8,
+  "open ai": 8,
+  "kỹ thuật": 3,
+  "mô hình": 3,
+  "gpt3": 4,
+  "con người": 2,
+  "phản hồi": 2,
+  "chuyên gia": 2,
+  "đội ngũ": 3,
+  "đạo đức": 3,
+  "thương mại": 2,
+  "thương mại hóa": 2,
+  "công ty": 3,
+  "hệ thống ai": 2,
+  "jerry": 2,
+  "chính sách": 2
+ }
+}

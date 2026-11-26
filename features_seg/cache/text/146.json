@@ -1,0 +1,37 @@
+{
+ "n_words": 357,
+ "n_chunks": 6,
+ "ner": [
+  {
+   "text": "thứ ba",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nhau á",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thứ nhất",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phần tóc trang phục",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Nano2",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "hình ảnh": 8,
+  "ảnh": 3,
+  "anh em": 2,
+  "storybard": 2
+ }
+}

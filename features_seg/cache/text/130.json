@@ -1,0 +1,21 @@
+{
+ "n_words": 388,
+ "n_chunks": 7,
+ "ner": [
+  {
+   "text": "trên máy tính",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "điện thoại": 5,
+  "máy tính": 3,
+  "ứng dụng": 2,
+  "thiết bị": 2,
+  "tablet": 2,
+  "túi": 3,
+  "túi quần": 2,
+  "quần": 2
+ }
+}

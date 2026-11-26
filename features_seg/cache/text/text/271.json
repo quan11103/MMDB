@@ -1,0 +1,27 @@
+{
+ "n_words": 328,
+ "n_chunks": 6,
+ "ner": [
+  {
+   "text": "Dũng",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "Anthropic",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "tập hợp hữu hạn",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "dũng": 3,
+  "tập hợp": 2,
+  "thông tin": 3,
+  "tiến độ": 2
+ }
+}

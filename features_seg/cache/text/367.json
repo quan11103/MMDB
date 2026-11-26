@@ -1,0 +1,33 @@
+{
+ "n_words": 322,
+ "n_chunks": 6,
+ "ner": [
+  {
+   "text": "đồng xu",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "cơ học Newton",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Percy Diaconis",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "khoảng 51",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "đồng": 3,
+  "bàn tay": 3,
+  "kết quả": 2,
+  "đồng xu": 3,
+  "ban đầu": 3
+ }
+}

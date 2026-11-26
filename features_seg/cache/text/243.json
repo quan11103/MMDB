@@ -1,0 +1,85 @@
+{
+ "n_words": 337,
+ "n_chunks": 6,
+ "ner": [
+  {
+   "text": "VN",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Let's",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "tên gọi là Nitro Proven",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Intel Core",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "RAM",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "thanh 16 GB DR5",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "96 GB nha",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "GB SD",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "CBU5",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "trang chính chủ của Acer",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chương trình thời điểm hiện tại Mason Cool",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "showroom Gear",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "laptop Acer",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "GV",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "laptop": 4,
+  "chi tiết": 2,
+  "gb": 2,
+  "ram": 2,
+  "acer": 2,
+  "chương trình": 2,
+  "vn": 2
+ }
+}

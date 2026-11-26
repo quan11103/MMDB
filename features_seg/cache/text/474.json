@@ -1,0 +1,97 @@
+{
+ "n_words": 1716,
+ "n_chunks": 29,
+ "ner": [
+  {
+   "text": "Deepwork",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "trên Good Reads",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "sự chán trường",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Deep Work",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Shar Work",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "vòng 3",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Thành",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nguyên tắc số hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nguyên tắc số ba",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "ADHD",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "shallow work À",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "ẩn từ bỏ mạng xã hội",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "hiệu quả": 3,
+  "email": 3,
+  "sách": 17,
+  "tác giả": 3,
+  "lập trình": 2,
+  "nguyên tắc": 5,
+  "shallow": 3,
+  "shallow work": 5,
+  "work": 7,
+  "tiếng": 4,
+  "tuần": 3,
+  "công việc": 2,
+  "block": 2,
+  "lịch": 3,
+  "xã hội": 5,
+  "tips": 2,
+  "đoạn": 4,
+  "ngành nghề": 2,
+  "quyền": 3,
+  "xung quanh": 2,
+  "trạng thái": 2,
+  "time": 2,
+  "script": 2,
+  "tinh thần": 2
+ }
+}

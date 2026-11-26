@@ -1,0 +1,100 @@
+{
+ "n_words": 1191,
+ "n_chunks": 20,
+ "ner": [
+  {
+   "text": "Đức Phật",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "Bát Chánh Đạo",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Hi",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Parision",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "vòng lặp bất tận",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Đức Phật Thích Ca Mâu Ni",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "bên trong như thế nào",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "B",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "thiền sư Goer",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Goer",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "giáo lý Đức Phật",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phương pháp vipassana",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chuỗi nhân quả",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "sách": 5,
+  "hạnh phúc": 2,
+  "đời": 2,
+  "đau khổ": 2,
+  "khổ đau": 9,
+  "quy luật": 3,
+  "đường": 5,
+  "đức phật": 5,
+  "bản chất": 4,
+  "thực tại": 2,
+  "nguyên nhân": 4,
+  "phương pháp": 4,
+  "phương pháp vipassana": 2,
+  "vipassana": 3,
+  "thiền": 3,
+  "vibassana": 3,
+  "thực tướng": 3,
+  "vũ trụ": 2,
+  "goer": 2,
+  "thế giới": 2,
+  "logic": 2,
+  "lộ trình": 3,
+  "tu tập": 2,
+  "sự thật": 2,
+  "bát chánh đạo": 2,
+  "hành trình": 3,
+  "cuộc đời": 2
+ }
+}

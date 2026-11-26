@@ -1,0 +1,54 @@
+{
+ "n_words": 571,
+ "n_chunks": 10,
+ "ner": [
+  {
+   "text": "Windows",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Apple",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "thứ 20",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ờ",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "vấn đề số hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "lược FPS",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tầng s web là 30 Hz",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "vũ trụ": 2,
+  "2k": 2,
+  "nét": 2,
+  "game": 2,
+  "giá thành": 2,
+  "4k": 3,
+  "anh em": 2,
+  "s web": 2,
+  "màn hình": 2,
+  "series": 4,
+  "hz": 2
+ }
+}

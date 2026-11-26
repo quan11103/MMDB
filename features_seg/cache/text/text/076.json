@@ -1,0 +1,159 @@
+{
+ "n_words": 676,
+ "n_chunks": 11,
+ "ner": [
+  {
+   "text": "Atlantis",
+   "label": "PER",
+   "count": 5
+  },
+  {
+   "text": "Plato",
+   "label": "PER",
+   "count": 5
+  },
+  {
+   "text": "Đại Tây Dương",
+   "label": "LOC",
+   "count": 5
+  },
+  {
+   "text": "Atlantis",
+   "label": "LOC",
+   "count": 3
+  },
+  {
+   "text": ", Địa Trung Hải",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Caribe",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Nam Cực",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bản đối thoại triết học của Plato",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bên ngoài cột trụ Herkulis",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thế kỷ thứ 19",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Platoke",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "giả thuyết , Santorini",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "văn minh Minoan",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "biển Aion",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm trước công nguyên , núi lửa Terra",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đảo Santoroni",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đảo Crete",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Santorini",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Địa Trung Hải",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "ngoài Gibrat",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Minoan",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "thế kỷ 20",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đái biển Caribe",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Bimini Road",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Bahamas",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đáy Caribe Caribe",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "atlantis": 8,
+  "giả thuyết": 4,
+  "plato": 6,
+  "đại tây dương": 5,
+  "địa trung hải": 3,
+  "caribe": 4,
+  "văn bản": 2,
+  "thời": 2,
+  "thế kỷ": 3,
+  "lục địa": 2,
+  "biển": 3,
+  "địa chất": 3,
+  "bằng chứng": 2,
+  "đáy": 2,
+  "khu vực": 3,
+  "cấu trúc": 4,
+  "santorini": 2,
+  "văn minh": 3,
+  "minoan": 2,
+  "đảo": 2,
+  "đá": 2
+ }
+}

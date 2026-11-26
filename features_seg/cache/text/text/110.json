@@ -1,0 +1,77 @@
+{
+ "n_words": 255,
+ "n_chunks": 4,
+ "ner": [
+  {
+   "text": "PC",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "bề test PC",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Max",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Trênh",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "lần thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Lenovo Id Center",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "sở hữu Intel Contra",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "5225 SD",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "512 GB RAM",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bản 16 GB RAM",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Phong Vũ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trên 20",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ky Châu",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "pc": 4,
+  "văn phòng": 3,
+  "máy": 2,
+  "gb ram": 2
+ }
+}

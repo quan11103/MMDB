@@ -1,0 +1,121 @@
+{
+ "n_words": 1114,
+ "n_chunks": 19,
+ "ner": [
+  {
+   "text": "Yang",
+   "label": "PER",
+   "count": 5
+  },
+  {
+   "text": "khoa học Cho",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Yang Yekin",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "series Secret",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 2025",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "giáo sư Yang",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Darwin Ông",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "dự án Predictive History",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Predtive History",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "tư duy phản biện",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "kênh Predictive History",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "series Secret History",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ge Strategy",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "logic logic",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Predictive History",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "mức cách thức",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "lịch sử": 4,
+  "khoa học": 9,
+  "lý thuyết": 5,
+  "trò chơi": 2,
+  "phép": 3,
+  "cấu trúc": 2,
+  "dự đoán": 2,
+  "phương pháp": 2,
+  "phản bác": 2,
+  "series": 2,
+  "giáo sư": 2,
+  "giáo sư yang": 2,
+  "yang": 6,
+  "bác bỏ": 3,
+  "tiến hóa": 2,
+  "cơ chế": 2,
+  "con người": 4,
+  "nền tảng": 4,
+  "bản chất": 2,
+  "dự án": 2,
+  "predictive history": 4,
+  "sự thật": 3,
+  "khoa học hiện đại": 2,
+  "đường": 2,
+  "công cụ": 3,
+  "xã hội": 2,
+  "phiên bản": 2,
+  "nhận thức": 4,
+  "thực tại": 2,
+  "sản phẩm": 2,
+  "kết quả": 2,
+  "tư duy": 2,
+  "logic": 2
+ }
+}

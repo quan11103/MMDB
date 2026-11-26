@@ -1,0 +1,59 @@
+{
+ "n_words": 438,
+ "n_chunks": 7,
+ "ner": [
+  {
+   "text": "Hy Lạp",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Narcissus",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nữ thần EO",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": ", Narcisus",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thuật ngữ NC",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tính cách Ái Kỷ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "quyền vô điều kiện",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nhân cách ái kỷ tức NPD",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "khoảng 1",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "ái kỷ": 4,
+  "chàng": 2,
+  "mặt": 2,
+  "quyền": 2,
+  "nét": 2,
+  "nam giới": 2
+ }
+}

@@ -1,0 +1,103 @@
+{
+ "n_words": 631,
+ "n_chunks": 11,
+ "ner": [
+  {
+   "text": "Acer",
+   "label": "PER",
+   "count": 4
+  },
+  {
+   "text": "RTX",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "độ phân giải Full HD",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "màn hình 180 Hz",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "I9",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Nhóm người thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nền 180 H",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "con chip i9",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Predator",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Acer Việt Nam",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "đầu năm 2025",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đầu tháng 7",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tháng 9",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chương trình Back",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "VNG",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Prator",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "test": 2,
+  "máy": 6,
+  "game": 3,
+  "rtx": 3,
+  "rtx 5050": 2,
+  "màn hình": 2,
+  "công việc": 3,
+  "i9": 3,
+  "nhu cầu": 2,
+  "dòng": 3,
+  "dòng máy": 2,
+  "chính sách": 2,
+  "acer": 5,
+  "đầu": 2,
+  "prator": 2
+ }
+}

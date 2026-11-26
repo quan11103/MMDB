@@ -1,0 +1,17 @@
+{
+ "n_words": 331,
+ "n_chunks": 6,
+ "ner": [
+  {
+   "text": "Marrowbone",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "mẹ": 4,
+  "máu": 2,
+  "máu lạnh": 2,
+  "anh em": 3
+ }
+}

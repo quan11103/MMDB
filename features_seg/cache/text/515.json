@@ -1,0 +1,85 @@
+{
+ "n_words": 865,
+ "n_chunks": 15,
+ "ner": [
+  {
+   "text": "Việt Nam",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "thì Quỹ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cổ phiếu Niết",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thị trường Limit",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "vn1 hnx30 Vân Vân",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Vân Vân",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Quỹ",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Dragon",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "C ssi Mira",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Còn",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "ph Nên",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "chứng chỉ": 4,
+  "chứng chỉ quỹ": 4,
+  "quỹ": 23,
+  "chủ động": 3,
+  "thụ động": 2,
+  "copy": 2,
+  "thị trường": 14,
+  "mô phỏng": 3,
+  "etf": 6,
+  "chỉ số": 7,
+  "sàn": 4,
+  "công ty": 6,
+  "vốn": 3,
+  "vốn hóa": 3,
+  "hóa": 3,
+  "ph": 3,
+  "việt nam": 2,
+  "vân vân": 2,
+  "quỹ etf": 2,
+  "vn30": 3,
+  "danh sách": 5,
+  "phí": 3
+ }
+}

@@ -1,0 +1,70 @@
+{
+ "n_words": 1238,
+ "n_chunks": 21,
+ "ner": [
+  {
+   "text": "Ezra Clan",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Vox",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bánh mì bánh mì trí nhớ , bánh mì ghi nhớ của Doraemon",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Chat GPT",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Gemini",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Masterchef",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "char GPT",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ờ",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "trên Link",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bài phỏng",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "nội dung": 7,
+  "hôm qua": 2,
+  "đầu": 4,
+  "cảm giác": 4,
+  "công ty": 2,
+  "bánh mì": 3,
+  "ai": 8,
+  "sách": 3,
+  "mô hình": 6,
+  "góc": 2,
+  "prom": 3,
+  "khóa học": 2
+ }
+}

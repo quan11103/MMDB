@@ -1,0 +1,87 @@
+{
+ "n_words": 883,
+ "n_chunks": 15,
+ "ner": [
+  {
+   "text": "Bluring",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Bling",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Bước",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tuần Một",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Blurting",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Active Record",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": ", Space Repetition",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Bid",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "chỉ số IQ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Limit",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "trên B Limit",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "T",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "bluring": 3,
+  "bluring method": 3,
+  "method": 3,
+  "kỹ thuật": 2,
+  "nguyên lý": 2,
+  "quy trình": 2,
+  "tài liệu": 3,
+  "giấy": 2,
+  "đầu": 3,
+  "công cụ": 2,
+  "kiến thức": 4,
+  "blurting": 2,
+  "bài học": 2,
+  "hành trình": 5,
+  "phương pháp": 3,
+  "tư duy": 2,
+  "hóa": 2,
+  "phụ nữ": 2,
+  "limit": 2
+ }
+}

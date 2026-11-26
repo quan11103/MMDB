@@ -1,0 +1,43 @@
+{
+ "n_words": 352,
+ "n_chunks": 6,
+ "ner": [
+  {
+   "text": "mức tính xảo",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thời gian cách ly",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Bước",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đơn nhiệm Single Tasking",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Flow",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Bước",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "quy trình": 2,
+  "flow": 3,
+  "phiên": 4,
+  "hành động": 2,
+  "bài toán": 2
+ }
+}

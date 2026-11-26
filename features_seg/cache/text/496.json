@@ -1,0 +1,31 @@
+{
+ "n_words": 302,
+ "n_chunks": 5,
+ "ner": [
+  {
+   "text": "C",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "COD",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "tiếng Anh",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "quy luật": 4,
+  "bóng": 2,
+  "phẩm giá": 2,
+  "con người": 2,
+  "hành động": 2,
+  "the": 2,
+  "the right": 2,
+  "right": 2
+ }
+}

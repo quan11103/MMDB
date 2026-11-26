@@ -1,0 +1,145 @@
+{
+ "n_words": 984,
+ "n_chunks": 17,
+ "ner": [
+  {
+   "text": "laptop Gaming",
+   "label": "LOC",
+   "count": 5
+  },
+  {
+   "text": "bộ PC",
+   "label": "LOC",
+   "count": 3
+  },
+  {
+   "text": "chiếc Asus T",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "C S",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "RX",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Quá",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "PC tự Build",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "m PC",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phân khúc 40",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "không gian nha Thì",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "k C Cờ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Dạ Đạ",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "chiếc Asus",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Gaming a14 Úi",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "CPU MD",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Build PC",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Build",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "Build",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Dạ",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "trên 20",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "laptop Windows",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "giá": 12,
+  "phân khúc": 4,
+  "laptop": 11,
+  "laptop gaming": 5,
+  "gaming": 5,
+  "chi phí": 2,
+  "asus t": 2,
+  "asus t gaming a15": 2,
+  "gaming a15": 2,
+  "hàng": 2,
+  "hãng": 2,
+  "levo": 3,
+  "mẫu": 2,
+  "máy": 2,
+  "hiệu năng": 2,
+  "build": 4,
+  "bpc": 2,
+  "pc": 4,
+  "màn hình": 4,
+  "laptop mỏng": 3,
+  "laptop mỏng nhẹ": 2,
+  "trải nghiệm": 4,
+  "rotic": 2,
+  "link": 2,
+  "chương trình": 3,
+  "sinh viên": 2,
+  "ph": 2
+ }
+}

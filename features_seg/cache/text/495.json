@@ -1,0 +1,54 @@
+{
+ "n_words": 452,
+ "n_chunks": 8,
+ "ner": [
+  {
+   "text": "năm 1724",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 1804",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "C",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Khoái Lạc",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "lý trí Lý Trí",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "hãng nước ngọt Sprite",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Tạm",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "đúng đắn": 2,
+  "kant": 2,
+  "utilitarianism": 2,
+  "hành động": 2,
+  "con người": 3,
+  "phẩm giá": 2,
+  "lý trí": 3,
+  "kh": 3,
+  "khoái lạc": 2,
+  "động vật": 2,
+  "ham": 2
+ }
+}

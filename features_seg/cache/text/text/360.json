@@ -1,0 +1,280 @@
+{
+ "n_words": 1410,
+ "n_chunks": 24,
+ "ner": [
+  {
+   "text": "House",
+   "label": "PER",
+   "count": 14
+  },
+  {
+   "text": "phim truyền hình Mỹ",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Cameron",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Wilson",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Mỹ",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "MD",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Gregory House",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "% House",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Chase",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "chữ T",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Forman",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "thế giới nội tâm",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "viện trưởng CY",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bác sĩ người Do Thái",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bác sĩ LGBT",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bác sĩ nữ bác sĩ gốc Ấn Độ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Hàn Quốc",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 2000",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Anyway",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "° C",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "lời thầy Hippocrit",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Houseo",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "kiến thức y học",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "House MD",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "xung quanh House",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Tiệm",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Procedure Series",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "kiểu Law and Order , CIS",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": ", Miami Vice",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Sitcom",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "series Disney",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Việt Nam",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Netflix",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Netflix",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "phim truyền hình TV",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tí rau tí bún",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Lupus House",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Forman",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Chase",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Vicodin Nhưng",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Homy",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Ok",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "phim House",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "season 1",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "season 3",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bạn kì",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "house": 18,
+  "house md": 2,
+  "phim truyền hình": 5,
+  "phim truyền hình mỹ": 2,
+  "mỹ": 4,
+  "nhân vật": 2,
+  "phim": 18,
+  "bác sĩ": 8,
+  "chuyên gia": 5,
+  "bệnh": 8,
+  "tâm lý": 2,
+  "cameron": 2,
+  "mặt": 2,
+  "chase": 2,
+  "chữ": 2,
+  "forman": 2,
+  "wilson": 2,
+  "truyền hình": 3,
+  "bệnh nhân": 13,
+  "y khoa": 6,
+  "drama": 2,
+  "kiến thức": 2,
+  "khán giả": 5,
+  "căn bệnh": 2,
+  "thể loại": 2,
+  "thời kỳ": 2,
+  "tập": 4,
+  "câu chuyện": 2,
+  "mùa": 2,
+  "tầm": 2,
+  "series": 2,
+  "đoạn": 2,
+  "netflix": 2,
+  "tí": 3,
+  "manh mối": 2,
+  "giả thuyết": 2,
+  "ban đầu": 2,
+  "người thân": 2,
+  "happy": 2,
+  "tiến trình": 2,
+  "season": 3,
+  "season 3": 2
+ }
+}

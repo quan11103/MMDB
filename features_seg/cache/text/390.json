@@ -1,0 +1,33 @@
+{
+ "n_words": 301,
+ "n_chunks": 5,
+ "ner": [
+  {
+   "text": "An Toan Lavier",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "người Pháp",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cuối thế kỷ 18",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Thứ bạn có lúc đầu",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "hóa học": 3,
+  "giả kim": 2,
+  "vật chất": 3,
+  "chất": 2,
+  "thành phần": 2
+ }
+}

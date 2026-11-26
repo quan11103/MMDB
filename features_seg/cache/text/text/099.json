@@ -1,0 +1,79 @@
+{
+ "n_words": 343,
+ "n_chunks": 6,
+ "ner": [
+  {
+   "text": "MacOS",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "Windows",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "em MacBook Pro",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bên thứ ba",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Apple Reminder",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Apple Note",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "dưới Thanh Doc",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Google Task",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "chat GBT",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "MacOS",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Witch",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "trên Windows",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Mac OSOS",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "windows": 3,
+  "máy": 3,
+  "phần mềm": 2,
+  "quỷ chịt": 3,
+  "macos": 4,
+  "iphone": 2
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "n_words": 273,
+ "n_chunks": 5,
+ "ner": [
+  {
+   "text": "GB10",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "RTX5090",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "dung lượng RAM",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "128 GB",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "DG Sparkl",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "đó RTX",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "32 GB RAM",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "DGSP",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "RTX5090",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "DGXP",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "1000 TFOs",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "rtx5090": 2,
+  "dòng": 2,
+  "model": 3,
+  "load": 2,
+  "tỷ phép": 3
+ }
+}

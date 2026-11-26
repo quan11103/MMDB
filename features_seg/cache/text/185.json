@@ -1,0 +1,65 @@
+{
+ "n_words": 241,
+ "n_chunks": 4,
+ "ner": [
+  {
+   "text": "Akira",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Akira",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Canada",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Slide",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "lịch sử hoạt hình",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "John Getter",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Jatrix",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Bulletime",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "phim phương Tây",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "baby baby Yeah",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "anime": 4,
+  "akira": 5,
+  "cảnh": 3,
+  "xe": 2,
+  "phim": 4,
+  "hình ảnh": 2,
+  "baby": 2
+ }
+}

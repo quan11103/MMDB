@@ -1,0 +1,67 @@
+{
+ "n_words": 277,
+ "n_chunks": 5,
+ "ner": [
+  {
+   "text": "Nhật Bản",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Akira",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Akira",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "phương Tây",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "khán giả phương Tây",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thế hệ khán giả quốc tế Akira",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thế giới anime",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ghost",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "the Shell",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "anime": 4,
+  "điện ảnh": 2,
+  "toàn cầu": 2,
+  "phương": 2,
+  "phương tây": 2,
+  "tây": 2,
+  "hoạt hình": 2,
+  "nhật bản": 2,
+  "phim": 2,
+  "akira": 5,
+  "hiện tượng": 2,
+  "tác phẩm": 2,
+  "phim hoạt hình": 2,
+  "khán giả": 2
+ }
+}

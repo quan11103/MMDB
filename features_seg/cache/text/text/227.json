@@ -1,0 +1,103 @@
+{
+ "n_words": 530,
+ "n_chunks": 9,
+ "ner": [
+  {
+   "text": "cổng DB",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "full HD",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tần số We",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "180 H",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "OC",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "cổng HDMI",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cái Laptop",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cái PC",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ngửa",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "nha Thì",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ngà",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Hầu Như An",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "thoải mái Nên",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "dây HDMI",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nhưng mà thật ra HDMI",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Bem",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "phần Ưu điểm",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "kích thước": 2,
+  "hình": 3,
+  "cổng": 6,
+  "hdmi": 3,
+  "cổng db": 2,
+  "db": 2,
+  "chân đế": 3,
+  "trọng lượng": 2,
+  "màn hình": 4,
+  "dây": 3
+ }
+}

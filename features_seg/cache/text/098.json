@@ -1,0 +1,48 @@
+{
+ "n_words": 493,
+ "n_chunks": 8,
+ "ner": [
+  {
+   "text": "Windows",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Steam OSOS",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "phiên bản Windows",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Win",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "SteamOS",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "nền Windows",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chế độ Windows",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "windows": 4,
+  "thao tác": 3,
+  "app": 2,
+  "máy": 2,
+  "thông tin": 2
+ }
+}

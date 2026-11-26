@@ -1,0 +1,28 @@
+{
+ "n_words": 305,
+ "n_chunks": 5,
+ "ner": [
+  {
+   "text": "trách nhiệm hoàn hảo",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "điều hiển nhiên",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đạo Marti Complex",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "nạn nhân": 6,
+  "tâm lý": 3,
+  "trạng thái": 2,
+  "tâm lý nạn nhân": 2,
+  "anh hùng": 2
+ }
+}

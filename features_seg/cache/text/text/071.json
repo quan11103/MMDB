@@ -1,0 +1,100 @@
+{
+ "n_words": 825,
+ "n_chunks": 14,
+ "ner": [
+  {
+   "text": "Anpopic",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "Dario Amode",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "kỹ thuật số Bước",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 2026",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "dòng Clot",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nền tảng thông số vượt trội",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "dòng CL 4.6 chạm mốc 1",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "SWE Bench",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Anropic",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "con số 965 tỷ đô la Mỹ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Clot",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "các quỹ tài sản quốc gia khu vực Trung Đông",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đạo đức Anropic",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "lợi nhuận": 2,
+  "đạo đức": 4,
+  "đồng nghiệp": 2,
+  "mô hình": 4,
+  "máy": 2,
+  "kỹ thuật": 2,
+  "dòng": 3,
+  "clot": 4,
+  "khả năng": 2,
+  "phần mềm": 2,
+  "cửa": 2,
+  "doanh thu": 2,
+  "doanh nghiệp": 2,
+  "công nghệ": 2,
+  "hóa": 2,
+  "anropic": 2,
+  "la mỹ": 2,
+  "định giá": 2,
+  "công ty": 2,
+  "ai": 4,
+  "hệ thống": 4,
+  "ngành": 2,
+  "phiên bản": 2,
+  "quyền": 2,
+  "dario amode": 2,
+  "anpopic": 3,
+  "vốn": 2
+ }
+}

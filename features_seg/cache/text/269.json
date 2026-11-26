@@ -1,0 +1,60 @@
+{
+ "n_words": 435,
+ "n_chunks": 7,
+ "ner": [
+  {
+   "text": "Dũng",
+   "label": "PER",
+   "count": 7
+  },
+  {
+   "text": "hiện tại Dũng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Úc",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "gán nhãn",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Elem",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "model 1",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Clot",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Antropic",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "prom": 3,
+  "luồng": 2,
+  "dũng": 8,
+  "ai": 4,
+  "email": 5,
+  "sinh viên": 2,
+  "đồng nghiệp": 2,
+  "tôn": 2,
+  "tôn giọng": 2,
+  "giọng": 2,
+  "model": 3,
+  "chi phí": 2
+ }
+}

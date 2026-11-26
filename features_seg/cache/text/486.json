@@ -1,0 +1,126 @@
+{
+ "n_words": 1272,
+ "n_chunks": 21,
+ "ner": [
+  {
+   "text": "Trung Quốc",
+   "label": "LOC",
+   "count": 5
+  },
+  {
+   "text": "đồng Việt Nam",
+   "label": "LOC",
+   "count": 4
+  },
+  {
+   "text": "Việt Nam",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Mỹ",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "như thế nào yếu tố thứ ba",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Thì",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "chè cà phê rau củ quả",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "khi đồng Việt Nam",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "mức gạo một",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nước Thái",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Đồng bạt Thái",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Việ",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Ả Rập",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "đồng đô la Mỹ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chi phí Logistic",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đồng Mỹ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Euro",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Đồng bảng Anh",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "yếu tố": 2,
+  "đồng tiền": 6,
+  "bánh": 5,
+  "tỉnh thành": 3,
+  "khu vực": 2,
+  "thu nhập": 2,
+  "xung quanh": 3,
+  "cửa hàng": 2,
+  "hàng": 8,
+  "tiền": 3,
+  "mặt hàng": 6,
+  "gạo": 6,
+  "thế giới": 4,
+  "quốc gia": 10,
+  "đồng": 15,
+  "đồng việt nam": 6,
+  "đồng việt nam đồng": 5,
+  "việt nam": 7,
+  "việt nam đồng": 5,
+  "giá": 2,
+  "tổng": 2,
+  "dịch vụ": 2,
+  "kim ngạch": 3,
+  "trung quốc": 5,
+  "thái": 2,
+  "mỹ": 4,
+  "chi phí": 2,
+  "dân số": 2
+ }
+}

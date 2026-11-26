@@ -1,0 +1,244 @@
+{
+ "n_words": 807,
+ "n_chunks": 14,
+ "ner": [
+  {
+   "text": "sông Hằng",
+   "label": "LOC",
+   "count": 8
+  },
+  {
+   "text": "Ấn Độ",
+   "label": "LOC",
+   "count": 3
+  },
+  {
+   "text": "Sông Hằng",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "sông Hồng",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Việt Nam",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "đồng bằng sông Hằng",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "đầm lầy",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "sông Ganga",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thể lục Ấn Độ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phía tây dãy núi Himalayas",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "sông Băng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "miền Bắc",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "hướng Đông Nam",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cửa biển Ấn Độ Dương",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "vùng đồng bằng sông Hằng , chủ Phú",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nước sông Hằng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "900.000 km²",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "lưu vực sông Mê Kông",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Trung Quốc",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Hàn Quốc",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Hằng",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "núi Băng Tuyết",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tháng tư",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tháng sáu",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "vùng Đông Bằng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Châu Thổ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Kashi",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": ", Pataliputra Alabat",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": ", Hariwa",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Kakutha",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": ", Dehi",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "lời Hindu",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "biểu tượng sông Hằng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "công cụ chính trị và là biểu tượng quyền lực",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "lưu vực sông Hằng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bình nguyên hoa bắc của Trung Quốc",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bờ sông Hằng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "ớt cây mù tạt , vừng và cây đay",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nước ngọt Nam Á",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "lịch sử người dân Ấn Độ",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "sông": 30,
+  "sông hằng": 19,
+  "tây": 2,
+  "núi": 3,
+  "hằng": 15,
+  "hành trình": 2,
+  "bắc": 2,
+  "ấn độ": 4,
+  "cửa biển": 2,
+  "đồng bằng": 6,
+  "đồng bằng sông hằng": 4,
+  "dòng": 3,
+  "thế giới": 2,
+  "lưu vực": 5,
+  "hàng": 3,
+  "sông hồng": 3,
+  "hồng": 2,
+  "lưu vực sông": 3,
+  "trung quốc": 2,
+  "việt nam": 2,
+  "dòng sông": 2,
+  "mùa": 2,
+  "mưa": 2,
+  "lịch sử": 2,
+  "biểu tượng": 3,
+  "bờ": 3,
+  "bờ sông": 2,
+  "lưu vực sông hằng": 2,
+  "nông nghiệp": 2,
+  "đồng bằng sông": 2,
+  "khu vực": 4,
+  "lúa": 3,
+  "đầm": 2,
+  "đầm lầy": 2,
+  "lầy": 2,
+  "loài": 2
+ }
+}

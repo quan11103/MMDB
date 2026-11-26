@@ -1,0 +1,81 @@
+{
+ "n_words": 291,
+ "n_chunks": 5,
+ "ner": [
+  {
+   "text": "Macbook",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Macbook Pro M5",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "công việc sáng tạo Pin",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Final Cut Pro",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Maos",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Power BI",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trên Windows",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "D Express",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "vấn đề tương thích",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Windows",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Broadware",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "chế độ shutdown",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trên MacBook Pro M5 Và",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "tiền": 2,
+  "macbook": 3,
+  "máy": 7,
+  "công việc": 2,
+  "phần mềm": 3,
+  "phim": 3,
+  "windows": 2,
+  "chế độ": 2
+ }
+}

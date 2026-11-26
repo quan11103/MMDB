@@ -1,0 +1,101 @@
+{
+ "n_words": 550,
+ "n_chunks": 9,
+ "ner": [
+  {
+   "text": "Ok",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Với",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Oplife",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Aerial Cup Mùa",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Aerial Studio",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Cái thứ 2",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thứ 3",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "anh em 3",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "con trai Một",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chồng Thì",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "khả năng vẽ Thì",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Dương Trần Anh",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "tinh tế Thì",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Bay Moulinac Một",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Thì",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "ha See",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Sweden",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "anh em": 24,
+  "mô hình": 6,
+  "tinh tế": 2,
+  "ha": 3,
+  "kỹ thuật": 2,
+  "cảm giác": 2,
+  "đèn": 3,
+  "mái": 2
+ }
+}

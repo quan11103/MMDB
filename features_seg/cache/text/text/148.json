@@ -1,0 +1,92 @@
+{
+ "n_words": 367,
+ "n_chunks": 6,
+ "ner": [
+  {
+   "text": "MacBook Pro M5",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Tênh Viw",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "DP",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "quanh Excel",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "content creator",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Premiere",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": ", Photoshop",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "hay là Illustrator",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "giữa DP",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ok",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Macbook",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Svernet",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "SNet",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "đại lý ủy quyền của Apple",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Việt Nam",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "dp": 2,
+  "dp 14": 2,
+  "macbook pro m5": 2,
+  "laptop": 2,
+  "màn hình": 2,
+  "sinh viên": 2,
+  "macbook": 2,
+  "anh em": 2,
+  "học sinh": 2
+ }
+}

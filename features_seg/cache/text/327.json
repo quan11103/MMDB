@@ -1,0 +1,53 @@
+{
+ "n_words": 709,
+ "n_chunks": 12,
+ "ner": [
+  {
+   "text": "hồi hải mã hippocampus hippocampus",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bộ nhớ RAM",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "RAM",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thần kinh Mỗi",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "thần kinh": 5,
+  "bộ não": 3,
+  "kỳ": 2,
+  "thông tin": 6,
+  "hồi": 5,
+  "hồi hải mã": 5,
+  "hải mã": 5,
+  "hippocampus": 2,
+  "cấu trúc": 2,
+  "tế bào": 3,
+  "tế bào thần kinh": 3,
+  "ram": 2,
+  "máy tính": 2,
+  "sách": 2,
+  "tín hiệu": 2,
+  "kiến thức": 5,
+  "ngắn hạn": 2,
+  "vỏ": 2,
+  "vỏ não": 2,
+  "não": 5,
+  "giấc ngủ": 2,
+  "sai lầm": 2,
+  "dài hạn": 2,
+  "điện": 2,
+  "ký ức": 2
+ }
+}

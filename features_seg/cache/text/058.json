@@ -1,0 +1,177 @@
+{
+ "n_words": 3004,
+ "n_chunks": 50,
+ "ner": [
+  {
+   "text": "GDP",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "suy thoái Nền",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nhau Nền",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Giai đoạn đỉnh PIC",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Construction",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "khi GDP",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Depression",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "lợi nhuận nhuận",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "kỳ nghỉ xa xỉ xỉ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "xương mờ buổi sáng sáng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chi phí Một",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cắt giảm lãi suất",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "kinh tế John Menat Kines",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Kines",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nhu cầu tư nhân Trường phái Áo",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "kinh tế Hon Minski",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "DNA",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Hàng nghìn năm tiến hóa",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "200.000 đô đô",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Mỹ",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "chu kỳ": 14,
+  "chu kỳ kinh tế": 6,
+  "kinh tế": 23,
+  "tài sản": 18,
+  "suy thoái": 6,
+  "giai đoạn": 18,
+  "thời kỳ": 5,
+  "gdp": 3,
+  "tỉ lệ": 2,
+  "doanh nghiệp": 8,
+  "công nghệ": 7,
+  "thị trường chứng khoán": 4,
+  "xu hướng": 3,
+  "lãi suất": 5,
+  "đỉnh": 3,
+  "dấu hiệu": 3,
+  "lạm phát": 3,
+  "cung": 3,
+  "thị trường": 8,
+  "ngân hàng": 12,
+  "ngân hàng trung ương": 6,
+  "trung ương": 6,
+  "chính sách": 5,
+  "chi phí": 5,
+  "hàng": 2,
+  "nhân viên": 2,
+  "kế hoạch": 3,
+  "việc làm": 4,
+  "đáy": 2,
+  "nới": 2,
+  "tín dụng": 5,
+  "lợi nhuận": 5,
+  "thị trường tài chính": 2,
+  "tài chính": 6,
+  "giá": 23,
+  "giá tài sản": 4,
+  "cửa hàng": 2,
+  "bạn bè": 2,
+  "tương lai": 3,
+  "tuần": 2,
+  "tiền": 7,
+  "công ty": 3,
+  "vòng": 3,
+  "chính phủ": 2,
+  "cắt giảm": 2,
+  "hy vọng": 2,
+  "báo cáo": 2,
+  "lý thuyết": 2,
+  "quan điểm": 4,
+  "vai trò": 2,
+  "kines": 2,
+  "tư nhân": 2,
+  "yếu tố": 2,
+  "tác nhân": 2,
+  "tác nhân kinh tế": 2,
+  "chu kỳ tín dụng": 2,
+  "tiêu chuẩn": 2,
+  "nợ": 4,
+  "sự kiện": 2,
+  "tâm lý": 4,
+  "tâm lý con người": 3,
+  "con người": 5,
+  "câu chuyện": 6,
+  "bong bóng": 7,
+  "nhà đầu tư": 6,
+  "giấy": 2,
+  "chiều": 2,
+  "sản phẩm": 2,
+  "tiềm năng": 2
+ }
+}

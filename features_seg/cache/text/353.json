@@ -1,0 +1,37 @@
+{
+ "n_words": 347,
+ "n_chunks": 6,
+ "ner": [
+  {
+   "text": "Over Protective",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Giọng",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "trước tuyệt vời",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tuổi thiếu niên",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "tâm lý": 2,
+  "tâm lý nạn nhân": 2,
+  "nạn nhân": 3,
+  "trẻ": 5,
+  "môi trường": 3,
+  "cha mẹ": 4,
+  "giọng": 2,
+  "xã hội": 2,
+  "tư duy": 2
+ }
+}

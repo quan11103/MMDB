@@ -1,0 +1,39 @@
+{
+ "n_words": 260,
+ "n_chunks": 4,
+ "ner": [
+  {
+   "text": "định lý Pythagor",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đường tròn bán kính 1",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "x bình c y bình = 1",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "= 1",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "cos": 5,
+  "công thức": 7,
+  "đường": 7,
+  "đường tròn": 7,
+  "sin": 3,
+  "sin bình cộng": 2,
+  "sin bình cộng cos": 2,
+  "bình cộng": 2,
+  "bình cộng cos": 2,
+  "phương trình": 2,
+  "hình ảnh": 2
+ }
+}

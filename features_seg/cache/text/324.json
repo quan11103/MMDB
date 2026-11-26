@@ -1,0 +1,45 @@
+{
+ "n_words": 304,
+ "n_chunks": 5,
+ "ner": [
+  {
+   "text": "chữ số 0",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "số 1",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "số 0",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Chuỗi",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "lần thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "lần thứ ba",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "xác suất": 6,
+  "đồng": 3,
+  "chuỗi": 5,
+  "chuỗi vô hạn": 2,
+  "đồng xu": 3,
+  "mặt": 2,
+  "kết quả": 2
+ }
+}

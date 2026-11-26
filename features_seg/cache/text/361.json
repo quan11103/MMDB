@@ -1,0 +1,87 @@
+{
+ "n_words": 551,
+ "n_chunks": 9,
+ "ner": [
+  {
+   "text": "House MD",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "mẹ phần B House MD",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Mỹ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm vừa rồi",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "sau kỷ nguyên vàng của truyền hình TV",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "kiểu Squid Game",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "YouTube",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": ", TikTok",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Cơ",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "phim truyền hình Việt",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Giang Lạc",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "house md": 3,
+  "series": 7,
+  "series phim": 2,
+  "phim": 8,
+  "phim truyền hình": 4,
+  "truyền hình": 5,
+  "thế giới": 3,
+  "khán giả": 2,
+  "thể loại": 2,
+  "game": 2,
+  "game show": 2,
+  "show": 2,
+  "nhân vật": 3,
+  "chủ đề": 4,
+  "xã hội": 2,
+  "phim ảnh": 2,
+  "streaming": 3,
+  "yếu tố": 2,
+  "làng": 3,
+  "làng quê": 2,
+  "quê": 3,
+  "gia đình": 4,
+  "tội phạm": 4,
+  "gia đình tội phạm": 2
+ }
+}

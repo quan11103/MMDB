@@ -1,0 +1,194 @@
+{
+ "n_words": 1246,
+ "n_chunks": 21,
+ "ner": [
+  {
+   "text": "Mỹ",
+   "label": "LOC",
+   "count": 7
+  },
+  {
+   "text": "Billy",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "Markintire",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "bạn C",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "FBI",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "cộng đồng luận Communitarianism",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bạn A",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "B",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "nghĩa vụ phổ quát",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "hàng xóm láng giềng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "C",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "thay vì Mexico",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Nên",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Mexico",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Iraq",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "nước Iraq",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bạn sinh viên E",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Billy Borger",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "bang Massachusetts",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chủ tịch đại học Massachusetts",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Whitey Bger",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Boston",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "gặt gao",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Whitey",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Berly",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "bổn phận tổng quát",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "RAW",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "quyền con người phổ quát",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Rose",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Michael Waler",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "tư cách": 2,
+  "tư cách thành viên": 2,
+  "thành viên": 3,
+  "markintire": 2,
+  "nghĩa vụ": 15,
+  "công dân": 4,
+  "cộng đồng": 4,
+  "sinh viên": 3,
+  "gia đình": 7,
+  "thành phố": 2,
+  "quốc gia": 5,
+  "nhân loại": 3,
+  "nhân loại con người": 2,
+  "con người": 3,
+  "xung đột": 3,
+  "hướng": 2,
+  "hàng xóm": 3,
+  "quan điểm": 2,
+  "quốc tịch": 2,
+  "mặt": 3,
+  "lịch sử": 2,
+  "mỹ": 7,
+  "mexico": 2,
+  "đạo đức": 5,
+  "quan hệ": 3,
+  "iraq": 2,
+  "trung thành": 3,
+  "nguyên tắc": 2,
+  "phổ quát": 2,
+  "nói thẳng": 2,
+  "massachusetts": 2,
+  "anh trai": 2,
+  "fbi": 2,
+  "billy": 3,
+  "bổn phận": 2,
+  "quyền": 2
+ }
+}

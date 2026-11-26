@@ -1,0 +1,80 @@
+{
+ "n_words": 544,
+ "n_chunks": 9,
+ "ner": [
+  {
+   "text": "tầng móng tiên đề",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "điều B",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "B",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "điều C",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "CL",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nửa đầu thế kỷ 19 Loba",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Boliai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "hình học Eclit",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "hình học phi click",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "hình học Phi Cit",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Einstein",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "đầu thế kỷ 20",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "phát biểu": 3,
+  "tiên đề": 5,
+  "toán học": 2,
+  "bộ luật": 2,
+  "chân lý": 2,
+  "hình học": 5,
+  "định đề": 6,
+  "đường thẳng": 4,
+  "đầu": 2,
+  "đầu thế kỷ": 2,
+  "thế kỷ": 2,
+  "hệ": 2
+ }
+}

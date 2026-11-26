@@ -1,0 +1,104 @@
+{
+ "n_words": 1554,
+ "n_chunks": 26,
+ "ner": [
+  {
+   "text": "Gloria Mark",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Đại học California",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 2004",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "47 giây",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Too",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "chữ S",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "hủy kinh khủng khiếp",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Tôn Ngộ Không",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "tạp chí viện hàn lâm của Hoa Kỳ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "học viện Massachusett",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thông tin chính thực",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trạng thái tiêu cực",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 2020",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trị liệu vật lý",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "màn hình": 2,
+  "cơ thể": 3,
+  "khả năng": 13,
+  "thông tin": 12,
+  "nội dung": 4,
+  "não": 14,
+  "kết quả": 2,
+  "con số": 4,
+  "sách": 2,
+  "điện thoại": 4,
+  "đầu": 5,
+  "phản biện": 3,
+  "trạng thái": 4,
+  "xốc": 3,
+  "sến": 2,
+  "hủy": 2,
+  "content": 2,
+  "xã hội": 8,
+  "chân": 2,
+  "nền tảng": 2,
+  "hàng": 2,
+  "mạng": 2,
+  "mạng xã hội": 2,
+  "lướt": 2,
+  "tắt mạng": 2,
+  "tắt mạng xã hội": 2
+ }
+}

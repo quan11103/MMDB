@@ -1,0 +1,58 @@
+{
+ "n_words": 406,
+ "n_chunks": 7,
+ "ner": [
+  {
+   "text": "mức giá 60",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "dòng Helios Neo",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "hiện tại Acer",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bộ Gear",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Và",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Gear",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "VN",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "ngày Acer",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "hiệu năng": 2,
+  "laptop": 2,
+  "tiền": 2,
+  "sinh viên": 2,
+  "anh em": 2,
+  "thông số": 2,
+  "thông tin": 2,
+  "giá": 2,
+  "acer": 2,
+  "gear": 2
+ }
+}

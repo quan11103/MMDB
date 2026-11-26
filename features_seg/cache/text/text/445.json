@@ -1,0 +1,125 @@
+{
+ "n_words": 865,
+ "n_chunks": 15,
+ "ner": [
+  {
+   "text": "Andy",
+   "label": "PER",
+   "count": 14
+  },
+  {
+   "text": "Red",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "Red",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Ơ",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "cái kiểu quyền lực nguyên thủy của lũ võ biền",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "mâm ba",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": ", Andy",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Hly",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Hly",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "vấn đề tiền n",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bé kế toán Andy",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "sự đồng cảm",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Kinh Thánh",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Thiếu",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Lào Kinh Thánh",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "dân Andy",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Andy",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ngố",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "siêu đạo Cích Kid",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "chính trị": 3,
+  "andy": 20,
+  "quyền lực": 7,
+  "tù": 3,
+  "lũ": 2,
+  "đầu": 3,
+  "red": 6,
+  "khả năng": 2,
+  "lão": 6,
+  "tù nhân": 2,
+  "tiền": 3,
+  "hly": 2,
+  "cai ngục": 2,
+  "thuế": 2,
+  "quản giáo": 4,
+  "kinh thánh": 2,
+  "phim": 2
+ }
+}

@@ -1,0 +1,62 @@
+{
+ "n_words": 863,
+ "n_chunks": 15,
+ "ner": [
+  {
+   "text": "năm 1989",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "sau chu kỳ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Dollar",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "averaging DCA",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Covid",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "đòn bảy",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đòn bầy",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "đáy": 2,
+  "đình": 2,
+  "mục tiêu": 2,
+  "nhà đầu tư": 2,
+  "kinh tế": 2,
+  "tài chính": 2,
+  "hóa": 2,
+  "cổ phiếu": 2,
+  "tài sản": 4,
+  "thuyền": 3,
+  "thị trường": 3,
+  "tiền": 5,
+  "dấu hiệu": 2,
+  "dân": 2,
+  "tiền mặt": 3,
+  "lợi nhuận": 2,
+  "giá": 5,
+  "thời kỳ": 2,
+  "đòn": 2
+ }
+}

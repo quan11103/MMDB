@@ -1,0 +1,58 @@
+{
+ "n_words": 389,
+ "n_chunks": 7,
+ "ner": [
+  {
+   "text": "Chơi",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "lược FPS",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "công nghệ DS",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "VGA Và",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "nă đin Thuần",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "4080 Super",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Vega",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "render hình ảnh N",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Render",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "test": 2,
+  "game": 2,
+  "công nghệ": 4,
+  "nhiệt độ": 2,
+  "render": 2
+ }
+}

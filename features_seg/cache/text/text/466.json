@@ -1,0 +1,184 @@
+{
+ "n_words": 495,
+ "n_chunks": 8,
+ "ner": [
+  {
+   "text": "Nolen",
+   "label": "PER",
+   "count": 4
+  },
+  {
+   "text": "thập niên 90",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thế chiến hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Noland",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Don Kirk",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Phim",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "bãi biển Don CK",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bạn đồng hành",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Batman",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Begins",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Lee Smith",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Himmer",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Hoevan Hoema",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "lần thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "máy IMAX",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "lính năm xưa",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Tom Hardy",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "liền Murphy",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Michael Kane",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "DK",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Nolen",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chiến dịch Donkerk",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "máy bay Speedfire",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chính bãi biển Donker Kirk",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "sau 75 năm",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Himer",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "gió thét gào Donker",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Kirkk",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 2017",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Donk",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "hạng mục Oscar",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Tig Geia Model Toro",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "The Shap of Water",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "phim": 9,
+  "biển": 3,
+  "tiếng": 2,
+  "bãi": 2,
+  "bãi biển": 2,
+  "nolen": 5,
+  "gió": 2,
+  "hạng": 2,
+  "lính": 2,
+  "máy bay": 2,
+  "tàu": 2
+ }
+}

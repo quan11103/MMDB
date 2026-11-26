@@ -1,0 +1,79 @@
+{
+ "n_words": 352,
+ "n_chunks": 6,
+ "ner": [
+  {
+   "text": "hiệu năng GPU",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Vivobook S14",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "mức giá cao thứ ba",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "list ngày hôm nay",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Dòng Vivobook S",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Asus",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "dòng Vivobook",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "pin 70 W",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "webcam Full HD",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trong Vivobook S14",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Core",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "GPU Intel Ultra HD",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "hiệu năng": 4,
+  "vivobook": 3,
+  "vivobook s14": 2,
+  "máy": 6,
+  "dòng": 2,
+  "pin": 3,
+  "máy nhẹ": 2,
+  "chip": 2,
+  "hiệu năng gpu": 2,
+  "gpu": 2,
+  "game": 2
+ }
+}

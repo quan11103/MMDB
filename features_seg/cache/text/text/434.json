@@ -1,0 +1,28 @@
+{
+ "n_words": 631,
+ "n_chunks": 11,
+ "ner": [
+  {
+   "text": "bài toán hóc búa",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nguồn năng lượng có hạn",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "voi": 13,
+  "lý trí": 3,
+  "cảm xúc": 4,
+  "kế hoạch": 3,
+  "cân": 2,
+  "năng lượng": 2,
+  "sức mạnh": 2,
+  "ý chí": 3,
+  "kỷ luật": 2,
+  "phương pháp": 2
+ }
+}

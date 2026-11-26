@@ -1,0 +1,69 @@
+{
+ "n_words": 662,
+ "n_chunks": 11,
+ "ner": [
+  {
+   "text": "Cái",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đồ chơi Kứ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thứ 2",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bạn chữ cái Mắt",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trên mạc cùa",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ính",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "ADC",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "phim Toy Story",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Giống",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "con Bão",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "đồ chơi": 5,
+  "chữ cái": 2,
+  "anh em": 18,
+  "mô hình": 3,
+  "nhân vật": 2,
+  "máy": 2,
+  "trẻ": 2,
+  "lớp": 2,
+  "nhựa": 2,
+  "cùn": 2,
+  "indirt": 2
+ }
+}

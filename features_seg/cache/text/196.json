@@ -1,0 +1,122 @@
+{
+ "n_words": 717,
+ "n_chunks": 12,
+ "ner": [
+  {
+   "text": "Việt Nam",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Riochi",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "yếu tố máu me kinh dị",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Conan",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "tập 1",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ran",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Sonoko",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "tên Chiko",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Nhật Bản",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "anh chàng Riochi",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Chikako",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "áo choàng kín mít",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Côn Nan",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "thi thể vương vãi",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "xác Chicago",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Chicago",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Rychi",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "vẻ bề ngoài",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "khán giả": 2,
+  "án": 7,
+  "tập": 3,
+  "đầu": 4,
+  "cảnh": 3,
+  "gái": 2,
+  "xác": 5,
+  "vụ": 3,
+  "vụ án": 2,
+  "việt nam": 2,
+  "nạn nhân": 3,
+  "phim": 3,
+  "sát thủ": 2,
+  "băng": 5,
+  "băng trắng": 4,
+  "chuyến": 2,
+  "biệt thự": 2,
+  "rừng": 3,
+  "riochi": 3,
+  "áo": 2,
+  "cách thức": 2,
+  "chicago": 2,
+  "bộ đồ": 2,
+  "quỷ": 2
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "n_words": 612,
+ "n_chunks": 10,
+ "ner": [
+  {
+   "text": "trạng thái logic",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "buổi sáng như thế nào",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "ý chí tự do đó",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Peace",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "trạng thái": 2,
+  "dog": 2,
+  "tiền": 2,
+  "con người": 2,
+  "não": 2,
+  "ý chí": 3,
+  "ý chí tự do": 2
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "n_words": 16,
+ "n_chunks": 1,
+ "ner": [
+  {
+   "text": "kênh Ghiền Mì Gõ Để",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {}
+}

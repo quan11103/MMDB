@@ -1,0 +1,95 @@
+{
+ "n_words": 1149,
+ "n_chunks": 19,
+ "ner": [
+  {
+   "text": "Việt Nam",
+   "label": "LOC",
+   "count": 3
+  },
+  {
+   "text": "GDP",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Thì",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "sản phẩm dịch",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ngoài",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Thuế",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 2022",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nhà nước Nắm",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "ngân hàng thế giới World Bank",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 2000",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Tầm Kiểm Soát",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Google",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "thứ hai",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "chính phủ": 15,
+  "quốc gia": 4,
+  "tiền": 9,
+  "nợ": 8,
+  "gốc": 2,
+  "doanh nghiệp": 4,
+  "nhân viên": 2,
+  "lương": 2,
+  "dịch vụ": 3,
+  "xã hội": 2,
+  "sản phẩm": 3,
+  "đất nước": 3,
+  "thuế": 5,
+  "người dân": 2,
+  "việt nam": 3,
+  "nhà nước": 3,
+  "cổ phần": 2,
+  "tập đoàn": 2,
+  "thế giới": 2,
+  "ngân sách": 5,
+  "gdp": 2,
+  "phần trăm": 2
+ }
+}

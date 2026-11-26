@@ -1,0 +1,87 @@
+{
+ "n_words": 447,
+ "n_chunks": 8,
+ "ner": [
+  {
+   "text": "IQ",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "gọi là IQ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đền Delfi",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "lương định lượng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nhà nghiên cứu Peter Salovi",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "John Mayer",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "báo học thuật",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Daniel Goldman",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "The New York Times",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "từ ngữ Bởi",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Goldman",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "EQ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cảm xúc xã hội Social",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "môi trường doanh nghiệp",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "trí tuệ": 3,
+  "cảm xúc": 6,
+  "iq": 3,
+  "khả năng": 2,
+  "con người": 3,
+  "lý trí": 2,
+  "xã hội": 2,
+  "chỉ số": 2,
+  "emotional": 2
+ }
+}

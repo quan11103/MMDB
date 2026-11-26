@@ -1,0 +1,36 @@
+{
+ "n_words": 513,
+ "n_chunks": 9,
+ "ner": [
+  {
+   "text": "thứ ba",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm nguyên tắc",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Đức Phật",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "ngày Mỗi",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "chánh mạng": 4,
+  "nghề nghiệp": 5,
+  "nghề nghiệp chân chính": 2,
+  "chân chính": 3,
+  "ngũ giới": 3,
+  "công việc": 3,
+  "nghề": 2,
+  "đồng tiền": 2
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "n_words": 278,
+ "n_chunks": 5,
+ "ner": [
+  {
+   "text": "cây PC",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Build",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "PC",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "nhà msi trỉ giá tậng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "sau Bye bye hôm nay cối tuần rồi 40 Al",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "tương lai": 2,
+  "msi": 3,
+  "pc": 3,
+  "giá": 2
+ }
+}

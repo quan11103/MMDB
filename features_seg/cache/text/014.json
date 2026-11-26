@@ -1,0 +1,76 @@
+{
+ "n_words": 445,
+ "n_chunks": 8,
+ "ner": [
+  {
+   "text": "Trái Đất",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "CO2",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Trái Đất",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "khí CO2",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Khí Metan",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "băng hà Huronian",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tuyết trắng tinh",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Tuyết",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "rác khắp nơi",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "kỷ băng hà",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "co2": 3,
+  "trái đất": 4,
+  "khí": 4,
+  "sinh vật": 3,
+  "nhiệt độ": 2,
+  "hành tinh": 6,
+  "mặt trời": 4,
+  "thời kỳ": 2,
+  "kỷ": 2,
+  "lớp": 3,
+  "tuyết": 3,
+  "màu": 3,
+  "màu trắng": 3,
+  "ánh sáng": 2,
+  "ánh sáng mặt trời": 2,
+  "băng": 2,
+  "băng dày": 2,
+  "oxy": 2
+ }
+}

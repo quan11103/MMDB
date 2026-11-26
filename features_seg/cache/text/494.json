@@ -1,0 +1,32 @@
+{
+ "n_words": 450,
+ "n_chunks": 8,
+ "ner": [
+  {
+   "text": "Chris",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "liên bang FBI",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Một Cách",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Bye",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "tình thế": 2,
+  "sách": 5,
+  "câu chuyện": 2,
+  "series": 2
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "n_words": 763,
+ "n_chunks": 13,
+ "ner": [
+  {
+   "text": "tự nhủ Thôi",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "đường": 2,
+  "luật sư": 2,
+  "công việc": 4,
+  "hành động": 2,
+  "tiếng nói": 2,
+  "sức": 2,
+  "quán": 2,
+  "cà phê": 2,
+  "cuộc đời": 2
+ }
+}

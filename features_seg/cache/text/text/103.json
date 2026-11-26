@@ -1,0 +1,158 @@
+{
+ "n_words": 450,
+ "n_chunks": 8,
+ "ner": [
+  {
+   "text": "Ultra",
+   "label": "PER",
+   "count": 4
+  },
+  {
+   "text": "X9",
+   "label": "LOC",
+   "count": 3
+  },
+  {
+   "text": "CPU",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Intel",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "X7",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "dòng X",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "ưu tiên Bchet",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "GBU",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "MA series 3",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "M",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Banterlexake",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "tình huống hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "GB",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Dell XPS",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "hiệu năng gaming",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "CPU",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "GBU",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "câu chuyện của X7",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Việt",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "GPU",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "B390",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "Ultra X9",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Ultra X7",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Swit Boy",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "dòng Battleake",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "RAM",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "SSD",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "dòng": 3,
+  "tình huống": 4,
+  "đời mới": 2,
+  "ultra": 5,
+  "ultra 735": 2,
+  "cpu": 3,
+  "gbu": 2,
+  "máy": 3,
+  "hiệu năng": 3,
+  "x7": 3,
+  "x9": 4,
+  "intel": 2,
+  "mẫu": 2,
+  "mẫu máy": 2,
+  "tiền": 2
+ }
+}

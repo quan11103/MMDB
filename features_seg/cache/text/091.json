@@ -1,0 +1,64 @@
+{
+ "n_words": 488,
+ "n_chunks": 8,
+ "ner": [
+  {
+   "text": "Yang Jekin",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "kênh YouTube",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "văn học Anh",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cơn thèm khát nhận thức",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thời kỳ bất ổn",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "xác suất khoảng 60",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Trump",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Mỹ",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Iran",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Mỹ",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "câu chuyện": 5,
+  "thị trường": 3,
+  "xã hội": 2,
+  "thông tin": 2,
+  "mỹ": 2,
+  "chừng": 2
+ }
+}

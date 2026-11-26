@@ -1,0 +1,69 @@
+{
+ "n_words": 808,
+ "n_chunks": 14,
+ "ner": [
+  {
+   "text": "Sharw",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Newport",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "số 4",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "00 9",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Deepw",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Shar Work",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Chat",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "C New Port",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Sharow",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "rule": 2,
+  "công việc": 6,
+  "tác giả": 2,
+  "sharw": 2,
+  "check": 2,
+  "check email": 2,
+  "email": 6,
+  "trạng thái": 2,
+  "deadline": 2,
+  "chủ đích": 2,
+  "lịch": 2,
+  "work": 7,
+  "shallow work": 6,
+  "newport": 2,
+  "shallow": 4,
+  "deepwork": 2
+ }
+}

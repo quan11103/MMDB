@@ -1,0 +1,59 @@
+{
+ "n_words": 741,
+ "n_chunks": 13,
+ "ner": [
+  {
+   "text": "Brian Johnson",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "điều đúng đắn",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Tự nhiên đíp quá nhở",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ok",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Ờ",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Script",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Đạt Cạ",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Peace",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "cuộc sống": 3,
+  "healthy": 2,
+  "đỉnh": 3,
+  "trải nghiệm": 3,
+  "bất lão": 2,
+  "đời": 2,
+  "câu chuyện": 2,
+  "ký ức": 4,
+  "kỷ niệm": 2,
+  "chuông": 2,
+  "tương lai": 2
+ }
+}

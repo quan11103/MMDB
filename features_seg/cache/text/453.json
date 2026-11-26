@@ -1,0 +1,27 @@
+{
+ "n_words": 277,
+ "n_chunks": 5,
+ "ner": [
+  {
+   "text": "Thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Việt Á",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "tiền": 9,
+  "giai đoạn": 3,
+  "placement": 2,
+  "hệ thống": 2,
+  "layering": 2,
+  "tài sản": 2,
+  "integration": 2,
+  "hợp đồng": 2,
+  "công ty": 2
+ }
+}

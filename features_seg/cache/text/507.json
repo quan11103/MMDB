@@ -1,0 +1,63 @@
+{
+ "n_words": 1017,
+ "n_chunks": 17,
+ "ner": [
+  {
+   "text": "Nhỡ",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Sun",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "sản phẩm V",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "CEO",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "ghế ngồi CEO",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "góc phần tư thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "95 ph",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "fallacy": 3,
+  "vé": 2,
+  "phim": 2,
+  "nhỡ": 2,
+  "tiền": 9,
+  "sản phẩm": 7,
+  "dịch vụ": 4,
+  "cổ đông": 2,
+  "dự án": 2,
+  "doanh thu": 2,
+  "ảnh": 2,
+  "tiền của": 2,
+  "tiền của công ty": 2,
+  "công ty": 4,
+  "lỗi lầm": 3,
+  "ceo": 2,
+  "khả năng": 2,
+  "lợi ích": 3,
+  "ph": 2,
+  "công việc": 2
+ }
+}

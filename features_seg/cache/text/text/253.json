@@ -1,0 +1,69 @@
+{
+ "n_words": 490,
+ "n_chunks": 8,
+ "ner": [
+  {
+   "text": "cổng X",
+   "label": "LOC",
+   "count": 3
+  },
+  {
+   "text": "công suất BD",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "96 W",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cổng Xịn",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "MacBook",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "dây C2C",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "HDMI",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "DB",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "màn hình Pro Ac",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tầm giá 5",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "là 15 W",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "cổng": 7,
+  "công suất": 2,
+  "laptop": 4,
+  "dây": 4,
+  "màn hình": 4,
+  "tính năng": 2
+ }
+}

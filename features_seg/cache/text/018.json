@@ -1,0 +1,163 @@
+{
+ "n_words": 1334,
+ "n_chunks": 22,
+ "ner": [
+  {
+   "text": "sông Hằng",
+   "label": "LOC",
+   "count": 12
+  },
+  {
+   "text": "Ấn Độ",
+   "label": "LOC",
+   "count": 6
+  },
+  {
+   "text": "lòng sông Hằng",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "sông Pandu",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Hằng",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "lưu vực sông Hằng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tiêu chuẩn Olympic",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đồng bằng phía Bắc",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Caner",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Pray Garage Faranasi",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "PNA",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "nhà máy D",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "điện than bên bờ sông Pandu",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thành phố Linh Thiêng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ấn Độ Giáo",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "sông Hỏng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "khi Covid-19",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đại dịch Corona",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "quanh Varanasi",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chiến dịch Namami",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 2014",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "sông trọng điểm",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tình hình sông Hằng",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "sông": 33,
+  "sông hằng": 15,
+  "hằng": 17,
+  "tiềm năng": 2,
+  "tiềm năng thủy điện": 2,
+  "thủy điện": 3,
+  "nhánh": 2,
+  "ấn độ": 6,
+  "con số": 2,
+  "đập": 3,
+  "điện": 3,
+  "môi trường": 3,
+  "người dân": 2,
+  "đường": 3,
+  "hồ": 2,
+  "chính phủ": 3,
+  "khu vực": 2,
+  "lưu vực": 2,
+  "thải": 3,
+  "con người": 3,
+  "nước thải": 6,
+  "lòng sông": 2,
+  "lòng sông hằng": 2,
+  "nhà máy": 6,
+  "thành phố": 3,
+  "đoạn": 2,
+  "đoạn sông": 2,
+  "than": 2,
+  "sông pandu": 3,
+  "pandu": 3,
+  "kim loại": 2,
+  "dòng": 5,
+  "dòng sông": 5,
+  "địa phương": 2,
+  "thi thể": 3,
+  "số lượng": 2,
+  "tình hình": 3,
+  "đại dịch": 2,
+  "bệnh": 3,
+  "tiến độ": 2
+ }
+}

@@ -1,0 +1,49 @@
+{
+ "n_words": 345,
+ "n_chunks": 6,
+ "ner": [
+  {
+   "text": "số ảo",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "số dương",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "số 0",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phép nhân",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "số 1",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phương thẳng đứng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "một chiều không gian thứ hai",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "con số": 4,
+  "trục": 5,
+  "một chiều": 2,
+  "phép": 2,
+  "gốc": 4,
+  "ảo": 2
+ }
+}

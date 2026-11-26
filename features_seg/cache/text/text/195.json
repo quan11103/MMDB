@@ -1,0 +1,55 @@
+{
+ "n_words": 330,
+ "n_chunks": 6,
+ "ner": [
+  {
+   "text": "Conan",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "nhóc thám tử lưng danh",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tháng bảy",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Cô Nan",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "khán giả Việt",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tác giả Aama Goso",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nhóc Shin",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phòng vé Việt",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "khán giả": 2,
+  "nhóc": 2,
+  "án": 3,
+  "việt": 2,
+  "số lượng": 2,
+  "vụ": 2,
+  "vụ án": 2
+ }
+}

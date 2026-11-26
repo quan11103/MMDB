@@ -1,0 +1,57 @@
+{
+ "n_words": 428,
+ "n_chunks": 7,
+ "ner": [
+  {
+   "text": "lĩnh vực Media",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bạn Đấy",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "như thế nào Thì",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Như",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "bitro là 50 nè Thì",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "CB",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "C",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Ui",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "test": 2,
+  "lĩnh vực": 2,
+  "tầm": 2,
+  "cảm giác": 2,
+  "hình ảnh": 2,
+  "render": 2,
+  "k nha": 2,
+  "gbu": 2,
+  "ph": 2
+ }
+}

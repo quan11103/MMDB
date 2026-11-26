@@ -1,0 +1,37 @@
+{
+ "n_words": 538,
+ "n_chunks": 9,
+ "ner": [
+  {
+   "text": "vốn FDI",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "FDI",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Việt Nam",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "điện tử": 2,
+  "kinh tế": 2,
+  "dòng": 3,
+  "dòng vốn": 2,
+  "dòng vốn fdi": 2,
+  "vốn": 2,
+  "vốn fdi": 2,
+  "fdi": 3,
+  "đồng": 2,
+  "quốc gia": 6,
+  "lạm phát": 2,
+  "thương mại": 2,
+  "linh kiện": 2,
+  "ph": 2
+ }
+}

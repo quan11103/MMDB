@@ -1,0 +1,36 @@
+{
+ "n_words": 360,
+ "n_chunks": 6,
+ "ner": [
+  {
+   "text": "chương Bad",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đầu thứ ba",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "hôn nhân gia đình",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "mối quan hệ bạn bè mối quan hệ",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "cảm xúc": 3,
+  "feedback": 2,
+  "cảm xúc tích cực": 2,
+  "ấn tượng": 2,
+  "gia đình": 3,
+  "quan hệ": 5,
+  "tình cảm": 2,
+  "tình cảm gia đình": 2
+ }
+}

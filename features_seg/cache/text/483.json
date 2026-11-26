@@ -1,0 +1,124 @@
+{
+ "n_words": 527,
+ "n_chunks": 9,
+ "ner": [
+  {
+   "text": "Mỹ",
+   "label": "LOC",
+   "count": 8
+  },
+  {
+   "text": "Nhật",
+   "label": "LOC",
+   "count": 3
+  },
+  {
+   "text": "Ba",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "như là Đức",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Volkswagen Mercedes",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "BMW",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Toyota Honda Nissan",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Sony Panasonic",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "cuộc chiến tranh Việt Nam",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "khoảng năm 1954",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "toàn bộ GDP",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 2023",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chính phủ Mỹ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "lính Mỹ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Việt Nam",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "súng áo đạn dược bom B52",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chính phủ Việt Nam",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chiến tranh Việt Nam",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Cộng",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "mỹ": 11,
+  "hệ thống": 2,
+  "quốc gia": 6,
+  "đồng": 3,
+  "vàng": 2,
+  "tỷ giá": 2,
+  "nhật": 3,
+  "chiến tranh": 5,
+  "hàng": 5,
+  "chiến tranh việt nam": 2,
+  "việt nam": 4,
+  "tiền": 2,
+  "chi phí": 3,
+  "chính phủ": 2,
+  "lính": 2,
+  "ngân hàng": 2
+ }
+}

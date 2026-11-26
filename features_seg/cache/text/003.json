@@ -1,0 +1,45 @@
+{
+ "n_words": 405,
+ "n_chunks": 7,
+ "ner": [
+  {
+   "text": "Dead Internet Theory",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Forchan",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Agora",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 2021",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cái thuyết Internet",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "kiểu Skynet",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "thuyết": 2,
+  "thuyết internet": 2,
+  "internet": 7,
+  "mạng": 2,
+  "boss": 8,
+  "con người": 2,
+  "màn": 2
+ }
+}

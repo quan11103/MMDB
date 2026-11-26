@@ -1,0 +1,49 @@
+{
+ "n_words": 657,
+ "n_chunks": 11,
+ "ner": [
+  {
+   "text": "làng Potemkin",
+   "label": "LOC",
+   "count": 3
+  },
+  {
+   "text": "Imperra",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "boss Boss",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Poengkemin",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "làng": 5,
+  "mạng": 8,
+  "mạng xã hội": 4,
+  "xã hội": 4,
+  "thế giới": 2,
+  "view": 3,
+  "hàng": 2,
+  "ngày nay": 4,
+  "boss": 8,
+  "con số": 3,
+  "tỉ lệ": 2,
+  "công ty": 2,
+  "tiền": 7,
+  "cung": 2,
+  "đầu": 2,
+  "màn hình": 3,
+  "mặt": 2,
+  "làng potemkin": 3,
+  "potemkin": 3,
+  "lương": 2,
+  "tiền mạng": 2
+ }
+}

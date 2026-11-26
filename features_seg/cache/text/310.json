@@ -1,0 +1,31 @@
+{
+ "n_words": 375,
+ "n_chunks": 6,
+ "ner": [
+  {
+   "text": "Điều",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "cảm giác tội lỗi",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "xung quanh Tham thực tế G sliding",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Thanh Hóa",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "chủ động": 2,
+  "đối phương": 3,
+  "cảm giác": 2
+ }
+}

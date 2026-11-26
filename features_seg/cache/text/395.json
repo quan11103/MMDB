@@ -1,0 +1,16 @@
+{
+ "n_words": 218,
+ "n_chunks": 4,
+ "ner": [
+  {
+   "text": "đường biên",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "vật liệu": 2,
+  "hóa học": 3,
+  "sinh học": 2
+ }
+}

@@ -1,0 +1,91 @@
+{
+ "n_words": 1081,
+ "n_chunks": 18,
+ "ner": [
+  {
+   "text": "Lào",
+   "label": "LOC",
+   "count": 4
+  },
+  {
+   "text": "Trung Quốc",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "cái Kỷ Nguyên",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đất nước Lào Đang",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nợ Trung Quốc",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "ph GDP",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Sri Lanka",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Việt Nam",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Chào",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Bye",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "chính trị": 2,
+  "đường": 2,
+  "quốc gia": 12,
+  "nợ": 9,
+  "gốc": 2,
+  "lãi": 2,
+  "tài chính": 3,
+  "người dân": 3,
+  "công": 2,
+  "biện pháp": 2,
+  "đất nước": 5,
+  "thực chất": 2,
+  "shar": 2,
+  "tiền": 4,
+  "con nợ": 4,
+  "mặt": 3,
+  "sắc thanh": 2,
+  "doanh nghiệp": 6,
+  "cổ phần": 3,
+  "bờ": 2,
+  "bờ vực": 3,
+  "vực": 2,
+  "chính sách": 2,
+  "đất nước lớn": 2,
+  "nước ngoài": 2,
+  "thế giới": 5,
+  "cường quốc": 2,
+  "lào": 4,
+  "trung quốc": 3,
+  "kinh tế": 4,
+  "tổ chức": 2,
+  "hạng": 2,
+  "chính phủ": 2
+ }
+}

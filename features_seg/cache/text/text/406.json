@@ -1,0 +1,94 @@
+{
+ "n_words": 610,
+ "n_chunks": 10,
+ "ner": [
+  {
+   "text": "Jessie",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "Toy Story",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Jess",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "PTSD",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Lilpad",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Inferior Complex",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Chessie",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Chessy",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Chess",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "phần hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phần năm",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Plot Twist",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Jessa",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Toy Story",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "con người": 3,
+  "nhân vật": 2,
+  "toy story": 2,
+  "jessie": 3,
+  "tư tưởng": 3,
+  "đồ chơi": 2,
+  "công nghệ": 3,
+  "câu chuyện": 2,
+  "trẻ": 2,
+  "lỗi": 2,
+  "hành trình": 3,
+  "ý nghĩa": 3,
+  "mục tiêu": 2,
+  "cuộc sống": 2,
+  "khả năng": 2,
+  "plot twist": 2
+ }
+}

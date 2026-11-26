@@ -1,0 +1,37 @@
+{
+ "n_words": 410,
+ "n_chunks": 7,
+ "ner": [
+  {
+   "text": "hiệu suất đỉnh cao",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "mức vừa phải",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trạng thái dòng chảy flow",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Martin Sickman",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "não bộ": 6,
+  "hiệu suất": 3,
+  "nguyên tắc": 2,
+  "cốt lõi": 2,
+  "giới hạn": 2,
+  "trạng thái": 3,
+  "công việc": 3,
+  "flow": 2,
+  "khả năng": 2
+ }
+}

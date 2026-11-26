@@ -1,0 +1,39 @@
+{
+ "n_words": 839,
+ "n_chunks": 14,
+ "ner": [
+  {
+   "text": "thứ vô hình",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "điều kiện sinh tồn",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "mạng lưới đa dạng",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "tương lai": 4,
+  "tài sản": 13,
+  "quà": 2,
+  "sức": 2,
+  "cộng đồng": 2,
+  "kỹ năng": 2,
+  "nguồn lực": 2,
+  "vẻ": 2,
+  "vẻ đẹp": 2,
+  "năng lượng": 3,
+  "thể chất": 2,
+  "cuộc đời": 2,
+  "khả năng": 2,
+  "hành trình": 3,
+  "quan hệ": 3,
+  "mạng lưới": 2
+ }
+}

@@ -1,0 +1,35 @@
+{
+ "n_words": 400,
+ "n_chunks": 7,
+ "ner": [
+  {
+   "text": "số phức nơi",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nền tảng số phức",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tiện lợi Chúng",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "phép": 2,
+  "bóng": 3,
+  "chuyển động": 3,
+  "dao động": 3,
+  "sóng": 2,
+  "chuyển động tròn": 2,
+  "ngôn ngữ": 2,
+  "ngôn ngữ tự nhiên": 2,
+  "phức": 3,
+  "điện": 2,
+  "tín hiệu": 2,
+  "ngành": 3
+ }
+}

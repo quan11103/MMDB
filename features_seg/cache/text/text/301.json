@@ -1,0 +1,90 @@
+{
+ "n_words": 826,
+ "n_chunks": 14,
+ "ner": [
+  {
+   "text": "EQ",
+   "label": "PER",
+   "count": 6
+  },
+  {
+   "text": "EQ",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "hành vi EQ",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "phương pháp rèn luyện EQ Một",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Daniel Goldman",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "kiểu bạn có EQ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "mỡ máu menan",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "ngưỡng báo động",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Neuroplastic City",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "khó chịu Daniel Goldman",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "rất đỗi đời thường",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "cơ chế": 3,
+  "thần kinh": 4,
+  "góc": 2,
+  "daniel goldman": 2,
+  "eq": 11,
+  "chỉ số": 5,
+  "kết quả": 2,
+  "máu": 2,
+  "cholesterol": 2,
+  "cảm xúc": 2,
+  "căn bệnh": 4,
+  "cảm lạnh": 2,
+  "cảm lạnh thông thường": 2,
+  "đối phương": 3,
+  "hành vi": 4,
+  "quan điểm": 2,
+  "cơ chế dẻo": 2,
+  "não bộ": 3,
+  "cảm giác": 2,
+  "ban đầu": 2,
+  "thói quen": 2,
+  "đường cao tốc": 2,
+  "hành vi eq": 2,
+  "đường": 2,
+  "cỏ": 2,
+  "cỏ dại": 2,
+  "dấu hiệu": 2
+ }
+}

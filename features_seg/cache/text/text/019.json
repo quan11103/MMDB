@@ -1,0 +1,51 @@
+{
+ "n_words": 582,
+ "n_chunks": 10,
+ "ner": [
+  {
+   "text": "thuần hóa",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thời điểm là khoảng 10.000",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trước công nguyên",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "loài tinh khôn Homo Sapiens",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "ngài Yuva Noa Harari",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Sapiens",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "con người như thế nào",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "thuần hóa": 2,
+  "con người": 10,
+  "sách": 2,
+  "cuộc sống": 2,
+  "cây cối": 3,
+  "lúa": 3,
+  "xung quanh": 3,
+  "câu chuyện": 2
+ }
+}

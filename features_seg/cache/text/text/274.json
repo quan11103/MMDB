@@ -1,0 +1,74 @@
+{
+ "n_words": 449,
+ "n_chunks": 8,
+ "ner": [
+  {
+   "text": "cơ sở dữ liệu database",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Horizon",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "phần React",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phần giao diện Frontend",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bảng cơ sở dữ liệu SQL",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cái Horizon",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cái tab dữ liệu của Horizon",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bảng Excel",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Dũng",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Tuấn Dũng",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "cơ sở dữ liệu": 5,
+  "dữ liệu": 4,
+  "ai": 3,
+  "nút": 2,
+  "đơn": 4,
+  "lịch sử": 4,
+  "bảng": 3,
+  "bảng cơ sở dữ liệu": 2,
+  "hóa đơn": 3,
+  "tab": 3,
+  "tab lịch sử": 2,
+  "hóa": 2,
+  "horizon": 3,
+  "giao diện": 2,
+  "data": 2,
+  "tính năng": 3
+ }
+}

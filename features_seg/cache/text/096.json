@@ -1,0 +1,54 @@
+{
+ "n_words": 280,
+ "n_chunks": 5,
+ "ner": [
+  {
+   "text": "Windows",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "appwid.cpl enter",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phiên bản Windows",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Not",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Macafe",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "phi 1",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Windows Defender",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "bên thứ ba",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "ứng dụng": 2,
+  "windows": 3,
+  "phần mềm": 4,
+  "virus": 4,
+  "hiệu năng": 2,
+  "máy": 2
+ }
+}

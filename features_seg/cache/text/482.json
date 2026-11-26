@@ -1,0 +1,76 @@
+{
+ "n_words": 510,
+ "n_chunks": 9,
+ "ner": [
+  {
+   "text": "Mỹ",
+   "label": "LOC",
+   "count": 4
+  },
+  {
+   "text": "đầu thế kỷ thứ 19",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "giá 1",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Việt Nam",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "vương quốc Anh",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Dần",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Bỗng Dương",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "thế kỷ 20",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "sau khi chiến tranh thế giới thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Kết Thúc Nước",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "vàng": 13,
+  "thế kỷ": 2,
+  "quốc gia": 10,
+  "tiền": 7,
+  "ounce": 2,
+  "giá": 2,
+  "mỹ": 5,
+  "tỷ giá": 2,
+  "kinh tế": 2,
+  "toàn cầu": 2,
+  "sản phẩm": 3,
+  "dịch vụ": 3,
+  "sản phẩm dịch vụ": 2,
+  "chiến tranh": 2,
+  "chiến tranh thế giới": 2,
+  "thế giới": 3,
+  "oce": 2,
+  "đồng": 2
+ }
+}

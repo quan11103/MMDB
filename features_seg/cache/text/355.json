@@ -1,0 +1,19 @@
+{
+ "n_words": 303,
+ "n_chunks": 5,
+ "ner": [
+  {
+   "text": "CPTSD",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "nạn nhân": 6,
+  "tâm lý": 6,
+  "tâm lý nạn nhân": 4,
+  "tổn thương": 3,
+  "quá khứ": 2,
+  "trách nhiệm": 2
+ }
+}

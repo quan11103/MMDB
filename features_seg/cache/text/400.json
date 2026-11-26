@@ -1,0 +1,25 @@
+{
+ "n_words": 385,
+ "n_chunks": 7,
+ "ner": [
+  {
+   "text": "ngày mai lời 200",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nghề tay trái",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "con người": 2,
+  "tiền bạc": 4,
+  "tiền": 9,
+  "nô lệ": 2,
+  "đồng tiền": 2,
+  "công việc": 3,
+  "chủ": 2
+ }
+}

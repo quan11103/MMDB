@@ -1,0 +1,34 @@
+{
+ "n_words": 485,
+ "n_chunks": 8,
+ "ner": [
+  {
+   "text": "cái đồ kẹt 1",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chậu 20",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Macworld",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "anh em": 9,
+  "chậu": 3,
+  "trái cây đồ": 2,
+  "gia đình": 2,
+  "chồng": 2,
+  "á bạn": 2,
+  "handy": 2,
+  "điện thoại": 2,
+  "vợ": 2,
+  "mẫu": 3,
+  "cuộc sống": 2
+ }
+}

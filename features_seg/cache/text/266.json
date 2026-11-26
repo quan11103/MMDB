@@ -1,0 +1,89 @@
+{
+ "n_words": 750,
+ "n_chunks": 13,
+ "ner": [
+  {
+   "text": "Dũng",
+   "label": "PER",
+   "count": 7
+  },
+  {
+   "text": "AI Low Code",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trên mạng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chat GPT",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thứ ba",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "AI Research",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "tiếng Việt",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phần trên",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "AI Product",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Generative",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bệnh nhân X-ray",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "GPT Gamerine",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "GPT Chamberine",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "chương trình": 3,
+  "công việc": 6,
+  "ai": 12,
+  "dũng": 7,
+  "ai low code": 2,
+  "low code": 2,
+  "công cụ": 2,
+  "chat gpt": 3,
+  "ai automations": 2,
+  "sản phẩm": 2,
+  "hệ thống": 2,
+  "công ty": 3,
+  "ai product": 2,
+  "giảng": 2,
+  "bác sĩ": 5,
+  "chuyên môn": 3
+ }
+}

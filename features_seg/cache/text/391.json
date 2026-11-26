@@ -1,0 +1,39 @@
+{
+ "n_words": 330,
+ "n_chunks": 6,
+ "ner": [
+  {
+   "text": "cạnh vật lý",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bậc nguyên tử và phân tử",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "viên gạch mà Lav",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Joh Daton",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "quy mô nguyên tử",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "hóa học": 5,
+  "vật lý": 2,
+  "vật chất": 2,
+  "nguyên tử": 6,
+  "hạt": 2,
+  "gạch": 4
+ }
+}

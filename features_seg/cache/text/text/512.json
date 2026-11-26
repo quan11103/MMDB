@@ -1,0 +1,108 @@
+{
+ "n_words": 1432,
+ "n_chunks": 24,
+ "ner": [
+  {
+   "text": "C",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Chúng Ta Đi Lên",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Trung Mình",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Chứ",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Sức",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "success equals Talent Plus Luck",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thống kê Mùa",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tà ván thứ năm",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Mèo",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "mặt tinh thần sau 3",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tiếng Anh",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Nếu",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "phần thứ ba",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chương thứ tư chương",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Chào",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Bye",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "regression": 2,
+  "regression to": 2,
+  "cuộc sống": 2,
+  "khả năng": 2,
+  "mùa": 3,
+  "mùa giải": 2,
+  "giải": 2,
+  "hồi": 2,
+  "mã": 3,
+  "tiền": 2,
+  "ván": 3,
+  "trầm cảm": 2,
+  "mèo": 3,
+  "mặt": 2,
+  "mặt tinh thần": 2,
+  "tinh thần": 2,
+  "bộ máy": 2,
+  "quyết định": 2,
+  "series": 4,
+  "sách": 2
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "n_words": 248,
+ "n_chunks": 4,
+ "ner": [
+  {
+   "text": "hình tổ ong",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "bảng": 2,
+  "từng viên": 2,
+  "bi": 3,
+  "đáy": 2,
+  "chuỗi": 2,
+  "trật tự": 2
+ }
+}

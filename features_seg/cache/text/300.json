@@ -1,0 +1,80 @@
+{
+ "n_words": 539,
+ "n_chunks": 9,
+ "ner": [
+  {
+   "text": "chỉ số IQ",
+   "label": "LOC",
+   "count": 4
+  },
+  {
+   "text": "IQ",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "IQ",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "EQ",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "EQ Nhiều",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "bẫy tư duy",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "kiến thức chuyên môn",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cảm xúc EQ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thung lũ Silicon",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trạng thái phẫn nộ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Miễn",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "iq": 9,
+  "chỉ số": 4,
+  "chỉ số iq": 4,
+  "logic": 2,
+  "vai trò": 2,
+  "cuộc đời": 3,
+  "năng lực": 3,
+  "chân": 2,
+  "hàng đầu": 2,
+  "bác sĩ": 2,
+  "thần kinh": 2,
+  "trí tuệ": 3,
+  "trí tuệ cảm xúc": 2,
+  "cảm xúc": 2,
+  "eq": 3,
+  "đội ngũ": 2,
+  "cơ chế": 2
+ }
+}

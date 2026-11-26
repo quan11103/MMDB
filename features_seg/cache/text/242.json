@@ -1,0 +1,48 @@
+{
+ "n_words": 643,
+ "n_chunks": 11,
+ "ner": [
+  {
+   "text": "LG",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "LG",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "con LG",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "color wireless",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "B",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "/ B",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "lg": 5,
+  "anh em": 2,
+  "màn hình": 5,
+  "màu sắc": 4,
+  "màu": 5,
+  "sản phẩm": 2,
+  "hình": 3,
+  "hồi": 2,
+  "chế độ": 4,
+  "tông": 2
+ }
+}

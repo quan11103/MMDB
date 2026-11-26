@@ -1,0 +1,42 @@
+{
+ "n_words": 598,
+ "n_chunks": 10,
+ "ner": [
+  {
+   "text": "Dung",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "thứ phức tạp",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Não",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "trạng thái tắc nghẽn",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "não": 4,
+  "chữ": 2,
+  "thông tin": 5,
+  "khả năng": 2,
+  "não bộ": 3,
+  "dung lượng": 5,
+  "sân khấu": 3,
+  "chi tiết": 2,
+  "đầu": 2,
+  "sách": 2,
+  "hiệu quả": 2,
+  "tiểu tiết": 2,
+  "dung lượng não": 2,
+  "quyết định": 2
+ }
+}

@@ -1,0 +1,81 @@
+{
+ "n_words": 714,
+ "n_chunks": 12,
+ "ner": [
+  {
+   "text": "= 1",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "dãy 9",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "số 1",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "dãy 3",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "0,999 nhân hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "9,999 9,999",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "= 9",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "dãy chín",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chữ số 9",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trước 1",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Monsiol",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Monsiol",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "bài toán": 2,
+  "dãy": 5,
+  "cảm giác": 3,
+  "khe": 4,
+  "vế": 3,
+  "phép": 2,
+  "ký hiệu": 2,
+  "ký hiệu 0,999": 2,
+  "đích": 2,
+  "nghĩa": 2,
+  "trực giác": 2,
+  "hệ thống": 2,
+  "monsiol": 2
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "n_words": 535,
+ "n_chunks": 9,
+ "ner": [
+  {
+   "text": "phía Bắc",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "gần Xích Đạo",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phía Việt Nam",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Xích Đạo",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "hướng Tây Nam",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Bạn",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Nam Bán Cầu",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thứ đảo ngược",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "tốc độ": 6,
+  "mặt đất": 9,
+  "khối": 6,
+  "khối không khí": 2,
+  "không khí": 2,
+  "xích đạo": 6,
+  "bắc": 7,
+  "khối khí": 5,
+  "khí": 7,
+  "đông": 6,
+  "vùng đất": 2,
+  "hướng": 6,
+  "hướng đông": 2,
+  "vĩ độ": 2,
+  "tây": 3,
+  "xa trục": 2,
+  "bắc bán cầu": 2,
+  "tay phải": 2,
+  "quy luật": 2,
+  "chuyển động": 2
+ }
+}

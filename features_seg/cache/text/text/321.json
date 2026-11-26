@@ -1,0 +1,16 @@
+{
+ "n_words": 254,
+ "n_chunks": 4,
+ "ner": [
+  {
+   "text": "Đoạn",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "máy": 2,
+  "đoạn": 6,
+  "xác suất": 4
+ }
+}

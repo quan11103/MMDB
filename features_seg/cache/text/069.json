@@ -1,0 +1,257 @@
+{
+ "n_words": 1261,
+ "n_chunks": 21,
+ "ner": [
+  {
+   "text": "Anthropic",
+   "label": "PER",
+   "count": 6
+  },
+  {
+   "text": "Clot",
+   "label": "PER",
+   "count": 4
+  },
+  {
+   "text": "thung lũng Silicon",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "năm 2020",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đại dịch Covid-19",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Dario Amode",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Daniela Amode",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "thế giới như là GPT2",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "GPT3",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Open",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Zoom",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "công viên Preseta San Francisco",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "CEO",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Anhropic",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "năng lực hoàn hảo",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "CEO Dario Amode",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "em gái chủ tịch Daniela Amode",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Việc Daniella",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Với",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "startup thanh toán tỷ đô Stripe",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Anthropic",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": ", Daniela",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Dario",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Daniela",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "tên Anhropic",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chữ Anhropos",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tiếng Hy Lạp",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": ", Anropic",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "dạng công ty lợi ích cộng đồng Public Benefit Corporation",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chip GPU",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Google",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đấu trường thương mại hóa",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "mô hình Clot",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "làng công chúng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "triết lý huấn luyện",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "sửa đổi Cross",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Chat",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "màu hồng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nhóm nhỏ Tinh Hoa Bằng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "DNA",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thế kỷ 21",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "tương lai": 2,
+  "ai": 14,
+  "anthropic": 7,
+  "thế giới": 2,
+  "thung lũng": 2,
+  "thung lũng silicon": 2,
+  "silicon": 2,
+  "xã hội": 3,
+  "dario": 2,
+  "dario amode": 2,
+  "em gái": 2,
+  "daniela amode": 2,
+  "mô hình": 3,
+  "công nghệ": 2,
+  "phòng": 2,
+  "con người": 7,
+  "ngành": 2,
+  "ngành ai": 2,
+  "máy": 3,
+  "tầm": 2,
+  "nhân loại": 2,
+  "startup": 2,
+  "ceo": 2,
+  "anhropic": 2,
+  "kỹ thuật": 2,
+  "chủ tịch": 2,
+  "tỷ đô": 2,
+  "daniela": 2,
+  "dòng": 2,
+  "tiền": 4,
+  "công ty": 2,
+  "giải": 2,
+  "lợi ích": 2,
+  "quyền": 3,
+  "sản phẩm": 2,
+  "câu chuyện": 2,
+  "hàng": 2,
+  "clot": 6,
+  "lỗ hổng": 2,
+  "tiêu chuẩn": 3,
+  "đạo đức": 2,
+  "yếu tố": 2,
+  "thị trường": 2,
+  "doanh nghiệp": 2
+ }
+}

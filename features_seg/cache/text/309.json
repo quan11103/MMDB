@@ -1,0 +1,65 @@
+{
+ "n_words": 638,
+ "n_chunks": 11,
+ "ner": [
+  {
+   "text": "tiến sĩ Ramani",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "vấn đề một cách hệ thống , tiến sĩ Ramani",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "kỷ radios classic narcissist",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Vable Narciss",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "passive aggressive",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bảng phân loại",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cắn dứt lương tâm tâm",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "narcissist Dạng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "lời tán dương",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "ái kỷ": 5,
+  "tiến sĩ": 2,
+  "tiến sĩ ramani": 2,
+  "ramani": 2,
+  "narcissist": 2,
+  "hành vi": 2,
+  "xã hội": 2,
+  "vẻ": 2,
+  "thế giới": 2,
+  "thái độ": 2,
+  "tâm thần": 2,
+  "cộng đồng": 2
+ }
+}

@@ -1,0 +1,113 @@
+{
+ "n_words": 977,
+ "n_chunks": 16,
+ "ner": [
+  {
+   "text": "việc B",
+   "label": "LOC",
+   "count": 3
+  },
+  {
+   "text": "The Enemies of Deep Work",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "attention residue",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "việc A",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nhặng thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cái kẻ thù thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Deepwork",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "The Cult of the Internet",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Messenger",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Zoom",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Instagram",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Thành",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "cái ý thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cái open office",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "điểm thứ tư",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Newport",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "deep": 2,
+  "deep work": 2,
+  "work": 2,
+  "kẻ thù": 2,
+  "tác giả": 3,
+  "kết quả": 2,
+  "email": 4,
+  "công việc": 3,
+  "ban đầu": 2,
+  "internet": 2,
+  "mạng": 2,
+  "nền tảng": 2,
+  "hiệu quả": 2,
+  "ứng dụng": 2,
+  "online": 2,
+  "trạng thái": 3,
+  "môi trường": 4,
+  "môi trường văn phòng": 2,
+  "văn phòng": 2,
+  "nhân viên": 2,
+  "tiếng": 3,
+  "xung quanh": 3,
+  "năng suất": 2,
+  "tầng": 2,
+  "shallow work": 2
+ }
+}

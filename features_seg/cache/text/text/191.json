@@ -1,0 +1,73 @@
+{
+ "n_words": 347,
+ "n_chunks": 6,
+ "ner": [
+  {
+   "text": "Yoko",
+   "label": "PER",
+   "count": 4
+  },
+  {
+   "text": "Yoko Okaki",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "tháng 04",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trò chơi khăm",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thời điểm Yoko",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "lần đầu năm 2003",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "One Miss Call",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "đạo diễn Takashimike",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "di sản mà Ringo",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Chuon",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Nhật Bản",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "One Miss Cole",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "yoko": 5,
+  "giọng": 2,
+  "one": 2,
+  "tác phẩm": 2,
+  "phim": 2
+ }
+}

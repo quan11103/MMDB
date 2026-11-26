@@ -1,0 +1,118 @@
+{
+ "n_words": 815,
+ "n_chunks": 14,
+ "ner": [
+  {
+   "text": "Nhật Bản",
+   "label": "LOC",
+   "count": 3
+  },
+  {
+   "text": "Exit8",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "The Lost Man",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "nhân vật thứ ba",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 2025",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm thứ 10",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "mức khoảng 1,25",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "độ tuổi 15",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "quanh việc The Lost Man",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "coin locker babies",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "90 Con",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Exit",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "vòng lặp thường nhật",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Maurice Esther",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Trung Quốc",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": ", Đài Loan",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Hàn Quốc",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "nhân vật": 4,
+  "exit8": 2,
+  "tiếng": 5,
+  "gái": 3,
+  "quanh": 2,
+  "trẻ con": 2,
+  "nhà ga": 2,
+  "âm thanh": 2,
+  "xứ": 2,
+  "xứ phủ tang": 2,
+  "phủ tang": 2,
+  "nhật bản": 3,
+  "phụ nữ": 2,
+  "quốc gia": 2,
+  "áp lực": 2,
+  "trẻ": 2,
+  "the lost man": 3,
+  "yếu tố": 2,
+  "hành lang": 2,
+  "hạnh phúc": 2,
+  "xã hội": 2,
+  "ga": 2,
+  "ga tàu": 2,
+  "tàu": 2,
+  "vòng": 3
+ }
+}

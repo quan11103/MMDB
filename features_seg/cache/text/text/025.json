@@ -1,0 +1,127 @@
+{
+ "n_words": 1169,
+ "n_chunks": 20,
+ "ner": [
+  {
+   "text": "Hair Of",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "bệnh thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thế kỷ thứ 9",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nước Bỉ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Bỉ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "sự Lê Lan",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Iraq",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 1650",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 1511",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thứ năm",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Columbus",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Lan",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Châu Âu",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nguồn cảm hứng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Mỹ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "châ Mỹ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tiến sĩ người Đức",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thế kỷ 19",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Bệnh",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "y khoa": 2,
+  "thời": 3,
+  "bệnh": 19,
+  "bệnh dại": 5,
+  "bác sĩ": 3,
+  "phương pháp": 3,
+  "chó": 11,
+  "chó dại": 3,
+  "người bệnh": 7,
+  "căn bệnh": 4,
+  "thế kỷ": 3,
+  "thành phố": 2,
+  "bỉ": 2,
+  "thế giới": 2,
+  "hiệu quả": 3,
+  "dịch bệnh": 2,
+  "đường": 2,
+  "giày": 2,
+  "con người": 3,
+  "động vật": 4,
+  "châu âu": 3,
+  "mỹ": 2,
+  "đá": 4,
+  "cơ thể": 3
+ }
+}

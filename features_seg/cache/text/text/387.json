@@ -1,0 +1,49 @@
+{
+ "n_words": 464,
+ "n_chunks": 8,
+ "ner": [
+  {
+   "text": "định lý Pytagoro",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cột mốc",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ngô Bảo Châu",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "huy chương FELS",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 2010",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chương trình Lang Lens",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "định lý": 9,
+  "logic": 2,
+  "phát biểu": 2,
+  "kết quả": 6,
+  "vai trò": 2,
+  "lý thuyết": 2,
+  "bổ đề": 5,
+  "công trình": 2,
+  "hệ quả": 3,
+  "lịch sử": 2,
+  "toán học": 2
+ }
+}

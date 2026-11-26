@@ -1,0 +1,124 @@
+{
+ "n_words": 772,
+ "n_chunks": 13,
+ "ner": [
+  {
+   "text": "trạng thái flow",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Flow",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Flow Blockers Blockers",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "thế kỷ 21",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nguyên tắc Flow Before Phones",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "hộp thư điện tử Trụ cột thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Flow Proness",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "thước đo xác suất",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thời điểm nhất định",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "giải sóng Alpha Theta",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "khoảng 22",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Trụ cuộc thứ tư",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chu kỳ Flow",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Flow Cycle",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "tính tuần hoàn",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Nã",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Cortisone",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Norepine Freen",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "tâm lý Giai đoạn ba",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "trụ cột": 5,
+  "trạng thái": 5,
+  "trạng thái flow": 2,
+  "flow": 16,
+  "điện thoại": 3,
+  "vòng": 2,
+  "sóng": 4,
+  "não": 3,
+  "năng lượng": 2,
+  "hệ thống": 2,
+  "giải": 3,
+  "giải sóng": 3,
+  "yếu tố": 5,
+  "nhà nghiên cứu": 2,
+  "yếu tố kích hoạt": 2,
+  "kích hoạt": 2,
+  "thần kinh": 3,
+  "không gian": 2,
+  "chất": 2,
+  "thực chất": 2,
+  "giai đoạn": 6
+ }
+}

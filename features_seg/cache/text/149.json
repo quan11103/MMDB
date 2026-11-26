@@ -1,0 +1,74 @@
+{
+ "n_words": 302,
+ "n_chunks": 5,
+ "ner": [
+  {
+   "text": "MacBook Pro M5",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "phân khúc Premium",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Apple",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thời M1",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Pro",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "DPS",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Logo X",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "trên MacBook",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Express",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "MacBook",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "trên XP",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "MacBook",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "macbook": 4,
+  "macbook pro m5": 2,
+  "máy": 3,
+  "cảm giác": 2,
+  "vân": 2,
+  "màu": 2
+ }
+}

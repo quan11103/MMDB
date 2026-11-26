@@ -1,0 +1,10 @@
+{
+ "n_words": 233,
+ "n_chunks": 4,
+ "ner": [],
+ "candidates": {
+  "đường": 4,
+  "góc": 2,
+  "cos": 2
+ }
+}

@@ -1,0 +1,116 @@
+{
+ "n_words": 783,
+ "n_chunks": 13,
+ "ner": [
+  {
+   "text": "Odysseius",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "đảo Aa",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phù thủy Se",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "khi mục nát",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "xoáy nước khổng lồ Caribd",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "quái vật Scaler",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Se",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "nhân gian Odysseius",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "quả cảm Perimedes và Erry Locus",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Skyler",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Caribdis",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nước CP",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Dis",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "quái vật Skyler",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "sáng loáng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "xoái nước Cariptis",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Sceller",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "quái vật": 3,
+  "biển": 6,
+  "se": 2,
+  "thử thách": 2,
+  "vùng biển": 3,
+  "siren": 2,
+  "ca": 2,
+  "thuyền": 9,
+  "đá": 7,
+  "khe": 2,
+  "khe hẹp": 2,
+  "vách": 4,
+  "vách đá": 3,
+  "đầu": 2,
+  "odysseius": 4,
+  "chàng": 5,
+  "âm thanh": 2,
+  "dây": 2,
+  "cột": 2,
+  "tiếng": 4,
+  "mắt": 2,
+  "skyler": 2,
+  "đáy": 2
+ }
+}

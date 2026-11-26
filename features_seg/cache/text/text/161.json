@@ -1,0 +1,33 @@
+{
+ "n_words": 253,
+ "n_chunks": 4,
+ "ner": [
+  {
+   "text": "Thì",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "Hoặc",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bụng thứ hết",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "ha Hatband",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "hatband": 4,
+  "mix": 2,
+  "màu": 2,
+  "cộng si": 2,
+  "loa": 2
+ }
+}

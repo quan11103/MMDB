@@ -1,0 +1,56 @@
+{
+ "n_words": 230,
+ "n_chunks": 4,
+ "ner": [
+  {
+   "text": "Việt Nam",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Nhật Bản",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Philippines",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Úc",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Madagascar",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tên lực Coriolis",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "lực Coriolis",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "bão": 5,
+  "chiều": 2,
+  "chiều kim": 2,
+  "chiều kim đồng hồ": 2,
+  "kim": 2,
+  "kim đồng hồ": 2,
+  "đồng hồ": 2,
+  "không khí": 2,
+  "áp suất": 2,
+  "hiệu ứng": 2,
+  "lực": 2,
+  "lực coriolis": 2,
+  "coriolis": 2
+ }
+}

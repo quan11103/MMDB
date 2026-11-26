@@ -1,0 +1,236 @@
+{
+ "n_words": 851,
+ "n_chunks": 14,
+ "ner": [
+  {
+   "text": "Nolen",
+   "label": "PER",
+   "count": 8
+  },
+  {
+   "text": "Nol",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "văn học Anh",
+   "label": "LOC",
+   "count": 3
+  },
+  {
+   "text": "Mỹ",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Anh",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Following",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Christopher Nolan",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Luân Đôn",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Christopher Edward Nolen",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Brandon",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "chuyện xúc tích",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Christina",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "tiếp viên hàng không Tiếp viên hàng không",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Nolen",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Illinois",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bé Noland",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Năm 1977",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bé Nol",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Star Wars",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phim ảnh Năm",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Super",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Nol",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ok",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Đại học Luân Đôn",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Emma Thomas",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Nolan",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Hollywood",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "đầu tay Doodle",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Bug Phim",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Nô Lần",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Homy",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Noen",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "việc làm giờ hành chính Following",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Slam Dance",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "hãng Next Wave",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Following",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "New York",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tên Christopher Nolen",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "giới phê bình",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "nolan": 2,
+  "luân đôn": 2,
+  "nolen": 10,
+  "nghệ thuật": 3,
+  "ngành": 2,
+  "tiếp viên": 2,
+  "tiếp viên hàng không": 2,
+  "hàng không": 2,
+  "bé": 2,
+  "đầu": 3,
+  "nol": 5,
+  "mỹ": 2,
+  "phim": 14,
+  "bố": 3,
+  "máy": 3,
+  "điện ảnh": 4,
+  "đại học": 2,
+  "bảng": 2,
+  "nô": 2,
+  "văn học": 3,
+  "câu lạc bộ": 2,
+  "câu lạc bộ điện ảnh": 2,
+  "phòng": 2,
+  "công việc": 2,
+  "đạo diễn": 2,
+  "ngân sách": 3,
+  "nô lần": 2,
+  "following": 5,
+  "tiền": 2,
+  "đoàn": 2,
+  "chiếu": 2,
+  "liên hoan": 2,
+  "liên hoan phim": 2
+ }
+}

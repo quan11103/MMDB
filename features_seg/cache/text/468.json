@@ -1,0 +1,141 @@
+{
+ "n_words": 276,
+ "n_chunks": 5,
+ "ner": [
+  {
+   "text": "Odyssey",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "Taser",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Oppenheimer Noland",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "chiến thắng Oscar",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "sự nghiệp sau tám",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thần thoại Hy Lạp",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "sử thi Odyssey",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Hommer",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "tên The Odyssey",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Universal",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Mat Damon",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "anh hùng Hy Lạp Odyssey",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "biển E",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Openheimer",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Noland",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "ống kính IMAX",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Jurassic World Rebirth",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "phần phim khủng long thứ sáu",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Nolen",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Nolan",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "tháng năm",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "kiểu Noland",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "rạp IMAX",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Christopher Nolan",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "phim": 5,
+  "hành trình": 2,
+  "hy lạp": 2,
+  "odyssey": 5,
+  "noland": 2,
+  "imax": 2,
+  "imax 70": 2,
+  "imax 70 mm": 2,
+  "mm": 2,
+  "taser": 2,
+  "rạp": 2,
+  "vé": 2,
+  "nolan": 2
+ }
+}

@@ -1,0 +1,176 @@
+{
+ "n_words": 1328,
+ "n_chunks": 22,
+ "ner": [
+  {
+   "text": "Techio",
+   "label": "PER",
+   "count": 12
+  },
+  {
+   "text": "Akira",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "Nhật Bản",
+   "label": "LOC",
+   "count": 3
+  },
+  {
+   "text": "Nhật",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Tokyo",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Canada",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "kiệt tác Akira",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "quang cảnh Tokyo",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đường cao tốc Tân Tiến",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thế chiến thứ ba",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Tân Tokyo",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "giai đoạn cuối thập niên 1980",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đỉnh cao kinh tế",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ban đầu Techio",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phạm vi nước Nhật",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Cậu",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "tuổi thiếu niên",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "toàn bộ Akira",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đạo diễn Cachiro Otomo",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "lịch sử nhân loại",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Techo",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Tokyo mục Duỗng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Big Bang",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Tân Tokyo",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "đại tá Shikishima",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Esper",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "akira": 5,
+  "hủy": 2,
+  "động lực": 2,
+  "lịch sử": 2,
+  "phim": 3,
+  "tokyo": 3,
+  "văn minh": 3,
+  "đỉnh cao": 3,
+  "hình ảnh": 3,
+  "nhật": 3,
+  "thập niên": 2,
+  "thập niên 1980": 2,
+  "quốc gia": 2,
+  "chiến tranh": 3,
+  "kinh tế": 2,
+  "thế giới": 3,
+  "con người": 4,
+  "thành phố": 3,
+  "vụ": 4,
+  "nỗ lực": 2,
+  "năng lượng": 5,
+  "tiến bộ": 2,
+  "sức mạnh": 6,
+  "tân tokyo": 4,
+  "biểu tượng": 2,
+  "nhân loại": 2,
+  "quyền lực": 2,
+  "canada": 2,
+  "techio": 13,
+  "cảm giác": 2,
+  "ngôi sao": 2,
+  "nhật bản": 3,
+  "thiếu niên": 3,
+  "bi kịch": 2,
+  "phép": 2,
+  "giới hạn": 2,
+  "cơ thể": 3,
+  "khoảnh khắc": 2
+ }
+}

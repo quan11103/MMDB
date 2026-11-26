@@ -1,0 +1,84 @@
+{
+ "n_words": 375,
+ "n_chunks": 6,
+ "ner": [
+  {
+   "text": "Ok",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "máy phân khúc giá bình dân",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Macbook Pro",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Air",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Neo",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Dell",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "RAM 4 GB SD",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "i3 gen 10",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Canva",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bạn tối ưu 90",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "MacBook Neio",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "khoảng 12",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Neo",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "khoảng 1",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "trải nghiệm": 2,
+  "tiền": 4,
+  "nhu cầu": 2,
+  "máy": 4,
+  "neo": 2,
+  "thời": 2
+ }
+}

@@ -1,0 +1,123 @@
+{
+ "n_words": 290,
+ "n_chunks": 5,
+ "ner": [
+  {
+   "text": "Niet",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "năm 1879",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 1889",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cuộc đời Frit Nature",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Bình Minh",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đạo đức 1887",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 1883",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Rapalo Ý",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": ", Nature",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Zaratusra",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Nature",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Uberman",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "sách Zaratusra",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Đầu năm 1889",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thành phố Turin",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cuối đời Niet",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Elizabeth",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 1900",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ner",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Va Đức",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tuổi 55",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "cuộc đời": 2,
+  "tác phẩm": 4,
+  "tinh thần": 3,
+  "giai đoạn": 2,
+  "nature": 3,
+  "tư tưởng": 2,
+  "triết học": 2,
+  "niet": 3,
+  "zaratusra": 2,
+  "sách": 2
+ }
+}

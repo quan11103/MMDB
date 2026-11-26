@@ -1,0 +1,113 @@
+{
+ "n_words": 893,
+ "n_chunks": 15,
+ "ner": [
+  {
+   "text": "Z2",
+   "label": "PER",
+   "count": 4
+  },
+  {
+   "text": "L",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "W2",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "con 28",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chên lệch 40",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "súng FPS",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tầng S",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chế độ UFO",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "lịch 2",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "khác biệt thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "sáng full màng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nền OLED",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "con W2",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "250 L nha",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "màn hình OLED",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "khác biệt thứ ba",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ờ",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "con Z2",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "tiền": 2,
+  "lịch": 2,
+  "tầng": 2,
+  "mặt": 3,
+  "khác biệt": 2,
+  "khả năng": 3,
+  "oled": 2,
+  "w2": 3,
+  "z2": 5,
+  "góc": 2,
+  "cổng": 3,
+  "mặt lưng": 2,
+  "lưng": 2,
+  "dấu": 2,
+  "dây": 3
+ }
+}

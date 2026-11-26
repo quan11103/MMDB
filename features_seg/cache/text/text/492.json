@@ -1,0 +1,115 @@
+{
+ "n_words": 1577,
+ "n_chunks": 26,
+ "ner": [
+  {
+   "text": "Chris",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "điểm thứ tư",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "người đấy B",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bạn khoảng 1 2",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "mức cái mức lương cái mức thưởng cái mức Phúc Lợi",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chốt C",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Mỗ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Lọ",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Ok",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "thời gian điểm quan trọng thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Bạn",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "phía Bạn",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "D",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trên 1",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Thà",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "tầm 30",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "no compromise": 2,
+  "never": 2,
+  "never split": 2,
+  "split": 2,
+  "difference": 2,
+  "sách": 2,
+  "giá": 5,
+  "deadline": 2,
+  "xu hướng": 2,
+  "quyết định": 4,
+  "thư": 4,
+  "lương": 2,
+  "sinin": 2,
+  "công ty": 2,
+  "chris": 2,
+  "flash": 3,
+  "flash sale": 4,
+  "sale": 3,
+  "đồ": 2,
+  "đàm phá": 2,
+  "kết quả": 3,
+  "đối phương": 3,
+  "trò chơi": 4,
+  "tiền": 3,
+  "đồng tiền": 2,
+  "con số": 2,
+  "ph": 3
+ }
+}

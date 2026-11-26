@@ -1,0 +1,138 @@
+{
+ "n_words": 527,
+ "n_chunks": 9,
+ "ner": [
+  {
+   "text": "bên trong cố hình của một bộ pc 10",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "CPU Intel Core I3",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "CPU",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "nhà mvda gtx1650 4",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "GB RAM Đây",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "thanh 8 GB",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bạn Bu bộ PC",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đ Channel",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ngon",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "ổ cứng SD",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "256 GB",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cài Win",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "590 C",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chuẩn 80 Plus",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Màu đằng trước",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "790 C",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "giá cái Linh Kiệt",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tổng bộ PC",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cnh Hay",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bạn buư bộ PC",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "pc 10",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trải nghiệm hiệu năng thực tế của bộ PC",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "máy": 2,
+  "trải nghiệm": 2,
+  "pc": 6,
+  "pc 10": 2,
+  "pc 10 cũ": 2,
+  "cpu": 2,
+  "củ": 4,
+  "gb": 3,
+  "giá": 4,
+  "thanh ram": 2,
+  "thanh ram 8gb": 2,
+  "8gb": 2,
+  "cnh": 2,
+  "quạt bẫy": 2,
+  "quạt bẫy màu": 2,
+  "quạt bẫy màu đằng": 2,
+  "màu": 2,
+  "màu đằng": 2,
+  "đằng": 2,
+  "hiệu năng": 2
+ }
+}

@@ -1,0 +1,90 @@
+{
+ "n_words": 692,
+ "n_chunks": 12,
+ "ner": [
+  {
+   "text": "Insulin",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "đường hóa",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tinh thể bệnh tim và bệnh Alzheimer",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tiểu đường tuýp 2",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bệnh tim và suy giảm nhận thức",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "hócmôn có tên insulin",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tuýp 1",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "mỡ dự trữ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "buồng trứng đa nang",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nhận thức vân vân",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "cơ thể": 8,
+  "hậu quả": 3,
+  "tế bào": 3,
+  "đường": 7,
+  "đường hóa": 3,
+  "hóa": 4,
+  "phân tử": 3,
+  "lão": 2,
+  "cơ quan": 2,
+  "glucozơ": 3,
+  "bệnh": 4,
+  "bệnh tim": 3,
+  "tim": 3,
+  "gốc": 3,
+  "gốc tự do": 2,
+  "tự do": 2,
+  "stress": 3,
+  "oxy": 3,
+  "nguyên nhân": 2,
+  "tiểu đường": 3,
+  "tuýp": 2,
+  "stress oxy": 2,
+  "stress oxy hóa": 2,
+  "oxy hóa": 2,
+  "viêm": 2,
+  "insulin": 8,
+  "đường huyết": 2,
+  "ngăn": 2,
+  "gan": 5,
+  "chất béo": 2,
+  "mỡ": 3,
+  "frutoer": 2
+ }
+}

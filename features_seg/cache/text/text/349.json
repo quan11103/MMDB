@@ -1,0 +1,42 @@
+{
+ "n_words": 737,
+ "n_chunks": 12,
+ "ner": [
+  {
+   "text": "vấn đề nhức óc",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "White",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Berlin",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "tự thân thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "sức khỏe",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "động lực": 15,
+  "nhiệm vụ": 2,
+  "sức": 2,
+  "tự thân": 4,
+  "phần thưởng": 2,
+  "khả năng": 2,
+  "con người": 4,
+  "nhu cầu": 2,
+  "ba mẹ": 2
+ }
+}

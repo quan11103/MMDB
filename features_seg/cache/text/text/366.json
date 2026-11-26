@@ -1,0 +1,24 @@
+{
+ "n_words": 343,
+ "n_chunks": 6,
+ "ner": [
+  {
+   "text": "khoảng 2",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Điều",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "bệnh": 9,
+  "khả năng": 2,
+  "kết quả": 7,
+  "kết quả dương tính": 5,
+  "tỉ lệ": 2,
+  "báo": 2
+ }
+}

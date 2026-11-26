@@ -1,0 +1,51 @@
+{
+ "n_words": 824,
+ "n_chunks": 14,
+ "ner": [
+  {
+   "text": "Nhóm",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "mức tiềm thức",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Hạnh",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "chức năng thói quen",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "hình ảnh trực quan",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "năng lượng": 7,
+  "não": 8,
+  "vỏ": 2,
+  "vỏ não": 2,
+  "thí nghiệm": 2,
+  "đèn": 2,
+  "màu": 2,
+  "kết quả": 2,
+  "nhạc": 2,
+  "giai điệu": 2,
+  "đầu": 2,
+  "hành vi": 3,
+  "chức năng": 2,
+  "công việc": 3,
+  "nhiệm vụ": 3,
+  "phản xạ": 2,
+  "hiệu suất": 2,
+  "hình ảnh": 4
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "n_words": 325,
+ "n_chunks": 6,
+ "ner": [
+  {
+   "text": "Hà Nội",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "giai đoạn 3",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "con số 70",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thứ hai",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "xác suất": 2,
+  "ngày mai": 4,
+  "mưa": 2,
+  "thuốc": 2,
+  "con số": 2,
+  "con số 70": 2,
+  "mô hình": 2,
+  "tập hợp": 2,
+  "đồng": 2,
+  "đồng xu": 3,
+  "xu": 2
+ }
+}

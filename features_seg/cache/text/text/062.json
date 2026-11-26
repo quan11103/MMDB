@@ -1,0 +1,241 @@
+{
+ "n_words": 1460,
+ "n_chunks": 24,
+ "ner": [
+  {
+   "text": "năm 2008",
+   "label": "LOC",
+   "count": 3
+  },
+  {
+   "text": "Bitcoin",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "Mỹ",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Hy Lạp",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "tài sản Bong bóng chứng khoán",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Bong",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "năm 1987",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Black Monday",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "năm 1990",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "giữa năm 2000",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bong bong riêng Bong bóng bất động sản",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đòn bảy",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "vòng xoáy tiêu cực",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "ví dụ điển hình",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Trung Quốc",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 2001",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 2011",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 2015",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chu kỳ Bomb",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Bitcoin",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "giá trị nội tại",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "ICO",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Initial Coin Offering",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "DeFi",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": ", Decentralized Finance",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "NFT",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "thế giới sau khi Bongbong",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nợ dây chuyền",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 2010",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 2012",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Hy Lạp",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "IMF",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "EU",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "bụng khắc nghiệt",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trên 25",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thế hệ người dân Hy Lạp",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "GDP",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "bong bóng": 10,
+  "tài sản": 6,
+  "bong": 3,
+  "cổ phiếu": 5,
+  "giá": 12,
+  "mỹ": 2,
+  "kinh tế": 3,
+  "tiền": 6,
+  "thị trường": 5,
+  "ngành": 2,
+  "đầu": 2,
+  "kỳ vọng": 2,
+  "năng lượng": 2,
+  "chu kỳ": 6,
+  "blockchain": 2,
+  "bong bóng bất động sản": 2,
+  "bất động sản": 5,
+  "hộ": 2,
+  "hộ gia đình": 2,
+  "gia đình": 2,
+  "dòng": 3,
+  "người dân": 2,
+  "vốn": 2,
+  "chủ": 2,
+  "nợ": 10,
+  "cung": 2,
+  "vòng": 3,
+  "ngân hàng": 4,
+  "khủng hoảng": 4,
+  "bóng": 3,
+  "hàng": 2,
+  "hàng hóa": 2,
+  "dầu": 5,
+  "vàng": 4,
+  "giá dầu": 3,
+  "thùng": 2,
+  "nhu cầu": 2,
+  "tài chính": 3,
+  "khủng hoảng tài chính": 2,
+  "tiền điện tử": 2,
+  "bitcoin": 4,
+  "crypto": 3,
+  "dòng tiền": 2,
+  "chính phủ": 2,
+  "lãi suất": 4,
+  "hy lạp": 4,
+  "toàn cầu": 2,
+  "gdp": 2
+ }
+}

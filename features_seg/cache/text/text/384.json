@@ -1,0 +1,48 @@
+{
+ "n_words": 528,
+ "n_chunks": 9,
+ "ner": [
+  {
+   "text": "Marlin Brando",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "khoảng lặng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cao độ vân vân",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bên trong bạn",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tuần Một",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ah",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "phép": 2,
+  "cốt lõi": 2,
+  "hệ thống": 2,
+  "thấu": 3,
+  "thấu bản chất": 3,
+  "bản chất": 3,
+  "đời": 2,
+  "trẻ": 2,
+  "quyền": 3,
+  "nút": 3
+ }
+}

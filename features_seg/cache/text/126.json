@@ -1,0 +1,28 @@
+{
+ "n_words": 356,
+ "n_chunks": 6,
+ "ner": [
+  {
+   "text": "cả CPU",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "GPU",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "° C",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "laptop": 5,
+  "laptop gaming": 3,
+  "gaming": 3,
+  "máy": 7,
+  "nhiệt độ": 3
+ }
+}

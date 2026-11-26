@@ -1,0 +1,43 @@
+{
+ "n_words": 738,
+ "n_chunks": 12,
+ "ner": [
+  {
+   "text": "địa vị hay là hoàn",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Nguyên",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Duty",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "tương phản thứ hai",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "sinh viên": 2,
+  "đạo đức": 17,
+  "hành động": 3,
+  "động cơ": 4,
+  "thầy giáo": 2,
+  "chủ": 2,
+  "chủ cửa hàng": 2,
+  "cửa hàng": 2,
+  "nguyên tắc": 8,
+  "nguyên tắc đạo đức": 6,
+  "quy chuẩn": 2,
+  "quy chuẩn đạo đức": 2,
+  "tự trị": 2,
+  "kh": 3,
+  "con người": 2
+ }
+}

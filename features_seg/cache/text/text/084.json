@@ -1,0 +1,125 @@
+{
+ "n_words": 668,
+ "n_chunks": 11,
+ "ner": [
+  {
+   "text": "Yang",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "Trung Quốc",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Kênh YouTube Predictive History",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "series Civilization Civilization",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bản sắc tập thể thể",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Geor Strategy",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "tái cấu trúc Seri",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Secret History",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "chết học phương Tây",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tư tưởng châu Âu Đằng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Predictive History",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Osw Perler",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Peter Tchin",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "Thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cờ dài hạn",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Pycho History History",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "bộ tiểu thuyết khoa học viễn tưởng Foundation",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Isaac Asimov",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "mặt nội dung dung",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "predictive history": 2,
+  "lịch sử": 6,
+  "công cụ": 2,
+  "cấu trúc": 3,
+  "cấu trúc nội dung": 2,
+  "nội dung": 4,
+  "series": 2,
+  "xã hội": 2,
+  "hệ thống": 3,
+  "câu chuyện": 2,
+  "seri": 2,
+  "địa chính trị": 3,
+  "quyền lực": 2,
+  "bối cảnh": 3,
+  "chính trị": 3,
+  "yang": 3,
+  "văn minh": 2,
+  "khái niệm": 2,
+  "khoa học": 2,
+  "khả năng": 2,
+  "mô hình": 2,
+  "sức": 2
+ }
+}

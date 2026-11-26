@@ -1,0 +1,31 @@
+{
+ "n_words": 257,
+ "n_chunks": 4,
+ "ner": [
+  {
+   "text": "Đức Phật",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "nội quán Vipassana",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "giác ngộ ngộ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Bát Chánh Đạo",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "phương diện": 2,
+  "bộ môn": 2,
+  "thành tựu": 2
+ }
+}

@@ -1,0 +1,148 @@
+{
+ "n_words": 1602,
+ "n_chunks": 27,
+ "ner": [
+  {
+   "text": "Puskin",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Murakami",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "định hình tư duy",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Franc Ka",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "nhà văn Nguyễn Ngọc Tư",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Việt Nam",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "mưa bụi tháng ba",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Nguyễn Ngọc Tư",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "đường quê Nam Bộ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cấp độ thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nhà thơ Puskin",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Người thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Haruki Murakami",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Nhật Bản",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cơn địa chấn",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nhà văn Ocean Vương",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ocean Vương",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "cặp xúc",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "mô hình kỹ thuật vô hồn",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "hóa mỹ",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "cấp độ": 12,
+  "ý tưởng": 15,
+  "hóa": 4,
+  "ngôn ngữ": 8,
+  "tiến trình": 2,
+  "cấp độ ngôn ngữ": 3,
+  "chất liệu": 2,
+  "trạng thái": 2,
+  "cảm giác": 4,
+  "nhà văn": 5,
+  "nguyễn ngọc tư": 2,
+  "hình": 2,
+  "hình ảnh": 3,
+  "ý tưởng gốc": 4,
+  "gốc": 4,
+  "cảm xúc": 8,
+  "nhịp điệu": 2,
+  "nhánh": 2,
+  "diễn giải": 2,
+  "cuộc đời": 2,
+  "puskin": 3,
+  "dòng": 5,
+  "dòng thơ": 4,
+  "thơ": 4,
+  "trái tim": 2,
+  "biểu hiện": 3,
+  "tình yêu": 2,
+  "mô hình": 2,
+  "bản đồ": 2,
+  "bản đồ tinh thần": 2,
+  "tinh thần": 2,
+  "phong cách": 2,
+  "kỹ thuật": 2,
+  "văn phòng": 2,
+  "murakami": 2,
+  "ocean vương": 2,
+  "chất": 2,
+  "chất xúc tác": 2,
+  "xúc tác": 2,
+  "tác phẩm": 3
+ }
+}

@@ -1,0 +1,161 @@
+{
+ "n_words": 897,
+ "n_chunks": 15,
+ "ner": [
+  {
+   "text": "Anthropic",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "Open",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "GPT3",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Chat GPT",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "cuối năm 2022",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Netflix",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Spotify",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "hệ thống Skynet",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thung lũng Silicon",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Google Brain",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": ", Deep My",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": ", Meta",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "định luật tỉ lệ scaling laws",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "GPT2",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "năm 2019",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "mô hình GPT3",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Open AI",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Artificial General Intelligence",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "nguồn vốn dồi rào",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Microsoft",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": ", Google",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Amazon",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bắt tay 1",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Microsoft",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Open",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "anthropic": 3,
+  "ngành": 3,
+  "ngành ai": 2,
+  "ai": 17,
+  "lĩnh vực": 2,
+  "trí tuệ": 2,
+  "trí tuệ nhân tạo": 2,
+  "thuật toán": 2,
+  "hệ thống": 4,
+  "năng lực": 2,
+  "con người": 2,
+  "đột phá": 2,
+  "vốn": 2,
+  "tập đoàn": 2,
+  "công nghệ": 2,
+  "open": 4,
+  "open ai": 5,
+  "định luật": 4,
+  "định luật tỉ lệ": 3,
+  "tỉ lệ": 3,
+  "hệ thống ai": 2,
+  "mô hình": 4,
+  "gpt3": 3,
+  "tài chính": 2,
+  "hạ tầng": 2,
+  "tỷ đô": 2,
+  "microsoft": 2,
+  "áp lực": 2
+ }
+}

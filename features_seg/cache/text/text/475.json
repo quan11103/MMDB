@@ -1,0 +1,73 @@
+{
+ "n_words": 541,
+ "n_chunks": 9,
+ "ner": [
+  {
+   "text": "Hello",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "M Perspectives",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Duy Thành Nguyễn",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "series triết học 101",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Emmanuel K",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "K",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "TikTok",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "mắt Kant",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "KH",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Khan",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Thì",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "triết học": 2,
+  "quan điểm": 3,
+  "đạo đức": 6,
+  "bé": 4,
+  "hoàn cảnh": 2,
+  "lợi ích": 3,
+  "áp lực": 2,
+  "xã hội": 2,
+  "hành động": 2,
+  "hệ quả": 3
+ }
+}

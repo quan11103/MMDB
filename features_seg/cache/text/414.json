@@ -1,0 +1,31 @@
+{
+ "n_words": 312,
+ "n_chunks": 5,
+ "ner": [
+  {
+   "text": "Chìa",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "khoảng 50",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thế kỷ 19",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Furier",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "sóng": 2,
+  "cos": 3,
+  "chuyển động": 2
+ }
+}

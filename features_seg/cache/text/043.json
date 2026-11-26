@@ -1,0 +1,159 @@
+{
+ "n_words": 718,
+ "n_chunks": 12,
+ "ner": [
+  {
+   "text": "Odysseius",
+   "label": "PER",
+   "count": 7
+  },
+  {
+   "text": "chỉ dẫn phương hướng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Posedon",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Polypimus",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Odysseia",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Nosica",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Odyseus",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "vợ Ausinius",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "người Pheasia",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cuộc chiến thành Troy",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "quân Hy Lạp",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Odysseius",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ainus",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "mắt Cyclopes",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thần biển Posidon",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Calypso",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Vua Ainos",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "công chúa Noica",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Pheas Asia",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Thấu",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "quê hương Itaka",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "vua Ainus",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thuyền Feasia",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Itaka",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Itaka",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "chàng": 10,
+  "bè": 2,
+  "biển": 8,
+  "sóng": 2,
+  "odysseius": 8,
+  "bờ": 2,
+  "bờ biển": 2,
+  "pheasia": 2,
+  "thần": 2,
+  "công chúa": 4,
+  "nàng": 5,
+  "quần áo": 2,
+  "nhà vua": 2,
+  "nước mắt": 2,
+  "vua": 4,
+  "vua ainus": 2,
+  "ainus": 2,
+  "hành trình": 2,
+  "mắt": 2,
+  "phia": 2,
+  "quê hương": 3,
+  "itaka": 3,
+  "anh hùng": 2,
+  "thuyền": 2,
+  "mặt": 2,
+  "bến": 2
+ }
+}

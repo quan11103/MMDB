@@ -1,0 +1,19 @@
+{
+ "n_words": 221,
+ "n_chunks": 4,
+ "ner": [
+  {
+   "text": "góc âm",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "định nghĩa": 2,
+  "tam giác vuông": 4,
+  "góc": 8,
+  "sin": 2,
+  "° ộ": 3,
+  "hàm lượng": 2
+ }
+}

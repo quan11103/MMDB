@@ -1,0 +1,33 @@
+{
+ "n_words": 304,
+ "n_chunks": 5,
+ "ner": [
+  {
+   "text": "vô hạn số thực",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "số 1",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "số giữa 0",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "con số": 6,
+  "xác suất": 6,
+  "vô hạn": 2,
+  "tổng": 3,
+  "quy tắc": 3
+ }
+}

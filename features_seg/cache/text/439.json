@@ -1,0 +1,98 @@
+{
+ "n_words": 1494,
+ "n_chunks": 25,
+ "ner": [
+  {
+   "text": "Scott",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Linder Graden",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "tuổi 50",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Thiếu Vắng",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "CEO",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "sự phân cực gay gắt Một",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "hiện đại Michael Poloni",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Vua Tề Hoàn Công",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đạo vĩnh hằng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chất giám thông thường",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "thách thức": 5,
+  "cuộc đời": 2,
+  "con người": 10,
+  "tài chính": 2,
+  "kỹ năng": 6,
+  "áp lực": 2,
+  "nghề": 4,
+  "công nghệ": 3,
+  "lao động": 6,
+  "công việc": 12,
+  "nhu cầu": 4,
+  "nguy cơ": 2,
+  "thị trường": 3,
+  "thị trường lao động": 3,
+  "hành trình": 2,
+  "xã hội": 3,
+  "thế hệ": 2,
+  "viễn cảnh": 2,
+  "tương lai": 4,
+  "sáng tạo": 2,
+  "trí tuệ": 4,
+  "giám đốc": 2,
+  "năng lực": 2,
+  "đầu": 3,
+  "nhân viên": 2,
+  "tính chất": 2,
+  "công nhân": 2,
+  "khả năng": 2,
+  "máy móc": 6,
+  "công việc đầu": 2,
+  "việc làm": 3,
+  "sách": 2,
+  "thợ": 4,
+  "tri thức": 2,
+  "trải nghiệm": 2,
+  "đạo": 3,
+  "cảm giác": 2,
+  "nghệ thuật": 2,
+  "trí tuệ nhân tạo": 2,
+  "hóa": 2
+ }
+}

@@ -1,0 +1,183 @@
+{
+ "n_words": 747,
+ "n_chunks": 13,
+ "ner": [
+  {
+   "text": "Odysseius",
+   "label": "PER",
+   "count": 5
+  },
+  {
+   "text": "Odysseus",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "Aolicus",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "Lartis",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "thực chất là CC First",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thần địa ngục Hades",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Thanatos Thanatos",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Hy Lạp",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "CF",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Cfus",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Nuốt",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Cifus",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "sau kết hôn với Les",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Odysseius",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Atholicus",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "dòng máu của Cfus",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Atolicus",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "đời mẹ Thuổi",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Còn",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "phần Laates",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trai Laes",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Itaka",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "đảo nhỏ vía tây Hy Lạp",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Maenia",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "Sparta",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đảo Isaka",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cuộc chiến thành Troy",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tác giả Morpheus",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Spyroom",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Odyseus",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Troy",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "odysseius": 6,
+  "người đời": 2,
+  "odysseus": 3,
+  "trai": 3,
+  "thần": 2,
+  "thanatos": 2,
+  "aolicus": 3,
+  "hy lạp": 2,
+  "bò": 3,
+  "dấu vết": 3,
+  "cfus": 2,
+  "gái": 2,
+  "dòng": 2,
+  "dòng máu": 2,
+  "máu": 2,
+  "đời": 4,
+  "vua": 2,
+  "đảo": 2,
+  "cuộc chiến": 3,
+  "troy": 2
+ }
+}

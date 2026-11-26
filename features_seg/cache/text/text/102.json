@@ -1,0 +1,135 @@
+{
+ "n_words": 523,
+ "n_chunks": 9,
+ "ner": [
+  {
+   "text": "Ultra",
+   "label": "PER",
+   "count": 4
+  },
+  {
+   "text": "Intel",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "GBU",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Coa X7",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "X9",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "RCB390",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "RTX",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "IGBU",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "trên Z2xtem",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Z2",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "mẫu máy HEL",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Countra",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "sức mạnh IGBU",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trên một",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Z2 Stream",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "mẫu máy handhell",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trên Hhell",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Liên Minh",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Var",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "Full HD",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "dòng BL",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "dòng X",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "hiệu năng": 3,
+  "laptop": 3,
+  "igbu": 2,
+  "tựa": 2,
+  "game chiple": 2,
+  "máy": 4,
+  "ultra": 4,
+  "ultra 735": 3,
+  "điểm số": 2,
+  "chip": 2,
+  "mẫu": 3,
+  "mẫu máy": 3,
+  "game": 6,
+  "màn hình": 3,
+  "phân giải": 2,
+  "công việc": 2,
+  "dòng": 3
+ }
+}

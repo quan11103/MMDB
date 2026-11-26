@@ -1,0 +1,221 @@
+{
+ "n_words": 473,
+ "n_chunks": 8,
+ "ner": [
+  {
+   "text": "Rodriguez",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "Robert Rodriguez",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Planet Teror",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Quenin",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Uma",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Quen",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Sin CD",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "kỹ thuật số Quenin",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tiếng chuông báo tử",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "ảnh tĩnh",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "ảo giác chuyển động",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đó Quenin",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nhà Quenin",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thập niên 70",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Vanishing Point",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": ", Rolling Thunder",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phim Exploitation",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": ", Zombie",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Quentin",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Grind House",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Planet Terror",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Robert Rodriguez",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "Deadprof",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "Deathpof",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "tai nạn xe hơi ám ảnh Quenin",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phim Kurt Russell",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Vi Mike",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "Mỹ Death Roof",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tháng 9",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 2006",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "sự nghiệp Quenin",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Grand House",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "năm 2007",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "sau Planet Terror",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Grand Houseouse",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Anh",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Deathprof",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "tháng Flop",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phim hạng B",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "cảnh": 2,
+  "robert rodriguez": 3,
+  "rodriguez": 4,
+  "sự nghiệp": 2,
+  "máy": 2,
+  "phim": 10,
+  "quenin": 7,
+  "phép": 3,
+  "phép màu": 3,
+  "màu": 3,
+  "ảo giác": 2,
+  "double": 2,
+  "double feature": 2,
+  "feature": 2,
+  "quentin": 2,
+  "planet terror": 2,
+  "ý tưởng": 2,
+  "planet teror": 2
+ }
+}

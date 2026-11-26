@@ -1,0 +1,61 @@
+{
+ "n_words": 315,
+ "n_chunks": 5,
+ "ner": [
+  {
+   "text": "x 3",
+   "label": "LOC",
+   "count": 3
+  },
+  {
+   "text": "x 2 x 2",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "nhân 2 x 2",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "nh 3",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "tên các quân cờ Một",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "số nguyên tố",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "loại số 1",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "số 1",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trơn chu",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "định nghĩa": 7,
+  "toán học": 2,
+  "số một": 2,
+  "nhân": 2,
+  "nhân 2": 2,
+  "nh": 2,
+  "nh 3": 2,
+  "định lý": 2
+ }
+}

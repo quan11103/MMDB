@@ -1,0 +1,49 @@
+{
+ "n_words": 349,
+ "n_chunks": 6,
+ "ner": [
+  {
+   "text": "thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "lá phiếu",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Frank Ramseay",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Bruno de Finetti",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đầu thế kỷ 20",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Giả",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "việc sao Hỏa",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "xác suất": 5,
+  "mức độ": 3,
+  "quy tắc": 3,
+  "sự kiện": 2,
+  "kết quả": 2,
+  "kèo": 2
+ }
+}

@@ -1,0 +1,313 @@
+{
+ "n_words": 1380,
+ "n_chunks": 23,
+ "ner": [
+  {
+   "text": "Anthropic",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Anfropic",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "thế kỷ 21",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "giai đoạn cuối năm 2022",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đầu năm 2023",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "sự kiện Open",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "GPT",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Anthopic",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "khác Dario Amode",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thuế căn trình Alignment Tax",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năng lực tư duy Chúng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thủ công Cloud",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "CL 3 Opus",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Chat GPT4",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "suy luận logic",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Cherry",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Anvelopic",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "cánh cửa sổ ngữ cảnh Context Windows",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Clot",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "mức 200.000",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "sự kiện phát hành mô hình Clot",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "khoảng 150.000",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Anpopic",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Chìa",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "chứng nhận Fed RP2",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chính phủ Mỹ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Fed RP2",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "mức 368 đô la Mỹ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "quyền truy cập API",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": ", Anropic",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tính năng Artifact",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Project",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chi phí chuyển đổi",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "GitHub",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": ", Slack",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năng lực điện toán",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Antropic",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "la Mỹ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Amode",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Mỹ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Amazon",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Google",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Anropic",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "cách Amoday",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chiến lược hạ tầng trung lập Anthropic",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "mây bao gồm AWS",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Amazon",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": ", Google Cloud",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Microsoft Acer",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Anprobic",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "cấu trúc": 3,
+  "thị trường": 3,
+  "thị trường ai": 2,
+  "ai": 12,
+  "đầu": 2,
+  "công nghệ": 2,
+  "sự kiện": 3,
+  "tập đoàn": 2,
+  "sản phẩm": 3,
+  "thông tin": 2,
+  "mặt": 2,
+  "dario amode": 2,
+  "đội ngũ": 2,
+  "kỹ sư": 2,
+  "clot": 7,
+  "hệ thống": 5,
+  "doanh nghiệp": 7,
+  "giới": 2,
+  "hợp đồng": 2,
+  "khả năng": 4,
+  "dữ liệu": 3,
+  "yếu tố": 2,
+  "mô hình": 6,
+  "kỹ thuật": 2,
+  "đạo đức": 2,
+  "năng lực": 2,
+  "tư duy": 2,
+  "logic": 2,
+  "phương pháp": 2,
+  "nền tảng": 3,
+  "đối thủ": 2,
+  "tính năng": 2,
+  "công ty": 3,
+  "tài chính": 4,
+  "khách hàng": 6,
+  "chiến lược": 4,
+  "anthropic": 3,
+  "fed rp2": 2,
+  "tiêu chuẩn": 2,
+  "mỹ": 4,
+  "mây": 3,
+  "kết quả": 2,
+  "dịch vụ": 2,
+  "anropic": 2,
+  "anfropic": 2,
+  "chi phí": 2,
+  "hàng": 2,
+  "hạ tầng": 3,
+  "phần mềm": 3,
+  "ngành": 2,
+  "thỏa thuận": 2,
+  "thỏa thuận tài chính": 2,
+  "tỷ đô": 2,
+  "amazon": 2,
+  "máy chủ": 2
+ }
+}

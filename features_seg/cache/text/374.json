@@ -1,0 +1,153 @@
+{
+ "n_words": 1533,
+ "n_chunks": 26,
+ "ner": [
+  {
+   "text": "Active Record",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "bộ não",
+   "label": "LOC",
+   "count": 3
+  },
+  {
+   "text": "Space Repetition",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "hoàn hảo Active Recall",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tức ghi nhớ ngắt quãng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Active Recall",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "Space Repetition Repetition",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "rậm hoang vù",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ach Record",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Space Repetition",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "lãng tức The Forgetting Curve",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "90 %",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thứ tư",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "quy trình ba",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "khoảng 2",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "ôn tập ngắt quãng Dựa",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bước một",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "lịch trình Space Repetition",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "điểm F",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "điểm A",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "kiến thức riêng rẽ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "lần 3",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "lần 4",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "hệ thống": 2,
+  "active recall": 2,
+  "space repetition": 6,
+  "giải pháp": 2,
+  "active record": 3,
+  "space": 2,
+  "repetition": 3,
+  "phương pháp": 3,
+  "khoa học": 3,
+  "khu": 3,
+  "khu rừng": 2,
+  "rừng": 2,
+  "kiến thức": 13,
+  "lối": 2,
+  "đầu": 2,
+  "bộ não": 2,
+  "tài liệu": 8,
+  "não": 3,
+  "đường": 2,
+  "bài học": 4,
+  "tuần": 2,
+  "con số": 2,
+  "lịch trình": 4,
+  "lớp": 4,
+  "kết quả": 2,
+  "đề thi": 2,
+  "kỷ luật": 2,
+  "môn học": 2,
+  "môn": 2,
+  "kỳ học": 2
+ }
+}

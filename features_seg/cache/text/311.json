@@ -1,0 +1,38 @@
+{
+ "n_words": 395,
+ "n_chunks": 7,
+ "ner": [
+  {
+   "text": "tính cách Ái kỷ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tỉnh khí bẩm sinh Temperament Temperament",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "vai trò đáng kể Một",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "dạng ái kỷ tự ti",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "ái kỷ": 2,
+  "xã hội": 4,
+  "yếu tố": 2,
+  "temperament": 2,
+  "vai trò": 3,
+  "trẻ": 5,
+  "đường": 3,
+  "môi trường": 2,
+  "cha mẹ": 3,
+  "cảm xúc": 3
+ }
+}

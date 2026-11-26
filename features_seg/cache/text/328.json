@@ -1,0 +1,28 @@
+{
+ "n_words": 517,
+ "n_chunks": 9,
+ "ner": [
+  {
+   "text": "cách trốn tránh",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tự vệ vô thức",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "xã hội": 3,
+  "não": 4,
+  "cơ chế": 3,
+  "dopamin": 6,
+  "con người": 2,
+  "cảm giác": 2,
+  "mạng": 2,
+  "mạng xã hội": 2,
+  "sách": 2,
+  "nhiệm vụ": 3
+ }
+}

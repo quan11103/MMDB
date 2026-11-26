@@ -1,0 +1,117 @@
+{
+ "n_words": 388,
+ "n_chunks": 7,
+ "ner": [
+  {
+   "text": "MacBook Pro M5",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "MacBook Pro M4",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "GB",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "dòng MacBook",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "M5",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phiên bản MacBook Pro M5",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "hiệu năng CPU",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "GPU",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "con chiếc Apple M5",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "MacBook Pro",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "inch M5",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "MacBook",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đời Khi",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "SS",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "0 %",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Sevenes",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "quyền cấp 1",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Apple",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "Việt Nam",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "M4",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "macbook": 8,
+  "macbook pro m5": 4,
+  "pro m5": 4,
+  "macbook pro m4": 2,
+  "pro m4": 2,
+  "m5": 2,
+  "giá": 5,
+  "7s": 2,
+  "inch": 2
+ }
+}

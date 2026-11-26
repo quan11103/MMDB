@@ -1,0 +1,65 @@
+{
+ "n_words": 760,
+ "n_chunks": 13,
+ "ner": [
+  {
+   "text": "bản án trung thân",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Harvard",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "hình ảnh hoàn hảo",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Đạo diễn huyền thoại Stepen Spelber",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phim bom tấn của Hollywood",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Đại học Nam California",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Xanh",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Quỳnh Giao",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "con đường một chiều",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "kỳ": 7,
+  "cuộc đời": 3,
+  "đại học": 4,
+  "tương lai": 7,
+  "lớp": 2,
+  "trường": 5,
+  "ngày mai": 2,
+  "kết quả": 2,
+  "cuộc sống": 3,
+  "thành tích": 2,
+  "điểm số": 3,
+  "đường": 2
+ }
+}

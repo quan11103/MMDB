@@ -1,0 +1,109 @@
+{
+ "n_words": 905,
+ "n_chunks": 15,
+ "ner": [
+  {
+   "text": "tiền điên cuồng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "P",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "/ E",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Chỉ số Shene",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "mức 30",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tỉ lệ vốn hóa thị trường trên GDP",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Warren Buffet",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "% GDP",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "IPO",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "dấu hiệu điển hình",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "IPO",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "hàng tỷ đô la",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "B",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "mức cực đoan",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "lừng danh John Maynat Kines",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "xấu tích lũy",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "tài chính": 3,
+  "bong bóng": 4,
+  "xung quanh": 2,
+  "tiền": 5,
+  "dấu hiệu": 5,
+  "tín hiệu": 4,
+  "định giá": 3,
+  "chỉ số": 3,
+  "thị trường": 8,
+  "lịch sử": 2,
+  "lợi nhuận": 4,
+  "giá": 4,
+  "thu nhập": 2,
+  "tỉ lệ": 2,
+  "gdp": 2,
+  "thị trường chứng khoán": 2,
+  "kinh tế": 2,
+  "ipo": 2,
+  "công ty": 2,
+  "nhà đầu tư": 2,
+  "tài sản": 2
+ }
+}

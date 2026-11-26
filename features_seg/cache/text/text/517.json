@@ -1,0 +1,60 @@
+{
+ "n_words": 982,
+ "n_chunks": 17,
+ "ner": [
+  {
+   "text": "Chúa",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Hoa Kỳ",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Nhìn chung Lock",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "quyền con người",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Chúa",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Thomas jefferson tổng thống thứ ba",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "lock": 3,
+  "tự do": 3,
+  "con người": 6,
+  "quyền": 23,
+  "chính phủ": 4,
+  "tài sản": 5,
+  "luật pháp": 2,
+  "quyền tự nhiên": 4,
+  "trạng thái": 2,
+  "trạng thái tự nhiên": 2,
+  "quyền hạn": 2,
+  "luật lệ": 7,
+  "luật lệ tự nhiên": 6,
+  "giới hạn": 2,
+  "mạng": 2,
+  "quyền tự do": 4,
+  "log": 2,
+  "chúa": 4,
+  "vé": 2,
+  "vé máy bay": 2,
+  "máy bay": 3,
+  "hoa kỳ": 2
+ }
+}

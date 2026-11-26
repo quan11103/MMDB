@@ -1,0 +1,68 @@
+{
+ "n_words": 483,
+ "n_chunks": 8,
+ "ner": [
+  {
+   "text": "công nghệ Da Chen",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "dòng Asus Pro Ac",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chủ ngà VA",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phía dưới á",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cổng USBC",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cổng DB",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cổng HDMI",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cổng USBA",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Da Chen",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bên trong PC",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "menu": 2,
+  "màn hình": 5,
+  "chân đế": 2,
+  "góc": 3,
+  "setup": 2,
+  "nút": 2,
+  "cổng": 8,
+  "công nghệ": 4,
+  "công nghệ da chen": 2,
+  "da chen": 3
+ }
+}

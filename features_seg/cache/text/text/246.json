@@ -1,0 +1,93 @@
+{
+ "n_words": 512,
+ "n_chunks": 9,
+ "ner": [
+  {
+   "text": "RAM",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thanh 16",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "32 GB",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "96 GB điểm thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "con CPU",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Intel Core",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "14650 HX",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đuôi HX",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "CBU",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "MVDA",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "công nghệ Farm Gen",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "X4",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "FPS",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "dòng C",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "điểm CTEN R23",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "gb": 2,
+  "tác vụ": 3,
+  "game": 3,
+  "nhu cầu": 2,
+  "đồ": 2,
+  "hx": 2,
+  "dòng": 3,
+  "thế hệ": 2,
+  "series": 3,
+  "công nghệ": 2
+ }
+}

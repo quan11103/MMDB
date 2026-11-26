@@ -1,0 +1,103 @@
+{
+ "n_words": 408,
+ "n_chunks": 7,
+ "ner": [
+  {
+   "text": "full HD",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nền IPS",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tầng sau web 240 Hz",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "0.5 mây MBRT",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Velic",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "VX2479 HD Pro",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "tần số S",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "180 Hz",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tầng SS",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "240 Hz",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bạn Thì",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "BX",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "dòng chữ Vision",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "ngàm VSA",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cổng HDMI",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cổng DB",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Vision",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "màn hình": 3,
+  "tầng": 2,
+  "hz": 3,
+  "phiên bản": 2,
+  "chữ": 2,
+  "cạnh": 2,
+  "chân đế": 2,
+  "kim loại": 2,
+  "vision": 2,
+  "cổng": 3
+ }
+}

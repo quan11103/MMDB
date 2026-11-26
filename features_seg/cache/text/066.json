@@ -1,0 +1,58 @@
+{
+ "n_words": 761,
+ "n_chunks": 13,
+ "ner": [
+  {
+   "text": "điểm giải hạn",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thế chiến thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Bạn",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "nút subscribe và nút chuông bên cạnh",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Spider Room",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Ping Dot",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Si",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "chu kỳ": 7,
+  "chu kỳ kinh tế": 2,
+  "kinh tế": 4,
+  "tài sản": 2,
+  "tương lai": 3,
+  "suy thoái": 2,
+  "bong bóng": 4,
+  "cuộc sống": 2,
+  "giải": 2,
+  "xu hướng": 2,
+  "dài hạn": 2,
+  "thế giới": 2,
+  "lịch sử": 3,
+  "mùa": 2,
+  "nút": 2
+ }
+}

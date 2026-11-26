@@ -1,0 +1,22 @@
+{
+ "n_words": 271,
+ "n_chunks": 5,
+ "ner": [
+  {
+   "text": "cạnh đối và cạnh huyền",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "tam giác": 4,
+  "góc": 9,
+  "tam giác vuông": 2,
+  "cạnh": 4,
+  "đối": 2,
+  "tỷ số": 3,
+  "huyền": 2,
+  "con số": 2,
+  "cos": 2
+ }
+}

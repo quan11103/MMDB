@@ -1,0 +1,12 @@
+{
+ "n_words": 257,
+ "n_chunks": 4,
+ "ner": [],
+ "candidates": {
+  "sự kiện": 3,
+  "kỷ": 2,
+  "cuộc sống": 2,
+  "cảm xúc": 2,
+  "tuần": 2
+ }
+}

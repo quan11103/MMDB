@@ -1,0 +1,192 @@
+{
+ "n_words": 514,
+ "n_chunks": 9,
+ "ner": [
+  {
+   "text": "Meca",
+   "label": "LOC",
+   "count": 3
+  },
+  {
+   "text": "Haga",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Thiên Chúa",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Jesus",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "phố Giêusaem",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bán đảo Arập Nhưng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "máu thịt về Jerusalem",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trai Ismael",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trai trưởng Ismael",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "vùng đất Kanan",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "giọ Abraham",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ả Rập",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Ismael",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Abraham",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Kaaba",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tổ phụ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bán đảo Ả Rập",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bộ lạc đa thần",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Hanghira Mohamad",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thiên sứ Gabriel Vị thế của Muhammad",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 610",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Hanghira",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thiên sứ Gabriel",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "lời Mặc Khải",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "huyền bí Mohammad",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Jerusalem",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "núi Moraya",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nơi Solomôn",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Muhammad",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "buổi cầu nguyện",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "điểm hướng tâm hai Kibla",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Jerusalem",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "dọa Ismael",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "thế kỷ": 2,
+  "bán đảo": 2,
+  "jerusalem": 3,
+  "haga": 2,
+  "trai": 4,
+  "ismael": 4,
+  "dòng": 2,
+  "abraham": 2,
+  "ả rập": 2,
+  "meca": 3,
+  "đức tin": 2,
+  "tổ": 2,
+  "mặc khải": 3,
+  "thiên sứ gabriel": 2,
+  "muhammad": 2,
+  "thiên sứ": 2,
+  "thiên chúa": 2,
+  "đá": 2,
+  "sự kiện": 2
+ }
+}

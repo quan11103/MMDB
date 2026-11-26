@@ -1,0 +1,133 @@
+{
+ "n_words": 714,
+ "n_chunks": 12,
+ "ner": [
+  {
+   "text": "Rose",
+   "label": "PER",
+   "count": 5
+  },
+  {
+   "text": "Marobon",
+   "label": "LOC",
+   "count": 3
+  },
+  {
+   "text": "Ali",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "Jack",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "Jane",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "Sam",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Rose Fairbent",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Anh",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đông thôn phía đông bắc nước Mỹ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phần âm ưu",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Simon Fairbent",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Rose",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cô em gái Jane",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Billy",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Jack",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Diêng Jack",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "người anh cả Jack",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "mùa côi",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Simon",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Billy",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": ", Jane",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Marobon",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "đông": 2,
+  "rose": 6,
+  "gia đình": 3,
+  "quá khứ": 2,
+  "simon": 2,
+  "marobon": 4,
+  "vạch": 2,
+  "sam": 2,
+  "jane": 5,
+  "billy": 2,
+  "jack": 6,
+  "anh em": 4,
+  "mùa": 2,
+  "ali": 3,
+  "thông tin": 2
+ }
+}

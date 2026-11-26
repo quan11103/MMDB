@@ -1,0 +1,128 @@
+{
+ "n_words": 986,
+ "n_chunks": 17,
+ "ner": [
+  {
+   "text": "Nhật Bản",
+   "label": "LOC",
+   "count": 7
+  },
+  {
+   "text": "Exit8",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "trọn vẹn DNA",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Nhật",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "những bộ công sở",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Thậm Tệ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "sau thế chiến thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tờ ABM Times",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 2025",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Tội",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Genki Kawamura",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "đàn ông khiếm nhã",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "X8",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "hàng thập kỷ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Karoshi",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "việc làm năm 2025",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "sức khỏe tâm thần",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "dồn nén",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trên tàu điện ngầm",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nhân vật thứ ba",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "nhật bản": 7,
+  "áp lực": 3,
+  "xã hội": 4,
+  "exit8": 2,
+  "thời": 2,
+  "tàu": 2,
+  "phụ nữ": 7,
+  "trẻ": 2,
+  "đàn ông": 4,
+  "nhân vật": 2,
+  "nội trợ": 2,
+  "màu": 2,
+  "đầu": 2,
+  "phép": 2,
+  "công việc": 5,
+  "quốc gia": 3,
+  "thu nhập": 2,
+  "nhân viên": 2,
+  "công ty": 2,
+  "lao động": 2
+ }
+}

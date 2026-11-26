@@ -1,0 +1,123 @@
+{
+ "n_items_metadata": 512,
+ "config": {
+  "DELTA_WIDTH": 5,
+  "ECAPA_BATCH": 8,
+  "ECAPA_SAVEDIR": "pretrained_models/spkrec-ecapa-voxceleb",
+  "ECAPA_SOURCE": "speechbrain/spkrec-ecapa-voxceleb",
+  "FORMANT_PRE_EMPHASIS": 50.0,
+  "FORMANT_WINDOW": 0.025,
+  "FRAME_LENGTH": 400,
+  "FRAME_MS": 25,
+  "HEAD_POS": [
+   "N",
+   "Np",
+   "Nb",
+   "Ny",
+   "FW"
+  ],
+  "HNR_PERIODS_PER_WINDOW": 1.0,
+  "HNR_SILENCE_THRESHOLD": 0.1,
+  "HNR_TIME_STEP": 0.01,
+  "HOP_LENGTH": 160,
+  "HOP_MS": 10,
+  "KEYWORD_LINKAGE": "complete",
+  "KEYWORD_SIM_THRESHOLD": 0.9,
+  "MAX_AMPLITUDE_FACTOR": 1.6,
+  "MAX_CANDIDATES": 8000,
+  "MAX_FORMANT_HZ": 5500.0,
+  "MAX_PERIOD_FACTOR": 1.3,
+  "MIN_FREQ_IN_FILE": 2,
+  "MODIFIER_POS": [
+   "N",
+   "Np",
+   "Nb",
+   "Ny",
+   "FW",
+   "A"
+  ],
+  "MONO": true,
+  "NER_LABELS": [
+   "PER",
+   "ORG",
+   "LOC"
+  ],
+  "NER_PIECE_WORDS": 200,
+  "NGRAM_MAX": 3,
+  "N_FFT": 512,
+  "N_FORMANTS_LPC": 5,
+  "N_MELS": 26,
+  "N_MFCC": 13,
+  "PERIOD_CEILING": 0.02,
+  "PERIOD_FLOOR": 0.0001,
+  "PITCH_CEILING": 500.0,
+  "PITCH_FLOOR": 75.0,
+  "PITCH_TIME_STEP": 0.01,
+  "SAMPLE_RATE": 16000,
+  "SEGMENT_ROUND_SEC": true,
+  "SEGMENT_SYLLABLES": 40,
+  "SILENCE_DB_BELOW_MAX": 40.0,
+  "SPLIT_MONOSYLLABLE_GROUPS": true,
+  "STOPWORDS_FILE": "D:\\Documents\\CSDL DPT\\BTL\\feature_extraction\\vietnamese-stopwords.txt",
+  "ST_BATCH": 64,
+  "ST_MODEL": "sentence-transformers/paraphrase-multilingual-mpnet-base-v2",
+  "TOP_K_KEYWORDS": 20,
+  "WINDOW": "hamming"
+ },
+ "syllable": {
+  "n_items": 512,
+  "total_duration_sec": 88142.328,
+  "total_syllables": 353685,
+  "syllable_sec": 0.24921138301030576,
+  "syllables_per_sec_median": 4.07389729702926,
+  "syllables_per_sec_min": 2.310803004043905,
+  "syllables_per_sec_max": 5.897640943622551,
+  "segment_syllables": 40,
+  "segment_sec_exact": 9.96845532041223,
+  "segment_rounded": true,
+  "segment_sec": 10.0
+ },
+ "handcrafted": {
+  "n_items": 512,
+  "n_segments": 8589,
+  "dim": 126,
+  "nan_values_imputed": 0
+ },
+ "ecapa": {
+  "n_items": 512,
+  "n_segments": 8589,
+  "dim": 192
+ },
+ "text_embedding": {
+  "n_items": 512,
+  "n_segments": 8592,
+  "dim": 768
+ },
+ "ner": {
+  "n_items": 512,
+  "n_entities_total": 7179
+ },
+ "transcript_words": {
+  "mean": 690.791015625,
+  "min": 198,
+  "max": 3625
+ },
+ "n_audio_segments": {
+  "mean": 16.775390625,
+  "min": 6,
+  "max": 88
+ },
+ "n_text_segments": {
+  "mean": 16.78125,
+  "min": 4,
+  "max": 90
+ },
+ "keywords": {
+  "threshold": 0.9,
+  "linkage": "complete",
+  "n_terms": 3117,
+  "n_terms_dropped": 0,
+  "n_groups": 2574
+ },
+ "log": {}
+}

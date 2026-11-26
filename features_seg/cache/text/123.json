@@ -1,0 +1,109 @@
+{
+ "n_words": 350,
+ "n_chunks": 6,
+ "ner": [
+  {
+   "text": "Việt Nam",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "CU",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chế độ turbo",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đằng sau hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cổng Thunderbow",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "HDMI2",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "cổng USBA",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Wii",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "khe RAM",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "khe SSD",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "RAM",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "SSD",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "Predator",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "32 GB",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "RAM dạng 2",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thanh 16 GB",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "duo channel",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Prator",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "máy": 5,
+  "kg": 2,
+  "cổng": 7,
+  "kết nối": 2,
+  "dây": 3,
+  "khe": 2,
+  "ram": 2,
+  "ssd": 2,
+  "việt nam": 2,
+  "gb": 3,
+  "channel": 2
+ }
+}

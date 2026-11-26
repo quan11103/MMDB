@@ -1,0 +1,52 @@
+{
+ "n_words": 626,
+ "n_chunks": 11,
+ "ner": [
+  {
+   "text": "bát chánh đạo",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tu rèn chánh ngữ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "lời chân chính",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "lời nói chân chính",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "sự thật Thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Thứ ba",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "mặt tinh thần Thứ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "không khí hòa thuận",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "chánh ngữ": 3,
+  "kỷ luật": 2,
+  "sự thật": 3,
+  "hạt giống": 2
+ }
+}

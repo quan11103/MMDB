@@ -1,0 +1,40 @@
+{
+ "n_words": 378,
+ "n_chunks": 6,
+ "ner": [
+  {
+   "text": "Beyon Limits",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "xu hướng nạn nhân cá nhân hóa , Tendency",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Victim Hood",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": ", TIV",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "P Limit",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Bit",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "góc": 2,
+  "tư duy": 2
+ }
+}

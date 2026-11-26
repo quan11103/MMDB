@@ -1,0 +1,251 @@
+{
+ "n_words": 1578,
+ "n_chunks": 26,
+ "ner": [
+  {
+   "text": "Mỹ",
+   "label": "LOC",
+   "count": 3
+  },
+  {
+   "text": "năm 2000",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "năm 2008",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Lemon Brothers",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "nhưng mà Mark Train",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Hoa Tuy Lip",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Hà Lan",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thế kỷ 17",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Hà Lan",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Thổ Nhĩ Kỳ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tháng 2",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 1637",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tiền đệ tử NFT",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bongbong.com Cuối những năm 1990",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "lợi nhuận thực tế Nasdaq",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "khoảng 1000",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "điểm năm 1955",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm IPO",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 2002",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tàn khốc Nasdaq",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thị trường bốc hơi",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Amazon",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Google",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "nhà đất năm 2008",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 1990",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Phố War",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "mức vô lý",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ph",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "MBS",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "CD",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "CDO",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "xếp hạng TripleA",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trên toàn quốc",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 2006",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "MBS",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "CD",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "B Sten",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Tháng 9",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "lịch sử Mỹ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "AIG",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "lịch sử": 3,
+  "bong bóng": 5,
+  "hoa tuy lip": 2,
+  "hà lan": 2,
+  "củ": 2,
+  "giá": 10,
+  "kinh tế": 3,
+  "thế giới": 4,
+  "thương mại": 3,
+  "thương mại toàn cầu": 2,
+  "toàn cầu": 4,
+  "hoa": 3,
+  "thị trường": 3,
+  "tuần": 2,
+  "câu chuyện": 5,
+  "tiền": 5,
+  "tài sản": 4,
+  "internet": 3,
+  "công ty": 7,
+  "mô hình": 2,
+  "lợi nhuận": 3,
+  "nasdaq": 2,
+  "hàng": 2,
+  "công nghệ": 3,
+  "tỷ đô": 3,
+  "nhà đầu tư": 2,
+  "mỹ": 4,
+  "đầu": 2,
+  "chính phủ": 2,
+  "tài chính": 3,
+  "ngân hàng": 8,
+  "nợ": 2,
+  "tín dụng": 2,
+  "hàng loạt": 2,
+  "thu nhập": 2,
+  "hệ thống": 2,
+  "mbs": 3,
+  "chứng khoán": 4,
+  "cd": 2,
+  "cdo": 3,
+  "sản phẩm": 2,
+  "xếp hạng": 2,
+  "lemon brothers": 2
+ }
+}

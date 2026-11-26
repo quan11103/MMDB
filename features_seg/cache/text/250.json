@@ -1,0 +1,82 @@
+{
+ "n_words": 421,
+ "n_chunks": 7,
+ "ner": [
+  {
+   "text": "OLED",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "bóng LED",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "màu ACB",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Vision XG2738",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "sự khác biệt giữa LCD",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "OLED",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "LCD",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "màu LED",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "W OLED",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "WD OLED",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "thông tin bên lề thì cái công nghệ Widolet",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "lcd": 2,
+  "oled": 4,
+  "bóng": 2,
+  "bóng led": 3,
+  "led": 3,
+  "pixel": 2,
+  "màu sắc": 4,
+  "màu": 13,
+  "màu trắng": 2,
+  "ánh sáng": 6,
+  "lớp": 3,
+  "màu acb": 2,
+  "acb": 2,
+  "chiếu": 3,
+  "lô": 2,
+  "ánh sáng xanh dương": 2,
+  "chấm lượng": 2,
+  "lá": 2,
+  "màu đỏ": 2
+ }
+}

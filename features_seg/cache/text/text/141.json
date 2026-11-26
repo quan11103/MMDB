@@ -1,0 +1,62 @@
+{
+ "n_words": 376,
+ "n_chunks": 6,
+ "ner": [
+  {
+   "text": "khoảng 2",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Core",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "luồng 16",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "GB RAM DDR5",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "RAM",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "thanh 16 GB",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "điểm CPCH",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Word Excel",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": ", PowerPoint",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": ", Zoom",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "hiệu năng": 4,
+  "máy": 8,
+  "gb": 2,
+  "ngành": 2
+ }
+}

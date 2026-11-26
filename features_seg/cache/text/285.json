@@ -1,0 +1,51 @@
+{
+ "n_words": 421,
+ "n_chunks": 7,
+ "ner": [
+  {
+   "text": "số bảy",
+   "label": "LOC",
+   "count": 3
+  },
+  {
+   "text": "gia Jo Lesley",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "hũ 10",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "hũ 1",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "quả bóng số bảy",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "kịch bản thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tường Berlin",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "lập luận": 2,
+  "cảm giác": 2,
+  "tương lai": 2,
+  "hũ": 10,
+  "bóng": 5,
+  "xác suất": 4,
+  "bằng chứng": 2,
+  "kịch bản": 6
+ }
+}

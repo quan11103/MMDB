@@ -1,0 +1,61 @@
+{
+ "n_words": 1140,
+ "n_chunks": 19,
+ "ner": [
+  {
+   "text": "Biến",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "lòng nhiệt huyết và nỗ lực",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Trên",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tính chất bổ trợ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Việt Nam",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tuần Một",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ah",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "dòng": 2,
+  "nguyên tắc": 8,
+  "cơ thể": 2,
+  "cuộc đời": 2,
+  "xã hội": 3,
+  "quan hệ": 3,
+  "nền tảng": 2,
+  "vòng tròn": 2,
+  "kết nối": 2,
+  "đời": 2,
+  "khả năng": 4,
+  "ý nghĩa": 3,
+  "con người": 2,
+  "cộng đồng": 2,
+  "hành động": 2,
+  "lửa": 2,
+  "phiên bản": 2,
+  "nút": 3
+ }
+}

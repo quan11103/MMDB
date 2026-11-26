@@ -1,0 +1,199 @@
+{
+ "n_words": 701,
+ "n_chunks": 12,
+ "ner": [
+  {
+   "text": "vua Ba Lan",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Bac",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Constantinople",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "đề chế Ottoman",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Balkan Kan",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "vương quốc Hungary",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đề chế La Mã",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "vương triều Habsburg",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "kinh đô Vienna",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thế kỷ thứ tám",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Mustafa Pasha",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Paso",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "60.000 dân thường",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Giáo hoàng Inocon",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ba Lan",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Ba Lan",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": ", Đức",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Áo",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "quân đội Ottaman",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "quân Otoman Otoman",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Mustafa Pasha",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Quân Ottoman",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "kỵ binh Hzard",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Quân",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Na",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Buộc Sultan",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Otoman",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Hungary",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "người Otoman",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Fanf",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "quân Hồi giáo",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "kỵ binh Ba Lan Cappuccino",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "quân Ottoman",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "cánh": 2,
+  "châu âu": 3,
+  "đề chế": 3,
+  "đề chế ottoman": 2,
+  "ottoman": 2,
+  "hungary": 2,
+  "vương triều": 2,
+  "quân otoman": 6,
+  "quân ottoman": 4,
+  "mustafa pasha": 2,
+  "quân": 11,
+  "thành viên": 3,
+  "địch": 2,
+  "quân tiếp viện": 3,
+  "tiếp viện": 3,
+  "vua": 3,
+  "ba lan": 5,
+  "áo": 2,
+  "quân đội": 3,
+  "thành phố": 8,
+  "otoman": 4,
+  "vua ba lan": 2,
+  "kỵ binh": 4,
+  "hồi giáo": 2,
+  "chiến thắng": 2,
+  "bac": 2
+ }
+}

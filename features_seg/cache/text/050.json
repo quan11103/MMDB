@@ -1,0 +1,239 @@
+{
+ "n_words": 824,
+ "n_chunks": 14,
+ "ner": [
+  {
+   "text": "Pháp",
+   "label": "LOC",
+   "count": 19
+  },
+  {
+   "text": "Napoleon",
+   "label": "PER",
+   "count": 7
+  },
+  {
+   "text": "Liên Quân",
+   "label": "PER",
+   "count": 5
+  },
+  {
+   "text": "liên minh Nga",
+   "label": "LOC",
+   "count": 3
+  },
+  {
+   "text": "loài 1813",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trận Water",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Trận Lapzí",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "hoàng đế Napoleon",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Rong the Army",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "áo , đánh bại phổ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Gong",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Tây Ban Nha",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Thụy Điển",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Liên Quân",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "phía Đông",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "quân Anh Napoleon",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thành phố Leipzig",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "The Army",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "nước Nga",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "áo phổ Thụy Điển",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trận Australis",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trận Jenna",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trận Wagrum",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trận Presden",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phía Đông Nam",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "liên quân Nga",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "khối quân chủ lực của Napoleon",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Quân",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "ngày thứ ba",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thái tử Thụy Điển Shar Jones",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Lzí",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đề chế pháp vĩ đại",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Thụy Điển",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trận Wateru",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Phủ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Nga",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "dân tộc Đức",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "miền Nam",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nước Đức",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "trận": 14,
+  "trận chiến": 2,
+  "thế kỷ": 2,
+  "đường": 2,
+  "napoleon": 10,
+  "chiến bại": 2,
+  "hoàng đế": 2,
+  "pháp": 19,
+  "đội": 2,
+  "đội quân": 2,
+  "quân": 14,
+  "áo": 3,
+  "đế chế": 2,
+  "tây": 2,
+  "quân anh": 2,
+  "đông": 2,
+  "liên minh": 3,
+  "liên minh nga": 3,
+  "nga": 6,
+  "nga áo": 2,
+  "thụy điển": 4,
+  "liên quân": 7,
+  "quân đội": 2,
+  "quân chủ lực": 2,
+  "chủ lực": 2,
+  "kinh nghiệm": 2,
+  "quân pháp": 9,
+  "phe": 2,
+  "thảm bại": 2,
+  "đầu": 2,
+  "cuộc chiến": 2,
+  "dân": 2,
+  "đạo quân": 2,
+  "đồng đội": 2,
+  "ý nghĩa": 2,
+  "đức": 2
+ }
+}

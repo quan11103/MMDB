@@ -1,0 +1,102 @@
+{
+ "n_words": 294,
+ "n_chunks": 5,
+ "ner": [
+  {
+   "text": "hiệu năng CPU",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "CPEN",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "THU Gaming",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Vibobox",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "chip Ultra",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "GBU",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "GPU",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "điểm GBU",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phần mềm BMX Spy",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Vivobook S14",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "dòng H đời này Intel",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "IGW Intel Ultra HD",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "U",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Intel Iris Xi",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Tí",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Tab Gaming A15",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "RTX",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "máy": 4,
+  "hiệu năng": 5,
+  "hiệu năng cpu": 2,
+  "cpu": 2,
+  "giá": 2,
+  "gbu": 2,
+  "test": 2,
+  "dòng": 3,
+  "intel": 2
+ }
+}

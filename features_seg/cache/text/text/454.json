@@ -1,0 +1,116 @@
+{
+ "n_words": 1189,
+ "n_chunks": 20,
+ "ner": [
+  {
+   "text": "xào nam năm 2018",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đại án Vạn Thịnh Phát SCB",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Trương Mỹ Lan",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Investing",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Việt Nam Bài",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "hiện giờ giá vàng Việt Nam",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Việt Nam",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "châu Phi năm 2022",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "31 tỷ đô",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Peru",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Nam Mỹ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nước ngoài Cách thứ ba",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "vàng bạc đá quý",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "X",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "công ty Shell Companies",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "tài sản": 3,
+  "công ty": 11,
+  "giấy tờ": 3,
+  "tiền": 30,
+  "hình thức": 5,
+  "dòng": 12,
+  "dòng tiền": 12,
+  "đường dây": 2,
+  "tài khoản": 4,
+  "tài khoản ngân hàng": 2,
+  "ngân hàng": 5,
+  "vụ": 3,
+  "án": 2,
+  "biên giới": 2,
+  "nước ngoài": 3,
+  "hàng": 2,
+  "hàng hóa": 2,
+  "hóa": 2,
+  "vàng bạc": 2,
+  "vàng bạc đá": 2,
+  "đá": 2,
+  "vàng": 12,
+  "giá": 5,
+  "doanh nghiệp": 2,
+  "việt nam": 3,
+  "giá vàng": 3,
+  "dòng tiền hợp pháp": 2,
+  "tiền hợp pháp": 2,
+  "dự án": 2,
+  "công ty vỏ": 2,
+  "vỏ": 2,
+  "shell companies": 2,
+  "hợp đồng": 3
+ }
+}

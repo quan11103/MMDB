@@ -1,0 +1,44 @@
+{
+ "n_words": 604,
+ "n_chunks": 10,
+ "ner": [
+  {
+   "text": "ngày thứ 21",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "việc ba",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ba",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "sức khỏe",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tác giả Carota",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Bon Bey Limit",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "thói quen": 3,
+  "vòng": 2,
+  "vòng 21": 2,
+  "tiếng": 2,
+  "cơ thể": 4,
+  "mắt": 2
+ }
+}

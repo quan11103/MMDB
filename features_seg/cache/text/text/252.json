@@ -1,0 +1,84 @@
+{
+ "n_words": 748,
+ "n_chunks": 13,
+ "ner": [
+  {
+   "text": "WD OLED",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "màn hình OLED",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "LCD",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Vinic",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "OLED",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tậng 3",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nhược điểm thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "độ sáng hiển thị",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Wolet",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Woled Cái",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thế hệ thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "WLED",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "OLED",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "thọ": 2,
+  "oled": 4,
+  "bản chất": 2,
+  "màn hình": 5,
+  "khả năng": 2,
+  "hãng": 4,
+  "pixel": 2,
+  "màu": 2,
+  "led": 2,
+  "full màn": 2,
+  "bóng": 3
+ }
+}

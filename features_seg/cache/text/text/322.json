@@ -1,0 +1,12 @@
+{
+ "n_words": 284,
+ "n_chunks": 5,
+ "ner": [],
+ "candidates": {
+  "con số": 5,
+  "xác suất": 7,
+  "nút": 2,
+  "máy": 3,
+  "biến cố": 6
+ }
+}

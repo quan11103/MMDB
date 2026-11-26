@@ -1,0 +1,42 @@
+{
+ "n_words": 288,
+ "n_chunks": 5,
+ "ner": [
+  {
+   "text": "Windows",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "bên thứ ba",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tỉ lệ scale",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cái tần squ về 60 Hz",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "165 Hz",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "máy tính Windows",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "máy tính": 2,
+  "windows": 3,
+  "tần squ": 2,
+  "hz": 3
+ }
+}

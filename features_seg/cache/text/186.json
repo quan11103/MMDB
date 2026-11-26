@@ -1,0 +1,255 @@
+{
+ "n_words": 613,
+ "n_chunks": 10,
+ "ner": [
+  {
+   "text": "Victor",
+   "label": "PER",
+   "count": 6
+  },
+  {
+   "text": "Doom",
+   "label": "PER",
+   "count": 4
+  },
+  {
+   "text": "Fantastic",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "nhân vật Su Storm",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Rid Richard",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Doom",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "gia đình F4",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đoạn After Credit",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "con trai Franklin",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "mặt Doom",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bạn của Rid",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Xu",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "Las",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Verier",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "vua Vladimir Fortunov",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trường đại học với Rich Richard",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ben Grim",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "khi Su",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Rid",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": ", Victor",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "gia đình Airford",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Su",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "X",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Robert Dowy Jr Jr",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "dự kiện ComicC",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "San Diego",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tên Rid",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Valeria",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Valeria",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "con gái thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Mr",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Su Storm",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "phim Valeria",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "vợ con Rid",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tên người bạn thân Red Richard",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Càng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Victor",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Iron Man",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "bạn Mr",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Tony Stark",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "am Iron Man",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "I'm Doom Và",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "đà vũ trụ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Robert Downy Jr",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "MCU",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "cảnh": 2,
+  "nhân vật": 2,
+  "su": 3,
+  "su storm": 2,
+  "victor": 8,
+  "biến cố": 3,
+  "rid": 5,
+  "richard": 2,
+  "doom": 6,
+  "đoạn": 2,
+  "trái đất": 2,
+  "fantastic": 3,
+  "gia đình": 4,
+  "trai": 4,
+  "comic": 2,
+  "nạn": 2,
+  "đại học": 2,
+  "jr": 3,
+  "valeria": 3,
+  "mr": 2,
+  "thế giới": 2,
+  "anh hùng": 2
+ }
+}

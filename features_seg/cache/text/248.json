@@ -1,0 +1,55 @@
+{
+ "n_words": 376,
+ "n_chunks": 6,
+ "ner": [
+  {
+   "text": "tầng S",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "nền IBS",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "180 Hz",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Hz",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "game CS2",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "% SRGB",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "% DC B3",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bạn trải nghiệm",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "màn hình": 3,
+  "kích thước": 2,
+  "tỉ lệ": 3,
+  "tầng": 3,
+  "hz": 2,
+  "không gian": 3,
+  "game": 2
+ }
+}

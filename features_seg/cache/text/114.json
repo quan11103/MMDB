@@ -1,0 +1,137 @@
+{
+ "n_words": 410,
+ "n_chunks": 7,
+ "ner": [
+  {
+   "text": "cổng THB",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Doe",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "vài chục RAM",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tay XP",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "MacBook E13",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "cổng HDMI",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tệp Creator",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thể lượng pin",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tốc độ 40",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "GB",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trên Expess",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Intel",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "controller Thunderb",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trên bo mạch",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Dell",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Thunderb",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "dòng Dell Pro",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Dell",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "thp 4",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Dell Express",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "D",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "HDMI",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "USBA",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "đời": 2,
+  "cạnh": 3,
+  "máy": 2,
+  "cổng": 5,
+  "hdmi": 2,
+  "thẻ": 2,
+  "hình ảnh": 2,
+  "màn hình": 2,
+  "cổng thb": 2,
+  "thb": 2,
+  "thunderb": 2,
+  "thunderb 5": 2,
+  "dell": 3,
+  "dòng": 2
+ }
+}

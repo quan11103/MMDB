@@ -1,0 +1,133 @@
+{
+ "n_words": 815,
+ "n_chunks": 14,
+ "ner": [
+  {
+   "text": "MacBook",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "256 GB",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "thị trường Việt Nam",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phiên bản RAM 8 GB",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thời điểm hiện tại thì 8 GB RAM",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "công nghệ Swap Memory",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "AI 8 GB RAM",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "MacBook Neo",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Siri",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "MacOS",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "42 GB",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "RAM",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "SSD",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "512 GB",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phiên bản 512 GB",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Batman",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "chiếc Macbook Ne",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Canva",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "CP C",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "MacBook Air",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "máy": 5,
+  "laptop": 3,
+  "phiên bản": 4,
+  "ram": 2,
+  "gb": 6,
+  "gb ram": 3,
+  "macbook neo": 2,
+  "swap memory": 4,
+  "tốc độ": 3,
+  "ai": 3,
+  "tác vụ": 2,
+  "tác vụ ai": 2,
+  "macos": 2,
+  "tính năng": 3,
+  "tính năng swap memory": 2,
+  "bàn": 6,
+  "kệ": 2,
+  "tủ": 3,
+  "macbook": 3,
+  "pin": 2
+ }
+}

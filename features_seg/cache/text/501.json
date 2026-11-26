@@ -1,0 +1,55 @@
+{
+ "n_words": 423,
+ "n_chunks": 7,
+ "ner": [
+  {
+   "text": "chính phủ Việt Nam",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "GDP",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đầu người GDP",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Việt Nam",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thời điểm sau 3",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bấp bênh Ok",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "chính phủ": 4,
+  "việt nam": 2,
+  "tiền": 6,
+  "đất nước": 3,
+  "yếu tố": 4,
+  "yếu tố khách quan": 2,
+  "yếu tố chủ quan": 2,
+  "gdp": 2,
+  "nước ngoài": 2,
+  "đồng": 2,
+  "ngoại tệ": 2,
+  "giá": 3,
+  "giá đô": 2,
+  "đô": 2,
+  "lãi": 2,
+  "tiền gốc": 2,
+  "gốc": 2
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "n_words": 413,
+ "n_chunks": 7,
+ "ner": [
+  {
+   "text": "Hi",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Better Version",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "hôm nay Better Version",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tên Thay Đổi",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "anh em Chip",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Dan Heath Heath",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "sách như Willpower",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "better version": 2,
+  "sách": 4,
+  "kỷ luật": 4,
+  "cám dỗ": 2,
+  "vòng": 2,
+  "hệ thống": 2,
+  "tâm lý": 2,
+  "voi": 5
+ }
+}

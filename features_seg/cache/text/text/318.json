@@ -1,0 +1,73 @@
+{
+ "n_words": 467,
+ "n_chunks": 8,
+ "ner": [
+  {
+   "text": "vùng áp thấp",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "chỗ trũng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "lực Coriolis",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "biển Đông",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Luồng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chiều kim đồng hồ quanh tâm bão",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "hình xoắn ốc",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Nam Bán Cầu",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nơi lực Coriolis",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "vòng": 3,
+  "vòng xoáy": 2,
+  "xoáy": 2,
+  "bão": 11,
+  "không khí": 4,
+  "áp suất": 2,
+  "hố": 2,
+  "trái đất": 2,
+  "tâm": 3,
+  "coriolis": 2,
+  "đông": 3,
+  "gió": 5,
+  "tây": 2,
+  "chiều": 2,
+  "chiều kim": 2,
+  "chiều kim đồng hồ": 2,
+  "kim": 2,
+  "kim đồng hồ": 2,
+  "đồng hồ": 2,
+  "xích đạo": 3
+ }
+}

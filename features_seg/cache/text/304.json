@@ -1,0 +1,57 @@
+{
+ "n_words": 454,
+ "n_chunks": 8,
+ "ner": [
+  {
+   "text": "Pháp",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Bá Tước Bu Phong",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Buffong",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "tên phương pháp Monteclo",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phòng thí nghiệm Los Alamos",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bên Mỹ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "hạt Neutron",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "ván": 5,
+  "trật tự": 2,
+  "hỗn loạn": 2,
+  "hàng": 2,
+  "thế kỷ": 2,
+  "bài toán": 3,
+  "sàn": 3,
+  "đường": 5,
+  "kim": 7,
+  "kết quả": 2,
+  "vạch": 2,
+  "pi": 2,
+  "công cụ": 2,
+  "hạt": 2
+ }
+}

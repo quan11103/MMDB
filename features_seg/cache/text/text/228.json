@@ -1,0 +1,87 @@
+{
+ "n_words": 944,
+ "n_chunks": 16,
+ "ner": [
+  {
+   "text": "Thì",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "C",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "mức giá là 2 củ rưỡi",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ui",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "mức giá 2",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trên 3",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tầng s We",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "ưu điểm thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Menu",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Mò",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "phần nhật điểm nha Cái ưu điểm thứ ba",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phần mặt lưng á",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "giá thành": 2,
+  "ưu điểm": 5,
+  "màn hình": 4,
+  "củ": 4,
+  "hình": 3,
+  "giá": 3,
+  "anh em": 2,
+  "hời": 2,
+  "công nghệ": 4,
+  "chế độ": 3,
+  "tính năng": 2,
+  "menu": 3,
+  "ban đầu": 3,
+  "mặt": 3,
+  "mặt lưng": 3,
+  "lưng": 2,
+  "kết nối": 3,
+  "chính sách": 3,
+  "tuần": 3
+ }
+}

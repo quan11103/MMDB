@@ -1,0 +1,117 @@
+{
+ "n_words": 765,
+ "n_chunks": 13,
+ "ner": [
+  {
+   "text": "Pháp",
+   "label": "LOC",
+   "count": 4
+  },
+  {
+   "text": "Ethiopia",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "C",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Rose",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Alas Mintire",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Communitarian",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Markyre",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thế chiến thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ví dụ thứ ba",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thập niên 1980",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "người Do Thái",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Israel",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đất nước Ethiopia",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đồng bào Do Thái",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ross",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Marktire",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "thứ ba",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "đạo đức": 3,
+  "đời sống": 2,
+  "nghĩa vụ": 13,
+  "gia đình": 7,
+  "cộng đồng": 3,
+  "con người": 6,
+  "lịch sử": 2,
+  "mặt": 5,
+  "cha mẹ": 3,
+  "chính trị": 2,
+  "pháp": 4,
+  "kháng chiến": 2,
+  "quân sự": 2,
+  "bom": 3,
+  "mệnh lệnh": 2,
+  "ethiopia": 4,
+  "israel": 2,
+  "do thái": 2,
+  "đồng bào": 2
+ }
+}

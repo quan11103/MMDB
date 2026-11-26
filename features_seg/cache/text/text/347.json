@@ -1,0 +1,16 @@
+{
+ "n_words": 252,
+ "n_chunks": 4,
+ "ner": [
+  {
+   "text": "Tắt",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "cảm xúc": 3,
+  "con người": 3,
+  "hành động": 2
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "n_words": 300,
+ "n_chunks": 5,
+ "ner": [
+  {
+   "text": "biển Exit",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đạo diễn Genki Kawamura",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Exit",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Nhàm",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "ý chí phản kháng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "PH",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "liên hoan phim CN 2025",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "giải mã Ex",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Nhật Bản",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "quốc gia Châu Á",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "đàn ông": 2,
+  "hành lang": 4,
+  "exit": 2,
+  "exit 8": 2,
+  "vòng lặp": 2,
+  "cảm giác": 2,
+  "cuộc sống": 2,
+  "phim": 2
+ }
+}

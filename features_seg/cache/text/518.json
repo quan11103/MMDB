@@ -1,0 +1,57 @@
+{
+ "n_words": 923,
+ "n_chunks": 16,
+ "ner": [
+  {
+   "text": "LCK",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Natural",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Đứa Bé Đứa Bé",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cái Law",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thiên hướng chơi Công Bằng",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "tài sản": 10,
+  "quyền": 11,
+  "quyền tự do": 2,
+  "chính phủ": 3,
+  "lao động": 3,
+  "quyền tự nhiên": 2,
+  "nhà nước": 2,
+  "log": 5,
+  "trẻ": 3,
+  "hộp": 6,
+  "hộp đồ chơi": 5,
+  "đồ chơi": 8,
+  "bé": 10,
+  "toàn quyền": 2,
+  "lck": 2,
+  "luật": 2,
+  "luật lệ": 3,
+  "tiếng nói": 3,
+  "lý luận": 2,
+  "màu": 5,
+  "con người": 2,
+  "chủ nghĩa tự do": 3,
+  "chủ nghĩa": 2,
+  "đất": 2
+ }
+}

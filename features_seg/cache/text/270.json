@@ -1,0 +1,32 @@
+{
+ "n_words": 347,
+ "n_chunks": 6,
+ "ner": [
+  {
+   "text": "Dũng",
+   "label": "PER",
+   "count": 6
+  },
+  {
+   "text": "Last Language Model",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "hóa như thế nào",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "công ty": 6,
+  "công ty doanh nghiệp": 2,
+  "doanh nghiệp": 4,
+  "ai": 4,
+  "dũng": 6,
+  "chi phí": 2,
+  "văn bản": 2,
+  "chủ": 2,
+  "công việc": 2
+ }
+}

@@ -1,0 +1,130 @@
+{
+ "n_words": 358,
+ "n_chunks": 6,
+ "ner": [
+  {
+   "text": "Akira",
+   "label": "PER",
+   "count": 4
+  },
+  {
+   "text": "Cyberpunk",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "Akira",
+   "label": "ORG",
+   "count": 2
+  },
+  {
+   "text": "Techio",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "phim khoa học viễn tưởng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phản địa đàng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cạnh Cyberpunk",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Steamp",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": ", Diesel Punk",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": ", Biblep Punk",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tác phẩm Blade Runner",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ridley Scott",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "anime thập niên 80",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tinh thần Cyberpunk",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tác phẩm phương Tây",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Nhật Bản",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Nhật",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Không gian đô thị trong Akira",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Tân Tokyo",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "cấp độ con người Cyberpunk",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Akira",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bất an cực độ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thể loại Cyberpunk",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "biểu tượng": 2,
+  "khoa học": 3,
+  "akira": 8,
+  "tác phẩm": 3,
+  "cyberpunk": 7,
+  "tinh thần": 2,
+  "techio": 2
+ }
+}

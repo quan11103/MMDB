@@ -1,0 +1,48 @@
+{
+ "n_words": 776,
+ "n_chunks": 13,
+ "ner": [
+  {
+   "text": "Đức Phật",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Mass",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "sân hận",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đứt chuỗi nhân quả",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phương pháp vipassana",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "khổ đau": 8,
+  "nguyên nhân": 2,
+  "đức phật": 2,
+  "ngài": 2,
+  "mắt xích": 2,
+  "chuỗi": 2,
+  "bánh xe": 2,
+  "sân": 2,
+  "tâm": 3,
+  "mũi": 2,
+  "thế gian": 2,
+  "bóng tối": 2,
+  "đèn": 2,
+  "cảm thọ": 3,
+  "phương pháp": 2
+ }
+}

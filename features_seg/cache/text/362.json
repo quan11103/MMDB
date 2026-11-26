@@ -1,0 +1,21 @@
+{
+ "n_words": 307,
+ "n_chunks": 5,
+ "ner": [
+  {
+   "text": "Cách",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "tần suất": 3,
+  "mặt": 2,
+  "mặt ngửa": 2,
+  "đồng": 2,
+  "tỉ lệ": 3,
+  "ván": 2,
+  "bảo hiểm": 2,
+  "bài toán": 2
+ }
+}

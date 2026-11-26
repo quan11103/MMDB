@@ -1,0 +1,145 @@
+{
+ "n_words": 641,
+ "n_chunks": 11,
+ "ner": [
+  {
+   "text": "MacBook Neo",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "MacBook Air",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "MacBook New",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "giá MacBook New",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "khoảng 16",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "mặt C",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "SNE",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "MacBook",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Touchpad",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "MacBook Air",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Pro",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "laptop Windows",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "hãng D",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thị trường Việt Nam",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "mặt trải nghiệm cảm quan , độ sáng xêm",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "người đàn anh Macbook Air",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "MacBook Pro",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "tệp khách hàng tiềm năng mà chiếc Noo",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "MacBook",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "USB",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "chuột Bluetooth",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ok",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Mauk Neo",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "macbook": 5,
+  "macbook new": 3,
+  "ưu điểm": 4,
+  "giá": 6,
+  "học sinh": 2,
+  "học sinh sinh viên": 2,
+  "sinh viên": 2,
+  "vết": 2,
+  "máy": 5,
+  "mặt": 2,
+  "laptop": 2,
+  "bàn phím": 2,
+  "màu sắc": 3,
+  "màu": 4,
+  "macbook air": 4,
+  "pro": 2,
+  "màn hình": 2,
+  "macbook neo": 3,
+  "neo": 2,
+  "xêm": 2,
+  "tệp": 2,
+  "chuột": 2
+ }
+}

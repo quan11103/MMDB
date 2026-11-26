@@ -1,0 +1,83 @@
+{
+ "n_words": 752,
+ "n_chunks": 13,
+ "ner": [
+  {
+   "text": "Mỹ",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "thứ ba",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trường luật Texas",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cái bang Texas",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bạn Cher Hwood",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Chero",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Raw",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "bạn Cher",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "kỳ vọng hợp lệ",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "chính sách": 5,
+  "corrective": 2,
+  "compensatory": 3,
+  "giáo dục": 2,
+  "sinh viên": 3,
+  "điểm số": 3,
+  "nhà trường": 4,
+  "sinh viên da": 2,
+  "sinh viên da màu": 2,
+  "da": 5,
+  "da màu": 4,
+  "màu": 5,
+  "chủng tộc": 2,
+  "mỹ": 2,
+  "luận điểm": 7,
+  "sai lệch": 2,
+  "quá khứ": 2,
+  "chính sách ưu tiên": 2,
+  "diversity": 2,
+  "sắc tộc": 2,
+  "xã hội": 5,
+  "trường": 2,
+  "texas": 2,
+  "phản biện": 5,
+  "công lý": 2,
+  "con người": 2,
+  "mặt": 2,
+  "mặt đạo đức": 2,
+  "đạo đức": 2,
+  "tầng lớp": 2
+ }
+}

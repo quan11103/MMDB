@@ -1,0 +1,44 @@
+{
+ "n_words": 710,
+ "n_chunks": 12,
+ "ner": [
+  {
+   "text": "rule thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "C New Port",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "fallacy Hiểu",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Newport",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "vòng 1",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "rule": 2,
+  "mạng": 9,
+  "mạng xã hội": 9,
+  "xã hội": 11,
+  "công cụ": 2,
+  "cuộc sống": 3,
+  "ứng dụng": 3,
+  "vòng": 3,
+  "sách": 2,
+  "tác giả": 3,
+  "mục đích": 2
+ }
+}

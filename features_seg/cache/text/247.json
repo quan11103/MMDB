@@ -1,0 +1,128 @@
+{
+ "n_words": 658,
+ "n_chunks": 11,
+ "ner": [
+  {
+   "text": "FPS",
+   "label": "PER",
+   "count": 4
+  },
+  {
+   "text": "điểm CTEN",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "20.067 67",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chip Max 11 Pro",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Apple",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "4K 10",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bit màu nha",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cả CBU",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "GBU",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "GBU",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Ơ",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "CS2",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "lượ FPS",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "230 FPS",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Cyberb77",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "lược FPS",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "X4",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "170 FPS",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "dòng card 50",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "như là Sa B",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "test": 4,
+  "render": 2,
+  "project": 2,
+  "gbu": 2,
+  "hiệu năng": 2,
+  "game": 9,
+  "setting": 3,
+  "2k": 2,
+  "fps": 8,
+  "farm": 3,
+  "tầm": 3,
+  "laptop": 2,
+  "dòng": 2,
+  "dòng card": 2,
+  "dòng card 50": 2,
+  "card": 2,
+  "card 50": 2,
+  "card 50 series": 2,
+  "series": 2,
+  "ration": 2
+ }
+}

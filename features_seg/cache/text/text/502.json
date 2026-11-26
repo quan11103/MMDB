@@ -1,0 +1,87 @@
+{
+ "n_words": 1379,
+ "n_chunks": 23,
+ "ner": [
+  {
+   "text": "Venezuela",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "bấp bênh Ok",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cuộc khủng hoảng Venezuela",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Đức",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "tòa án trọng tài permanent CT",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Đòi",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "biệt tăm biệt tích Mất Giấu",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Gùng",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "GDP",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "hệ thống ngân hàng hệ thống tài chính",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "quốc gia": 11,
+  "lịch sử": 2,
+  "nợ": 13,
+  "vũ lực": 2,
+  "tiền": 8,
+  "venezuela": 3,
+  "nước ngoài": 2,
+  "báo": 2,
+  "vỡ nợ": 5,
+  "đồng": 3,
+  "kinh tế": 4,
+  "lãi": 2,
+  "nợ gốc": 2,
+  "gốc": 3,
+  "chính phủ": 15,
+  "tài chính": 4,
+  "người dân": 2,
+  "đất nước": 7,
+  "biện pháp": 3,
+  "hệ thống": 2,
+  "ngân hàng": 3,
+  "khả năng": 2,
+  "đồng tiền": 2,
+  "đồng ngoại tệ": 2
+ }
+}

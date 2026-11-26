@@ -1,0 +1,82 @@
+{
+ "n_words": 776,
+ "n_chunks": 13,
+ "ner": [
+  {
+   "text": "hạnh phúc hôn nhân mong manh Bà",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "con gái Ly bướng bỉnh",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm chị em",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chàng trai quý tộc Binh Lì",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Binh Lì",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Jen",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Binh Lý",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Luân Đôn",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Elizabeth",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "sau sóng gió",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tác giả Trane Auston",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Jin Lì",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "thứ xấu",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "tình yêu": 6,
+  "hạnh phúc": 2,
+  "hôn nhân": 2,
+  "gái": 2,
+  "cha mẹ": 2,
+  "trai": 2,
+  "binh lì": 3,
+  "cảm xúc": 2,
+  "hoàn cảnh": 2
+ }
+}

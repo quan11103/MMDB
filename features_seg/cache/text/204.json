@@ -1,0 +1,44 @@
+{
+ "n_words": 506,
+ "n_chunks": 9,
+ "ner": [
+  {
+   "text": "đàn ông số 8",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ta Lặp",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "số 8",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "buổi thành viên số 8",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cuộc sống một",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Angry Man",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "sinh mạng": 2,
+  "đàn ông": 7,
+  "bé": 2,
+  "thông điệp": 2,
+  "angry man": 2,
+  "phim": 4
+ }
+}

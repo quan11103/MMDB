@@ -1,0 +1,58 @@
+{
+ "n_words": 260,
+ "n_chunks": 4,
+ "ner": [
+  {
+   "text": "Open AI API",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Dũng",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Clot",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Gemani API",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Open Source",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Chat GPT",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "API",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "chữ Elm",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "open": 3,
+  "open source": 2,
+  "open source ai": 2,
+  "ai": 5,
+  "open ai api": 2,
+  "ai api": 2,
+  "api": 2,
+  "model": 4,
+  "hệ thống": 3,
+  "code": 2
+ }
+}

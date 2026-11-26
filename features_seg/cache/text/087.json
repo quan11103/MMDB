@@ -1,0 +1,171 @@
+{
+ "n_words": 924,
+ "n_chunks": 16,
+ "ner": [
+  {
+   "text": "Yang",
+   "label": "PER",
+   "count": 5
+  },
+  {
+   "text": "nhà nước Israel",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "phong trào Frankis",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "video Secret History",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chương trình Breaking Point",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Yang Yin",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Illuminati Illuminati",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Society",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Vatican",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Sabatin Frankism",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Freeman Sori",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "bộ máy an ninh quốc gia của Hoa Kỳ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Trung Đông",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "quanh Jerusaem",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Jeffrey Ftin",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "việc Donald Trump",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nhiệm kỳ tổng thống thứ ba",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Yale",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Harvard",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "thuyết âm mưu bài Do Thái",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Sabaton Frankist",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "nhân vật Sabatevi",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "người Do Thái",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thế kỷ 17",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đường Masia",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nhân vật Jacob Frank",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bài Do Thái",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "bằng chứng": 2,
+  "thuyết âm mưu": 2,
+  "nền tảng": 2,
+  "hệ thống": 3,
+  "chương trình": 2,
+  "yang": 5,
+  "tuyên bố": 2,
+  "quyền lực": 5,
+  "illuminati": 2,
+  "mạng lưới": 4,
+  "nhà nước": 2,
+  "nhà nước israel": 2,
+  "israel": 2,
+  "quốc gia": 2,
+  "lập luận": 4,
+  "lịch sử": 8,
+  "mạng lưới quyền lực": 3,
+  "chính trị": 2,
+  "cấu trúc": 2,
+  "motif": 2,
+  "do thái": 3,
+  "thế kỷ": 2,
+  "phong trào": 4,
+  "nhân vật": 3,
+  "phong trào frankis": 2,
+  "frankis": 2,
+  "tài liệu": 2,
+  "bằng chứng thực nghiệm": 2
+ }
+}

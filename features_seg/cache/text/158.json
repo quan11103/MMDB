@@ -1,0 +1,147 @@
+{
+ "n_words": 1100,
+ "n_chunks": 18,
+ "ner": [
+  {
+   "text": "trên MA",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "smooth scrolling",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "mause fix",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "khi MacBook",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Apple",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Magic Mouse",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Ma",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "inverse direction",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trên Mac",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bên Win",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trên M",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "ứng dụng bên thứ ba",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "MMFIC",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "magic mouse",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "button 4",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "button 5",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trên MaOS",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nút 4",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nút 5",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Click",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "mission control and space",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "ứng dụng Mfix",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "ứng dụng": 8,
+  "chuột": 24,
+  "checkbass": 2,
+  "magic mouse": 2,
+  "chuột bình thường": 2,
+  "ma": 6,
+  "mafix": 2,
+  "tính năng": 4,
+  "native": 2,
+  "giao diện": 2,
+  "nút": 13,
+  "smooth": 3,
+  "smooth scrolling": 4,
+  "scrolling": 3,
+  "inverse": 2,
+  "inverse direction": 2,
+  "direction": 2,
+  "máy": 2,
+  "máy win": 2,
+  "win": 3,
+  "checkp": 4,
+  "demo": 2,
+  "bass": 2,
+  "button": 2,
+  "back": 3,
+  "forward": 3,
+  "click": 3,
+  "space": 2,
+  "ngón": 2
+ }
+}

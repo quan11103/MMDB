@@ -1,0 +1,347 @@
+{
+ "n_words": 1336,
+ "n_chunks": 22,
+ "ner": [
+  {
+   "text": "sông Hằng",
+   "label": "LOC",
+   "count": 11
+  },
+  {
+   "text": "Hằng",
+   "label": "PER",
+   "count": 4
+  },
+  {
+   "text": "Ấn Độ",
+   "label": "LOC",
+   "count": 3
+  },
+  {
+   "text": "Vua Sagara",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Indra",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Ashuman",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Ganga",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "nữ thần sông Hằng",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Sông Hằng",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "phạn ngữ Một",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "anh chàng Asamanjas",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Asamanias",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "ngựa gọi là Ashvam",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Sagara",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "nơi nhà hiền chết Capilla",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Sakara",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Capilla",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "V Sagara",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "nhà hiền triết Capilla",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thiên giới Spaga",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đời vua Ba Girata",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Brah",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Shiva",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Brahma",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "khi Shiva",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trái đất Khi Ganga",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Giratha",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Bagirat",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "đảo Saga",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nơi sông Hằng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Bagiratha",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Bagirathi",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Tripataga",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "việc sông Hằng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thần khác như Shiva",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Vishnu",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ramayana",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Himavat",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "thần núi Himalaya",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nữ thần Đức Mẹ Pavati",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thời kỳ Vệ Đà",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trước công nguyên sông Hằng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Hindu Ganga",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "sông Yamuna",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đền Ấn Giáo",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "vòng sinh tử",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ganga Dusera",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Ganga Yazanti",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "một số địa điểm linh thiêng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "xã hội Ấn Độ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Kumela",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "gia đình Ấn Độ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tác phẩm phạ Ấn Độ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Thủ tướng Ấn Độ Jagahara Neru",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "sau Sông Hằng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nền văn minh và văn hóa Ấn Độ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Đáng",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "văn hóa Ấn Độ",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "hằng": 20,
+  "biểu tượng": 2,
+  "tôn giáo": 2,
+  "sông": 32,
+  "sông hằng": 22,
+  "huyền thoại": 3,
+  "vua": 6,
+  "vua sagara": 2,
+  "sagara": 3,
+  "vợ": 3,
+  "trai": 4,
+  "chiến binh": 2,
+  "trái đất": 3,
+  "nghi lễ": 2,
+  "ngựa": 8,
+  "nhà vua": 2,
+  "indra": 2,
+  "thần": 4,
+  "capilla": 3,
+  "vương tử": 4,
+  "ashuman": 2,
+  "đời": 2,
+  "shiva": 3,
+  "ganga": 3,
+  "dòng": 6,
+  "dòng sông": 5,
+  "dòng sông hằng": 2,
+  "ấn độ": 9,
+  "tác phẩm": 2,
+  "nữ thần": 6,
+  "nữ thần sông": 3,
+  "nữ thần sông hằng": 3,
+  "đền": 2,
+  "cá sấu": 2,
+  "súng": 2,
+  "thời": 2,
+  "cuộc sống": 2,
+  "bờ": 2,
+  "bờ sông": 2,
+  "lễ hội": 2,
+  "văn hóa": 3,
+  "lịch sử": 2,
+  "câu chuyện": 2,
+  "văn hóa ấn độ": 2
+ }
+}

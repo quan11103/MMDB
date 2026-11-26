@@ -1,0 +1,87 @@
+{
+ "n_words": 553,
+ "n_chunks": 9,
+ "ner": [
+  {
+   "text": "+ 97",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "dạng giả thuyết",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "giả thuyết Goldback",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Goldback",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Oiler",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "+ 2",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tỷ tỷ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "vô hạn số chẵn",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bên lề một",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "định lý féchma",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 1994",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Andrew Wise",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Richard Taylor",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "phát biểu": 5,
+  "định lý": 4,
+  "giả thuyết": 6,
+  "giả thuyết goldback": 2,
+  "goldback": 2,
+  "máy tính": 2,
+  "con số": 3,
+  "toán học": 4,
+  "hàng": 2,
+  "chứng minh": 3,
+  "lề": 2,
+  "sách": 2,
+  "mũ": 2,
+  "công cụ": 2
+ }
+}

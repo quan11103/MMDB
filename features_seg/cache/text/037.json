@@ -1,0 +1,32 @@
+{
+ "n_words": 263,
+ "n_chunks": 5,
+ "ner": [
+  {
+   "text": "Odysseius",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "sứ giả Hy Lạp",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Troy",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "thuyền": 3,
+  "biển": 2,
+  "vịnh": 3,
+  "vách": 2,
+  "đá": 2,
+  "thủy thủ": 3,
+  "odysseius": 2,
+  "chàng": 2,
+  "tàu": 4
+ }
+}

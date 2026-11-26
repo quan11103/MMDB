@@ -1,0 +1,166 @@
+{
+ "n_words": 1387,
+ "n_chunks": 23,
+ "ner": [
+  {
+   "text": "Nature",
+   "label": "PER",
+   "count": 13
+  },
+  {
+   "text": "phương Tây",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "năm 1900",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ner",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Va Đức",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tuổi 55",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Patrick Niet",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Fredrick Nature",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "God",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "năm 1882",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Zarathusra",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "giới trí thức và tôn giáo đương thời",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phủ nhận Thượng Đế",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Thượng Đế",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Nure",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "siêu nhân Uberm Để",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Niet",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "hình tượng siêu nhân Ubermch",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Facenature",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "đạo đức năm 1887",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đạo đức chủ nhân và đạo đức nô lệ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đề cao Nure",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Chaock Nature",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "chết học": 2,
+  "tuyên ngôn chúa": 4,
+  "tư tưởng": 3,
+  "nature": 13,
+  "tôn giáo": 3,
+  "thượng đế": 2,
+  "trung tâm": 3,
+  "đời sống": 4,
+  "đời sống tinh thần": 2,
+  "tinh thần": 6,
+  "phương": 2,
+  "phương tây": 2,
+  "tây": 2,
+  "nhà tư tưởng": 2,
+  "nền tảng": 3,
+  "xã hội": 5,
+  "ý nghĩa": 6,
+  "đạo đức": 11,
+  "chân lý": 2,
+  "ý nghĩa cuộc sống": 2,
+  "cuộc sống": 4,
+  "nure": 2,
+  "con người": 15,
+  "trạng thái": 2,
+  "mục đích": 2,
+  "hệ": 2,
+  "bối cảnh": 2,
+  "truyền thống": 4,
+  "siêu nhân": 5,
+  "khái niệm": 2,
+  "sức mạnh": 3,
+  "thực chất": 2,
+  "chuẩn mực": 2,
+  "khả năng": 4,
+  "ý chí": 7,
+  "giới hạn": 2,
+  "quyền lực": 5,
+  "ý chí quyền lực": 4,
+  "khát vọng": 2,
+  "đạo đức truyền thống": 2,
+  "hệ thống": 3,
+  "đạo đức chủ nhân": 2,
+  "chủ nhân": 2
+ }
+}

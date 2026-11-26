@@ -1,0 +1,287 @@
+{
+ "n_words": 1964,
+ "n_chunks": 33,
+ "ner": [
+  {
+   "text": "Nhật",
+   "label": "LOC",
+   "count": 9
+  },
+  {
+   "text": "Miền Nam",
+   "label": "LOC",
+   "count": 7
+  },
+  {
+   "text": "miền Bắc",
+   "label": "LOC",
+   "count": 6
+  },
+  {
+   "text": "Pháp",
+   "label": "LOC",
+   "count": 5
+  },
+  {
+   "text": "Nhật Bản",
+   "label": "LOC",
+   "count": 5
+  },
+  {
+   "text": "Bắc",
+   "label": "LOC",
+   "count": 3
+  },
+  {
+   "text": "Nam",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Đông Dương",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Việt Nam",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "bão bão lụt miền Bắc",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Đồng Đồng Minh",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tỉnh đồng bằng sông Hồng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tình trạng Miền Bắc",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "1945 miền Bắc",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "sông Thái Bình",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "lũ lụt Trưa",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Thạt",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "M",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "người miền Bắc",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thiên tai người dân miền Bắc",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nhân dân miền Bắc",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Cấm",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 1940",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "quân đội Nhật",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nơi thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Việt Minh",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "nguồn lương thực Nhật",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thứ ba",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cơ bản Nhật",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Văn Tạo",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Pháp Tuy",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nhân dân Việt Nam",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 1945",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thực trạng xã hội Việt Nam",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nửa cuối thế kỷ 19",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chiến tranh Nhật",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 1944",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nghiêm trọng Chúng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Quân Nhật",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Kawai",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "gạo Đầy",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Minami Yoshizawa",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "điều kiện khắc",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "nguyên nhân": 3,
+  "người dân": 4,
+  "hàng loạt": 3,
+  "thiên nhiên": 2,
+  "miền": 17,
+  "miền bắc": 12,
+  "bắc": 14,
+  "đất": 4,
+  "mùa": 3,
+  "mùa đông": 2,
+  "đông": 2,
+  "lúa": 8,
+  "mùa màng": 3,
+  "đất đai": 2,
+  "miền nam": 7,
+  "gạo": 17,
+  "thực dân": 2,
+  "thực dân pháp": 2,
+  "pháp": 7,
+  "nam": 8,
+  "dân số": 2,
+  "cây số": 2,
+  "cây số vuông": 2,
+  "tỉnh": 3,
+  "sông": 3,
+  "thời": 2,
+  "lương thực": 14,
+  "thiên tai": 4,
+  "đầu": 2,
+  "lũ lụt": 2,
+  "vụ": 2,
+  "dân": 16,
+  "nạn": 5,
+  "chính sách": 5,
+  "chính sách tàn bạo": 2,
+  "quân nhật": 2,
+  "đường": 2,
+  "nhân dân": 4,
+  "nhật bản": 5,
+  "nhật": 14,
+  "đông dương": 2,
+  "quân": 2,
+  "quân đội": 3,
+  "vũ khí": 2,
+  "chiến tranh": 6,
+  "mục tiêu": 2,
+  "lương thực nhật": 2,
+  "bóc lột": 2,
+  "chữ": 3,
+  "lúa gạo": 2,
+  "việt nam": 4,
+  "hạt": 2,
+  "giáo sư": 2,
+  "nhật pháp": 2,
+  "thóc gạo": 2,
+  "thóc": 3,
+  "thế kỷ": 2,
+  "đay": 3,
+  "vải": 2,
+  "thị trường": 2,
+  "giá": 5,
+  "kho": 5,
+  "công trường": 3,
+  "mỏ": 2
+ }
+}

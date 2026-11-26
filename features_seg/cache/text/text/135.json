@@ -1,0 +1,64 @@
+{
+ "n_words": 302,
+ "n_chunks": 5,
+ "ner": [
+  {
+   "text": "My Fan Cam",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "việc JF",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "ứng dụng bên thứ ba",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "điện thoại Android",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Apple Native",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "laptop Windows",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "ứng dụng thứ ba",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Messenger",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Zalo",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tháng trải nghiệm",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "máy": 3,
+  "khung": 2,
+  "ứng dụng": 4,
+  "điện thoại": 2,
+  "file": 4,
+  "ảnh": 3
+ }
+}

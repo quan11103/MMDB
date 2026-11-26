@@ -1,0 +1,97 @@
+{
+ "n_words": 642,
+ "n_chunks": 11,
+ "ner": [
+  {
+   "text": "Odysseius",
+   "label": "PER",
+   "count": 4
+  },
+  {
+   "text": "EUS",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "thân gió Iolus",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Isaka",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Itaka",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "cạnh chủ soái",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "lúc Odysseius",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Isaka",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "đường chân trời Chàng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tiếng gió gào thét",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Yus",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Yolus",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thần thuộc bộ tam vĩ đại , thần , Posedong",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Hades",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Odysseus",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "thuyền": 3,
+  "thần": 3,
+  "gió": 4,
+  "odysseius": 5,
+  "đoàn": 3,
+  "eus": 2,
+  "túi": 4,
+  "túi da": 2,
+  "da": 2,
+  "isaka": 2,
+  "quê hương": 3,
+  "chân trời": 2,
+  "chàng": 5,
+  "đường": 2
+ }
+}

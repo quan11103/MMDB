@@ -1,0 +1,136 @@
+{
+ "n_words": 595,
+ "n_chunks": 10,
+ "ner": [
+  {
+   "text": "Doell",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Deo",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "C",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Dello",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Intel Contra",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "4.7 GHz",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Intel Graphic XE3",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "tab Rom",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Excel PowerPoint",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": ", Photoshop",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Lightroom",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": ", Teams",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chat GPT",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Book",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Creator",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Benchmark",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Premier Dain Resort",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "bài test Premiere",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "MacBook Pro M5",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Express",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "chiếc Express M",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Conra",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "khoảng gần 30 W",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "RTX",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "hiệu năng": 2,
+  "máy": 4,
+  "công việc": 2,
+  "tác vụ": 3,
+  "benchmark": 2,
+  "tiếng": 2,
+  "quạt": 2,
+  "laptop": 2
+ }
+}

@@ -1,0 +1,88 @@
+{
+ "n_words": 670,
+ "n_chunks": 11,
+ "ner": [
+  {
+   "text": "Dũng",
+   "label": "PER",
+   "count": 6
+  },
+  {
+   "text": "chat GPT",
+   "label": "LOC",
+   "count": 6
+  },
+  {
+   "text": "ngày mai Dũng",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "augmented lm",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Augmented",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Antropic",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đầu năm 2025",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trong bộ nhớ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 2022",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bên thành phố Marbon",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đâu Thì",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cái API",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "dũng": 8,
+  "chatbot": 2,
+  "last": 2,
+  "last language": 2,
+  "last language model": 2,
+  "language": 2,
+  "language model": 2,
+  "model": 2,
+  "prom": 4,
+  "chat": 6,
+  "chat gpt": 11,
+  "gpt": 6,
+  "augmented": 2,
+  "thông tin": 9,
+  "công ty": 2,
+  "dịch vụ": 4,
+  "dữ liệu": 3,
+  "thành phần": 2,
+  "ngày mai": 5,
+  "ngày mai dũng": 2
+ }
+}

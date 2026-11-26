@@ -1,0 +1,144 @@
+{
+ "n_words": 474,
+ "n_chunks": 8,
+ "ner": [
+  {
+   "text": "x B",
+   "label": "LOC",
+   "count": 3
+  },
+  {
+   "text": "Ultra",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "Intel",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "thế hệ Panterlex",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "co Ultra 735 , Ultra X7358H",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ultra X938h",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Bantlex",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ultra X7",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Ultra X9",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "GBU Intel RC B390",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "NX XE3",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "chip X7",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "X9",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "hàng IGBU",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "CPU",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "CPU",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "Aolex H",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "dòng Lunalex",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "con Ultra",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nhân LPE",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "GPU",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Intel Graphic",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "tên ARC",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cùng Ultra",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "chip": 6,
+  "thế hệ": 2,
+  "ultra": 6,
+  "intel": 2,
+  "dòng": 7,
+  "tiền": 2,
+  "tiền tổ": 2,
+  "tổ": 2,
+  "dòng chip": 3,
+  "hậu tố": 2,
+  "cpu": 2,
+  "nhân": 2,
+  "điện": 3,
+  "cấu hình": 2,
+  "ultra 7": 3,
+  "nhân cpu": 2
+ }
+}

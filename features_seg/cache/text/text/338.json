@@ -1,0 +1,65 @@
+{
+ "n_words": 1054,
+ "n_chunks": 18,
+ "ner": [
+  {
+   "text": "Đức Phật",
+   "label": "PER",
+   "count": 4
+  },
+  {
+   "text": "Bát Chánh Đạo",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Bát Chánh Đạo",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "an lạc thực sự Bát Chánh Đạo",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "panna panna",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "vững chãi chãi",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phương pháp chân chánh",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "quyền tự chủ",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "đức phật": 4,
+  "bát chánh": 2,
+  "bát chánh đạo": 4,
+  "điều ác": 2,
+  "hành vi": 4,
+  "hài hòa": 2,
+  "sân": 2,
+  "tâm": 2,
+  "tư duy": 2,
+  "môn học": 5,
+  "panna": 2,
+  "trường": 3,
+  "cuộc đời": 2,
+  "kiếp": 2,
+  "bài học": 2,
+  "đời": 4,
+  "phương pháp": 2
+ }
+}

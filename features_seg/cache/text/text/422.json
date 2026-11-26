@@ -1,0 +1,133 @@
+{
+ "n_words": 794,
+ "n_chunks": 13,
+ "ner": [
+  {
+   "text": "The Boys",
+   "label": "PER",
+   "count": 4
+  },
+  {
+   "text": "Jenv",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "Genenv",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "The Boys Diabolical",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "The Boys",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Homelander",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "sự phản kháng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Genenv",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "mùa 1",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "người hùng vĩ đại Homelander",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Mỹ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Homelander",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Chance Perdomo",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Cốt Truyện",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "thế giới The Boys Nó",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "kiểu High School Musical",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Jack Front",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "mùa Genen",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "mùa ba",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "GenV",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "What",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "spinoff": 2,
+  "vai trò": 3,
+  "câu chuyện": 3,
+  "thế giới": 6,
+  "jenv": 3,
+  "the boys": 5,
+  "ý tưởng": 2,
+  "homelander": 3,
+  "phim": 3,
+  "thế hệ": 4,
+  "sinh viên": 2,
+  "nhân vật": 4,
+  "hành trình": 2,
+  "genenv": 3,
+  "mùa": 7,
+  "bản chất": 2,
+  "thanh niên": 2,
+  "tầm": 4,
+  "trường": 3,
+  "series": 3
+ }
+}

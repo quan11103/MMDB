@@ -1,0 +1,46 @@
+{
+ "n_words": 496,
+ "n_chunks": 8,
+ "ner": [
+  {
+   "text": "Tạp",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "phía trên",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đầu vận óc",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ok",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "kênh La La School Để",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "lưu ý": 2,
+  "nắp": 4,
+  "con óc": 2,
+  "mặt": 7,
+  "khu vực": 3,
+  "óc": 2,
+  "đầu": 3,
+  "men": 5,
+  "cổng": 3,
+  "bé": 3,
+  "phê hướng": 2,
+  "xung quanh": 2,
+  "tạp": 2
+ }
+}

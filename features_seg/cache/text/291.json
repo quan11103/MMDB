@@ -1,0 +1,71 @@
+{
+ "n_words": 688,
+ "n_chunks": 12,
+ "ner": [
+  {
+   "text": "điểm Một",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đại học Hawaii",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "giảng Study Less Study Smart",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Martin Lobell",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Đại học Hawaii Các",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Study Area",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "môi trường chuyên biệt",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "không gian địa lý",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "không gian": 8,
+  "mặt": 2,
+  "bàn": 6,
+  "game": 2,
+  "tín hiệu": 2,
+  "bối cảnh": 2,
+  "góc": 3,
+  "ánh sáng": 2,
+  "môi trường": 3,
+  "hành vi": 2,
+  "dòng": 3,
+  "đại học": 2,
+  "sinh viên": 4,
+  "đèn": 2,
+  "dòng chữ": 2,
+  "dòng chữ khu vực": 2,
+  "chữ": 2,
+  "chữ khu vực": 2,
+  "khu vực": 2,
+  "phòng": 2,
+  "xung lực": 2,
+  "công việc": 2,
+  "xung quanh": 2
+ }
+}

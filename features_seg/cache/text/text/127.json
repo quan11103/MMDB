@@ -1,0 +1,98 @@
+{
+ "n_words": 434,
+ "n_chunks": 7,
+ "ner": [
+  {
+   "text": "Intel",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "Apple",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "Apple M5",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "năm Apple",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phiên mật tín nhiệm",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Apple M2",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Apple M1 Apple M3",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Apple M4",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Intel",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "hay là AMD",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "con chip Apple M5",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chip Intel Panelect",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "MacBook",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Pro",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "M4",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "con chip M3 16 GB",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "apple": 6,
+  "chip": 8,
+  "hiệu năng": 3,
+  "đời": 3,
+  "intel": 4,
+  "m3": 2,
+  "apple m5": 4,
+  "truyền thông": 2,
+  "macbook": 2,
+  "máy": 2
+ }
+}

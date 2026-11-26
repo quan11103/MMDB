@@ -1,0 +1,174 @@
+{
+ "n_words": 390,
+ "n_chunks": 7,
+ "ner": [
+  {
+   "text": "Hannibal",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "Trận Yama",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "lần thứ hai",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "CPO",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Rome",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "CPO",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Numidia",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Katch",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Á",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "trước Công Nguyên",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thế kỷ , Rom",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Katharch",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Địa Trung Hải Và",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chiến tranh Punix",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chiến thắng KNi",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bán đảo Iberia",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Khach",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Địa Trung Hải",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Yama",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "tay CPO",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đội kỵ binh Numidia",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Vochage",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "tiêu diệt Hannibal",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Kash",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Rome",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Punic",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Trung Quốc",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Rome",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "Rom",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "phần phía tây địa Trung Hải",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "trận": 5,
+  "trận yama": 2,
+  "yama": 3,
+  "rom": 2,
+  "chiến tranh": 2,
+  "tướng": 2,
+  "hannibal": 4,
+  "cpo": 5,
+  "rome": 4,
+  "kỵ binh": 2,
+  "voi chiến": 2,
+  "quân": 3,
+  "numidia": 2,
+  "katch": 2,
+  "đội": 3,
+  "sức mạnh": 2
+ }
+}

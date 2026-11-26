@@ -1,0 +1,178 @@
+{
+ "n_words": 666,
+ "n_chunks": 11,
+ "ner": [
+  {
+   "text": "Yang",
+   "label": "PER",
+   "count": 6
+  },
+  {
+   "text": "Trung Quốc",
+   "label": "LOC",
+   "count": 4
+  },
+  {
+   "text": "năm 2010",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Bắc Kinh",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Canada",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Yêu",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 1999",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "văn học Anh",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 2008",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trường trung học Thâm Quyến",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ban Quốc tế thuộc Đại học Bắc Kinh",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 2022",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Moonshot Academy",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Harvard",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Hội nghệ thuật hoàng gia Anh",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Wall Street Journal",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "New York Times",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "CNN",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Yang Jekin",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "lực lượng an ninh Trung Quốc",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thành phố Đại Khánh Đây",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "sự kiện Thiên An Môn",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "kênh PPS",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Hoa Kỳ",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "nhãn gián điệp",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Vancouver",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "ngày hôm nay",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "CIA",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "việc Yêu",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "hệ thống giáo dục Bắc Kinh",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Yang Jin",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Dêu",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "hành trình": 3,
+  "yang": 6,
+  "yêu": 2,
+  "văn học": 2,
+  "câu chuyện": 3,
+  "lịch sử": 2,
+  "trung quốc": 5,
+  "giáo dục": 2,
+  "bắc kinh": 4,
+  "sự kiện": 2
+ }
+}

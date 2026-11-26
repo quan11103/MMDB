@@ -1,0 +1,86 @@
+{
+ "n_words": 1379,
+ "n_chunks": 23,
+ "ner": [
+  {
+   "text": "Mwin",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "nút home",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Logo Nike Kỳ",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "M",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Too End",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Michael Angela",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "thứ ngay lập tức",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thứ dư thừa",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nguyên tắc thứ nhất Nguyên tắc số hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Hay",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nguyên tắc số ba",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Daniel Canan",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "thư": 3,
+  "thư ngắn": 2,
+  "chất lượng": 3,
+  "nút": 2,
+  "không gian": 4,
+  "tư duy": 2,
+  "kỳ vọng": 2,
+  "quan hệ": 3,
+  "phép": 2,
+  "cuộc sống": 5,
+  "tác giả": 2,
+  "nguyên tắc": 5,
+  "nội dung": 2,
+  "đồ": 3,
+  "cảm giác": 2,
+  "nhận thức": 2,
+  "não": 2,
+  "giá": 2
+ }
+}

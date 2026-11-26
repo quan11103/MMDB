@@ -1,0 +1,69 @@
+{
+ "n_words": 696,
+ "n_chunks": 12,
+ "ner": [
+  {
+   "text": "Hi",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "B",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Version",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "cách mạng Glucoer",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Pháp",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Joseph",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "vân vân",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "công nghệ y sinh",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "yếu tố nền tảng cốt lõi",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "version": 2,
+  "kiến thức": 3,
+  "sách": 3,
+  "tâm trạng": 2,
+  "cảm giác": 2,
+  "da": 3,
+  "đầu": 2,
+  "triệu chứng": 2,
+  "cơ thể": 5,
+  "tiểu đường": 2,
+  "sức khỏe": 2,
+  "dự án": 2,
+  "đường huyết": 3,
+  "vóc dáng": 2,
+  "glucozơ": 2,
+  "năng lượng": 2
+ }
+}

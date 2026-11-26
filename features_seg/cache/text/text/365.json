@@ -1,0 +1,28 @@
+{
+ "n_words": 438,
+ "n_chunks": 7,
+ "ner": [
+  {
+   "text": "BayS",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "OTP",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "định lý": 2,
+  "ngân hàng": 2,
+  "giả thuyết": 3,
+  "đầu": 2,
+  "cán cân": 4,
+  "lừa đảo": 2,
+  "khả năng": 2,
+  "sức": 2,
+  "bằng chứng": 3,
+  "con số": 2
+ }
+}

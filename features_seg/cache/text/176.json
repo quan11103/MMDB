@@ -1,0 +1,67 @@
+{
+ "n_words": 757,
+ "n_chunks": 13,
+ "ner": [
+  {
+   "text": "vòng lặp số sáu",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Tấm",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "biển đề Exit 8",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "The Lost Man",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "The Walking Man",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Exit",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "The T L Nman",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "nhân gian , Ocean Vương",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "vòng lặp": 3,
+  "trẻ": 3,
+  "cung": 2,
+  "lối": 5,
+  "khung cảnh": 2,
+  "đường": 3,
+  "tàu": 3,
+  "chuyến": 2,
+  "chuyến tàu": 2,
+  "phim": 3,
+  "cảnh": 2,
+  "số phận": 2,
+  "xã hội": 2,
+  "nhân vật": 2,
+  "dòng": 2,
+  "địa ngục": 2,
+  "gái": 3,
+  "tự do": 3,
+  "máy": 2
+ }
+}

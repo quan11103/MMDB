@@ -1,0 +1,143 @@
+{
+ "n_words": 453,
+ "n_chunks": 8,
+ "ner": [
+  {
+   "text": "Plato",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "Atlantis",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "cây bút Baram",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Spider Room",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Timeus",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "CIAS",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "tu sĩ Ai Cập",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Solomon",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Athens",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Critias",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Plato Các",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Ai Cập",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "trụ cột Hercalis",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "eo biển Gibrat",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "quốc gia Địa Trung Hải",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đại dương Plato",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "kim loại sáng lấp lánh",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Orighanum",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "người Hy Lạp",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thế kỷ thứ tư",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Platô",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "dòng máu thần thánh của Poedon",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "quyền lực Khi Atlantis",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đức hạnh kỷ luật và trật tự",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Atlantis",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "atlantis": 7,
+  "plato": 4,
+  "ai cập": 2,
+  "cường quốc": 2,
+  "vùng đất": 2,
+  "đảo": 2,
+  "vòng": 2,
+  "kim loại": 3,
+  "xã hội": 2,
+  "thần": 2
+ }
+}

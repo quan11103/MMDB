@@ -1,0 +1,56 @@
+{
+ "n_words": 458,
+ "n_chunks": 8,
+ "ner": [
+  {
+   "text": "Dũng",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "nền tảng Playop",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Play Hop",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "nền tảng Unity Default",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Cocose",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Construct",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "chi phí": 3,
+  "tiền": 4,
+  "dũng": 3,
+  "game": 13,
+  "nền tảng": 8,
+  "nền tảng playop": 3,
+  "playop": 3,
+  "rắc rối": 2,
+  "cửa hàng": 2,
+  "cửa hàng ứng dụng": 2,
+  "ứng dụng": 3,
+  "trò chơi": 3,
+  "chạng": 2,
+  "chạng đường": 2,
+  "đường": 2,
+  "chi phí marketing": 2,
+  "marketing": 2,
+  "play hop": 2
+ }
+}

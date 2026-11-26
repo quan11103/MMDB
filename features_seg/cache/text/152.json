@@ -1,0 +1,36 @@
+{
+ "n_words": 385,
+ "n_chunks": 7,
+ "ner": [
+  {
+   "text": "Asus",
+   "label": "PER",
+   "count": 5
+  },
+  {
+   "text": "tandom OLED",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phần khung máy của chiếc Expertw Ultra",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Caluminum",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "laptop": 9,
+  "asus": 5,
+  "màn hình": 2,
+  "máy": 2,
+  "chìa khóa": 2,
+  "dấu": 2,
+  "bề mặt": 2,
+  "vật liệu": 3
+ }
+}

@@ -1,0 +1,52 @@
+{
+ "n_words": 383,
+ "n_chunks": 7,
+ "ner": [
+  {
+   "text": "Acer",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "PC",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "DB",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "trên Tóm lại",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "độ phân giả 2",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bạn Vậy",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Việt Nam",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "H",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "màn hình": 3,
+  "phân khúc": 2,
+  "củ": 2,
+  "acer": 2
+ }
+}

@@ -1,0 +1,80 @@
+{
+ "n_words": 611,
+ "n_chunks": 10,
+ "ner": [
+  {
+   "text": "trước Công Nguyên",
+   "label": "LOC",
+   "count": 3
+  },
+  {
+   "text": "thời Lưỡng Hà",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bda Iraq",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thời isin lassar năm 1950",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 1770",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Cắn",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "võ đài La Mã",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thế kỷ thứ tư",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Chỉ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tiếng Hy Lạp",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Lisa",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "sau C nguyên học giả Roman",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "nhân loại": 2,
+  "chó": 5,
+  "công nguyên": 3,
+  "căn bệnh": 3,
+  "bệnh": 6,
+  "bệnh dại": 4,
+  "thời": 4,
+  "con người": 2,
+  "thế kỷ": 3,
+  "nạn nhân": 2,
+  "học giả": 2,
+  "bệnh nhân": 2
+ }
+}

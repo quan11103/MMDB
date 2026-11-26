@@ -1,0 +1,94 @@
+{
+ "n_words": 1388,
+ "n_chunks": 23,
+ "ner": [
+  {
+   "text": "mắt hai",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "The Don of Everything",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Vạn Vật",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "David",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "David Graber",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "văn minh nhân loại",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chủng loài",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "lao động chuyên sâu",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Jack",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "thời nguyên thủy",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "initial investment",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "khoảng 1",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thượng lưu Còn",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chúa tể vạn vật",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "lúa": 11,
+  "con người": 8,
+  "loài người": 2,
+  "nông nghiệp": 2,
+  "bẫy": 3,
+  "lương thực": 2,
+  "mặt": 4,
+  "văn minh": 4,
+  "hàng": 2,
+  "nhân loại": 5,
+  "chữ viết": 2,
+  "xã hội": 4,
+  "thời": 3,
+  "mắt": 2,
+  "ngày nay": 2,
+  "nông dân": 2
+ }
+}

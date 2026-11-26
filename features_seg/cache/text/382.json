@@ -1,0 +1,115 @@
+{
+ "n_words": 1586,
+ "n_chunks": 27,
+ "ner": [
+  {
+   "text": "ngày hôm nay",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "ô thừa",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "việc tinh giản",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chim cháp tổ Power Bird",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bản năng tích trữ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Điều thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "văn minh nhân loại",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "lưỡi dao đá và những công cụ sắc bén",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trường La Mã",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Vạn Lý Trường Thành",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thế giới , Copecle Ter",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Và",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "hiệu ứng IKEA",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "IKEAR",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "hình": 3,
+  "ô vuông": 2,
+  "kết quả": 3,
+  "thí nghiệm": 2,
+  "tác giả": 3,
+  "con người": 15,
+  "góc độ": 3,
+  "bản năng": 9,
+  "chim": 3,
+  "tổ": 10,
+  "chim đực": 3,
+  "tổ đơn giản": 2,
+  "thời kỳ": 3,
+  "sinh tồn": 2,
+  "thức ăn": 2,
+  "xu hướng": 5,
+  "thế giới": 2,
+  "tổ tiên": 2,
+  "tâm lý": 5,
+  "cuộc sống": 2,
+  "khả năng": 2,
+  "đống": 2,
+  "văn minh": 2,
+  "thời kỳ đồ": 2,
+  "thời kỳ đồ đá": 2,
+  "đồ": 6,
+  "đồ đá": 2,
+  "đá": 5,
+  "phép": 6,
+  "trường": 4,
+  "mắt": 2,
+  "xung quanh": 2,
+  "chi tiết": 4,
+  "tổng thể": 2,
+  "não bộ": 2,
+  "hiệu ứng": 2,
+  "lựa chọn": 2
+ }
+}

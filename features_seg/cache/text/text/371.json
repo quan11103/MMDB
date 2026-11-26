@@ -1,0 +1,131 @@
+{
+ "n_words": 1735,
+ "n_chunks": 29,
+ "ner": [
+  {
+   "text": "B Limit",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Steve Jobs",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Đại học Stanford",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "gia Arthur Gresler",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "by asociations",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Geng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Goko",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thế giới sinh học",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chuỗi DNA",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "biển sáng tạo",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cảm xúc riêng biệt",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Plato",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "GPG",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "đột biến gen",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Suy",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "tốc độ chóng mặt",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bạn Bi Limit",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "T Xì Sun",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "thời đại số": 2,
+  "ý tưởng": 16,
+  "sáng tạo": 3,
+  "kết nối": 2,
+  "thông tin": 4,
+  "tác phẩm": 5,
+  "ý tưởng gốc": 4,
+  "gốc": 5,
+  "thực chất": 2,
+  "chân chính": 2,
+  "bản chất": 3,
+  "lịch sử": 3,
+  "khoa học": 3,
+  "công nghệ": 2,
+  "quan điểm": 2,
+  "hành vi": 2,
+  "tư duy": 5,
+  "lý thuyết": 2,
+  "sinh học": 2,
+  "ẩn dụ": 2,
+  "thế giới": 5,
+  "gen": 4,
+  "môi trường": 2,
+  "biển": 4,
+  "ý tưởng nhánh": 3,
+  "nhánh": 3,
+  "góc": 2,
+  "chiếu": 2,
+  "suy tưởng": 2,
+  "hành trình": 2,
+  "lượt": 2,
+  "trải nghiệm": 2,
+  "limit": 2
+ }
+}

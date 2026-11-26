@@ -1,0 +1,55 @@
+{
+ "n_words": 402,
+ "n_chunks": 7,
+ "ner": [
+  {
+   "text": "Ok",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Deep",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Deepw",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "giống Flow",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Flow",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "kênh YouTube",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "work": 4,
+  "deep": 2,
+  "deep work": 2,
+  "công việc": 4,
+  "trạng thái": 4,
+  "yếu tố": 2,
+  "flow": 6,
+  "sách": 4,
+  "xung quanh": 2,
+  "căn bản": 2,
+  "trạng thái tâm lý": 2,
+  "trạng thái tâm lý tự nhiên": 2,
+  "tâm lý": 2,
+  "tâm lý tự nhiên": 2,
+  "phương pháp": 2,
+  "kỹ năng": 2,
+  "deepwork": 3
+ }
+}

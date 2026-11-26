@@ -1,0 +1,49 @@
+{
+ "n_words": 257,
+ "n_chunks": 4,
+ "ner": [
+  {
+   "text": "lịch sử nhân loại",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "cánh đồng Hy Lạp",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "sa mạc Trung Đông",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tác giả Teddyus",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "top 10",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Trận Gogamela",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trước Công",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "lịch sử": 4,
+  "thế giới": 2,
+  "cuộc chiến": 2,
+  "trận": 5,
+  "chiến trường": 2,
+  "tác giả": 3
+ }
+}

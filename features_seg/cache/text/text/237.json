@@ -1,0 +1,25 @@
+{
+ "n_words": 338,
+ "n_chunks": 6,
+ "ner": [
+  {
+   "text": "HDR",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "bạn Thì",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "MBRT",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "công nghệ": 2,
+  "màn hình": 2
+ }
+}

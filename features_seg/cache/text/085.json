@@ -1,0 +1,56 @@
+{
+ "n_words": 552,
+ "n_chunks": 9,
+ "ner": [
+  {
+   "text": "lý thuyết trò chơi",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "việc giáo sư Yang",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Yang",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "cân bằng Nash",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "kết luận Thay",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "lập luận kiểu như là Iran",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "hào quang": 2,
+  "lý thuyết": 7,
+  "yang": 2,
+  "khái niệm": 2,
+  "lý thuyết trò chơi": 4,
+  "trò chơi": 4,
+  "yếu tố": 4,
+  "hệ thống": 2,
+  "cấu trúc": 2,
+  "cấu trúc thông tin": 2,
+  "thông tin": 2,
+  "tác nhân": 2,
+  "cân bằng": 2,
+  "chiến lược": 3,
+  "mô hình": 2,
+  "kết luận": 2,
+  "lập luận": 2,
+  "khả năng": 2
+ }
+}

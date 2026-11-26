@@ -1,0 +1,39 @@
+{
+ "n_words": 472,
+ "n_chunks": 8,
+ "ner": [
+  {
+   "text": "tháng trải nghiệm",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "ứng dụng bên thứ ba",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "JF",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Jone 8 Ultra",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "tablet": 4,
+  "mẫu": 2,
+  "jfo": 2,
+  "jfo 8": 2,
+  "điện thoại": 4,
+  "sản phẩm": 2,
+  "loa": 3,
+  "màn hình": 3,
+  "ứng dụng": 3,
+  "jone": 2,
+  "jone 8": 2
+ }
+}

@@ -1,0 +1,82 @@
+{
+ "n_words": 673,
+ "n_chunks": 11,
+ "ner": [
+  {
+   "text": "ý tưởng gốc Plato",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "ý niệm thuần khiết khiết",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "triết học Hy Lạp",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phương Tây",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Platô",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "tác phẩm Federus",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": ", Plato",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Plato",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Pháp Gus Deluse",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 1968 Del",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Deluse",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Plato",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "ý tưởng": 11,
+  "ý tưởng gốc": 4,
+  "gốc": 4,
+  "plato": 5,
+  "thế giới": 5,
+  "ý niệm": 4,
+  "vật chất": 2,
+  "tác phẩm": 2,
+  "thực chất": 2,
+  "khái niệm": 2,
+  "góc": 3,
+  "tư duy": 2,
+  "con người": 2,
+  "deluse": 2
+ }
+}

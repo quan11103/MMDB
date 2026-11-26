@@ -1,0 +1,98 @@
+{
+ "n_words": 345,
+ "n_chunks": 6,
+ "ner": [
+  {
+   "text": "giống GTA5",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "DS",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "lược FS",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "FS",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "65 70 FPS",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tầm khoảng là 9 10 GB RAM",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "SH",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Ui",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "20177 B",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "75 76",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nhưng mà Tuy",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "PC",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "pc 10",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "lượng FS",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "110 FPS",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "test": 2,
+  "game": 5,
+  "đồ họa": 2,
+  "ha": 2,
+  "low": 2,
+  "low setting": 4,
+  "setting": 2,
+  "fs": 4,
+  "tầm": 4,
+  "fps": 2,
+  "pc": 3,
+  "pc 10": 2,
+  "pc 10 cũ": 2,
+  "cứu hình": 3,
+  "cứu hình low setting": 2
+ }
+}

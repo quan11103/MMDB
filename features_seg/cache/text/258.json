@@ -1,0 +1,53 @@
+{
+ "n_words": 470,
+ "n_chunks": 8,
+ "ner": [
+  {
+   "text": "Vega",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "VGA",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "rts 5080 VOS",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đ 50",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "con Vega",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Vega",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "bên trong",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "thông số": 2,
+  "vega": 4,
+  "dòng": 2,
+  "mặt": 3,
+  "series á": 2,
+  "tầm": 4,
+  "điện": 2,
+  "phân khúc": 2,
+  "phân khúc tầm": 2,
+  "test": 2
+ }
+}

@@ -1,0 +1,90 @@
+{
+ "n_words": 1307,
+ "n_chunks": 22,
+ "ner": [
+  {
+   "text": "Aristotle",
+   "label": "PER",
+   "count": 10
+  },
+  {
+   "text": "Aristot",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "trước công nguyên",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Aristotel",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "tiếng Hy Lạp",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "kết quả Tilos",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Tos",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "nhà hàng Michelin",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "TOS",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "aristotle": 10,
+  "hy lạp": 2,
+  "mục đích": 12,
+  "tilos": 2,
+  "kết quả": 2,
+  "cuộc sống": 8,
+  "công lý": 3,
+  "sáo": 5,
+  "âm thanh": 2,
+  "xã hội": 3,
+  "triết": 2,
+  "quyền lực": 3,
+  "quyền lực chính trị": 3,
+  "chính trị": 15,
+  "công dân": 7,
+  "cuộc sống tốt đẹp": 4,
+  "tos": 2,
+  "dân": 4,
+  "mục tiêu": 2,
+  "đạo đức": 2,
+  "quốc gia": 2,
+  "đức tính": 4,
+  "thể chế": 3,
+  "tính chất": 2,
+  "bản chất": 2,
+  "con người": 7,
+  "thành bang": 2,
+  "khả năng": 4,
+  "khả năng ngôn ngữ": 3,
+  "ngôn ngữ": 3,
+  "lý luận": 2,
+  "cộng đồng": 3,
+  "cộng đồng chính trị": 2,
+  "mặt": 2,
+  "thành phố": 2,
+  "thành phố tốt đẹp": 2,
+  "sách": 3
+ }
+}

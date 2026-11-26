@@ -1,0 +1,55 @@
+{
+ "n_words": 368,
+ "n_chunks": 6,
+ "ner": [
+  {
+   "text": "RAW",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Veil of Ignorance",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chủ nghĩa vị lợi Utilitarianism",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chủ nghĩa hệ quả",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Khan",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Can't Rose",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Rose",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "đạo đức": 2,
+  "raw": 2,
+  "màn": 3,
+  "chủ nghĩa vị": 2,
+  "chủ nghĩa vị lợi": 2,
+  "lợi": 5,
+  "hành động": 2,
+  "hạnh phúc": 2,
+  "xã hội": 7,
+  "con người": 2,
+  "đằng": 2,
+  "hệ thống": 2
+ }
+}

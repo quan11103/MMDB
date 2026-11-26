@@ -1,0 +1,64 @@
+{
+ "n_words": 426,
+ "n_chunks": 7,
+ "ner": [
+  {
+   "text": "năm 2016",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "buttresses F10",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Macbook Air",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "năm 2013",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 2018",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "iPhone 6",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Mass",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Macbook Pro",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Mác",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chip Apple Siri",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "macbook pro": 2,
+  "máu": 2,
+  "phiên bản": 3,
+  "iphone": 2,
+  "máy": 2,
+  "chip": 2
+ }
+}

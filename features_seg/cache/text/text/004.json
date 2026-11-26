@@ -1,0 +1,68 @@
+{
+ "n_words": 506,
+ "n_chunks": 9,
+ "ner": [
+  {
+   "text": "Potemkin",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "năm 1787",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "làng Cemier",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nữ hoàng Nga Ctherine Đại Đế",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Depper",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Gregory",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "bờ sông sông",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Xong",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thuật ngữ làng Potemkin",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "khu vực": 2,
+  "làng": 10,
+  "nữ hoàng": 2,
+  "sông": 5,
+  "potemkin": 4,
+  "bậc": 2,
+  "bậc thầy": 2,
+  "thầy": 2,
+  "bờ": 3,
+  "bờ sông": 3,
+  "bạt": 2,
+  "gỗ": 2,
+  "thuật ngữ": 2,
+  "khái niệm": 2,
+  "làng giả": 3
+ }
+}

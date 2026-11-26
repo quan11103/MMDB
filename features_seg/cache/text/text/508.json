@@ -1,0 +1,156 @@
+{
+ "n_words": 1775,
+ "n_chunks": 30,
+ "ner": [
+  {
+   "text": "chương trình A",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "chương trình B",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "trường hợp thứ hai",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Đan Mạch",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Ok",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "nhóm bệnh nhân thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "khủng khiếp Còn",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phương án 10",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thông tin thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tỉ lệ tử",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Mỹ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Trương",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "hòa nhạc mỗi vé 2",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "vé giá 2",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Trung",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "báo Năm",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Đức",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "12 PH",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Thụy Điển",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "4 PH",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Còn",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "bạn tích tích",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bộ máy Số Một",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "framing": 2,
+  "chương": 3,
+  "quyết định": 6,
+  "kết quả": 5,
+  "tỉ lệ": 4,
+  "ph": 10,
+  "phẫu thuật": 3,
+  "tác giả": 3,
+  "bệnh nhân": 3,
+  "bộ máy": 2,
+  "thông tin": 9,
+  "phương án": 11,
+  "bác sĩ": 2,
+  "khả năng": 10,
+  "căn bệnh": 2,
+  "chương trình": 6,
+  "mạng": 2,
+  "xu hướng": 2,
+  "phụ nữ": 4,
+  "vé": 11,
+  "hòa nhạc": 7,
+  "rạp": 2,
+  "tiền": 3,
+  "quốc gia": 2,
+  "áo": 2,
+  "tạng": 3,
+  "con số": 2,
+  "đan mạch": 2
+ }
+}

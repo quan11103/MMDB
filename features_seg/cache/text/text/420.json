@@ -1,0 +1,41 @@
+{
+ "n_words": 755,
+ "n_chunks": 13,
+ "ner": [
+  {
+   "text": "vân vân",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Facebook",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "TikTok",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "ý chí con người có hạn",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "môi trường": 3,
+  "nhiễu": 4,
+  "điện thoại": 4,
+  "não": 3,
+  "tiếng": 2,
+  "thông tin": 2,
+  "nội tâm": 2,
+  "ý chí": 2,
+  "công việc": 3,
+  "quyền": 2,
+  "não bộ": 2,
+  "nguyên tắc": 2,
+  "nút": 3
+ }
+}

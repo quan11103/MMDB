@@ -1,0 +1,71 @@
+{
+ "n_words": 485,
+ "n_chunks": 8,
+ "ner": [
+  {
+   "text": "MacBook Pro",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "inch M1 Pro",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Macbook",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "AirPod Pro",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": ", MacBook",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "AirPod Pro",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Apple",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Apple",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "ổ cứng SD , máy ảnh flash , màn hình LG",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ok",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "macbook": 2,
+  "trải nghiệm": 3,
+  "airpod pro": 2,
+  "thiết bị": 3,
+  "lỗi": 3,
+  "đồ": 5,
+  "tính năng": 4,
+  "hàng": 5,
+  "hộp": 2,
+  "apple": 2,
+  "đầu": 2,
+  "kiến thức": 2,
+  "hàng cũ": 3
+ }
+}

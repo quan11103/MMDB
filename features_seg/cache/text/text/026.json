@@ -1,0 +1,60 @@
+{
+ "n_words": 1034,
+ "n_chunks": 17,
+ "ner": [
+  {
+   "text": "mức như thế nào Tuy nhiên Thì",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bệnh SAS",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Kẻ Xâm Nhập",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Blood",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "biến dịch Thì",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Hòa",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "cơ thể": 5,
+  "con người": 3,
+  "bệnh": 11,
+  "bệnh dại": 7,
+  "chó": 4,
+  "vết": 4,
+  "virus": 14,
+  "virus bệnh": 2,
+  "virus bệnh dại": 2,
+  "virus dại": 3,
+  "khả năng": 5,
+  "nước bọt": 2,
+  "động vật": 3,
+  "loài": 2,
+  "thần kinh": 8,
+  "não": 4,
+  "tế bào": 3,
+  "hệ": 8,
+  "hệ thần kinh": 3,
+  "hệ miễn dịch": 3,
+  "miễn dịch": 3,
+  "bbb": 2
+ }
+}

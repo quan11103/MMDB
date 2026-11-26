@@ -1,0 +1,442 @@
+{
+ "n_words": 1611,
+ "n_chunks": 27,
+ "ner": [
+  {
+   "text": "Israel",
+   "label": "PER",
+   "count": 9
+  },
+  {
+   "text": "dân tộc Do Thái",
+   "label": "LOC",
+   "count": 3
+  },
+  {
+   "text": "Jerusalem",
+   "label": "LOC",
+   "count": 3
+  },
+  {
+   "text": "Palestine",
+   "label": "LOC",
+   "count": 3
+  },
+  {
+   "text": "người Do Thái",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "năm 1948",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Liên quân Ả Rập",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Jordan",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "đông Jerusalem",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Jêusaem",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "hàng thiên niên kỷ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "David",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Solomon",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "vương quốc Israel",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đế chế La Mã",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Thái",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tên vùng đất này thành Palestine",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Diaspora",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Bắc Phi",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Mỹ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": ", Giêusaem",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "quốc gia Do Thái",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Trung Đông",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phong trào Zionism",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phục quốc Do Thái",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Holocaust",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Austrid",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "năm 1947",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Anh Quốc",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "vùng đất Palestine",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nhà nước Do Thái",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Jewis State",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nhà nước Ả Rập",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Arab State",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "vùng Jude",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Samaria",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bờ tây và một phần phía bắc Galile",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "vùng quốc tế hay Cus Separatum",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Bethlehem",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Do Thái",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": ", Kiitô",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cục diện Trung Đông",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Phí Do Thái",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "việc Jerêusem",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm lưu lạc",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ả Rập",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "nhà lãnh đạo Ả Rập",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "quốc gia Ả Rập",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "mặt phân chia lãnh thổ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "khoảng 78 %",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ai Cập",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nhà nước Ả Rập Palestine",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "khi Tổng thống Ai Cập",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Kam Naser",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "thế giới Ả Rập",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "không quân Israel",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "giải ga bán đảo Sinai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tay A Cập",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bờ tây và Đông Jerusalem",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Jordan",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cao nguyên Goan",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Syria",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 1967",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Jêusalem",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "xanh tây Jerusalem",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Israel",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "toàn bộ Đông Jerusalem",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Quốc hội Israel",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Jerusalem",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Đông Jerusalem",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "quanh Đông Jerusalem",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "lãnh thổ Israel",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "quốc tịch Israel",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "status qu",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Palestine",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "người Canaan",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "tôn giáo": 3,
+  "thánh địa": 2,
+  "máu": 2,
+  "israel": 15,
+  "đế chế": 2,
+  "dân tộc": 3,
+  "dân tộc do thái": 3,
+  "do thái": 11,
+  "quyền": 7,
+  "thái": 2,
+  "vùng đất": 5,
+  "palestine": 9,
+  "chính trị": 6,
+  "jerusalem": 7,
+  "quốc gia": 7,
+  "trung đông": 2,
+  "thế giới": 5,
+  "đất": 3,
+  "tổ tiên": 2,
+  "quân đội": 2,
+  "quân": 2,
+  "liên hợp quốc": 8,
+  "kế hoạch": 7,
+  "nhà nước": 4,
+  "diện tích": 3,
+  "diện tích đất đai": 2,
+  "đất đai": 3,
+  "nhà nước ả rập": 2,
+  "ả rập": 9,
+  "giải gaza": 2,
+  "bờ": 3,
+  "bờ tây": 3,
+  "tây": 4,
+  "bắc": 2,
+  "quốc tế": 3,
+  "pháp lý": 2,
+  "cuộc chiến": 6,
+  "liên quân": 2,
+  "liên quân ả rập": 2,
+  "jordan": 3,
+  "đông jerusalem": 6,
+  "ai cập": 2,
+  "đường": 2,
+  "biên giới": 2,
+  "thành phố": 8,
+  "khu": 2,
+  "thủ đô": 2,
+  "tương lai": 2,
+  "phép": 2
+ }
+}

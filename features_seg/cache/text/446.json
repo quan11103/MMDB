@@ -1,0 +1,130 @@
+{
+ "n_words": 1192,
+ "n_chunks": 20,
+ "ner": [
+  {
+   "text": "Andy",
+   "label": "PER",
+   "count": 12
+  },
+  {
+   "text": "Red",
+   "label": "PER",
+   "count": 7
+  },
+  {
+   "text": "Andy",
+   "label": "LOC",
+   "count": 3
+  },
+  {
+   "text": "Chúa",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "chuyện Cách",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "hình ảnh tôn giáo",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "hình tượng Andy",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "vị trí vai trò bản chất của Red",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "vị chúa Andy",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Chúa Giêsu",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "tên phim Shan Redemption",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "mồm giao giảng Kinh Thánh",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "hình ảnh Lucifer",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Kinh Thánh",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "luật lệ Huê Kỳ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tiền lương cho Andy",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Sang Redemption",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Chúa Giêsu",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tác giả Stephen King",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "hình ảnh": 4,
+  "vai": 3,
+  "andy": 18,
+  "phim": 11,
+  "nhân vật": 3,
+  "câu chuyện": 9,
+  "vị chúa": 2,
+  "red": 8,
+  "cảm xúc": 3,
+  "khán giả": 5,
+  "vai trò": 2,
+  "bản chất": 2,
+  "môn": 4,
+  "môn đồ": 4,
+  "đồ": 4,
+  "lũ": 2,
+  "chúa giêsu": 2,
+  "chúa": 3,
+  "lỗi": 5,
+  "hệ thống": 2,
+  "tù": 3,
+  "hy vọng": 2,
+  "kinh thánh": 2,
+  "luật lệ": 2,
+  "370.000 đô": 2,
+  "lương": 2,
+  "tiền": 3
+ }
+}

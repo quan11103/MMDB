@@ -1,0 +1,494 @@
+{
+ "n_words": 1678,
+ "n_chunks": 28,
+ "ner": [
+  {
+   "text": "Niet",
+   "label": "PER",
+   "count": 7
+  },
+  {
+   "text": "Nature",
+   "label": "PER",
+   "count": 4
+  },
+  {
+   "text": "Thụy Sĩ",
+   "label": "LOC",
+   "count": 3
+  },
+  {
+   "text": "Wagner",
+   "label": "LOC",
+   "count": 3
+  },
+  {
+   "text": ", Niet",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Pháp",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Niet",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Wagner",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Nieter",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Wner",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Frit Rich Niet",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Fit Rich Wilham Niet",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "năm 1844",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thị trấn Ren",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Đức",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Carl Ludvig Niet",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Khi Niet",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bệnh xuất huyết não",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Nam Buộc",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nơi Fredck Nature",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "mẹ chị gái Elizabeth",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Shun Fora",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nước phổ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Fritich Nature",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Paul Dyson",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Ấn Độ Độ",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Fredn",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Đại học Bond",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Federich Nuter",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Đại học Lipzig",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Friedrich R",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Labzic",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "uy tín Năm",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Fedrich Nit",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "quân đội phổ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "con đường học thuật Sau",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "giáo sư Fredrich Rich",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Professor of Classical Philogy",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Đại học Bas",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Khit Niter",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Frit Christure",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Patrick Nature",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Arthur Schopenhauer",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "soạn nhạc Richard Wagner",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Arthur Schopenhauer",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Đại học Lipsic",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tác phẩm Thế Giới",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Arthur Shopenheruer",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Shoenher",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Arthur",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "Schopenhauer thu Niet",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Sopenhauer",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Shoenheruer",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Shopenheruer",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "Shopenheruer",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "thời kỳ đầu Richard Wagner",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Bên cạnh Shoenhauer",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": ", Richard Wagner",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đầu Hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 1868",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Năm 1869",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Đại học Baồ Nieter",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "World Wner",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "học thuật Nature",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Nure",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "tinh thần bi kịch Hy Lạp",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tác phẩm Đầu Tay",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bi kịch năm 1872",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nơi Wagner",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cách Wagner",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Lelume",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Đại học Baồ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": ", Ý",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "miền Nam",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bạn bè , Nure",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Mùa hè năm 1882",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "L",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Salome",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Porge Porge",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Lu Salome",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Ner",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "giữa Niet",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Luome",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Por",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Lucerome",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Elizabeth",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "cuộc đời": 3,
+  "sự nghiệp": 3,
+  "niet": 15,
+  "mục sư": 2,
+  "bệnh": 2,
+  "elizabeth": 2,
+  "nature": 5,
+  "ngôn ngữ": 2,
+  "thân học": 2,
+  "văn học": 2,
+  "sách": 4,
+  "đại học": 7,
+  "thầy": 4,
+  "năng lực": 2,
+  "học thuật": 4,
+  "quân đội": 2,
+  "đường": 2,
+  "ngữ văn": 3,
+  "thành tựu": 2,
+  "giáo sư": 3,
+  "giáo sư ngữ văn": 2,
+  "thụy sĩ": 3,
+  "pháp": 2,
+  "tư tưởng": 8,
+  "ảnh hưởng": 2,
+  "hành trình": 2,
+  "hệ thống": 2,
+  "arthur schopenhauer": 2,
+  "richard wagner": 3,
+  "dấu ấn": 2,
+  "giai đoạn": 3,
+  "giai đoạn đầu": 2,
+  "đầu": 4,
+  "arthur": 2,
+  "tác phẩm": 5,
+  "biểu tượng": 2,
+  "đời sống": 4,
+  "đời sống tinh thần": 2,
+  "tinh thần": 7,
+  "con người": 4,
+  "cuộc sống": 3,
+  "quan điểm": 2,
+  "shopenheruer": 2,
+  "vai trò": 2,
+  "tư duy": 2,
+  "quan hệ": 6,
+  "quan hệ thân thiết": 2,
+  "wagner": 7,
+  "nure": 2,
+  "bi kịch": 2,
+  "nieter": 2,
+  "wner": 2,
+  "đại học baồ": 2,
+  "baồ": 2,
+  "salome": 2,
+  "porge": 2
+ }
+}

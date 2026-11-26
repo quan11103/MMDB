@@ -1,0 +1,23 @@
+{
+ "n_words": 274,
+ "n_chunks": 5,
+ "ner": [
+  {
+   "text": "đạo diễn sydni Luiz",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Hollywood",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "phòng": 2,
+  "bé": 2,
+  "đàn ông": 3,
+  "phim": 2,
+  "tác phẩm": 2
+ }
+}

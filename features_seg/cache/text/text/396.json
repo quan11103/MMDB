@@ -1,0 +1,65 @@
+{
+ "n_words": 538,
+ "n_chunks": 9,
+ "ner": [
+  {
+   "text": "Hi",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Par Version",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "đời bất định",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tuổi 35",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tuổi 20",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "How",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "cựu trường khoa đại học Stanford",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Truly Leecoth",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Hams",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "ngày hôm nay",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "sách": 2,
+  "nghĩa": 2,
+  "cuộc sống": 2,
+  "xung quanh": 2,
+  "tiền": 2,
+  "hướng": 2,
+  "cuộc đời": 2
+ }
+}

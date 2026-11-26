@@ -1,0 +1,55 @@
+{
+ "n_words": 326,
+ "n_chunks": 6,
+ "ner": [
+  {
+   "text": "Macbook",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Touchpad",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "XPS",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "khoảng 9",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cảm giác đầm Kim Click",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đời Expess",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "MacBook Pro",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "cái phần mặt C",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "đời": 2,
+  "macbook": 3,
+  "cảm giác": 2,
+  "tính năng": 2,
+  "phím": 3,
+  "cụm": 2,
+  "hướng": 2
+ }
+}

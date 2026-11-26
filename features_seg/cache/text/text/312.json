@@ -1,0 +1,188 @@
+{
+ "n_words": 884,
+ "n_chunks": 15,
+ "ner": [
+  {
+   "text": "George Lucas",
+   "label": "PER",
+   "count": 6
+  },
+  {
+   "text": "Lucas",
+   "label": "PER",
+   "count": 5
+  },
+  {
+   "text": "Star Wars",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "Mỹ",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Joe",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "2001 The Space Odyssey",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Stanley Kurrick",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "Wheels part One",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tên Star Wars",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Việt Nam",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phim The Hidden Fortress",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Seven Samurai",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "thiên tài Akiraosawa",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Universal",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "United Artist",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Chenus Century Fox",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "năm 1973",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nhân vật Dot Vader",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Luke Star Killer",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "thế giới Star Wars",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "quảng cáo MV",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Industrial Light",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Antiantia",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "John Dixtra",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Richard Lin Ken Roston",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Dennis Murren",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "công nghệ Da Straflex",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bao la Phil Tip Tiipet",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "John Bird",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Joe Johnston",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "star wars": 5,
+  "george lucas": 8,
+  "ý tưởng": 7,
+  "hãng": 6,
+  "hãng phim": 6,
+  "phim": 11,
+  "công nghệ": 5,
+  "lucas": 6,
+  "kịch bản": 2,
+  "star": 2,
+  "wars": 2,
+  "yếu tố": 2,
+  "mỹ": 2,
+  "cuộc chiến": 3,
+  "george": 3,
+  "đạo diễn": 2,
+  "vũ trụ": 2,
+  "vũ trụ điện ảnh": 2,
+  "điện ảnh": 4,
+  "bản thảo": 2,
+  "thế giới": 3,
+  "tiền": 2,
+  "nhân vật": 5,
+  "lịch sử": 2,
+  "đội ngũ": 2,
+  "kỹ thuật": 3,
+  "trường": 2,
+  "hình ảnh": 3,
+  "hiệu ứng": 2,
+  "joe": 2
+ }
+}

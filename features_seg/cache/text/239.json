@@ -1,0 +1,74 @@
+{
+ "n_words": 326,
+ "n_chunks": 6,
+ "ner": [
+  {
+   "text": "cổng HDMI",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cổng DB",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "3.5 5",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cổng C",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cổng CCD",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "DB",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "200 Hz",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "2K 144 Hz",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "full power hiệu năng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "DB",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "bên trong á là cái cọng dây DB",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "kết nối": 2,
+  "cổng": 9,
+  "db": 4,
+  "màn hình": 4,
+  "full": 2,
+  "2k": 2,
+  "hz": 2,
+  "anh em": 2,
+  "quằng": 2,
+  "dây": 2,
+  "lưng": 2
+ }
+}

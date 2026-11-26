@@ -1,0 +1,48 @@
+{
+ "n_words": 267,
+ "n_chunks": 5,
+ "ner": [
+  {
+   "text": "nút Join",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ai Cập",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "Lưỡng Hà",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "di tích cổ đại mang tên Gobekli Tepe",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Trái Đất",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "voi Mamoth",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trên Trái Đất",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "nhân loại": 2,
+  "sinh vật": 3,
+  "lịch sử": 2,
+  "trái đất": 2,
+  "thời kỳ": 3
+ }
+}

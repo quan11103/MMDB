@@ -1,0 +1,68 @@
+{
+ "n_words": 365,
+ "n_chunks": 6,
+ "ner": [
+  {
+   "text": "Frank",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Frank",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Alien",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 1979",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "The Texas Chur Massacle",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Barbarian",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Barbarian",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "The Mother",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "hàng xóm thần thiện",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "phụ nữ": 3,
+  "khán giả": 2,
+  "phim": 2,
+  "frank": 4,
+  "đàn ông": 2,
+  "xã hội": 2,
+  "tầng": 2,
+  "tầng hầm": 2,
+  "hầm": 2,
+  "quái vật": 3,
+  "sản phẩm": 2,
+  "bạo lực": 3,
+  "nạn nhân": 2,
+  "con người": 2,
+  "barbarian": 2
+ }
+}

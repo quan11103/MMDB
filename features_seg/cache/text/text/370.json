@@ -1,0 +1,42 @@
+{
+ "n_words": 675,
+ "n_chunks": 11,
+ "ner": [
+  {
+   "text": "lĩnh vực thông tin diễn học Harmonetics",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "gia vĩ đại Hans George Gadamer",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Paul Ricoer",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Gadamer",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Reco",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "tác phẩm": 2,
+  "gương": 2,
+  "nhận thức": 2,
+  "ý tưởng": 4,
+  "bút": 2,
+  "hành vi": 2,
+  "thực chất": 2,
+  "tư duy": 2,
+  "phòng thí nghiệm": 2
+ }
+}

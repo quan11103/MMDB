@@ -1,0 +1,84 @@
+{
+ "n_words": 941,
+ "n_chunks": 16,
+ "ner": [
+  {
+   "text": "Thì",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "LCK",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "luật chơi Ok Vậy",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "sân chơi thứ ba",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tài sản cá nhân Như",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "ví dụ Lúc",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Xã hội Việt Nam",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "số 3",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 2022",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "quyền con người thứ ba",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "consent": 2,
+  "log": 4,
+  "tài sản": 4,
+  "bé": 18,
+  "sân chơi": 7,
+  "người lớn": 8,
+  "chính phủ": 3,
+  "tòa": 2,
+  "cát": 6,
+  "góc": 2,
+  "khu vực": 2,
+  "luật chơi": 3,
+  "luật": 4,
+  "quyền": 10,
+  "dân": 2,
+  "xã hội": 2,
+  "chính trị": 4,
+  "chính trị hiện đại": 2,
+  "trạng thái": 2,
+  "quyền con người": 2,
+  "con người": 4,
+  "nhà nước": 11,
+  "quyền lực": 6,
+  "quyền lực nhà nước": 4,
+  "cộng đồng": 2,
+  "luật pháp": 3
+ }
+}

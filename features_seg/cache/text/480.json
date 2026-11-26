@@ -1,0 +1,54 @@
+{
+ "n_words": 647,
+ "n_chunks": 11,
+ "ner": [
+  {
+   "text": "Rose",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "kỳ vọng hợp lệ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nỗ lực thuần túy",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "gốc tiếng Anh",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "legitimate expectations",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "RAWs",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "kỳ vọng": 2,
+  "gốc": 2,
+  "rose": 4,
+  "công lý": 6,
+  "hệ thống": 4,
+  "moral": 2,
+  "moral desert": 4,
+  "desert": 2,
+  "distributive": 2,
+  "distributive justice": 3,
+  "mặt": 2,
+  "mặt đạo đức": 2,
+  "đạo đức": 4,
+  "quan điểm": 4,
+  "xã hội": 5,
+  "con người": 3
+ }
+}

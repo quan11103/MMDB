@@ -1,0 +1,55 @@
+{
+ "n_words": 451,
+ "n_chunks": 8,
+ "ner": [
+  {
+   "text": "Toy Story",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "phi đồ chơi đạo",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Toy Story",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Woody",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Sang",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "It's",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "lần đầu tiên Toy Story",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "toy story": 5,
+  "toy story 5": 2,
+  "đồ chơi": 12,
+  "toy": 3,
+  "story": 3,
+  "trí tuệ": 2,
+  "trí tuệ nhân tạo": 2,
+  "ý chí": 2,
+  "sứ mệnh": 3,
+  "trẻ em": 3,
+  "số phận": 3,
+  "phim": 3
+ }
+}

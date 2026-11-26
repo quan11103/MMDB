@@ -1,0 +1,149 @@
+{
+ "n_words": 1220,
+ "n_chunks": 20,
+ "ner": [
+  {
+   "text": "bộ môn Golf",
+   "label": "LOC",
+   "count": 4
+  },
+  {
+   "text": "PGA",
+   "label": "PER",
+   "count": 4
+  },
+  {
+   "text": "Aristotle",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "TOS",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "đạo luật người khuyết tật Hoa Kỳ",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Casey Mudon",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Ky",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "tòa án tối cao Hoa Kỳ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cho phép Cy",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bộ khoảng một",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Kasy",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "sinh viên B",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "B",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Golf",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Par Games",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "hiệp hội G PGA",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bộ môn Golf Qua",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Aristotle Hai",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "M",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "môn B",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "vai trò hay là địa vị",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "tos": 2,
+  "mục đích": 6,
+  "bộ môn": 9,
+  "bộ môn golf": 5,
+  "golf": 11,
+  "giải": 7,
+  "pga": 6,
+  "xe điện": 6,
+  "đạo luật": 2,
+  "khuyết tật": 4,
+  "khuyết tật hoa kỳ": 2,
+  "hoa kỳ": 3,
+  "vụ": 4,
+  "quyền": 2,
+  "phép": 2,
+  "vận động viên": 9,
+  "sinh viên": 5,
+  "sân": 2,
+  "luận điểm": 2,
+  "kỹ năng": 4,
+  "bóng": 3,
+  "gậy": 2,
+  "xe": 8,
+  "môn": 9,
+  "hàng đầu": 3,
+  "sức bền": 2,
+  "môn thể thao": 7,
+  "thể thao": 12,
+  "khán giả": 2,
+  "tinh thần": 2,
+  "tinh thần thể thao": 2,
+  "thiết yếu": 2,
+  "aristotle": 3,
+  "loss": 2,
+  "danh dự": 3,
+  "phẩm chất": 3
+ }
+}

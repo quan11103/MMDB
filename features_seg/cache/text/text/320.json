@@ -1,0 +1,67 @@
+{
+ "n_words": 954,
+ "n_chunks": 16,
+ "ner": [
+  {
+   "text": "năm cuối cấp ba",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "miền Nam",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Đại học Tôn Đức Thắng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "vũ trụ Đằng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ngừng",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "bạn Ôn Thi",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thứ định hình",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Đạt",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "tương lai": 3,
+  "số phận": 4,
+  "đại học": 4,
+  "người thân": 3,
+  "ngành": 3,
+  "trường": 4,
+  "quê hương": 2,
+  "mắt": 2,
+  "công ty": 2,
+  "đường": 5,
+  "hành trình": 2,
+  "câu chuyện": 2,
+  "kỳ": 2,
+  "đằng": 2,
+  "quà": 2,
+  "kết quả": 2,
+  "cuộc sống": 2,
+  "kịch bản": 2,
+  "sai lầm": 2
+ }
+}

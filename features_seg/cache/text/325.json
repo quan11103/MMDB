@@ -1,0 +1,45 @@
+{
+ "n_words": 541,
+ "n_chunks": 9,
+ "ner": [
+  {
+   "text": "cỡ 1",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bài học ngày hôm nay",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "góc lộ xác suất",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Giống",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "toán học": 2,
+  "biến cố": 3,
+  "xác suất": 6,
+  "chuỗi": 4,
+  "chuỗi ngẫu nhiên": 2,
+  "bố mẹ": 3,
+  "gen": 2,
+  "tổ hợp": 2,
+  "câu chuyện": 2,
+  "kết quả": 3,
+  "mắt xích": 2,
+  "máy": 5,
+  "nút": 2,
+  "con số": 4,
+  "mũ": 2,
+  "góc": 2,
+  "máy hoàn hảo": 2
+ }
+}

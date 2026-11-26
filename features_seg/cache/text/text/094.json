@@ -1,0 +1,112 @@
+{
+ "n_words": 806,
+ "n_chunks": 14,
+ "ner": [
+  {
+   "text": "thứ hai",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "năm 1981",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Sau cuộc thi thứ hai",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "vòng 200",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "lần thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "vòng cuối Điều",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chiến thuật T",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "two T",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nhóm thực dụng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Tester",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Tit Fort",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "thứ 24",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Rot",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "có giá Thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "mối quan hệ Winwin",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Fotas",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "thứ nhất",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "giáo sư Robert AT",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "phản bội": 2,
+  "chiến thuật": 11,
+  "vòng": 6,
+  "đời": 2,
+  "quan hệ": 2,
+  "đầu": 2,
+  "bài học": 3,
+  "for": 2,
+  "đối phương": 4,
+  "kết quả": 2,
+  "cấu trúc": 2,
+  "chiến lược": 3,
+  "hành vi": 2,
+  "sự thật": 2
+ }
+}

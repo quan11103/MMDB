@@ -1,0 +1,32 @@
+{
+ "n_words": 389,
+ "n_chunks": 7,
+ "ner": [
+  {
+   "text": "Nguyên lý Premax",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "thất bại ê chề",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tâm lý đảo ngược",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "công việc": 3,
+  "phần thưởng": 2,
+  "mật độ": 4,
+  "game": 9,
+  "nguyên lý": 3,
+  "nguyên lý premax": 2,
+  "premax": 2,
+  "hành vi": 2,
+  "tần suất": 2
+ }
+}

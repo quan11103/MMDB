@@ -1,0 +1,67 @@
+{
+ "n_words": 892,
+ "n_chunks": 15,
+ "ner": [
+  {
+   "text": "xương hóa thạch sau cách mạng nông nghiệp",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Viêm",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "đĩa đệm",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "L4",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "L5",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "lúa như thế nào",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chế độ dinh dưỡng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bề khổ Kiểu",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "cỏ": 2,
+  "xã hội": 3,
+  "lúa": 13,
+  "lịch sử": 3,
+  "xương": 4,
+  "nông nghiệp": 3,
+  "lưng": 2,
+  "cổ": 2,
+  "đốt": 2,
+  "cánh": 2,
+  "cánh đồng": 2,
+  "đồng": 3,
+  "phép": 2,
+  "thực đơn": 2
+ }
+}

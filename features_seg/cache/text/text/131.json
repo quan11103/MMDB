@@ -1,0 +1,66 @@
+{
+ "n_words": 625,
+ "n_chunks": 11,
+ "ner": [
+  {
+   "text": "Samsung",
+   "label": "ORG",
+   "count": 2
+  },
+  {
+   "text": "JFlip",
+   "label": "ORG",
+   "count": 2
+  },
+  {
+   "text": "dòng JFO",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "con JF",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "JF 8 Ultra",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "J4",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Quancom",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "YouTuber",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "đời JF",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "tablet": 2,
+  "samsung": 2,
+  "sự kiện": 2,
+  "jflip": 2,
+  "jf": 3,
+  "jf 8": 2,
+  "sản phẩm": 2,
+  "thiết bị": 3,
+  "điện thoại": 6,
+  "màn hình": 2,
+  "máy": 6,
+  "câu chuyện": 2,
+  "cân": 2
+ }
+}

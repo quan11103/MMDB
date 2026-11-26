@@ -1,0 +1,124 @@
+{
+ "n_words": 301,
+ "n_chunks": 5,
+ "ner": [
+  {
+   "text": "Hy Lạp",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "tầm nhân loại",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Heraclis",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Hai chàng Persius",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đầu ác quỷ Medusa Thế",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Hercules",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Perus",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Odysseus",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "thành Tra Hướng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phim Odyssey",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đạo diễn Christopher Nolland",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cuộc đời ba",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tác giả Morpheus",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Spyroom",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tác phẩm vĩ đại Iliad",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Odysse",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "Homer",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "Speria",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": ", Opersis",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "kịch Ajax",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Philoct",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "sách Biblioteca Biblioteca",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "anh hùng": 3,
+  "dòng": 2,
+  "trai": 2,
+  "thần": 2,
+  "sức mạnh": 2,
+  "đầu": 2
+ }
+}

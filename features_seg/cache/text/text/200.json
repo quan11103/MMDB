@@ -1,0 +1,230 @@
+{
+ "n_words": 1504,
+ "n_chunks": 25,
+ "ner": [
+  {
+   "text": "Mori",
+   "label": "PER",
+   "count": 9
+  },
+  {
+   "text": "Conan",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "Yumi",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "Nakamichi",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "B",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "vị trí đầu bảng là vụ án",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "dâu kẽm Mori Kogoro",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nữ quán có tên Ben Kê",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "vợ chồng Yukio",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Norico",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "Jun Omoda",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Madona",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "tay cảnh sát lực lưỡng Nakamichi",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "hoa khôi Yumi",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Jumi",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "mắt Conan",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đội trưởng Nakamichi",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Jumy",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "chiến trường Đến",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cách tác giả Ajama",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nhân vật Mori",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Conan",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ran",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Shinichi",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "trận bóng bàn , Mori",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Kogoro Mori",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Bác Dâu",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "tường Mori",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Shin",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": ", Mori",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Bá",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Ngược lại Mori",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Phê Phim",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "thương hiệu Cổ Nan",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "lần Conan",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Video",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "sự thật": 2,
+  "vụ": 7,
+  "vụ án": 6,
+  "án": 11,
+  "conan": 6,
+  "thám tử": 3,
+  "dâu": 2,
+  "dâu kẽm": 2,
+  "kẽm": 2,
+  "phim": 5,
+  "câu lạc bộ": 4,
+  "câu lạc bộ judo": 2,
+  "judo": 5,
+  "mori": 14,
+  "nữ": 2,
+  "pháo hoa": 2,
+  "thành viên": 2,
+  "thời": 2,
+  "yumi": 4,
+  "cảnh sát": 3,
+  "nakamichi": 5,
+  "đội trưởng": 2,
+  "trận": 4,
+  "trận bóng": 3,
+  "bóng": 4,
+  "tầng": 2,
+  "tường": 2,
+  "cơ thể": 2,
+  "nạn nhân": 2,
+  "bóng bàn": 2,
+  "bàn": 2,
+  "hung thủ": 2,
+  "xưa": 3,
+  "danh sách": 3,
+  "nhân vật": 3,
+  "cảnh": 3,
+  "tật": 2,
+  "tật xấu": 2,
+  "sự nghiệp": 2,
+  "công lý": 2,
+  "cú vật": 2,
+  "thương hiệu": 2
+ }
+}

@@ -1,0 +1,106 @@
+{
+ "n_words": 1320,
+ "n_chunks": 22,
+ "ner": [
+  {
+   "text": "Aristotle",
+   "label": "PER",
+   "count": 10
+  },
+  {
+   "text": "Rose",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Can",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "công dân Một",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "xã hội Athens",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "việc nội trợ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "ca sĩ diễn viên Aristotle",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bộ môn Golf",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Cand",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Ross",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Khan",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Cand",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "C",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Rose",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "hướng": 2,
+  "lý luận": 2,
+  "aristotle": 11,
+  "công lý": 10,
+  "xã hội": 9,
+  "chính trị": 4,
+  "lý thuyết": 3,
+  "mục đích": 9,
+  "phản biện": 3,
+  "vai trò": 5,
+  "quyền": 6,
+  "mục tiêu": 2,
+  "đường": 2,
+  "rose": 3,
+  "tự do": 3,
+  "công dân": 3,
+  "chính aristotle": 2,
+  "nô lệ": 5,
+  "bất công": 2,
+  "khuôn khổ": 3,
+  "vai": 2,
+  "cand": 2,
+  "quan niệm": 6,
+  "can": 2,
+  "cuộc sống": 3,
+  "cuộc sống tốt đẹp": 2,
+  "hiến pháp": 2,
+  "luật": 2
+ }
+}

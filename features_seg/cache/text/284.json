@@ -1,0 +1,43 @@
+{
+ "n_words": 434,
+ "n_chunks": 7,
+ "ner": [
+  {
+   "text": "lý thuyết Brandon Carter",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Richard God",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "quanh con số 100",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Pernicus",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "khoảng giữa",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Doomsday Argument",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "danh sách": 4,
+  "thứ tự": 2,
+  "thứ hạng": 2,
+  "con số": 2,
+  "khả năng": 3
+ }
+}

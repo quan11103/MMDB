@@ -1,0 +1,24 @@
+{
+ "n_words": 475,
+ "n_chunks": 8,
+ "ner": [
+  {
+   "text": "B Limit",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "MIT",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "sách": 2,
+  "đồng hồ": 2,
+  "thần kinh": 2,
+  "limit": 2,
+  "cơ chế": 2,
+  "não": 2
+ }
+}

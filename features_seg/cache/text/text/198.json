@@ -1,0 +1,254 @@
+{
+ "n_words": 1078,
+ "n_chunks": 18,
+ "ner": [
+  {
+   "text": "Shinichi",
+   "label": "PER",
+   "count": 7
+  },
+  {
+   "text": "Holmes",
+   "label": "PER",
+   "count": 6
+  },
+  {
+   "text": "Ran",
+   "label": "LOC",
+   "count": 4
+  },
+  {
+   "text": "Luân Đôn",
+   "label": "LOC",
+   "count": 4
+  },
+  {
+   "text": "Conan",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "Holmes",
+   "label": "ORG",
+   "count": 2
+  },
+  {
+   "text": "Ran",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Hades",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Mineva",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "B",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "phân cảnh hoài niệm",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "vụ Khải Huyền",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tác giả Ayama Goso",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "kem Như",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bản thân Khải Huyền",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": ", Conan",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thám tử Sherlock Holmes",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Edogawa Conan",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "vụ án Khải Huyền",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tình yêu giữa Shin",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ajama Gosho",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "lịch sử nước Anh",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tên Hades",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Hadis",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "trang thám tử lừng danh",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Bohemia",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "A Case",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Sherlock Holmes",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cảm giác Cô Nan",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Saden",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "chung kết Wim Ladon",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thế giới Mineva Để",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phần giải đố",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "giữa Ran",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Jinichi",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Khải Huyền",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Holmes Holmes",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Shindichi",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "văn hóa đại chúng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đồng hồ Big B",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "số 0",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Khải Huyên",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "danh sách ngày hôm nay",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "án": 8,
+  "tình yêu": 4,
+  "danh sách": 3,
+  "tập": 2,
+  "shinichi": 7,
+  "ran": 7,
+  "thám tử": 7,
+  "gái": 2,
+  "vụ": 8,
+  "vụ án": 4,
+  "câu đố": 3,
+  "khải huyền": 4,
+  "holmes": 8,
+  "dâu": 2,
+  "conan": 5,
+  "chuyến": 2,
+  "sherlock holmes": 2,
+  "đồ": 2,
+  "thư": 2,
+  "hades": 3,
+  "bom": 2,
+  "thơ": 2,
+  "địa điểm": 5,
+  "luân đôn": 4,
+  "cảm giác": 3,
+  "thứ bảy": 2,
+  "tuần": 2,
+  "vợt": 2,
+  "trận": 2,
+  "mineva": 2,
+  "câu chuyện": 2
+ }
+}

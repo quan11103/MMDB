@@ -1,0 +1,123 @@
+{
+ "n_words": 1617,
+ "n_chunks": 27,
+ "ner": [
+  {
+   "text": "iPhone 8",
+   "label": "LOC",
+   "count": 5
+  },
+  {
+   "text": "iPhone 9",
+   "label": "LOC",
+   "count": 4
+  },
+  {
+   "text": "iPhone 10",
+   "label": "LOC",
+   "count": 4
+  },
+  {
+   "text": "Apple",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "iPhone 7",
+   "label": "LOC",
+   "count": 3
+  },
+  {
+   "text": "giá 100",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "iPhone 89 10",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bên nhà Apple",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "y hệt iPhone 7",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "iPhone 1 2 3",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "iPhone X",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bên cạnh chiếc iPhone 10",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Não",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "gói Gói",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Gói",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "giá 80",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "giá phải chăng",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "gói": 10,
+  "iphone": 36,
+  "apple": 4,
+  "iphone 9": 4,
+  "iphone 8": 13,
+  "iphone 10": 9,
+  "iphone 7": 6,
+  "điện thoại": 18,
+  "cạnh": 2,
+  "thiết kế": 4,
+  "sản phẩm": 2,
+  "highlight": 4,
+  "đống": 3,
+  "giá": 12,
+  "cảm giác": 2,
+  "lối": 2,
+  "tính năng": 9,
+  "thông tin": 5,
+  "điện thoại cũ": 4,
+  "toàn cầu": 2,
+  "cảm xúc": 2,
+  "ngần": 2,
+  "não": 3,
+  "chim mồi": 4,
+  "chim": 3,
+  "mồi": 3,
+  "lựa chọn": 2,
+  "tiền": 4,
+  "phép": 3,
+  "giá 100": 2
+ }
+}

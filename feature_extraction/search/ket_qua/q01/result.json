@@ -1,0 +1,146 @@
+{
+ "alpha": 0.5,
+ "beta": 0.7,
+ "top3_content": [
+  {
+   "item_id": "101",
+   "score": 0.4830577629583158,
+   "S_text": 0.3802386604710808,
+   "S_kw": 0.7229690020951975,
+   "window_pos": 1,
+   "n_positions": 2,
+   "window_chunks": 7,
+   "query_shorter": true,
+   "db_window_syllables": [
+    40,
+    320
+   ],
+   "query_window_syllables": [
+    0,
+    280
+   ],
+   "channel_name": "ThinkView",
+   "video_title": "Chọn CPU Intel 2026 (Panther Lake) sao cho đúng?",
+   "chapter_title": "So sánh hiệu năng CPU",
+   "audio_path": "Chọn CPU Intel 2026 (Panther Lake) sao cho đúng/chapters/03 - So sánh hiệu năng CPU.mp3",
+   "rank": 1
+  },
+  {
+   "item_id": "127",
+   "score": 0.45237923583485784,
+   "S_text": 0.4287915366895554,
+   "S_kw": 0.5074172005072303,
+   "window_pos": 2,
+   "n_positions": 4,
+   "window_chunks": 7,
+   "query_shorter": true,
+   "db_window_syllables": [
+    80,
+    360
+   ],
+   "query_window_syllables": [
+    0,
+    280
+   ],
+   "channel_name": "ThinkView",
+   "video_title": "Đánh giá Macbook Pro M5: Hiệu năng quá “cháy” luôn",
+   "chapter_title": "Apple lại búp hiệu năng",
+   "audio_path": "Đánh giá Macbook Pro M5 Hiệu năng quá “cháy” luôn/chapters/01 - Apple lại búp hiệu năng.mp3",
+   "rank": 2
+  },
+  {
+   "item_id": "100",
+   "score": 0.4448800683114903,
+   "S_text": 0.3910827667858506,
+   "S_kw": 0.5704071052046494,
+   "window_pos": 4,
+   "n_positions": 5,
+   "window_chunks": 7,
+   "query_shorter": true,
+   "db_window_syllables": [
+    160,
+    440
+   ],
+   "query_window_syllables": [
+    0,
+    280
+   ],
+   "channel_name": "ThinkView",
+   "video_title": "Chọn CPU Intel 2026 (Panther Lake) sao cho đúng?",
+   "chapter_title": "Cách đặt tên của Intel",
+   "audio_path": "Chọn CPU Intel 2026 (Panther Lake) sao cho đúng/chapters/02 - Cách đặt tên của Intel.mp3",
+   "rank": 3
+  }
+ ],
+ "top3_speaker": [
+  {
+   "item_id": "101",
+   "score": 0.8948828320692204,
+   "S_H": 0.8911553231836812,
+   "S_E": 0.8986103409547596,
+   "window_pos": 0,
+   "n_positions": 2,
+   "window_segments": 6,
+   "query_shorter": true,
+   "db_window_sec": [
+    0.0,
+    60.0
+   ],
+   "query_window_sec": [
+    0.0,
+    60.0
+   ],
+   "channel_name": "ThinkView",
+   "video_title": "Chọn CPU Intel 2026 (Panther Lake) sao cho đúng?",
+   "chapter_title": "So sánh hiệu năng CPU",
+   "audio_path": "Chọn CPU Intel 2026 (Panther Lake) sao cho đúng/chapters/03 - So sánh hiệu năng CPU.mp3",
+   "rank": 1
+  },
+  {
+   "item_id": "100",
+   "score": 0.8934910922572455,
+   "S_H": 0.8843020249433203,
+   "S_E": 0.9026801595711708,
+   "window_pos": 1,
+   "n_positions": 4,
+   "window_segments": 6,
+   "query_shorter": true,
+   "db_window_sec": [
+    10.0,
+    70.0
+   ],
+   "query_window_sec": [
+    0.0,
+    60.0
+   ],
+   "channel_name": "ThinkView",
+   "video_title": "Chọn CPU Intel 2026 (Panther Lake) sao cho đúng?",
+   "chapter_title": "Cách đặt tên của Intel",
+   "audio_path": "Chọn CPU Intel 2026 (Panther Lake) sao cho đúng/chapters/02 - Cách đặt tên của Intel.mp3",
+   "rank": 2
+  },
+  {
+   "item_id": "103",
+   "score": 0.8913249106972663,
+   "S_H": 0.8922795272975196,
+   "S_E": 0.8903702940970128,
+   "window_pos": 1,
+   "n_positions": 4,
+   "window_segments": 6,
+   "query_shorter": true,
+   "db_window_sec": [
+    10.0,
+    70.0
+   ],
+   "query_window_sec": [
+    0.0,
+    60.0
+   ],
+   "channel_name": "ThinkView",
+   "video_title": "Chọn CPU Intel 2026 (Panther Lake) sao cho đúng?",
+   "chapter_title": "Nên chọn chip nào?",
+   "audio_path": "Chọn CPU Intel 2026 (Panther Lake) sao cho đúng/chapters/05 - Nên chọn chip nào.mp3",
+   "rank": 3
+  }
+ ]
+}

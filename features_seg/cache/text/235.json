@@ -1,0 +1,173 @@
+{
+ "n_words": 898,
+ "n_chunks": 15,
+ "ner": [
+  {
+   "text": "Vega",
+   "label": "PER",
+   "count": 5
+  },
+  {
+   "text": "HDD LED",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "SD",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "HD",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Vega",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Vũa",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "có cách Vega",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "power LED",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bên dưới 2",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bên HDD LED",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Còn",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "dây M3",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cống 3",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "SD",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "bạn Còn",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "ngoài HDD",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "HD",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "trên 1",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cuối đầu dây Đây",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nguồn 24",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "aromatic D Rahman",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "CPU",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "F-sum",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "PCIe X16",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "RAM",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "slot PCIe",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "khê PCIe",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cách Vega",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "dây": 19,
+  "mặt": 4,
+  "case": 3,
+  "power led": 3,
+  "hdd led": 3,
+  "power": 2,
+  "cổng": 6,
+  "mặt chữ": 2,
+  "chữ": 2,
+  "men": 8,
+  "lỗ": 3,
+  "dây to": 2,
+  "usb 3.0": 2,
+  "đầu": 6,
+  "đầu dây": 4,
+  "máu": 2,
+  "sd": 3,
+  "lưu ý": 2,
+  "đuôi": 3,
+  "khung": 3,
+  "hd": 3,
+  "pin": 8,
+  "vega": 10,
+  "pcie": 3,
+  "vũa": 2
+ }
+}

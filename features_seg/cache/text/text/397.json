@@ -1,0 +1,25 @@
+{
+ "n_words": 556,
+ "n_chunks": 9,
+ "ner": [
+  {
+   "text": "ngày hôm nay",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "vai một",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "ST",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "nội dung": 2,
+  "sai lầm": 3
+ }
+}

@@ -1,0 +1,136 @@
+{
+ "n_words": 1481,
+ "n_chunks": 25,
+ "ner": [
+  {
+   "text": "Glucozơ",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "bánh ngọt vân vân",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thành viên thứ nhất",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "anh em thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Fructozer Fructozer",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "muôn loài",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "fructozơ fructozơ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thành viên thứ ba",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thiên nhiên luôn luôn đầy trí huệ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chất xơ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "sốc đường huyết",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "vân vân",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tốc độ nhanh chóng mặt",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bên trong cơ thể",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Suozer",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "hương vị vân vân",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năng lượng triền miên",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thực phẩm hoàn chỉnh",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "glucozơ": 12,
+  "năng lượng": 6,
+  "glucoer": 3,
+  "gia đình": 5,
+  "thành viên": 4,
+  "thực vật": 9,
+  "chất": 7,
+  "enzyme": 2,
+  "phân tử": 7,
+  "tinh bột": 5,
+  "đường": 13,
+  "ngày nay": 3,
+  "sản phẩm": 2,
+  "bánh mì": 2,
+  "bánh": 2,
+  "thực phẩm": 5,
+  "cơ thể": 8,
+  "đường huyết": 3,
+  "fructozer": 2,
+  "động vật": 2,
+  "hạt": 2,
+  "phân tử glucozơ": 2,
+  "frutoer": 2,
+  "mía": 2,
+  "con người": 5,
+  "suosơ": 2,
+  "chất xơ": 4,
+  "thân": 2,
+  "lá": 2,
+  "xơ": 2,
+  "thiên nhiên": 4,
+  "thành phần": 2,
+  "một thể": 2,
+  "máu": 2,
+  "sữa": 2,
+  "hương vị": 2,
+  "bẫy": 2,
+  "cấu trúc": 2
+ }
+}

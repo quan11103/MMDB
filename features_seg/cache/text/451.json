@@ -1,0 +1,173 @@
+{
+ "n_words": 2516,
+ "n_chunks": 42,
+ "ner": [
+  {
+   "text": "Levit",
+   "label": "PER",
+   "count": 4
+  },
+  {
+   "text": "Vancates",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "chương số 1",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "sách thú vị",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Dner",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "câu chuyện tiền bạc , câu chuyện GDP",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Vanest",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "phía bên dưới",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "sách Thinking Fast",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Canaman",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Twerski",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "DNER",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "luật chơi Thiếu",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Chương",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "chương 5",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "điểm thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "giống fixed mindset",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tác giả Dner",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phía bên trong",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "DNA",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "sách nhở Khi",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ok",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "trước nha",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "sách": 16,
+  "chương": 12,
+  "tác giả": 13,
+  "levit": 4,
+  "dner": 3,
+  "kinh tế": 3,
+  "câu chuyện": 6,
+  "tiền bạc": 2,
+  "con người": 7,
+  "động lực": 2,
+  "động cơ": 2,
+  "yếu tố": 3,
+  "băng đảng": 3,
+  "tội phạm": 2,
+  "khả năng": 4,
+  "thông tin": 3,
+  "vancates": 2,
+  "cáo buộc": 2,
+  "thủ lĩnh": 3,
+  "dữ liệu": 6,
+  "xã hội": 3,
+  "khu vực": 3,
+  "đầu": 2,
+  "cá thể": 2,
+  "da": 2,
+  "khu": 2,
+  "hệ thống": 3,
+  "màu da": 2,
+  "ma túy": 2,
+  "giáo viên": 4,
+  "mặt": 3,
+  "mặt đạo đức": 2,
+  "đạo đức": 2,
+  "hóa": 2,
+  "cảm xúc": 3,
+  "điểm số": 2,
+  "lỗi": 2,
+  "lối": 2,
+  "góc": 3,
+  "con cái": 2,
+  "bé": 8,
+  "cha mẹ": 3,
+  "mô hình": 2,
+  "bố mẹ": 7,
+  "tầng lớp": 2,
+  "số phận": 2,
+  "tư duy": 2,
+  "mẹ": 2,
+  "hành vi": 2,
+  "thể loại": 2
+ }
+}

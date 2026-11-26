@@ -1,0 +1,12 @@
+numpy
+scipy
+pandas
+tqdm
+scikit-learn
+librosa>=0.10
+praat-parselmouth>=0.4.3
+underthesea>=6.8
+torch
+torchaudio
+speechbrain>=1.0
+sentence-transformers>=2.2

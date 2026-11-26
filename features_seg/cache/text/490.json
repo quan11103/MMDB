@@ -1,0 +1,55 @@
+{
+ "n_words": 770,
+ "n_chunks": 13,
+ "ner": [
+  {
+   "text": "lắng nghe Active",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "dự báo Tương Lai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Chris",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "thầy B",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phía dưới ấ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tiếng Anh",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "it seems like it Sounds",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "sách": 2,
+  "empathy": 2,
+  "cảm xúc": 10,
+  "thầy": 2,
+  "hướng": 4,
+  "cảm xúc bề": 2,
+  "bề": 2,
+  "it": 3,
+  "chủ động": 2,
+  "chủ ngữ": 2,
+  "dự án": 2,
+  "công việc": 2
+ }
+}

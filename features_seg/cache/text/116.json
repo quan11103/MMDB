@@ -1,0 +1,90 @@
+{
+ "n_words": 335,
+ "n_chunks": 6,
+ "ner": [
+  {
+   "text": "Express",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "MacBook Pro",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "Apple",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "MacBook",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Team View",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "YouTube",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "XP",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Special Audio",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "phim như F1",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Apple TV",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Dell",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Studio",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": ", Dell",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trải nghiệm ấn tượng",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "loa": 4,
+  "âm thanh": 2,
+  "studio": 2,
+  "express": 3,
+  "phim": 4,
+  "macbook": 4,
+  "macbook pro": 3,
+  "macbook pro 14": 2,
+  "pro": 2,
+  "pro 14": 2,
+  "apple": 4,
+  "dell": 2
+ }
+}

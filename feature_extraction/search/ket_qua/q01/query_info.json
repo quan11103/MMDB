@@ -1,0 +1,154 @@
+{
+ "audio_path": "D:\\Documents\\CSDL DPT\\BTL\\test_set\\giọng đã có, nội dung đã có\\Chọn CPU Intel 2026 (Panther Lake) sao cho đúng\\chapters\\01 - Intro.mp3",
+ "duration_sec": 60.0,
+ "segment_sec": 10.0,
+ "segments": [
+  [
+   0.0,
+   10.0
+  ],
+  [
+   10.0,
+   20.0
+  ],
+  [
+   20.0,
+   30.0
+  ],
+  [
+   30.0,
+   40.0
+  ],
+  [
+   40.0,
+   50.0
+  ],
+  [
+   50.0,
+   60.0
+  ]
+ ],
+ "transcript": "Bây giờ đã là giữa năm 2026 và Intel đã tung ra khá khá dòng chip giữ đến trình 18A Và mình phải công nhận một điều là lâu lắm rồi mới thấy một dòng chip của Intel nhận được nhiều lời khen giống như năm nay Hiệu năng trên mọi quát điện có thể tiệm cận với dòng M series của Apple Hay là về hiệu năng GPU thì cũng đã có nhiều vài test vượt trội hơn những con chip đầu bảng của AMD Nhưng mình có một lưu ý, đấy là không phải con chip nào gắn nhãn, panther lách thì nó cũng sẽ là một con chip ngon Và trong đầu mình thì đã có tên của hai con chip, na na giống như nhau giữa thế thứ hai và thế thứ ba Giá thì nó sẽ trình lịch nhau khá nhiều, nhưng mà về hiệu năng thì tí nữa mình sẽ test cho các bạn xem Và nếu như các bạn đang quan tâm đến các dòng laptop Windows thì có thể tham khảo tại Sownes Hiện tại thì Sownes đang kinh doanh rất nhiều tương nhiệm laptop chính hãng và đặc biệt là có ưu đại cho các bạn học sinh sinh viên Ở trong tháng 7 này thì với các bạn học sinh vừa thi trung hoặc phổ thông xong thì có thể tham gia đổi điểm để có thể nhận voucher lên đến 3 triệu Bên cạnh đấy thì cũng được giảm thêm 10% ở trên dà bán, kèm theo rất nhiều quá tặng đặc quyền hấp dẫn của Sownes Chi tiết thì các bạn có thể click ngay link mình để bên dưới phần mũ tả để tham gia đổi điểm",
+ "transcript_source": "whisper",
+ "n_words": 290,
+ "word_start": [
+  0,
+  40,
+  80,
+  120,
+  160,
+  200,
+  240
+ ],
+ "ner": [
+  {
+   "text": "Intel",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Sownes",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "năm 2026",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "dòng M",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Apple",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "hiệu năng GPU",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "AMD Nhưng",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thứ ba Giá",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "laptop Windows",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Sownes",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "n_audio_segments": 6,
+ "n_text_segments": 7,
+ "ecapa_dim": 192,
+ "text_dim": 768,
+ "keywords": [
+  {
+   "group_id": null,
+   "keyword": "sownes",
+   "tf": 3,
+   "tfidf": 21.720827535512306
+  },
+  {
+   "group_id": 153,
+   "keyword": "chip",
+   "tf": 4,
+   "tfidf": 19.021476
+  },
+  {
+   "group_id": 23,
+   "keyword": "dòng",
+   "tf": 4,
+   "tfidf": 14.5174312
+  },
+  {
+   "group_id": 352,
+   "keyword": "intel",
+   "tf": 2,
+   "tfidf": 10.3216686
+  },
+  {
+   "group_id": 52,
+   "keyword": "laptop",
+   "tf": 2,
+   "tfidf": 8.591674
+  },
+  {
+   "group_id": 63,
+   "keyword": "sinh viên",
+   "tf": 2,
+   "tfidf": 8.591674
+  },
+  {
+   "group_id": 61,
+   "keyword": "test",
+   "tf": 2,
+   "tfidf": 8.3915072
+  },
+  {
+   "group_id": 48,
+   "keyword": "hiệu năng",
+   "tf": 2,
+   "tfidf": 7.6125774
+  }
+ ]
+}

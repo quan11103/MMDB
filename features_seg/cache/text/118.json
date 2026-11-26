@@ -1,0 +1,109 @@
+{
+ "n_words": 339,
+ "n_chunks": 6,
+ "ner": [
+  {
+   "text": "Wii",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "tản nhiệt buồng hơi Vaper Chamber",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "con chip Pantherake",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cổng USBC",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Pin",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Bluetooth",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Future Proof",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Hàn",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Ok",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "công nghệ Cam Memory",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "công nghệ RAM",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thành RAM",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Lenovo",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": ", ThingPad",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Dell",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Express",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "CPU",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "khủng chuẩn LPDDR5X",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "ngành Ultrabook",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "máy": 2,
+  "cổng": 2,
+  "module": 2,
+  "wii": 2,
+  "công nghệ": 4,
+  "ram": 2
+ }
+}

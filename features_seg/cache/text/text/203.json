@@ -1,0 +1,150 @@
+{
+ "n_words": 1582,
+ "n_chunks": 27,
+ "ner": [
+  {
+   "text": "số 10",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "số 7",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "số 4",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "người đàn ông số 3 7",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đàn ông số 10",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phim số 10",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "số 5",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "số 3",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nhau số 3",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "search Hay",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đàn ông số 3",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Định Kiến",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Nên",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nguyên văn số 3",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "mặt con trai sau 2",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nhân vật số 7",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tâm hắn Vốn",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "người đàn ông số 8",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phiếu phiếu số 8",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đàn ông số 8",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "lòng trắc",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Roman",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "đàn ông": 15,
+  "tuổi tác": 2,
+  "xã hội": 2,
+  "phim": 2,
+  "bé": 3,
+  "con người": 5,
+  "khu": 2,
+  "chuột": 2,
+  "lập luận": 3,
+  "ghế": 3,
+  "ghế gọn": 2,
+  "định kiến": 3,
+  "trẻ": 6,
+  "tập đoàn": 2,
+  "án": 5,
+  "bồi thẩm đoàn": 3,
+  "tội": 2,
+  "bàn": 3,
+  "cảm giác": 2,
+  "hung thủ": 2,
+  "trai": 3,
+  "chân": 2,
+  "nhân vật": 5,
+  "phòng": 4,
+  "quạt": 2,
+  "phiếu": 3,
+  "thực chất": 2,
+  "đồng": 2,
+  "mạng": 3,
+  "quyết định": 2,
+  "lão": 2,
+  "kiến trúc sư": 2
+ }
+}

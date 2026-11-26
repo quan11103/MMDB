@@ -1,0 +1,179 @@
+{
+ "n_words": 982,
+ "n_chunks": 17,
+ "ner": [
+  {
+   "text": "Jack",
+   "label": "PER",
+   "count": 8
+  },
+  {
+   "text": "Simon",
+   "label": "PER",
+   "count": 5
+  },
+  {
+   "text": "Tom",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "Jane",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "Ali",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "Marobon",
+   "label": "LOC",
+   "count": 3
+  },
+  {
+   "text": "Hàn",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Jack",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Billy",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Sam",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "New York",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "anh em nhà Marobon",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chân tường , Billy",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cổ Billy",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Billy",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "MAMORS",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": ", Jane",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ali",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cuối nhật ký của Jack",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "hoảng khắc Simon",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Jane",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": ", Billy",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Sam",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "ngoài , Jack",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "vai Jane",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Sam",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "lý do tại sao Jack",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "hôm giống hiện Billy",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "trang": 4,
+  "tom": 3,
+  "usd": 2,
+  "tiền": 5,
+  "simon": 6,
+  "anh em": 2,
+  "marobon": 4,
+  "chữ ký": 2,
+  "jack": 13,
+  "hán": 2,
+  "sự thật": 4,
+  "tường": 2,
+  "billy": 7,
+  "ống khói": 2,
+  "hộp": 2,
+  "mùi": 2,
+  "hồi": 3,
+  "mưa": 2,
+  "động vật": 2,
+  "mẹ": 3,
+  "hàn": 2,
+  "jane": 6,
+  "ali": 4,
+  "vách": 2,
+  "nhật ký": 2,
+  "phòng": 2,
+  "sép": 3,
+  "máu": 2,
+  "sam": 4,
+  "khoảnh khắc": 2,
+  "gương": 2
+ }
+}

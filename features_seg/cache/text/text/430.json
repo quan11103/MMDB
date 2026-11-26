@@ -1,0 +1,100 @@
+{
+ "n_words": 680,
+ "n_chunks": 11,
+ "ner": [
+  {
+   "text": "Bennt",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Cins",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Sher",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "chàng trai giàu có tên Binh Lì",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Binh Lì",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Collins",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Anh",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "ông bà Benner",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Colin",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "con gái thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Elizabeth",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "cầu hôn bạn thân của Elizabeth",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Shert",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Cin",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "gia đình Sher",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trên Auston",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "hôn nhân": 5,
+  "bennt": 2,
+  "trai": 2,
+  "binh lì": 2,
+  "gái": 3,
+  "cins": 2,
+  "elizabeth": 2,
+  "sher": 3,
+  "gia đình": 3,
+  "cuộc sống": 3,
+  "quan hệ": 3,
+  "vật chất": 3
+ }
+}

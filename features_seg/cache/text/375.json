@@ -1,0 +1,110 @@
+{
+ "n_words": 891,
+ "n_chunks": 15,
+ "ner": [
+  {
+   "text": "Fayment",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "Fayment Technic",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Fment Technic",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Albert Einstein",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "thiên tài Richard Fayment Tháp",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "75 %",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "kỹ thuật Fan",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "sau Bước",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Bước",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "hoàn thiện Bước",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "kỹ thuật Feman",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Study Group",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "hệ thống Active Record",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Space Repetition",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tối thượng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Active Record",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "ôn tập Space Repetition",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "fayment technic": 2,
+  "kỹ thuật": 5,
+  "mức độ": 2,
+  "bản chất": 2,
+  "fayment": 4,
+  "kiến thức": 8,
+  "tài liệu": 3,
+  "ngôn ngữ": 2,
+  "lĩnh vực": 3,
+  "quy trình": 2,
+  "chủ đề": 2,
+  "dây": 2,
+  "lớp": 3,
+  "hệ thống": 2,
+  "tưởng tượng": 2,
+  "active record": 2,
+  "space repetition": 2
+ }
+}

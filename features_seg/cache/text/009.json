@@ -1,0 +1,30 @@
+{
+ "n_words": 691,
+ "n_chunks": 12,
+ "ner": [
+  {
+   "text": "Brian Johnson",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "sau 9",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "khoảng 16",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "brian johnson": 3,
+  "cơ thể": 9,
+  "biohacking": 4,
+  "nghĩa đen": 2,
+  "tối": 3,
+  "calories": 2,
+  "trạng thái": 2
+ }
+}

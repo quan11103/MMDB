@@ -1,0 +1,59 @@
+{
+ "n_words": 526,
+ "n_chunks": 9,
+ "ner": [
+  {
+   "text": "Việt Nam",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tiêu chuẩn Châu Âu",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "test Covid",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "000 tỷ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đại án kit test của Việt Á",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tối công ty Việt Á",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Phan Quốc Việt",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "sản phẩm": 3,
+  "giá": 9,
+  "test": 5,
+  "kit test": 4,
+  "giá 470.000": 2,
+  "phép": 4,
+  "kit": 3,
+  "lợi nhuận": 2,
+  "án": 2,
+  "án rửa tiền": 2,
+  "rửa tiền": 4,
+  "việt á": 2,
+  "chi phí": 4,
+  "tiền": 5,
+  "hối lộ": 2,
+  "vụ việc": 2
+ }
+}

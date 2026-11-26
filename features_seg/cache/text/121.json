@@ -1,0 +1,180 @@
+{
+ "n_words": 762,
+ "n_chunks": 13,
+ "ner": [
+  {
+   "text": "RTX",
+   "label": "PER",
+   "count": 5
+  },
+  {
+   "text": "2,5 k",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "mức TGP",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "GPU",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "độ bền nhá",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Core i5 14450HX dùng RTX",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "full HD Plus",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Core i7 14650HX sử dụng RTX",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bản thứ ba",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Core",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "pin 92 W",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "330 W",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "W",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "dynamic Boost",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bản Helios Neo",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phần CPU",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "mức 95 W",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trên ba",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "số nhân của CPU",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "CPU",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "190 W",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "khoảng 170 W",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cả CPU",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "180 Hz",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "độ phân giải Full",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Helios Nail",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "màn hình Full HD",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "RTCH",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "mức full HD",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "cấu hình": 7,
+  "máy": 12,
+  "rtx": 7,
+  "rtx 5050": 3,
+  "màn hình": 6,
+  "màn hình full hd": 2,
+  "full": 3,
+  "full hd": 3,
+  "hd": 2,
+  "rtx 5060": 2,
+  "màn": 2,
+  "i9": 2,
+  "rtx 5070": 2,
+  "củ sạc": 2,
+  "sạc": 2,
+  "hiệu năng": 2,
+  "mẫu": 3,
+  "mẫu máy": 3,
+  "hãng": 2,
+  "điện": 5,
+  "tgp": 2,
+  "boost": 2,
+  "cpu": 4,
+  "hệ thống": 2,
+  "gpu": 2,
+  "màu": 2,
+  "phiên bản": 3
+ }
+}

@@ -1,0 +1,50 @@
+{
+ "n_words": 524,
+ "n_chunks": 9,
+ "ner": [
+  {
+   "text": "Hi",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Battle Vision",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "tư tưởng phương Đông",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Nhật Bản",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Lady Claus",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "tạp chí Nature",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "ngày hôm nay",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "sách": 5,
+  "phép trừ": 2,
+  "khoa học": 6,
+  "triết lý": 3,
+  "góc": 3,
+  "tạp chí": 2,
+  "cuộc sống": 2
+ }
+}

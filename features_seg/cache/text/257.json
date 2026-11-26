@@ -1,0 +1,38 @@
+{
+ "n_words": 334,
+ "n_chunks": 6,
+ "ner": [
+  {
+   "text": "LM Studio",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "chat GPT",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tốc độ siêu thanh March",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "SPEC",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "lệnh Nvidia SMI",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "máy": 2,
+  "model": 2,
+  "test": 2,
+  "tốc độ": 4,
+  "token": 3
+ }
+}

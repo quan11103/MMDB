@@ -1,0 +1,96 @@
+{
+ "n_words": 686,
+ "n_chunks": 12,
+ "ner": [
+  {
+   "text": "GDP",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "khung hoảng tín dụng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "hệ thống suy giảm",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Đại",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "năm 1929",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 1939",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 1920",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "GDP",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Mỹ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thế chiến thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 1990",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Nhật Bản",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Chỉ số Nick K",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 1989",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "kinh tế": 3,
+  "xã hội": 4,
+  "bong bóng": 4,
+  "tác động": 3,
+  "tài sản": 7,
+  "hiệu ứng": 3,
+  "hiệu ứng giàu có": 2,
+  "việc làm": 3,
+  "ngành": 2,
+  "gdp": 2,
+  "doanh nghiệp": 2,
+  "ngân hàng": 2,
+  "tiền": 3,
+  "đời": 2,
+  "tài chính": 4,
+  "hệ thống": 2,
+  "thập kỷ": 2,
+  "nhật bản": 2
+ }
+}

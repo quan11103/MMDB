@@ -1,0 +1,75 @@
+{
+ "n_words": 1208,
+ "n_chunks": 20,
+ "ner": [
+  {
+   "text": "Cris",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "điểm thứ ba",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "lạng thịt Ý",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Hay",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Trông",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Ok",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Giá",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "gì Ờ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ok",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "em thê 2",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Push",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "đàm phán": 2,
+  "cris": 2,
+  "sếp": 3,
+  "lương": 3,
+  "ph": 3,
+  "ph lương": 2,
+  "công việc": 2,
+  "kết quả": 2,
+  "feedback": 2,
+  "giá": 7,
+  "công ty": 2,
+  "máy ảnh": 3
+ }
+}

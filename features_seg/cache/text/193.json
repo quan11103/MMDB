@@ -1,0 +1,167 @@
+{
+ "n_words": 640,
+ "n_chunks": 11,
+ "ner": [
+  {
+   "text": "Natsumi",
+   "label": "PER",
+   "count": 7
+  },
+  {
+   "text": "Kenji",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "Kenji",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Yumi",
+   "label": "ORG",
+   "count": 2
+  },
+  {
+   "text": "tháng 04",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Natsumi",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Natsumi Konishi",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Yoko",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Jumi",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "người yêu Yoko",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "kết bì thảm",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": ", Kenj",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trò đùa ác ý",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Thanh tra Yusakuotomiya",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "lúc 1",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "09 sáng ngày 22",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đồng hồ sau khi Kenji",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Yoko",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "năm 2003",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trường Tum Lý Natsumi",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Yumi",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "quanh lấy Natsumi",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Nhật Bản Tendo Hakushui",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Hirayama Masakazu",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "ngài Isobe Akira",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Furuki Emika",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Ichiro",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "buộc lòng Nasimi",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Yumi Nakamura",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "yoko": 3,
+  "kenji": 6,
+  "yumi": 4,
+  "đồng hồ": 2,
+  "natsumi": 10,
+  "nạn nhân": 3,
+  "ảnh": 2,
+  "bóng": 2,
+  "điện thoại": 4,
+  "câu chuyện": 3,
+  "ichiro": 2,
+  "chương trình": 2,
+  "nhà đài": 2,
+  "lĩnh vực": 2
+ }
+}

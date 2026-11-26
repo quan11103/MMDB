@@ -1,0 +1,82 @@
+{
+ "n_words": 462,
+ "n_chunks": 8,
+ "ner": [
+  {
+   "text": "Senology",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Syology",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Snapshot Replication",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Active",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Hyper Packup",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Nas DS1522 Plus",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "snapshot replication",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "con NAS",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Thing View",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "chiếc NAS",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Final Cut",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Slogi",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "giải pháp": 4,
+  "giải pháp backup": 3,
+  "backup": 12,
+  "hệ thống": 2,
+  "phần mềm": 2,
+  "snapshot replication": 2,
+  "active": 2,
+  "nas": 3,
+  "snapshot": 2,
+  "project": 2,
+  "project file": 2,
+  "file": 6,
+  "phiên bản": 2,
+  "edit": 2
+ }
+}

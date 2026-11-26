@@ -1,0 +1,26 @@
+{
+ "n_words": 380,
+ "n_chunks": 6,
+ "ner": [
+  {
+   "text": "sự vô vọng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tường phòng thủ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Leon Helplessness",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "tâm lý": 4,
+  "thế giới": 2,
+  "cuộc sống": 2
+ }
+}

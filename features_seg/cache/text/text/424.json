@@ -1,0 +1,136 @@
+{
+ "n_words": 1349,
+ "n_chunks": 23,
+ "ner": [
+  {
+   "text": "Việt Nam",
+   "label": "LOC",
+   "count": 3
+  },
+  {
+   "text": "Facebook",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "YouTube",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": ", Instagram",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "TikTok",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "LinkedIn",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Ok",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "VTV1",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "trên YouTube",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Việt",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Lướt Facebook",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Instagram",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "xem YouTube",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Reuters",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "Đại học Oxford Anh Quốc",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "khoảng 2000",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Facebook Twitter",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "các KOL",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": ", TikTok",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Twitter",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "top 3",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "nội dung": 11,
+  "nội dung độc hại": 2,
+  "nền tảng": 6,
+  "facebook": 3,
+  "instagram": 2,
+  "tiktok": 2,
+  "youtube": 4,
+  "mạng": 2,
+  "đầu": 2,
+  "ai": 6,
+  "ứng dụng": 2,
+  "lướt": 2,
+  "chuyên gia": 2,
+  "thông tin": 5,
+  "tối": 2,
+  "quốc gia": 3,
+  "việt nam": 3,
+  "xã hội": 2,
+  "báo chí": 3,
+  "báo cáo": 2,
+  "khóa học": 4,
+  "nhu cầu": 3,
+  "con người": 3
+ }
+}

@@ -1,0 +1,252 @@
+{
+ "n_words": 1167,
+ "n_chunks": 20,
+ "ner": [
+  {
+   "text": "Atlantis",
+   "label": "PER",
+   "count": 12
+  },
+  {
+   "text": "Plato",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "Atlantis",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Jam",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Ngoài Plato",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "văn bản Hy Lạp",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ai Cập",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Địa Trung Hải",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cả Libya",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Poloteria",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "đạo đức Atlantis",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Athens",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Plato",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thể loại Mythos",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "LCOS",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Plato Plato",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "lịch sử nhân loại",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "châu Âu Caland",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "quần đảo Anh",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Drogerland",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "biển Bắc Các",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Plato",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "Trung Đông",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": ", Atl Jam",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "khơi Israel",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tuyền thuyết Atlantis Tại",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Nam",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "vùng Shahu",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Úc",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "New Guini",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Tasmania",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Shahu",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "hàng hải Atlantis",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Đại Hồng Thủy",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Lưỡng Hà",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "câu chuyện Noa",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Kinh Thánh",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thế giới Hy Lạp",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thời La Mã",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "quy luật hưng thịnh suy vong",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "huyền thoại": 3,
+  "thông điệp": 2,
+  "atlantis": 16,
+  "khoa học": 2,
+  "khoa học hiện đại": 2,
+  "plato": 8,
+  "hy lạp": 2,
+  "đế quốc": 3,
+  "học giả": 2,
+  "lịch sử": 6,
+  "câu chuyện": 5,
+  "chi tiết": 2,
+  "triết học": 3,
+  "bối cảnh": 3,
+  "xã hội": 5,
+  "trật tự": 2,
+  "đạo đức": 6,
+  "chính trị": 2,
+  "quyền lực": 3,
+  "chuyên gia": 2,
+  "mythos": 2,
+  "tác phẩm": 2,
+  "văn minh": 4,
+  "biển": 4,
+  "cộng đồng": 4,
+  "kỷ": 2,
+  "mực": 5,
+  "mực nước biển": 5,
+  "nước biển": 5,
+  "vùng đất": 4,
+  "vùng đất rộng lớn": 2,
+  "con người": 4,
+  "ký ức": 3,
+  "văn hóa": 2,
+  "đá": 2,
+  "bằng chứng": 2,
+  "jam": 2,
+  "khu vực": 2,
+  "đô thị": 2,
+  "shahu": 2,
+  "ngày nay": 2,
+  "biến đổi": 2,
+  "thế giới": 3,
+  "khí hậu": 2
+ }
+}

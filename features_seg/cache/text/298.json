@@ -1,0 +1,61 @@
+{
+ "n_words": 495,
+ "n_chunks": 8,
+ "ner": [
+  {
+   "text": "Be Limits",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "tiến sĩ Daniel Goldman",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "giới New York Times",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tác phẩm kính điển Emotional Intelligence",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 1995",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "sách Optimal How",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Sustain Personal",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "B Limits",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "B Lin Mage",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "logic": 2,
+  "bảng": 2,
+  "cuộc đời": 2,
+  "năng lực": 2,
+  "trạng thái": 2,
+  "hệ thống": 2,
+  "khoa học": 2,
+  "cảm xúc": 2
+ }
+}

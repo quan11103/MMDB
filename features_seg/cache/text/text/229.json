@@ -1,0 +1,120 @@
+{
+ "n_words": 729,
+ "n_chunks": 12,
+ "ner": [
+  {
+   "text": "M",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "là 3 năm nha Rồi",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Giờ",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "phần nhược điểm nè Ờ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cái Menu",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tính năng bên trong chiếc m Hình",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nút Mấm",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "AC",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Dảng",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "nhật điểm thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "C",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thông số nhà Acer",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "96 ph SB",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "ado ACB",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Media",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Acer Họ",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "tầm giá 2",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bạn C",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cái Ưu",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "màn hình": 8,
+  "ưu điểm": 2,
+  "nhược điểm": 2,
+  "sản phẩm": 2,
+  "menu": 2,
+  "nút": 4,
+  "tính năng": 2,
+  "nhật điểm": 2,
+  "màu sắc": 2,
+  "bit": 4,
+  "bit màu": 4,
+  "màu": 14,
+  "ph": 3,
+  "đồ": 2,
+  "nhu cầu": 2,
+  "không gian": 2,
+  "giá": 2
+ }
+}

@@ -1,0 +1,89 @@
+{
+ "n_words": 1330,
+ "n_chunks": 22,
+ "ner": [
+  {
+   "text": "Vietcombank",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Được",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Chưa",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Hãy",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Lượng",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Vinhomes",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "bán chứng chỉ quỹ sau một",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chi phí quản lý Quỹ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Nên",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "chứng chỉ Quỹ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Bye",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "lưu ý": 2,
+  "nhu cầu": 3,
+  "chứng trỉ": 3,
+  "chứng trỉ quỹ": 3,
+  "quỹ": 39,
+  "chứng chỉ": 4,
+  "chứng chỉ quỹ": 4,
+  "cổ phiếu": 7,
+  "cổ": 2,
+  "doanh nghiệp": 3,
+  "máy móc": 2,
+  "sản phẩm": 5,
+  "thị trường": 2,
+  "giá": 4,
+  "số lượng": 2,
+  "tiền": 6,
+  "phí": 5,
+  "quỹ chủ động": 2,
+  "mặt": 2,
+  "tài sản": 2,
+  "chiến lược": 2,
+  "mệnh giá": 4,
+  "vietcombank": 2,
+  "chủ động": 2,
+  "chi phí": 2,
+  "tài chính": 2
+ }
+}

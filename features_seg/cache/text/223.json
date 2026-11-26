@@ -1,0 +1,154 @@
+{
+ "n_words": 655,
+ "n_chunks": 11,
+ "ner": [
+  {
+   "text": "Vega",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "dòng Vega",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Nvidia",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "10606 GB",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "con Vega",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "dung lượng V RAM",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "GTA5",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "PUBG",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "trên Steam",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "AMD",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "RX570 RX580",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "đỉnh á",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "con 10606 GB",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Tế",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "mẫu Vega",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "hiện tại 4",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "GB V RAM",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "năm 2019",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chiếc VGA",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Full HD",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "GTA",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "mắt setting",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "màn Full HD",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nhờ PUBG",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Vega",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "PUBG",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "dòng": 4,
+  "dòng vega": 2,
+  "vega": 9,
+  "nvidia": 2,
+  "gb": 5,
+  "anh em": 3,
+  "công ty": 2,
+  "máy": 2,
+  "dung lượng": 2,
+  "dung lượng v ram": 2,
+  "v ram": 3,
+  "full hd": 2,
+  "gta5": 2,
+  "pubg": 4,
+  "số lượng": 2,
+  "steam": 2
+ }
+}

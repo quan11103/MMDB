@@ -1,0 +1,84 @@
+{
+ "n_words": 600,
+ "n_chunks": 10,
+ "ner": [
+  {
+   "text": "đồng Việt Nam",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đồng đô la Mỹ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Mỹ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Mỹ",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "điều đặn năm nào GDP",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tầm 2",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "lãi suất Luôn",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Tầm Kiểm Soát",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "giá cục",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Thì",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "yếu tố thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "lãi suất khái niệm",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "giá": 5,
+  "đồng": 3,
+  "đồng tiền": 12,
+  "đồng đô la": 2,
+  "mỹ": 3,
+  "kinh tế": 3,
+  "tầm": 2,
+  "ph": 4,
+  "tỉ lệ": 3,
+  "lãi suất": 2,
+  "yếu tố": 4,
+  "lạm phát": 5,
+  "hôm qua": 2,
+  "bánh": 4,
+  "tỉ lệ lạm phát": 2,
+  "ngày mai": 3
+ }
+}

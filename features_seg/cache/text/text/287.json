@@ -1,0 +1,36 @@
+{
+ "n_words": 394,
+ "n_chunks": 7,
+ "ner": [
+  {
+   "text": "tính cách nóng nảy",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tiến sĩ bác sĩ tâm thần kiê nhà thần kỳ học Berkat Ông",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "sách The Body Keeps",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "B Limit",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "hàng": 2,
+  "sách": 2,
+  "cơ thể": 2,
+  "nội dung": 2,
+  "tâm thần": 2,
+  "góc": 2,
+  "tổn thương": 2,
+  "nút": 2
+ }
+}

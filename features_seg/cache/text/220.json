@@ -1,0 +1,54 @@
+{
+ "n_words": 335,
+ "n_chunks": 6,
+ "ner": [
+  {
+   "text": "dưới USB",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "USB",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "khe micro SD",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cổng USB",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cổng HDMI",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Acer",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "tầm khoảng là 2",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tầm khoảng 6",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "cổng": 8,
+  "usb": 3,
+  "micro": 3,
+  "mặt": 2,
+  "tầm": 2,
+  "sạc": 2
+ }
+}

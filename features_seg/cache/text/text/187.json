@@ -1,0 +1,107 @@
+{
+ "n_words": 278,
+ "n_chunks": 5,
+ "ner": [
+  {
+   "text": "Doom",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Mr",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Fantastic",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Gia Thuyết Doom",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Fantasic",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "X-Men",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Loki",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Lavarian",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tên Ber",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Doom",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tên Berw",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thành phố New York",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "sự thật Johnny Storm",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Franklin",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Kevin Figy",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "phần Dooms Day",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Secret Wars",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "hồi đụng độ tên Titan",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Thanos",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "doom": 4,
+  "anh hùng": 3,
+  "thế giới": 3,
+  "phân cảnh": 2
+ }
+}

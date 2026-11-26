@@ -1,0 +1,49 @@
+{
+ "n_words": 658,
+ "n_chunks": 11,
+ "ner": [
+  {
+   "text": "B Limit",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "recovery recovery",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "sự cực đoan",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "hàng hóa",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Flow",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "T",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "recovery": 2,
+  "trạng thái": 4,
+  "trạng thái flow": 3,
+  "flow": 8,
+  "thần kinh": 4,
+  "phiên": 2,
+  "hệ": 2,
+  "hệ thần kinh": 2,
+  "chất lượng": 3,
+  "khả năng": 2,
+  "limit": 2
+ }
+}

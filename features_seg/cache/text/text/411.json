@@ -1,0 +1,41 @@
+{
+ "n_words": 280,
+ "n_chunks": 5,
+ "ner": [
+  {
+   "text": "cơ số 60",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Radian",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "số radian",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "pi chia 2",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "lựa chọn": 2,
+  "lịch sử": 2,
+  "đường": 7,
+  "đường tròn": 5,
+  "con số": 3,
+  "radian": 8,
+  "góc": 5,
+  "vòng": 2,
+  "pi": 3,
+  "pi radian": 2,
+  "quãng": 2,
+  "quãng đường": 2,
+  "công thức": 2
+ }
+}

@@ -1,0 +1,127 @@
+{
+ "n_words": 959,
+ "n_chunks": 16,
+ "ner": [
+  {
+   "text": "Bitcoin",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "năm 2022",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Robin Hood",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "trên Twitter",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 2010",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Dow Jones",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "năm 2008",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "sau Covid-19",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Fé",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "thực tế tế",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Mỹ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Trung Quốc",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ukraina",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "nguồn cung lương thực và năng lượng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Đài Loan",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "điểm nóng tiềm tàng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thời Internet",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "DeFile",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "FTX",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "thế giới": 4,
+  "chu kỳ": 2,
+  "tài sản": 4,
+  "công nghệ": 2,
+  "tài chính": 5,
+  "thị trường": 2,
+  "tiền": 5,
+  "tiền điện tử": 2,
+  "điện tử": 2,
+  "nhà đầu tư": 2,
+  "xã hội": 2,
+  "bitcoin": 2,
+  "tin tức": 2,
+  "giá": 3,
+  "bong bóng": 4,
+  "thuật toán": 2,
+  "vòng": 3,
+  "ngân hàng": 2,
+  "toàn cầu": 2,
+  "kỷ lục": 2,
+  "môi trường": 2,
+  "cổ phiếu": 2,
+  "bất động sản": 2,
+  "kỳ vọng": 2
+ }
+}

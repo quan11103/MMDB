@@ -1,0 +1,94 @@
+{
+ "n_words": 369,
+ "n_chunks": 6,
+ "ner": [
+  {
+   "text": "Hà Nội",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "hy vọng Hủy Diệt",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Việt Nam",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 1944",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 1945",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "xuân Ất Dậu",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "khắp miền Bắc",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Bên Vệ Đường",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "mùi nắng Mùi",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "hố Lớn",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "hồi ký Lê Văn Ngọ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Đảng",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "trang 182 xuân Ất Dậu",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "con người hấp hối tiếng Dao",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trở xác Tiếng Quạ",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "mùa": 3,
+  "mùa xuân": 3,
+  "xuân": 5,
+  "xuân ất dậu": 2,
+  "ất dậu": 2,
+  "đường": 2,
+  "xác": 5,
+  "mùi": 3,
+  "xe": 2,
+  "hà nội": 2,
+  "tiếng": 3
+ }
+}

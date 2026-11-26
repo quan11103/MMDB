@@ -1,0 +1,45 @@
+{
+ "n_words": 687,
+ "n_chunks": 12,
+ "ner": [
+  {
+   "text": "đàn ông thứ 13",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Cậu",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "phía bên dưới khung hình đứa trẻ hung thủ cái bàn nơi 12",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "phòng": 5,
+  "phiếu": 2,
+  "hình ảnh": 7,
+  "phim": 2,
+  "lời thoại": 3,
+  "vụ": 2,
+  "vụ án": 2,
+  "án": 2,
+  "đàn ông": 5,
+  "bé": 2,
+  "khán giả": 3,
+  "sự kiện": 2,
+  "góc": 2,
+  "máy": 2,
+  "nhân vật": 2,
+  "kiến thức": 2,
+  "thông tin": 2,
+  "cảnh": 2,
+  "khuôn mặt": 2,
+  "khung hình": 3,
+  "chi tiết": 2,
+  "quạt": 3
+ }
+}

@@ -1,0 +1,45 @@
+{
+ "n_words": 407,
+ "n_chunks": 7,
+ "ner": [
+  {
+   "text": "con chat GPT",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "lý do thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "dịch vụ gọi là AI Automations",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "công ty AI Consulting",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Dũng",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Úc",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "hành động": 2,
+  "quyết định": 7,
+  "công ty": 4,
+  "ai": 9,
+  "thông tin": 6,
+  "trang web": 2,
+  "công việc": 3
+ }
+}

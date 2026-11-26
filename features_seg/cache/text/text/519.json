@@ -1,0 +1,160 @@
+{
+ "n_words": 914,
+ "n_chunks": 15,
+ "ner": [
+  {
+   "text": "Mỹ",
+   "label": "LOC",
+   "count": 9
+  },
+  {
+   "text": "Nam Phi",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "Nam Phi",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Ok",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "nước Mỹ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thập niên 1990",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đại dịch AIDS",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Châu Phi",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 1990",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 1995",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 2000",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Nam Phi Đây",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Oxford academic chính phủ Nam Phi Trong",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ấn Độ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thuốc kháng HIV",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "giá thành siêu rẻ chính phủ Nam Phi",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "sinh mạng chính phủ Mỹ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chính phủ Nam Phi",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Bill Clinton",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "nhưng mà Nam Phi",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thứ ba",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tỉ lệ Ma HIV",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thế giới khoảng 17",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 2019",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "quyền": 2,
+  "của cải": 2,
+  "thành quả": 2,
+  "thành quả lao động": 2,
+  "lao động": 2,
+  "đúng đắn": 2,
+  "câu chuyện": 3,
+  "tiền": 2,
+  "phí": 2,
+  "giấy phép": 2,
+  "mỹ": 11,
+  "sáng chế": 4,
+  "thuốc": 8,
+  "quốc gia": 2,
+  "nam phi": 8,
+  "hivs": 3,
+  "dân số": 3,
+  "ph": 4,
+  "chính phủ": 5,
+  "pháp luật": 2,
+  "đất nước": 3,
+  "nhà máy": 2,
+  "hiv": 2,
+  "hàng loạt": 2,
+  "chính phủ nam phi": 2,
+  "giá": 2,
+  "chính phủ mỹ": 2,
+  "công ty": 4,
+  "công ty dược": 3,
+  "dược": 3,
+  "tổng thống": 2,
+  "thế giới": 3
+ }
+}

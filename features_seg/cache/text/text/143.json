@@ -1,0 +1,120 @@
+{
+ "n_words": 421,
+ "n_chunks": 7,
+ "ner": [
+  {
+   "text": "Ultra",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Intel Graphic",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Tab Gaming",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "dòng Aolex",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Touch Manager",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "phần GBU",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Intel",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "GPU",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Intel ARC130T",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "tối thiểu 16 GB RAM",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thanh 16",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "GB DDR5",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "thanh RAM 16 GB",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Intel RC130T",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "RAM",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "điểm số GBU",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Z2 Extreme",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "tầm giá dưới 22",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Co",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "hiệu năng GPU",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "game": 2,
+  "máy": 11,
+  "ultra": 2,
+  "gaming": 2,
+  "chip": 2,
+  "gbu": 2,
+  "intel graphic": 2,
+  "intel": 3,
+  "gpu": 2,
+  "thanh ram": 2,
+  "gb": 2,
+  "điểm số": 2
+ }
+}

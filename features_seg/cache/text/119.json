@@ -1,0 +1,113 @@
+{
+ "n_words": 472,
+ "n_chunks": 8,
+ "ner": [
+  {
+   "text": "XP",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "ngành Ultrabook",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Doell",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Expess",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tầm giá 50",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Dell",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Premier",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Davinch",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Lenovo Slim",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "i Ultra",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Asus Expertbook Ultra",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Asus Gaming LG Jefferus G14",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "MacBook Pro",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Dello",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Đo",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "ngành có DNA",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "DNA",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Express",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "XP",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "đầu": 2,
+  "ngành": 3,
+  "máy": 4,
+  "laptop": 8,
+  "giá thành": 2,
+  "game": 2,
+  "xp": 3,
+  "xp 14": 2,
+  "hardcore": 2,
+  "dna": 2
+ }
+}

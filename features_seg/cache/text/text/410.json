@@ -1,0 +1,51 @@
+{
+ "n_words": 380,
+ "n_chunks": 6,
+ "ner": [
+  {
+   "text": "gốc tọa độ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Cos",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Sin",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "lượng giác",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "góc phần tư thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "giá trị âm",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "hình ảnh": 2,
+  "đường": 9,
+  "đường tròn": 8,
+  "góc": 10,
+  "trục": 2,
+  "định nghĩa": 3,
+  "cos": 4,
+  "sin": 4,
+  "tam giác vuông": 3,
+  "cạnh": 4,
+  "cạnh huyền": 2,
+  "huyền": 2,
+  "vòng": 3
+ }
+}

@@ -1,0 +1,48 @@
+{
+ "n_words": 436,
+ "n_chunks": 7,
+ "ner": [
+  {
+   "text": "con laptop Acer",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tầm giá khoảng 25",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "VGA",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "LED",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "CPU",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Yeah",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "laptop Acer",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "laptop": 6,
+  "laptop acer": 2,
+  "acer": 2,
+  "màn hình": 2,
+  "cổng": 3
+ }
+}

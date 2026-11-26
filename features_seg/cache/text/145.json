@@ -1,0 +1,56 @@
+{
+ "n_words": 539,
+ "n_chunks": 9,
+ "ner": [
+  {
+   "text": "S25",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "elite Gen",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "S26 Ultra",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Snapdragon 8 Elite Z5",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ok",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Và",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "thứ ba",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "ai": 2,
+  "image": 2,
+  "image 2.0": 2,
+  "thông tin": 10,
+  "hình ảnh": 5,
+  "kết quả": 2,
+  "prom": 6,
+  "snapdragon": 2,
+  "snapdragon 8": 2,
+  "anh em": 4,
+  "hình ảnh sản phẩm": 2,
+  "sản phẩm": 4,
+  "chữ": 2
+ }
+}

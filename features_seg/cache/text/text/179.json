@@ -1,0 +1,139 @@
+{
+ "n_words": 469,
+ "n_chunks": 8,
+ "ner": [
+  {
+   "text": "Techio",
+   "label": "PER",
+   "count": 4
+  },
+  {
+   "text": "Canada",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Akira",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "bối cảnh năm 2019",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thành phố Tokyo",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thế chiến thứ ba",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tên Tân Toky",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Tân Tokyo",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "trung tâm câu chuyện là Canada",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "khi Tetio",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Takashi",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "năng lực ngoại cảm dị thường",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bên trong Techio",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bí mật Techio",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bên trong cơ thể lẫn tâm trí mà Techio",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tên Akira",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Esper",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Takashi",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": ", Kiyoko",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Masaru",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Akira",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": ", Techio",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thành phố Tần Tokyo",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nhấn chìm tân Tokyo",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "vụ": 2,
+  "thành phố": 3,
+  "canada": 3,
+  "techio": 8,
+  "takashi": 2,
+  "năng lực": 2,
+  "sức mạnh": 3,
+  "con người": 3,
+  "cơ thể": 2,
+  "akira": 4,
+  "esper": 2
+ }
+}

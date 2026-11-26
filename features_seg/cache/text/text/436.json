@@ -1,0 +1,92 @@
+{
+ "n_words": 1057,
+ "n_chunks": 18,
+ "ner": [
+  {
+   "text": "góc độ thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cảm giác Bạn",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Mỹ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Hay",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "con voi Một",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "số 0",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "mốc 20",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Như",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "điểm F",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đại học Sự",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tiếng Anh",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năng khiếu học tiếng Anh",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "kỷ luật": 2,
+  "voi": 15,
+  "cảm xúc": 5,
+  "cảm giác": 5,
+  "hàng": 2,
+  "sức mạnh": 2,
+  "sách": 2,
+  "ung thư": 2,
+  "thuốc": 2,
+  "kết quả": 2,
+  "tỷ lệ": 2,
+  "thực chất": 3,
+  "mục tiêu": 2,
+  "hành trình": 2,
+  "nhân viên": 2,
+  "động lực": 2,
+  "cân": 2,
+  "nhận thức": 2,
+  "dốc": 3,
+  "tư duy": 5,
+  "khả năng": 2,
+  "đại học": 2,
+  "tiếng": 2,
+  "guitar": 2
+ }
+}

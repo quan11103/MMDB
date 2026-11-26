@@ -1,0 +1,100 @@
+{
+ "n_words": 589,
+ "n_chunks": 10,
+ "ner": [
+  {
+   "text": "AJ",
+   "label": "PER",
+   "count": 4
+  },
+  {
+   "text": "Tes",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "The Mother",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Barbarian",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "hàng xóm thần thiện",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nói năng hốt hoảng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "mắt quyền lực",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cách sinh tồn",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "giải cứu AJ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "S",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "đầu The Mother",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Test",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "cơn ác mộng Kết thúc cuộc đời cay nghiệt của The Mother",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "hàng thập kỷ",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "hầm": 4,
+  "mặt đất": 2,
+  "tầng": 2,
+  "tầng hầm": 2,
+  "tes": 2,
+  "cảnh sát": 3,
+  "xã hội": 5,
+  "phụ nữ": 3,
+  "bạo lực": 2,
+  "nạn nhân": 3,
+  "aj": 5,
+  "test": 5,
+  "the mother": 4,
+  "đàn ông": 3,
+  "kẻ ích kỷ": 2,
+  "súng": 2,
+  "cuộc đời": 2,
+  "quái vật": 4,
+  "ác mộng": 3,
+  "barbarian": 2,
+  "bạo lực giới": 2,
+  "vòng": 2
+ }
+}

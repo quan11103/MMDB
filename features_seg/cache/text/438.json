@@ -1,0 +1,102 @@
+{
+ "n_words": 913,
+ "n_chunks": 15,
+ "ner": [
+  {
+   "text": "Nhật Bản",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Hi",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Parision",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "thế kỷ 20",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "khoảng 2",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "độ tuổi 20",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "độ tuổi khoảng 40",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "độ tuổi khoảng 60",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "lời nguyền onin",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "truyền thuyết Châu Âu",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "On Đin",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Onin",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "năm 2050",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Andrew Scott",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Linder Graden",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "sách": 2,
+  "kế hoạch": 2,
+  "cuộc đời": 6,
+  "giả định": 2,
+  "con người": 2,
+  "lộ trình": 2,
+  "chương": 3,
+  "chương đời": 2,
+  "đời": 6,
+  "thế kỷ": 2,
+  "tuổi thọ": 2,
+  "nhật bản": 2,
+  "tương lai": 2,
+  "cấu trúc": 2,
+  "tiền": 2,
+  "cuộc sống": 2,
+  "nguyền": 4,
+  "onin": 2,
+  "hơi": 2
+ }
+}

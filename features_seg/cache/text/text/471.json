@@ -1,0 +1,93 @@
+{
+ "n_words": 984,
+ "n_chunks": 17,
+ "ner": [
+  {
+   "text": "Ok",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Newport",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Don't",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "from focus",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trạng thái phân tâm",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Messenger",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Instagram",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Digital Detox",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Và",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tầm 6",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "sự buồn chán",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "rule thứ hai",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "rule": 3,
+  "điện thoại": 5,
+  "khả năng": 2,
+  "phân tâm": 2,
+  "thói quen": 2,
+  "take": 2,
+  "take break": 2,
+  "take break from": 2,
+  "break": 2,
+  "break from": 2,
+  "from": 2,
+  "trạng thái": 7,
+  "trạng thái tự nhiên": 3,
+  "email": 2,
+  "công việc": 2,
+  "não": 3,
+  "newport": 2,
+  "khung": 2,
+  "mạng": 2,
+  "mạng xã hội": 2,
+  "xã hội": 3,
+  "tác giả": 3,
+  "tuần": 3,
+  "nhịp": 2,
+  "sức": 2
+ }
+}

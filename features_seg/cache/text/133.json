@@ -1,0 +1,81 @@
+{
+ "n_words": 438,
+ "n_chunks": 7,
+ "ner": [
+  {
+   "text": "Samsung",
+   "label": "ORG",
+   "count": 3
+  },
+  {
+   "text": "Android",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Jemini",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Việt",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Jemini",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "tiếng Việt",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Gemini",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "trên Android",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Jini",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Pro",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Google AI Pro",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Google",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "màn hình": 2,
+  "android": 3,
+  "máy": 2,
+  "jemini": 2,
+  "tiếng": 2,
+  "tiếng việt": 2,
+  "việt": 2,
+  "ai": 5,
+  "tính năng": 5,
+  "tính năng ai": 2,
+  "samsung": 3,
+  "ai pro": 2,
+  "google": 2
+ }
+}

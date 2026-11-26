@@ -1,0 +1,34 @@
+{
+ "n_words": 783,
+ "n_chunks": 13,
+ "ner": [
+  {
+   "text": "niềm an lạc",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tâm biết ơn",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bạn Viết",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "hóa": 2,
+  "hóa sức mạnh": 2,
+  "sức mạnh": 3,
+  "tâm": 4,
+  "nguồn lực": 2,
+  "cuộc đời": 3,
+  "ý nghĩa": 2,
+  "trải nghiệm": 4,
+  "nghịch cảnh": 2,
+  "năng lượng": 3,
+  "mẹ": 3
+ }
+}

@@ -1,0 +1,58 @@
+{
+ "n_words": 345,
+ "n_chunks": 6,
+ "ner": [
+  {
+   "text": "Bẫy",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nhập vai quy mô lớn JPG",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Counter Strike",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": ", League",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Dota 2",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tính chiến thuật",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tính chất pickup and play",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Super Smash Bros",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "công việc": 2,
+  "game": 9,
+  "tựa": 5,
+  "tựa game": 6,
+  "game hiện đại": 2,
+  "cuộc sống": 2,
+  "giai đoạn": 2,
+  "tâm lý": 2,
+  "quy mô": 2,
+  "hàng": 2
+ }
+}

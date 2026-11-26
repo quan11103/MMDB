@@ -1,0 +1,72 @@
+{
+ "n_words": 304,
+ "n_chunks": 5,
+ "ner": [
+  {
+   "text": "máy Mac",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nhật span Manager",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trên Mac MC",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Macbook",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Macbook Pro",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Chanel",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "phiên bản Beta",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Bác",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "năm 2019",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ok",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Apple",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Macbook Intel",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "apple": 2,
+  "anh em": 7,
+  "macbook": 2,
+  "phiên bản": 2
+ }
+}

@@ -1,0 +1,235 @@
+{
+ "n_words": 593,
+ "n_chunks": 10,
+ "ner": [
+  {
+   "text": "Nolen",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "The Dark Knight",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "CGI",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Batman",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Batman Begins",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": ", Christopher Nolan",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Nolan",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "ý tưởng cho phần ba",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Joker",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Hit Leer",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Aaron Hot",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "vai Harvey D",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Warner",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Ridler",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Leonardo DiCaprio",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Tom Hardy",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "sau Inception",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Portan",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phần Cat Woman",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "vai ghi hình là An Hattaway",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Jessica Bill",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Rudy Mara Hattaway",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Nolanden",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "vai Harley Quinn",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Hterway Nol",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "thực tế Cảnh",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Char Pear",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ấn Độ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Pittsburg",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nơi Civic Arena",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "dỡ Nen",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Thomas Tho",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "đội bóng Steelers",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Đội Gotham Rock",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Steelers",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "phim The Dog Kight Rises",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "ngày 20",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm Saudi The Avengers",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Skyf Skyf",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Insomnia Nolen",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đề cử Oscar",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Trilogy",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "giấc": 2,
+  "câu chuyện": 2,
+  "phim": 6,
+  "the dark knight": 2,
+  "trilogy": 2,
+  "cảnh": 5,
+  "cgi": 2,
+  "diễn viên": 3,
+  "khả năng": 2,
+  "vai": 4,
+  "nolen": 3,
+  "batman": 2,
+  "đội": 2,
+  "steelers": 2,
+  "mùa": 2,
+  "skyf": 2,
+  "khán giả": 2
+ }
+}

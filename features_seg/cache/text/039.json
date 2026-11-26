@@ -1,0 +1,62 @@
+{
+ "n_words": 288,
+ "n_chunks": 5,
+ "ner": [
+  {
+   "text": "Odysseius",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "S",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "linh hồn dưới âm phủ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Tyas",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Odysse",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "thần mặt trời Helios",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Odysseus",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "lần đầu tiên Odysseius",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Itaka",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Penelopei",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "linh hồn": 4,
+  "cõi": 2,
+  "biển": 2,
+  "odysseius": 2
+ }
+}

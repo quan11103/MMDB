@@ -1,0 +1,115 @@
+{
+ "n_words": 479,
+ "n_chunks": 8,
+ "ner": [
+  {
+   "text": "ADU",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "sông Hằng",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "ODO",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Bỉ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Việt Nam",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Audo",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "đội ngũ IT",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "AUD",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "chuẩn SEO",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "ODU",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "nội dung video ngày hôm nay It's",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "for I",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "you back 76",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "subject Sông Hằng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "sông Ganga",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ấn Độ Bangladesh",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ấn Độ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "người dân Ấn Độ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "hàng thập kỷ",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "nội dung": 2,
+  "adu": 2,
+  "công cụ": 2,
+  "app": 3,
+  "hàng": 3,
+  "doanh nghiệp": 2,
+  "website": 2,
+  "ai": 2,
+  "sông hằng": 3,
+  "sông": 7,
+  "ấn độ": 4,
+  "hằng": 2
+ }
+}

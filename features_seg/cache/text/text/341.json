@@ -1,0 +1,54 @@
+{
+ "n_words": 650,
+ "n_chunks": 11,
+ "ner": [
+  {
+   "text": "Đức Phật",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Anapana Sati",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Hơi",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Dẫu",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "vân vân Tâm",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "ngày hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Chìa",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "tâm": 2,
+  "vọng niệm": 2,
+  "mô thức": 2,
+  "tâm niệm": 2,
+  "đời": 3,
+  "kiếp": 2,
+  "thực tướng": 2,
+  "phương pháp": 2,
+  "hơi": 6,
+  "lát": 2,
+  "trẻ": 2
+ }
+}

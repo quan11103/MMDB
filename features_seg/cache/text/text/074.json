@@ -1,0 +1,60 @@
+{
+ "n_words": 375,
+ "n_chunks": 6,
+ "ner": [
+  {
+   "text": "Atlantis",
+   "label": "PER",
+   "count": 4
+  },
+  {
+   "text": "Hy Lạp",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "năm trước công nguyên , Atlantis",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "khoa học Ẩn",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phương Tây",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chiết da Plato , Atlantis",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đáy đại dương Vậy tại sao Atlantis",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cây bút Baram",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Spider Room",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "atlantis": 7,
+  "phương": 2,
+  "chủ đề": 2,
+  "lục địa": 2,
+  "quy luật": 2,
+  "lịch sử": 2,
+  "độc lập": 2
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "n_words": 286,
+ "n_chunks": 5,
+ "ner": [
+  {
+   "text": "vô tận Cách",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bảng chữ cái",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Cacbon",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "phân nhánh tròng chịt",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "DNA",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "số lượng": 2,
+  "nguyên tố": 7,
+  "gạch": 2,
+  "hợp chất": 2,
+  "chữ cái": 3,
+  "hóa học": 3,
+  "nghĩa": 2,
+  "chữ": 3,
+  "cacbon": 4
+ }
+}

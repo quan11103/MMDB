@@ -1,0 +1,22 @@
+{
+ "n_words": 516,
+ "n_chunks": 9,
+ "ner": [
+  {
+   "text": "chương Bad",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "xu hướng": 2,
+  "đồ": 7,
+  "cảm xúc": 2,
+  "cuộc sống": 2,
+  "thị trường": 3,
+  "tài chính": 2,
+  "xe máy": 2,
+  "giá": 3,
+  "giá thị trường": 2
+ }
+}

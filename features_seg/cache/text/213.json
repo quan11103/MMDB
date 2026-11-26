@@ -1,0 +1,122 @@
+{
+ "n_words": 546,
+ "n_chunks": 9,
+ "ner": [
+  {
+   "text": "PC",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "B760M",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "PVC",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "CBU",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "i5 14.400 k 400",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nhân EC",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "GVN",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Cooler Master",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "nhà Gearby nha",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Vega",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "RTX",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "quốc dân thời điểm hiện tại rồi với 6 GB RAM",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "RAM",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "256 GB",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thanh 8 GB",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "DR4",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "550 W",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Gear",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "VN",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "độ chế cái LED",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "KBC",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "pc": 2,
+  "giá": 3,
+  "tảng": 2,
+  "b760m": 2,
+  "ram": 2,
+  "gb": 2,
+  "linh kiện": 2,
+  "led": 2,
+  "màu": 2
+ }
+}

@@ -1,0 +1,61 @@
+{
+ "n_words": 656,
+ "n_chunks": 11,
+ "ner": [
+  {
+   "text": "Podcast",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "ngày nay điểm thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Lời Nói Dối Vô Hại",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "tiếng Anh",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thực tế thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tình huống hiện nay thứ ba",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bậc cửa nhà bạn Ban",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "John Rose",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "tập tiếp theo By",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "quan điểm": 2,
+  "đạo đức": 6,
+  "kh": 6,
+  "chết học": 4,
+  "nguyên tắc": 3,
+  "con người": 4,
+  "cảm xúc": 4,
+  "tình huống": 3
+ }
+}

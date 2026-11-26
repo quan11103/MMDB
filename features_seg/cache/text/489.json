@@ -1,0 +1,31 @@
+{
+ "n_words": 585,
+ "n_chunks": 10,
+ "ner": [
+  {
+   "text": "Chris",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Ok",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "phương pháp": 3,
+  "active listening": 2,
+  "chủ động": 2,
+  "ý kiến": 3,
+  "cảm xúc": 2,
+  "chris": 2,
+  "sách": 3,
+  "mirroring": 2,
+  "order": 3,
+  "đồ": 2,
+  "tông": 2,
+  "tông giọng": 2,
+  "giọng": 3
+ }
+}

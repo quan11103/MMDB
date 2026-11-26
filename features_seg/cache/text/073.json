@@ -1,0 +1,52 @@
+{
+ "n_words": 442,
+ "n_chunks": 8,
+ "ner": [
+  {
+   "text": "Anthropic",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "thời điểm IPO",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 2026",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Anopic",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "nút subscribe và nút chuông bên cạnh",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Spider Room",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Ping Dot Sia",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "anthropic": 3,
+  "đạo đức": 4,
+  "tỷ đô": 2,
+  "dòng": 2,
+  "câu chuyện": 3,
+  "tương lai": 2,
+  "trí tuệ": 2,
+  "trí tuệ nhân tạo": 2,
+  "nút": 2
+ }
+}

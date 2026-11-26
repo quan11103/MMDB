@@ -1,0 +1,86 @@
+{
+ "n_words": 367,
+ "n_chunks": 6,
+ "ner": [
+  {
+   "text": "Open Source",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "chữ Elm",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Elm API",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "context Window",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "API",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Last Luage Model API",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Meta Facebook",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "năm 2023",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "GMA",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Google",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "năm 2024",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Dipsic",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": ", MW",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "W",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "elm": 2,
+  "api": 2,
+  "model": 6,
+  "công ty": 2,
+  "hệ thống": 2,
+  "open source": 2,
+  "open source ai": 2,
+  "ai": 2
+ }
+}

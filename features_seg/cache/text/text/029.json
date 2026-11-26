@@ -1,0 +1,165 @@
+{
+ "n_words": 757,
+ "n_chunks": 13,
+ "ner": [
+  {
+   "text": "Thiên Chúa",
+   "label": "PER",
+   "count": 5
+  },
+  {
+   "text": "A La",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "Chúa",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Jesus",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "người Do Thái",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "dọa Ismael",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Abraham Nhưng",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "bản sắc riêng biệt",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Yahwe",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "Adonai Chúa Thượng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Thiên Chúa Ngôi Cha",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "tôn thờ Jesus",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Giêsus",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Ngô Hơ Giáo",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "tiếng Islam",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm trụ cột",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Muhamad",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "cáo buộc người Do Thái",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Kit",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "chính quyền La Mạ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đấng Messiah",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "lung lạc giáo lý Moses",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Yahwe",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "thiên chi Do Thái",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Do",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "việc Jerusalem",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Do Thái",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "nơi Mohamad",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "dòng": 2,
+  "đạo": 3,
+  "tôn giáo": 4,
+  "gốc": 2,
+  "do thái": 12,
+  "chúa": 2,
+  "yahwe": 2,
+  "thiên chúa": 6,
+  "đấng": 3,
+  "ngài": 3,
+  "tôn": 2,
+  "jesus": 3,
+  "luật": 2,
+  "a la": 3,
+  "lịch sử": 3,
+  "dân tộc": 2,
+  "sự thật": 2
+ }
+}

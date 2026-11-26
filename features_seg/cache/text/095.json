@@ -1,0 +1,169 @@
+{
+ "n_words": 1959,
+ "n_chunks": 33,
+ "ner": [
+  {
+   "text": "giáo sư Robert AT",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 2004",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Trung Quốc",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tòa án lương tâm tâm",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bá tước Monte Cristo",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tù 14",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tòa án lương tâm",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "như là Phật",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tội phạm Richard",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "N Stalker",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Mỹ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trong tù",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "giai đoạn đầu , Ramirez",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Satan",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "câu chuyện chuyển đạo Sat",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đơn kháng cáo",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Sa Tăng",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Ramires",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "năm 2013",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tương lai Đôi",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tư duy winwin winwin",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nút subscribe và nút chuông bên cạnh",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Spider Room",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Ping Dot Si",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "đời": 7,
+  "phòng": 2,
+  "thế giới": 4,
+  "mỹ": 2,
+  "mô phỏng": 2,
+  "máy tính": 5,
+  "lợi": 3,
+  "tư duy": 3,
+  "trò chơi": 4,
+  "tổng": 4,
+  "hành vi": 3,
+  "tương tác": 3,
+  "xã hội": 5,
+  "trạng thái": 2,
+  "hậu quả": 3,
+  "hình thức": 2,
+  "hình phạt": 2,
+  "tòa án": 3,
+  "nhân vật": 3,
+  "tù": 2,
+  "hình": 2,
+  "quan hệ": 2,
+  "biển": 2,
+  "biển vững": 2,
+  "tương lai": 3,
+  "cảm giác": 3,
+  "lợi thế": 3,
+  "đạo đức": 4,
+  "ván": 3,
+  "cuộc sống": 4,
+  "khả năng": 4,
+  "lối": 2,
+  "bài học": 2,
+  "câu chuyện": 2,
+  "người thân": 2,
+  "đạo": 2,
+  "bất công": 2,
+  "giá": 2,
+  "winwin": 2,
+  "lầm": 2,
+  "nút": 2
+ }
+}

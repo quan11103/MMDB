@@ -1,0 +1,25 @@
+{
+ "n_words": 727,
+ "n_chunks": 12,
+ "ner": [
+  {
+   "text": "phương pháp thứ hai",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "lý luận": 3,
+  "hypothetical": 2,
+  "hành động": 5,
+  "mục đích": 6,
+  "mệnh lệnh": 4,
+  "categorical": 2,
+  "đạo đức": 2,
+  "phương pháp": 3,
+  "hóa": 3,
+  "kh": 2,
+  "con người": 2,
+  "cuộc sống": 2
+ }
+}

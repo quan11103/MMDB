@@ -1,0 +1,55 @@
+{
+ "n_words": 285,
+ "n_chunks": 5,
+ "ner": [
+  {
+   "text": "quanh chục",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "gần Xích Đạo",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "điểm mấu chốt",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nơi trên Trái Đất",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Vòng",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Hà Nội",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "xích đạo Còn",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "lực Coriolis",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "trái đất": 4,
+  "vòng": 3,
+  "xích đạo": 5,
+  "đường": 2,
+  "tốc độ": 6,
+  "vòng tròn": 2,
+  "vĩ độ": 2
+ }
+}

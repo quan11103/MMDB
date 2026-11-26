@@ -1,0 +1,36 @@
+{
+ "n_words": 455,
+ "n_chunks": 8,
+ "ner": [
+  {
+   "text": "bảng Ganton",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Francis Ganton",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "thế kỷ 19",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "trật tự": 2,
+  "bảng": 2,
+  "hiện tượng": 2,
+  "bi": 3,
+  "đường": 6,
+  "hàng": 2,
+  "kết quả": 2,
+  "trung tâm": 3,
+  "áp đảo": 2,
+  "định lý": 2,
+  "yếu tố": 3,
+  "chuông": 2,
+  "chiều": 3
+ }
+}

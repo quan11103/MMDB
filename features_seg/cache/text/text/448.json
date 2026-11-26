@@ -1,0 +1,78 @@
+{
+ "n_words": 449,
+ "n_chunks": 8,
+ "ner": [
+  {
+   "text": "vận động viên sumo",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "doanh thu như thế nào",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chương 1",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Freconomics",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Economics",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "of incentives",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "How",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "same thing",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Levit",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "DNER",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "chuyện tiền tệ hay là GDP",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "con người": 3,
+  "sách": 4,
+  "tác giả": 3,
+  "kinh tế": 3,
+  "cuộc sống": 3,
+  "incentives": 2,
+  "people": 2,
+  "want": 2,
+  "want or": 2,
+  "want or need": 2,
+  "or": 2,
+  "or need": 2,
+  "need": 2,
+  "động cơ": 3,
+  "cha mẹ": 2
+ }
+}

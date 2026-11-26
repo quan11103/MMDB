@@ -1,0 +1,166 @@
+{
+ "n_words": 990,
+ "n_chunks": 17,
+ "ner": [
+  {
+   "text": "Odysseius",
+   "label": "PER",
+   "count": 4
+  },
+  {
+   "text": "Troy",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Homer",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Odyseus",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Polythropos",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "tiền tố Poly",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "hậu thố Tropos",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Odyse",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Odyssey",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Hy Lạp",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "cánh buồm hướng mũi thuyền về phía Hy Lạp",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "hòn đảo Isaka",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nơi người vợ trung thủy Penelope",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trai Telemacus",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "xứ Yaka",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "rượu dã",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tường đổ nát của Troy",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bờ biển Troy",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "lính Itaka",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Edyus",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "đóa hoa sen thần bí bí",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "quê hương Isaka",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chuyến hành trình vạn",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Isaka",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "giả tạo Odisseus",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm địa ngục",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "troy": 4,
+  "chuyến": 2,
+  "đảo": 5,
+  "hoa sen": 2,
+  "odysseius": 4,
+  "đường": 2,
+  "homer": 2,
+  "odyseus": 2,
+  "cuộc đời": 2,
+  "hy lạp": 3,
+  "hướng": 2,
+  "tiếng": 2,
+  "cánh": 3,
+  "thuyền": 4,
+  "isaka": 3,
+  "ngày đêm": 2,
+  "quân đội": 2,
+  "chiến binh": 2,
+  "bờ": 2,
+  "biển": 2,
+  "lính": 4,
+  "cát": 2,
+  "bộ tộc": 2,
+  "hoa": 7,
+  "vũ khí": 3,
+  "cánh hoa": 2,
+  "luồng": 2,
+  "đời": 2
+ }
+}

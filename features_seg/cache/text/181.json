@@ -1,0 +1,124 @@
+{
+ "n_words": 662,
+ "n_chunks": 11,
+ "ner": [
+  {
+   "text": "Akira",
+   "label": "PER",
+   "count": 5
+  },
+  {
+   "text": "Techio",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Akira",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": ", Techio",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Esper",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "hero Otomo",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "dạng năng lượng tâm linh",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Takashi",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": ", Kijoko",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Masaru",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Takashi",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Canada",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "loài Amip",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Kyoko",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Ke",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Kiyoko",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "phim khi Akira",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Tiến sĩ Onishi",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Cachiro Otomo",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Nhật Bản",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "akira": 7,
+  "techio": 4,
+  "esper": 2,
+  "đạo diễn": 2,
+  "phim": 4,
+  "cấp độ": 2,
+  "năng lượng": 10,
+  "nhà khoa học": 2,
+  "tiềm năng": 3,
+  "con người": 6,
+  "vật chất": 2,
+  "takashi": 2,
+  "sức mạnh": 6,
+  "loài": 2,
+  "năng lượng nguyên thủy": 2,
+  "nguyên thủy": 2
+ }
+}

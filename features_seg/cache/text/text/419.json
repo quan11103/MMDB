@@ -1,0 +1,24 @@
+{
+ "n_words": 379,
+ "n_chunks": 6,
+ "ner": [
+  {
+   "text": "Damin",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "cách bạn kỳ vọng",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "não bộ": 2,
+  "kỳ vọng": 5,
+  "thuốc": 2,
+  "kết quả": 7,
+  "damin": 2,
+  "khả năng": 2
+ }
+}

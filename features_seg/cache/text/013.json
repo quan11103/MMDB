@@ -1,0 +1,77 @@
+{
+ "n_words": 727,
+ "n_chunks": 12,
+ "ner": [
+  {
+   "text": "khí CO2",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "khí Oxy",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Sắt",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "lượng Oxy",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "mối lo ngại",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "số lượng ồ ạt",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "ánh sáng Mặt Trời",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "lượng Sắt",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nước nông",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "nông": 2,
+  "sinh vật": 14,
+  "sinh vật đơn bào": 3,
+  "đơn bào": 2,
+  "khả năng": 3,
+  "quang hợp": 6,
+  "khí": 5,
+  "khí co2": 2,
+  "co2": 2,
+  "khí oxy": 2,
+  "oxy": 15,
+  "số lượng": 3,
+  "mặt trời": 2,
+  "sắt": 4,
+  "đáy": 3,
+  "đáy biển": 2,
+  "biển": 7,
+  "màu": 3,
+  "màu đỏ": 2,
+  "sinh vật kỵ": 2,
+  "sinh vật kỵ oxy": 2,
+  "sinh vật quang hợp": 2,
+  "loài": 4,
+  "loài quang hợp": 2
+ }
+}

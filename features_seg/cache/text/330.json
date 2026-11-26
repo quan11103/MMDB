@@ -1,0 +1,119 @@
+{
+ "n_words": 1108,
+ "n_chunks": 19,
+ "ner": [
+  {
+   "text": "chủ động Active Recall",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Fluency Illusion",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Flash Card",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "block practice",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "dạng bài A",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "dạng bài B",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "kỹ thuật Interliing học xen kẽ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "ngắn hạn Kỹ thuật Space Repetition",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "ngày Mỗi",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Tân Vỏ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 2006",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "học kỹ thuật khâu động mạch",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Nhóm thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "dopamin thụ động",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "ngày buồn chán",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Bit",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "T",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "See",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "não": 10,
+  "kỹ thuật": 5,
+  "dopamin": 2,
+  "môi trường": 2,
+  "chủ động": 2,
+  "active recall": 2,
+  "sách": 2,
+  "thông tin": 2,
+  "khoa học": 2,
+  "cảm giác": 2,
+  "kiến thức": 3,
+  "lỗi": 2,
+  "trí thức": 2,
+  "chủ đề": 2,
+  "phương pháp": 2,
+  "não nhanh chóng": 2,
+  "quy luật": 3,
+  "bài toán": 2,
+  "kỳ": 2,
+  "tuần": 3,
+  "bác sĩ": 2
+ }
+}

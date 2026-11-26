@@ -1,0 +1,53 @@
+{
+ "n_words": 733,
+ "n_chunks": 12,
+ "ner": [
+  {
+   "text": "sau 4",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 1996",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Chicago",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Mỹ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "khoảng 100",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chương 1",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "câu chuyện": 2,
+  "lớp học": 3,
+  "chiều": 3,
+  "bố": 5,
+  "mẹ": 5,
+  "lớp": 2,
+  "mặt": 3,
+  "bố mẹ": 2,
+  "hình thức": 3,
+  "giáo viên": 3,
+  "thành tích": 2,
+  "lợi ích": 3,
+  "học sinh": 4,
+  "con người": 2,
+  "đấu vật": 2
+ }
+}

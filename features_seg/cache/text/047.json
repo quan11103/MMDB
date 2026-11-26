@@ -1,0 +1,189 @@
+{
+ "n_words": 588,
+ "n_chunks": 10,
+ "ner": [
+  {
+   "text": "Aila",
+   "label": "PER",
+   "count": 5
+  },
+  {
+   "text": "tộc người German",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "tây địa Trung Hải",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Trận Shalons",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ala",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Shalons",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phương Tây",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Tây La Mã",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "gốc German",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "người Vigotf Allens",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "danh tướng Flavius Etheus",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nền văn minh châu Âu nếu Aila",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "người La Mã",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Catalonian",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "vùng Charlons",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Pháp",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "quân đoàn La Mã",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "người Franks",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "quân người Git",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "người VCigh",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ostrogoth",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "người Alens",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "quân đội người Huns",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Gapit",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "quân Huns",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Aella",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "vua Theodoric",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Atthila",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Sharlons",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Liên minh La Mã",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "dân tộc German",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Shalons",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "tây": 2,
+  "trận": 5,
+  "shalons": 3,
+  "văn minh": 3,
+  "german": 4,
+  "thảm họa": 2,
+  "châu âu": 3,
+  "aila": 6,
+  "liên minh": 3,
+  "la mã": 3,
+  "tộc người": 2,
+  "tộc người german": 2,
+  "bước tiến": 2,
+  "huns": 4,
+  "cánh": 7,
+  "cánh quân": 2,
+  "quân": 6,
+  "ostrogoth": 3,
+  "quân huns": 2,
+  "vua": 2,
+  "thất bại": 2
+ }
+}

@@ -1,0 +1,84 @@
+{
+ "n_words": 862,
+ "n_chunks": 15,
+ "ner": [
+  {
+   "text": "USB",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Fender",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Hả",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "tính năng ANC",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Fender Mix",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Sony",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "như thế nào Thì",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Fender Mix",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "kết nối Bluetooth",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đốt Bluetooth",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Thì",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Dạ",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "tai": 18,
+  "dây": 2,
+  "nhạc": 13,
+  "tính năng": 4,
+  "tai fender": 2,
+  "fender mix": 2,
+  "khả năng": 5,
+  "cảm giác": 3,
+  "usb": 2,
+  "âm sắc": 2,
+  "bass": 2,
+  "tú": 2,
+  "bluetooth": 2,
+  "fender": 2,
+  "anh em": 8,
+  "hợp": 2
+ }
+}

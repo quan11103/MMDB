@@ -1,0 +1,91 @@
+{
+ "n_words": 541,
+ "n_chunks": 9,
+ "ner": [
+  {
+   "text": "thế hệ thứ hai",
+   "label": "LOC",
+   "count": 3
+  },
+  {
+   "text": "thế hệ thứ ba",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "thông tin bên lề thì cái công nghệ Widolet",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 2022",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "kích thước 34",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "32 inch",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "360 Hz",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "480 Hz",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "hàng game FBS",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nghe đâu Samsung",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thế hệ thứ bốn",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "màn hình Visonic",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Samsung",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "thệ thứ 3A",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phần ưu điểm",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "thông tin": 2,
+  "công nghệ": 2,
+  "thế hệ": 10,
+  "màn hình": 3,
+  "kích thước": 3,
+  "inch": 3,
+  "hz": 2,
+  "samsung": 2
+ }
+}

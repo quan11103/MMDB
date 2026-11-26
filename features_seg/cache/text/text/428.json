@@ -1,0 +1,64 @@
+{
+ "n_words": 1609,
+ "n_chunks": 27,
+ "ner": [
+  {
+   "text": "Vibassana",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "bụng Đức Phật",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "rung động vân vân",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bất an phiền não",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "con đường Đức Phật",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "vibassana": 2,
+  "thực tướng": 2,
+  "đối tượng": 2,
+  "cảm thọ": 10,
+  "tâm": 3,
+  "trạng thái": 2,
+  "mũi": 2,
+  "bụng": 2,
+  "đức phật": 2,
+  "toàn thân": 2,
+  "đầu": 3,
+  "chân": 2,
+  "cảm giác": 5,
+  "rung động": 3,
+  "nguyên nhân": 2,
+  "thân tâm": 2,
+  "khoảnh khắc": 3,
+  "bộ phận": 3,
+  "cảm xúc": 2,
+  "nội tâm": 4,
+  "phản ứng": 2,
+  "tập khí": 3,
+  "kiên trì": 2,
+  "khoái cảm": 2,
+  "trải nghiệm": 2,
+  "vô thường": 2,
+  "lý thuyết": 2,
+  "tiến trình": 4,
+  "tế bào": 2,
+  "thân thể": 2,
+  "đường": 3
+ }
+}

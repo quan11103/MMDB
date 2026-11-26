@@ -1,0 +1,52 @@
+{
+ "n_words": 515,
+ "n_chunks": 9,
+ "ner": [
+  {
+   "text": "bộ não",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Flow",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Transion Hypofrontality Số",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "trạng thái flow vùng vỏ não trước",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm chất này Noripine",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "cảm giác": 6,
+  "sinh học": 3,
+  "flow": 5,
+  "trạng thái": 5,
+  "sinh học thần kinh": 2,
+  "thần kinh": 6,
+  "não bộ": 2,
+  "não": 3,
+  "tiếng nói": 2,
+  "thông tin": 2,
+  "chất": 3,
+  "chất thần kinh": 2,
+  "hệ": 2,
+  "hệ thần kinh": 2,
+  "con người": 2,
+  "nhịp": 2,
+  "khả năng": 3,
+  "sóng não": 2,
+  "sóng": 2
+ }
+}

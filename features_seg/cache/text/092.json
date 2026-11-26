@@ -1,0 +1,36 @@
+{
+ "n_words": 425,
+ "n_chunks": 7,
+ "ner": [
+  {
+   "text": "lách kèo Ấy",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "lý thuyết trò chơi",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tác giả Craven",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Spider Room",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "tình huống": 2,
+  "cuộc sống": 2,
+  "con người": 2,
+  "lý thuyết trò chơi": 2,
+  "đời sống": 2,
+  "lý thuyết": 2,
+  "nội dung": 3,
+  "chiến lược": 2
+ }
+}

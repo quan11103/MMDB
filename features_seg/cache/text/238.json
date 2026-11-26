@@ -1,0 +1,79 @@
+{
+ "n_words": 388,
+ "n_chunks": 7,
+ "ner": [
+  {
+   "text": "dưới 3",
+   "label": "LOC",
+   "count": 3
+  },
+  {
+   "text": "tầng SW",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "165 Hz",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "180 Hz",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "240 Hz",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "web GB",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "TikTok",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Shopee Gearvn",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "web Ghi",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nhà Ero",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "GearVN",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Geia",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "VN",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "màn hình": 6,
+  "tầm": 2,
+  "tầm giá": 2,
+  "giá": 6,
+  "hz": 3,
+  "web": 3
+ }
+}

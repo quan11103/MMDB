@@ -1,0 +1,77 @@
+{
+ "n_words": 1101,
+ "n_chunks": 19,
+ "ner": [
+  {
+   "text": "tiếng Anh",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Levit",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "nhóm yếu tố thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "con đầu lòng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thời gian Cân",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "con Logic",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "mối quan hệ nhân quả",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trường top",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thứ ba",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "chương": 4,
+  "xã hội": 2,
+  "sách": 9,
+  "nhạc": 2,
+  "cha mẹ": 12,
+  "yếu tố": 12,
+  "bố mẹ": 13,
+  "bé": 8,
+  "tiểu học": 2,
+  "học vấn": 3,
+  "mẹ": 7,
+  "tivi": 2,
+  "tiếng": 2,
+  "gia đình": 4,
+  "bố": 2,
+  "mặt": 3,
+  "nguyên nhân": 2,
+  "tác giả": 3,
+  "trường": 2,
+  "hành vi": 2,
+  "kết quả": 3,
+  "bài học": 3,
+  "ngành": 2,
+  "phụ huynh": 2
+ }
+}

@@ -1,0 +1,209 @@
+{
+ "n_words": 1400,
+ "n_chunks": 23,
+ "ner": [
+  {
+   "text": "Ali",
+   "label": "PER",
+   "count": 6
+  },
+  {
+   "text": "Jack",
+   "label": "PER",
+   "count": 5
+  },
+  {
+   "text": "Dren",
+   "label": "PER",
+   "count": 5
+  },
+  {
+   "text": "Rose",
+   "label": "PER",
+   "count": 4
+  },
+  {
+   "text": "Billy",
+   "label": "PER",
+   "count": 4
+  },
+  {
+   "text": "Tom",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "Track",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "Ali",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Sam",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Simon",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "gã tra sát nhân",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trán Jack",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bạn gái Ali",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": ", Jack",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Tom Potter",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Sẵn",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Tom",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "giấy tờ , Jack",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Hán",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "trước mắt xàm",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "lần Track",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bất công khi Track",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Trảm",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "nhà , Track",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": ", Billy",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Việt",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Marobon",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "New York",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "gia đình Marobon",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Simon Fairbent",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Simon",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trổn cưng Soudral",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trẻ nhà Marobon",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "anh em": 8,
+  "jack": 8,
+  "gương": 4,
+  "tỉnh": 3,
+  "máu": 2,
+  "trần": 2,
+  "cá": 2,
+  "mẹ": 9,
+  "bánh": 2,
+  "thị trấn": 3,
+  "phòng": 8,
+  "viện": 3,
+  "gái": 2,
+  "ali": 9,
+  "thông tin": 2,
+  "luật sư": 5,
+  "tom": 4,
+  "tiền": 4,
+  "lệ phí": 2,
+  "đô la": 2,
+  "rose": 4,
+  "billy": 5,
+  "hộp": 4,
+  "dren": 8,
+  "giấy tờ": 3,
+  "cửa": 2,
+  "hiện tượng": 3,
+  "bé": 2,
+  "track": 7,
+  "sam": 2,
+  "đồ": 2,
+  "gia đình": 3,
+  "cuộc sống": 2,
+  "bóng": 2,
+  "simon": 3,
+  "marobon": 3
+ }
+}

@@ -1,0 +1,91 @@
+{
+ "n_words": 1590,
+ "n_chunks": 27,
+ "ner": [
+  {
+   "text": "năm 1960",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tuổi 60",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 1970",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bước nhảy liều lĩnh",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cơ sở tự chủ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 1990",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Nam Mỹ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phim Nàng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "hành Như Trang Tử",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "số hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "số ba",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "cuộc đời": 12,
+  "chương": 3,
+  "mô hình": 6,
+  "sách": 2,
+  "kịch bản": 4,
+  "hành trình": 2,
+  "cuộc đời đa trương": 2,
+  "tương lai": 4,
+  "đời": 4,
+  "thu nhập": 3,
+  "công việc": 4,
+  "kinh nghiệm": 2,
+  "kỹ năng": 5,
+  "mạng": 2,
+  "giai đoạn": 4,
+  "lao động": 2,
+  "văn hóa": 2,
+  "khả năng": 4,
+  "tuổi trẻ": 3,
+  "tinh thần": 4,
+  "sân chơi": 2,
+  "ý nghĩa": 3,
+  "doanh nhân": 2,
+  "nhà sản xuất": 3,
+  "nhà sản xuất độc lập": 3,
+  "kiến thức": 4,
+  "hàng": 2,
+  "nguyên tắc": 2
+ }
+}

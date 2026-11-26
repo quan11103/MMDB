@@ -1,0 +1,34 @@
+{
+ "n_words": 406,
+ "n_chunks": 7,
+ "ner": [
+  {
+   "text": "chánh tư duy",
+   "label": "LOC",
+   "count": 3
+  },
+  {
+   "text": "tư duy duy",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thiền Vipassana",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "tư duy": 4,
+  "chánh": 4,
+  "sự thật": 2,
+  "đường": 2,
+  "hướng": 4,
+  "tham": 2,
+  "sân": 2,
+  "si": 2,
+  "trung đạo": 2,
+  "hoàn cảnh": 2,
+  "tâm": 2
+ }
+}

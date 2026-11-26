@@ -1,0 +1,88 @@
+{
+ "n_words": 901,
+ "n_chunks": 15,
+ "ner": [
+  {
+   "text": "chứng chỉ Quỹ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chứng chỉ quỹ và thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Masan",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Thì",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "giá chứng chỉ Quỹ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "i1 VF",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Việt Nam",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 2004",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tháng 11 năm 2022",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 23",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "khoảng 5 PH",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "tiền": 3,
+  "quỹ": 31,
+  "chứng chỉ": 11,
+  "chứng chỉ quỹ": 11,
+  "nav": 9,
+  "etf": 3,
+  "tài sản": 5,
+  "tài sản dòng": 2,
+  "dòng": 2,
+  "cổ phiếu": 9,
+  "giá": 8,
+  "chứng trì": 3,
+  "chứng trì quỹ": 3,
+  "danh mục": 3,
+  "tổng": 2,
+  "tổng tài sản": 2,
+  "bánh": 3,
+  "phí": 7,
+  "ph": 5,
+  "biểu đồ": 3,
+  "dcds": 3,
+  "i1": 2,
+  "i1 vf vn30": 2,
+  "vf vn30": 2,
+  "vn30": 2
+ }
+}

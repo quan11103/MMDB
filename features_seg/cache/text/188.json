@@ -1,0 +1,183 @@
+{
+ "n_words": 513,
+ "n_chunks": 9,
+ "ner": [
+  {
+   "text": "Doom",
+   "label": "PER",
+   "count": 4
+  },
+  {
+   "text": "đoàn cuối trailer , Dr",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Sentinels",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "X-Men",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "sau phân cảnh Cyclops",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Javi School",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "trụ sở Avengers",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "New York",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Sentin",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Rich Richard",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "hiện tượng xâm lấn",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Sentinos",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "sự kiện ComicC",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "San Diego",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Latveria Witch",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "sứ Latveria",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đám Sentinos",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "mắt thứ ba",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Doctor Strange",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "comic Doctor Strange",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Berw",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Clear",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Strange",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "MCU",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Loki",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Peggy Carter",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Wander Maximov",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "sau phần Multiverse of Madis",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phía Doom",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phần áp đảo",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "những Sentinos",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "New Avengers",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "đà vũ trụ",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "doom": 5,
+  "anh hùng": 4,
+  "trailer": 2,
+  "sức mạnh": 2,
+  "danh tính": 2,
+  "phân cảnh": 2,
+  "sentinos": 3,
+  "nhân vật": 2,
+  "doctor strange": 2,
+  "áo": 2
+ }
+}

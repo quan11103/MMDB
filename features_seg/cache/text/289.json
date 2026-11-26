@@ -1,0 +1,77 @@
+{
+ "n_words": 794,
+ "n_chunks": 13,
+ "ner": [
+  {
+   "text": "tư duy logic và lý trí",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tiến sĩ Van C",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bên trong tể bào , bệnh lý thần kinh thể chất",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thái quá Dựa",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 1941",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Abram Cardiner",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "mức 10",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chấn , tiến sĩ Van C",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "giây phút hiện tại Thứ hai",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "thần kinh": 4,
+  "não": 5,
+  "thông tin": 2,
+  "vỏ": 2,
+  "vỏ não": 2,
+  "nguyên thủy": 2,
+  "bộ phận": 2,
+  "tiến sĩ": 2,
+  "tiến sĩ van c": 2,
+  "van c": 2,
+  "môi trường": 2,
+  "chấn": 2,
+  "trạng thái": 3,
+  "nạn nhân": 2,
+  "cơ thể": 4,
+  "sinh tồn": 2,
+  "năng lượng": 2,
+  "hệ": 3,
+  "bệnh lý": 2,
+  "thể chất": 4,
+  "physionorosis": 2,
+  "cảm giác": 2,
+  "hệ thần kinh": 2,
+  "quá khứ": 3
+ }
+}

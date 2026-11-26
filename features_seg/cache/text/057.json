@@ -1,0 +1,29 @@
+{
+ "n_words": 208,
+ "n_chunks": 4,
+ "ner": [
+  {
+   "text": "bão tài chính Hay",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cây bút Sony Kiều",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Spider Room",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "tài sản": 3,
+  "tài chính": 2,
+  "bản chất": 2,
+  "chu kỳ": 3,
+  "chu kỳ kinh tế": 3,
+  "kinh tế": 3
+ }
+}

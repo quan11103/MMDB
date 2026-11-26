@@ -1,0 +1,90 @@
+{
+ "n_words": 1034,
+ "n_chunks": 17,
+ "ner": [
+  {
+   "text": "trên 60",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Hà Nội",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "the Law",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bệnh viện phụ sản một",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bé bệnh viện phụ sản hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bé trai là trên 60 PH",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đáp án thứ ba",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nhiều hơn 60 PH",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phương án thứ ba",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "low of small Numbers",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ngã Năm",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "doanh nghiệp": 3,
+  "of small": 2,
+  "bệnh viện": 13,
+  "bệnh viện phụ sản": 3,
+  "phụ sản": 3,
+  "bé": 16,
+  "tỉ lệ": 7,
+  "bé trai": 10,
+  "trai": 10,
+  "ph": 10,
+  "bé gái": 3,
+  "gái": 3,
+  "tỷ lệ": 2,
+  "đáp án": 3,
+  "thông tin": 6,
+  "thông tin ít ỏi": 2,
+  "nhà nước": 2,
+  "hà nội": 2,
+  "vụ": 4,
+  "vòng xuyến": 4,
+  "vụ tai nạn": 2,
+  "tai nạn": 2,
+  "xung quanh": 3,
+  "thành phố": 2,
+  "khu vực": 2,
+  "quyết định": 3,
+  "chính quyền": 2
+ }
+}

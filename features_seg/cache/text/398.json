@@ -1,0 +1,60 @@
+{
+ "n_words": 1536,
+ "n_chunks": 26,
+ "ner": [
+  {
+   "text": "người như thế nào",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Toàn",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "nhân giả kiến nhân",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tư duy phản biện",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thứ ba",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Doto Eski",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "hạnh": 3,
+  "xã hội": 3,
+  "thông tin": 2,
+  "quan điểm": 2,
+  "thành công": 3,
+  "xung quanh": 3,
+  "phẩm hạnh": 4,
+  "nền tảng": 3,
+  "con người": 6,
+  "trực giác": 2,
+  "câu chuyện": 3,
+  "lão": 4,
+  "thành": 2,
+  "thế giới": 4,
+  "không gian": 2,
+  "thành kiến": 2,
+  "cuộc sống": 3,
+  "định kiến": 2,
+  "thói quen": 3,
+  "cảm xúc": 2,
+  "trái tim": 2,
+  "thiếu xót": 2
+ }
+}

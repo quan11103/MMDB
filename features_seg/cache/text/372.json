@@ -1,0 +1,32 @@
+{
+ "n_words": 463,
+ "n_chunks": 8,
+ "ner": [
+  {
+   "text": "B Limit",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "đường đục đắn đắn",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tác giả Kevin Paul",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "năm 1996",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cuối thế kỷ 20",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {}
+}

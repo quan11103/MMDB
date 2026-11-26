@@ -1,0 +1,28 @@
+{
+ "n_words": 302,
+ "n_chunks": 5,
+ "ner": [
+  {
+   "text": "the Linda",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Linda",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "phong trào Nữ Quyền",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "linda": 2,
+  "problem": 2,
+  "ngân hàng": 2,
+  "câu chuyện": 3,
+  "logic": 2
+ }
+}

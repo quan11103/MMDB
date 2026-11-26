@@ -1,0 +1,144 @@
+{
+ "n_words": 1824,
+ "n_chunks": 31,
+ "ner": [
+  {
+   "text": "Thắng",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "Daniel",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "prospect Theory",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "bạn Thắng",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "ngành B",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "giải Nobel",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "khả năng bạn Thắng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cầm chắc 9",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Nhỡ",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "bài toán Thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "điểm reference Point",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bạn Cảm Giác",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Thành",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "góc phần tư",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thứ ba",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "hình vuông Ok",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Cường điệa Hóa",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "ô thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "ô thứ ba",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "ngành A",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "lãi 10",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "tiền": 15,
+  "daniel": 2,
+  "daniel canan": 2,
+  "canan": 2,
+  "prospect": 2,
+  "prospect theory": 4,
+  "theory": 2,
+  "bài toán": 7,
+  "phương án": 10,
+  "ph": 19,
+  "ph khả năng": 4,
+  "khả năng": 6,
+  "thắng": 6,
+  "đồng": 4,
+  "hy vọng": 2,
+  "mã": 2,
+  "lãi": 2,
+  "lỗ": 2,
+  "th": 2,
+  "biểu đồ": 4,
+  "đồ thị": 2,
+  "toán học": 2,
+  "cảm tính": 3,
+  "hình vuông": 2,
+  "cảm giác": 2,
+  "trò": 3,
+  "thua lỗ": 2,
+  "bảo hiểm": 2,
+  "tài sản": 2,
+  "ngành": 9,
+  "việc làm": 2
+ }
+}

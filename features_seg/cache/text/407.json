@@ -1,0 +1,72 @@
+{
+ "n_words": 338,
+ "n_chunks": 6,
+ "ner": [
+  {
+   "text": "Jessie",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "Lilpad",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Lil Pat",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "tính thao túng Bonnie",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Inside Out",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Choy",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Ency",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Lil Pet",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "dây thao túng Bonnie",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Bonnie Thứ",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Bonnie",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "hành trình": 2,
+  "phim": 3,
+  "jessie": 3,
+  "đồ chơi": 2,
+  "thao túng": 2,
+  "thao túng bonnie": 2,
+  "bonnie": 3,
+  "câu chuyện": 2,
+  "bé": 3
+ }
+}

@@ -1,0 +1,89 @@
+{
+ "n_words": 485,
+ "n_chunks": 8,
+ "ner": [
+  {
+   "text": "Ultra X9",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "là 64 GB RAM",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "SSD",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "tới 2",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "gen 5",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "X7",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Asus",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Experbook Ultra",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "con chip X7358H",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Phím",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Trackbass",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "nhà Asus",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thbot 4",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cổng USB",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "asus": 2,
+  "chip": 2,
+  "thân hình": 2,
+  "inch": 2,
+  "trải nghiệm": 3,
+  "máy": 6,
+  "môi trường": 2,
+  "ánh sáng": 2,
+  "loa": 2,
+  "cổng": 3,
+  "trái": 2
+ }
+}

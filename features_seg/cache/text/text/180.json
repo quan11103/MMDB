@@ -1,0 +1,138 @@
+{
+ "n_words": 469,
+ "n_chunks": 8,
+ "ner": [
+  {
+   "text": "Masaru",
+   "label": "LOC",
+   "count": 3
+  },
+  {
+   "text": "Kiyoko",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Kiyoko",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Techio",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Takashi",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Akira",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "nhân vật Takashi",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "anime Akira",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Bộ ba Takashi",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "The Espers",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Esper",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Nhật Bản",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Akira",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Kijoko",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Masaru",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "nhóm Esper",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đại tá Shikishima Shikishima",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nhút nhát",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Chínhashi",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "bên trong Techio",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Cậu",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Canada",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chân Techio",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Kiyoko Takashi",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "sức mạnh": 4,
+  "akira": 3,
+  "nhân vật": 2,
+  "takashi": 4,
+  "kiyoko": 4,
+  "masaru": 4,
+  "esper": 7,
+  "trẻ": 2,
+  "techio": 4,
+  "shikishima": 2
+ }
+}

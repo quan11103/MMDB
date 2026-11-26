@@ -1,0 +1,765 @@
+{
+ "n_words": 3625,
+ "n_chunks": 61,
+ "ner": [
+  {
+   "text": "Luke",
+   "label": "PER",
+   "count": 9
+  },
+  {
+   "text": "George Lucas",
+   "label": "PER",
+   "count": 7
+  },
+  {
+   "text": "Luke Skywalker",
+   "label": "PER",
+   "count": 7
+  },
+  {
+   "text": "Anakin Skywalker",
+   "label": "PER",
+   "count": 4
+  },
+  {
+   "text": "Star Wars",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "Darth Vader",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "The Emperor",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "D Vader",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "The Empire Strikes Back",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "liên đoàn phim Mỹ",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Mark",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Lando",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Kner",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Lea",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Jedi",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Kenobi",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "Dader",
+   "label": "PER",
+   "count": 2
+  },
+  {
+   "text": "Hollywood",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "phần phim thứ ba",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "George Lucas",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "Stephen Spielberg",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Spielberg",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "David Lynch",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": ", David Kronenberg",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Richard Maron",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Richard Marc",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "khán giả lo ngại",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "quyển Concept",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đội ngũ Lucas Phim",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Mỹ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "âm thanh tên là THX",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "chiếu phim Mỹ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Dark",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "Side of Dr",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Team Marketing",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Revenge",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "of the Jedi",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trailer 2",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tâm lý khán giả khi Luke",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "câu hỏi D Vader",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tên Star Wars",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Return",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "of the Jai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tên Han Solo",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ja Hut",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "giới mafia vũ trụ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "rapper Việt Nam",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "kế hoạch giải cứu Han Solo",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "công chúa Leya",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Fan",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Han Solo",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "lúc dùng Force",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cuộc chiến giữa Luke",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ranco",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Luke khỏe như thế nào",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ja B Hut",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "chap ba",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bầy tùy tùng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cổ chap ba",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Episode",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "ách 1",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Slapstick Comedy",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "đại chúng Mỹ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Star Wars",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "lòng khán giả 3",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Yoda",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Obi One Kenobi",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Dot Vader",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phần The Empire Strikes",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Back",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nửa đầu của The Return of the Jedi",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Darth Vader",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "hiệu ứng hình ảnh vũ trụ , Richard Marcan",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phần sáu",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "kỹ thuật Steady Cam",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Dort Vader",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Fair Rebels",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "đầu cá Admiral Bar",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "khi toàn bộ F Rebels",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phe Empire",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "AW",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "lính du kích Việt Nam",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Millennial Falcon",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "sàn Xwing",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Phan Empire",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Bùm",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "hành tinh AW",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đoạn cao trào khi lúc Skywalker",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "mặt cả D Vader",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "The Emperor",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "thiên hà xa xăm",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "đạo diễn Richard",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Sitlot",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Dader",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Emperor",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "từ bỏ Fridai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Dart Vader",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Vader",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Obi One",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "mặt nạ Vader",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "John Williams",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "lúc Skywalker",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bản thân và Vader",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Pramum",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "tay Achilles",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Obi One",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Yoda Hansolo",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Leya",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": ", A2",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": ", C3P Chuba",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Skywalker",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "thanh Light Saber",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "sét look",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "mặt nạ Darth Vader",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "việc anh em Laya",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Phan Shit Lot",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "việc Anakin Skywalker",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "lần hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "cảnh Obi One Kenobi",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Yoda",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "Anakin",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "tri đai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Star Wars Trilogy",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Force be with",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "the empire strikes": 3,
+  "the empire strikes back": 3,
+  "back": 4,
+  "phim": 35,
+  "cao trào": 5,
+  "án": 2,
+  "liên đoàn": 3,
+  "liên đoàn phim": 2,
+  "liên đoàn phim mỹ": 2,
+  "phim mỹ": 2,
+  "mỹ": 5,
+  "george lucas": 8,
+  "ban đầu": 2,
+  "đạo diễn": 4,
+  "tiền": 2,
+  "richard": 2,
+  "chiến tranh": 2,
+  "mark": 2,
+  "nội tâm": 3,
+  "nhân vật": 14,
+  "tầm": 3,
+  "cảnh": 17,
+  "cảnh quay cận": 3,
+  "chiều": 2,
+  "ánh sáng": 5,
+  "cảm xúc": 2,
+  "dự án": 2,
+  "khán giả": 23,
+  "số lượng": 2,
+  "mảng": 2,
+  "tiền kỳ": 2,
+  "hình ảnh": 6,
+  "chất lượng": 2,
+  "kỹ xảo": 3,
+  "bối cảnh": 4,
+  "concept": 2,
+  "mặt": 4,
+  "âm thanh": 8,
+  "đội ngũ": 2,
+  "rạp": 4,
+  "yếu tố": 2,
+  "mục tiêu": 3,
+  "trải nghiệm": 2,
+  "marketing": 2,
+  "star wars": 5,
+  "thông tin": 3,
+  "luke skywalker": 8,
+  "màu": 6,
+  "màu đen": 2,
+  "force": 2,
+  "of the": 2,
+  "jedi": 4,
+  "tâm lý": 3,
+  "luke": 12,
+  "d vader": 4,
+  "bố": 4,
+  "dòng dã": 2,
+  "star": 2,
+  "episode": 2,
+  "episode 6": 2,
+  "ác": 2,
+  "bàn": 2,
+  "bàn cà phê": 2,
+  "cà phê": 2,
+  "han solo": 3,
+  "thiên hà": 3,
+  "việt nam": 2,
+  "kế hoạch": 2,
+  "công chúa": 2,
+  "leya": 2,
+  "sức mạnh": 3,
+  "chi đai": 3,
+  "đầu": 3,
+  "chi tiết": 2,
+  "kỹ thuật": 3,
+  "cuộc chiến": 6,
+  "hy vọng": 4,
+  "darth vader": 5,
+  "phân đoạn": 2,
+  "lando": 2,
+  "saber": 3,
+  "chap": 2,
+  "thanh light": 2,
+  "thanh light saber": 2,
+  "màu xanh": 3,
+  "lá": 2,
+  "cảm giác": 5,
+  "phân cảnh": 5,
+  "cảnh phim": 2,
+  "câu chuyện": 4,
+  "ách": 2,
+  "đại chúng": 2,
+  "franchise": 3,
+  "cơ mặt": 2,
+  "the": 2,
+  "yoda": 3,
+  "thầy": 3,
+  "obi": 2,
+  "obi one kenobi": 3,
+  "anakin skywalker": 5,
+  "nửa": 3,
+  "the return of": 2,
+  "the return of the jedi": 2,
+  "the jedi": 2,
+  "hành trình": 2,
+  "mạch": 2,
+  "look": 2,
+  "kner": 2,
+  "vũ trụ": 2,
+  "quyết định": 2,
+  "skywalker": 5,
+  "nội dung": 2,
+  "tốc độ": 2,
+  "công nghệ": 3,
+  "phi thuyền": 2,
+  "lea": 2,
+  "anh em": 3,
+  "vader": 6,
+  "the emperor": 4,
+  "phe": 2,
+  "mắt": 3,
+  "hành tinh": 2,
+  "aw": 2,
+  "đoạn": 3,
+  "jedi trẻ": 2,
+  "quỷ": 2,
+  "kiên định": 2,
+  "test": 2,
+  "chàng": 2,
+  "trai": 3,
+  "kịch bản": 2,
+  "dader": 3,
+  "obi one": 3,
+  "kenobi": 3,
+  "mặt nạ": 3,
+  "bàn tay": 2,
+  "anakin": 2
+ }
+}

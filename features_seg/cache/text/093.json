@@ -1,0 +1,43 @@
+{
+ "n_words": 641,
+ "n_chunks": 11,
+ "ner": [
+  {
+   "text": "John V Norman",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Oscar Morganstein",
+   "label": "ORG",
+   "count": 1
+  },
+  {
+   "text": "lý thuyết trò chơi là thế lưỡng nan của tù nhân",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "lợi ích vừa phải",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "lý thuyết": 3,
+  "lý thuyết trò chơi": 2,
+  "trò chơi": 3,
+  "toán học": 3,
+  "tình huống": 2,
+  "chiến lược": 5,
+  "kết quả": 2,
+  "mô hình": 2,
+  "thế lưỡng": 2,
+  "thế lưỡng nan": 2,
+  "nan": 2,
+  "lợi ích": 5,
+  "phản bội": 3,
+  "quan hệ": 2,
+  "xã hội": 2
+ }
+}

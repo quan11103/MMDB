@@ -1,0 +1,99 @@
+{
+ "n_words": 495,
+ "n_chunks": 8,
+ "ner": [
+  {
+   "text": "Open",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "Trường Junior",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "tháng 4",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "GPT Image",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Dali 2",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Dali",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "tháng 5",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Image",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "thực tế Google",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "khoảng 99",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "band 2",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Nano Ban N2",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Nano Ban R2",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Nano Banana Pro",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "A2",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "ai": 5,
+  "imis 2.0": 2,
+  "công cụ": 3,
+  "model": 3,
+  "open": 3,
+  "dali": 2,
+  "open ai": 2,
+  "ảnh": 7,
+  "image 2.0": 2,
+  "hình ảnh": 4,
+  "anh em": 7,
+  "tính năng": 2,
+  "chữ": 3,
+  "nano ban": 2,
+  "chiều": 2,
+  "chiều sâu": 2
+ }
+}

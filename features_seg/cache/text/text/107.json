@@ -1,0 +1,100 @@
+{
+ "n_words": 566,
+ "n_chunks": 10,
+ "ner": [
+  {
+   "text": "MacBook EM36 GB RAM",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "512 GB SD",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Premiere Pro",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "M2",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "M4",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "M5",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "WWDC",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Cometech",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "M1",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": ", M2",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "M3",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": ", M4",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "M1 Max",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": ", M1 Pro",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Pro",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tầm giá 25",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "giá": 4,
+  "hiệu năng": 2,
+  "tác vụ": 2,
+  "render": 2,
+  "pro": 2,
+  "m2": 2,
+  "m4": 2,
+  "tiền": 2,
+  "workflow": 2,
+  "anh em": 2,
+  "máy": 5,
+  "máy xịn": 2
+ }
+}

@@ -1,0 +1,138 @@
+{
+ "n_words": 669,
+ "n_chunks": 11,
+ "ner": [
+  {
+   "text": "AJ",
+   "label": "PER",
+   "count": 11
+  },
+  {
+   "text": "Test",
+   "label": "PER",
+   "count": 3
+  },
+  {
+   "text": "Kiss",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "California",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "xanh nhạc sôi động",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "vỏ Good Guy",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Meu",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Kids",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Detroit",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Ngã",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Kids",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": ", AJ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Google",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "cách Barbarian",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "phong trào Meu",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "khi AJ",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Gã",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Bú",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Tes",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "ánh sáng rực rỡ California",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tầng hầm Detroit",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "ánh": 2,
+  "california": 2,
+  "biển": 2,
+  "xe": 2,
+  "đường": 2,
+  "aj": 13,
+  "điện thoại": 2,
+  "lỗi": 3,
+  "đàn ông": 3,
+  "đặc quyền": 2,
+  "phủ nhận": 2,
+  "meu": 2,
+  "luật sư": 2,
+  "kids": 2,
+  "quái vật": 3,
+  "quái vật xã hội": 2,
+  "xã hội": 2,
+  "phụ nữ": 4,
+  "detroit": 2,
+  "test": 4,
+  "tầng": 4,
+  "tầng hầm": 4,
+  "hầm": 5,
+  "cảnh": 2,
+  "bóng tối": 2
+ }
+}

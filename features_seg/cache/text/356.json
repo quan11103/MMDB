@@ -1,0 +1,69 @@
+{
+ "n_words": 805,
+ "n_chunks": 14,
+ "ner": [
+  {
+   "text": "sáo rỗng",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "bên trong Internal",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Locus of Control",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "nhận thức Cognitive",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "tình huống kích hoạt cảm xúc tiêu cực",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Tích",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Limit",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "Biol Mit",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "T Xun",
+   "label": "PER",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "tâm lý": 3,
+  "tâm lý nạn nhân": 2,
+  "nạn nhân": 3,
+  "vòng": 2,
+  "hệ thống": 2,
+  "tư duy": 4,
+  "chấn": 2,
+  "hoàn cảnh": 3,
+  "lỗi": 2,
+  "tương lai": 2,
+  "quá khứ": 3,
+  "góc": 2,
+  "mục tiêu": 3,
+  "tổn thương": 2,
+  "khoảnh khắc": 2,
+  "cuộc đời": 3
+ }
+}

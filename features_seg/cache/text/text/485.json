@@ -1,0 +1,85 @@
+{
+ "n_words": 711,
+ "n_chunks": 12,
+ "ner": [
+  {
+   "text": "đồng Việt Nam",
+   "label": "LOC",
+   "count": 4
+  },
+  {
+   "text": "Việt Nam",
+   "label": "LOC",
+   "count": 3
+  },
+  {
+   "text": "đồng Euro",
+   "label": "LOC",
+   "count": 2
+  },
+  {
+   "text": "yếu tố thứ hai",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trái phiếu chính phủ Singapore",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "trái phiếu chính phủ Việt Nam",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "Euro",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "chính phủ Việt Nam",
+   "label": "LOC",
+   "count": 1
+  },
+  {
+   "text": "B",
+   "label": "PER",
+   "count": 1
+  },
+  {
+   "text": "như thế nào yếu tố thứ ba",
+   "label": "LOC",
+   "count": 1
+  }
+ ],
+ "candidates": {
+  "yếu tố": 2,
+  "lãi suất": 12,
+  "ngân hàng": 3,
+  "nhà nước": 2,
+  "công cụ": 3,
+  "dòng": 3,
+  "tiền": 5,
+  "trái phiếu": 4,
+  "lãi": 2,
+  "nhà đầu tư": 3,
+  "đồng": 10,
+  "đồng euro": 2,
+  "euro": 3,
+  "trái phiếu chính phủ": 3,
+  "chính phủ": 5,
+  "việt nam": 9,
+  "chính phủ việt nam": 2,
+  "đồng đô": 2,
+  "việt nam đồng": 4,
+  "đồng việt nam": 4,
+  "nước ngoài": 3,
+  "đồng việt nam đồng": 3,
+  "doanh nghiệp": 3,
+  "vốn": 3,
+  "dòng vốn": 2,
+  "kinh tế": 2,
+  "quốc gia": 2
+ }
+}
